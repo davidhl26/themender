@@ -30,7 +30,7 @@ ACTIVE REFERENCES
 @RedHouseExterior: The last house of a poor terraced street, wooden-fronted, deep dark red gone chalky, neighbours grey and blank, wet black road. THE ONLY RED IN THE WORLD OUTSIDE. 100% matches the reference.
 
 FORMAT MODE
-One single continuous uncut take, 8 seconds long, at real-time speed. No cut, no montage, no speed ramp, no slow motion.
+One take of 8 seconds at real-time speed, containing exactly 2 successive framings joined by 1 hard cut, placed at the moments the FRAME MAP gives and nowhere else. Each framing is held completely still between its cuts. No other cut, no montage, no dissolve, no speed ramp, no slow motion.
 
 OPTICS
 Anamorphic 40 mm f/2.8 equivalent. Depth of field wide open at that stop: the plane described in the FRAME MAP is tack sharp and everything behind it falls off progressively. Focus holds on that plane and breathes naturally with the camera's movement — no deliberate rack focus unless the FRAME MAP calls for one.
@@ -60,7 +60,7 @@ SHOT 2 [4.6-8.0s] | CAM: the porch, chest height 140 cm, three-quarter from her 
 
 SUBJECT LOCK, NORA The exact girl of @Nora — fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Navy parka over charcoal hoodie, dark indigo jeans, scuffed off-white sneakers. NOTHING RED ON HER, no jewellery. She never looks at the lens.
 
-CROSS-FRAME RULES Same house in both shots; she is the only person in the generation; no other window lit. No writing visible from outside. NO INVENTED ACTION, PERFORMANCE PACING and CONTINUITY LOCK apply as written above.
+CROSS-FRAME RULES Same house in both shots; she is the only person in the generation; no other window lit. No writing visible from outside. CONTINUITY LOCK above and the POSITIVE CONSTRAINTS below apply in full.
 
 LOCATION @RedHouseExterior — the last house of a poor terraced street, wooden-fronted, deep dark red gone chalky, neighbours grey and blank; wet black road.
 
@@ -114,7 +114,7 @@ ACTIVE REFERENCES
 @RedHouseInterior: One downstairs room of an old cottage, its cracked plaster written over from skirting to a man's height in dense dark red looping cursive; wide worn boards, a written staircase, a small window with black night behind. The strokes form no characters, in no language, nowhere legible. 100% matches the reference.
 
 FORMAT MODE
-One single continuous uncut take, 12 seconds long, at real-time speed. No cut, no montage, no speed ramp, no slow motion.
+One single continuous uncut take, 12 seconds long, at real-time speed. No cut, no montage, no dissolve, no speed ramp, no slow motion.
 
 OPTICS
 Anamorphic 28 mm f/1.4 equivalent. Depth of field wide open at that stop: the plane described in the FRAME MAP is tack sharp and everything behind it falls off progressively. Focus holds on that plane and breathes naturally with the camera's movement — no deliberate rack focus unless the FRAME MAP calls for one.
@@ -139,7 +139,7 @@ SHOT 1 [0.0-12.0s] | CAM: wide from just inside the doorway, eye level 160 cm, l
 
 SUBJECT LOCK, NORA The exact girl of @Nora — fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Navy parka over charcoal hoodie, dark indigo jeans, scuffed off-white sneakers. NOTHING RED ON HER, no jewellery. She never looks at the lens.
 
-CROSS-FRAME RULES Same room in every frame, props in their positions. She is alone. The strokes are a dense abstract texture forming no characters, in no language, nowhere legible. NO INVENTED ACTION, PERFORMANCE PACING and CONTINUITY LOCK apply as written above.
+CROSS-FRAME RULES Same room in every frame, props in their positions. She is alone. The strokes are a dense abstract texture forming no characters, in no language, nowhere legible. CONTINUITY LOCK above and the POSITIVE CONSTRAINTS below apply in full.
 
 LOCATION @RedHouseInterior — one downstairs room of an old cottage: cracked plaster written over from skirting to a man's height in dense dark red looping cursive strokes; wide worn boards; a written staircase; a small window, black night behind.
 
@@ -193,7 +193,7 @@ ACTIVE REFERENCES
 @RedHouseInterior: One downstairs room of an old cottage, its cracked plaster written over from skirting to a man's height in dense dark red looping cursive; wide worn boards, a written staircase, a small window with black night behind. The strokes form no characters, in no language, nowhere legible. 100% matches the reference.
 
 FORMAT MODE
-One single continuous uncut take, 10 seconds long, at real-time speed. No cut, no montage, no speed ramp, no slow motion.
+One take of 10 seconds at real-time speed, containing exactly 2 successive framings joined by 1 hard cut, placed at the moments the FRAME MAP gives and nowhere else. Each framing is held completely still between its cuts. No other cut, no montage, no dissolve, no speed ramp, no slow motion.
 
 OPTICS
 Anamorphic 28 mm f/1.4 equivalent. Depth of field wide open at that stop: the plane described in the FRAME MAP is tack sharp and everything behind it falls off progressively. Focus holds on that plane and breathes naturally with the camera's movement — no deliberate rack focus unless the FRAME MAP calls for one.
@@ -224,7 +224,7 @@ SHOT 2 [4.4-10.0s] | CAM: the front door from inside, chest height 140 cm, three
 
 SUBJECT LOCK, NORA The exact girl of @Nora — fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Navy parka over charcoal hoodie, dark indigo jeans, scuffed off-white sneakers. NOTHING RED ON HER, no jewellery. She never looks at the lens.
 
-CROSS-FRAME RULES Same room, wall and strokes in both shots. She is alone. The strokes are a dense abstract texture forming no characters, in no language, nowhere legible. The clear patch is bare plaster and stays bare. NO INVENTED ACTION, PERFORMANCE PACING and CONTINUITY LOCK apply as written above.
+CROSS-FRAME RULES Same room, wall and strokes in both shots. She is alone. The strokes are a dense abstract texture forming no characters, in no language, nowhere legible. The clear patch is bare plaster and stays bare. CONTINUITY LOCK above and the POSITIVE CONSTRAINTS below apply in full.
 
 LOCATION @RedHouseInterior — one downstairs room of an old cottage: cracked plaster written over from skirting to a man's height in dense dark red looping cursive strokes; wide worn boards; a written staircase; a small window, black night behind.
 
@@ -279,7 +279,7 @@ ACTIVE REFERENCES
 @RedHouseInterior: One downstairs room of an old cottage, its cracked plaster written over from skirting to a man's height in dense dark red looping cursive; wide worn boards, a written staircase, a small window with black night behind. The strokes form no characters, in no language, nowhere legible. 100% matches the reference.
 
 FORMAT MODE
-One single continuous uncut take, 8 seconds long, at real-time speed. No cut, no montage, no speed ramp, no slow motion.
+One single continuous uncut take, 8 seconds long, at real-time speed. No cut, no montage, no dissolve, no speed ramp, no slow motion.
 
 OPTICS
 Anamorphic 28 mm f/1.4 equivalent. Depth of field wide open at that stop: the plane described in the FRAME MAP is tack sharp and everything behind it falls off progressively. Focus holds on that plane and breathes naturally with the camera's movement — no deliberate rack focus unless the FRAME MAP calls for one.
@@ -302,7 +302,7 @@ SHOT 1 [0.0-8.0s] | CAM: wide, eye level 160 cm, middle of the room looking back
 
 SUBJECT LOCK, NORA The exact girl of @Nora — fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Navy parka over charcoal hoodie, dark indigo jeans, scuffed off-white sneakers. NOTHING RED ON HER, no jewellery. She never looks at the lens.
 
-CROSS-FRAME RULES Same room as its reference, props unmoved, bulb dead. She is alone. The strokes are a dense abstract texture forming no characters, in no language, nowhere legible. NO INVENTED ACTION, PERFORMANCE PACING and CONTINUITY LOCK apply as written above.
+CROSS-FRAME RULES Same room as its reference, props unmoved, bulb dead. She is alone. The strokes are a dense abstract texture forming no characters, in no language, nowhere legible. CONTINUITY LOCK above and the POSITIVE CONSTRAINTS below apply in full.
 
 LOCATION @RedHouseInterior — one downstairs room of an old cottage: cracked plaster written over from skirting to a man's height in dense dark red looping cursive strokes; wide worn boards; a written staircase; a small window, black night behind.
 
@@ -356,7 +356,7 @@ ACTIVE REFERENCES
 @RedHouseInterior: One downstairs room of an old cottage, its cracked plaster written over from skirting to a man's height in dense dark red looping cursive; wide worn boards, a written staircase, a small window with black night behind. The strokes form no characters, in no language, nowhere legible. 100% matches the reference.
 
 FORMAT MODE
-One single continuous uncut take, 8 seconds long, at real-time speed. No cut, no montage, no speed ramp, no slow motion.
+One single continuous uncut take, 8 seconds long, at real-time speed. No cut, no montage, no dissolve, no speed ramp, no slow motion.
 
 OPTICS
 Anamorphic 28 mm f/1.4 equivalent. Depth of field wide open at that stop: the plane described in the FRAME MAP is tack sharp and everything behind it falls off progressively. Focus holds on that plane and breathes naturally with the camera's movement — no deliberate rack focus unless the FRAME MAP calls for one.
@@ -379,7 +379,7 @@ SHOT 1 [0.0-8.0s] | CAM: wide, eye level 160 cm, middle of the room looking back
 
 SUBJECT LOCK, NORA The exact girl of @Nora — fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Navy parka over charcoal hoodie, dark indigo jeans, scuffed off-white sneakers. NOTHING RED ON HER, no jewellery. She never looks at the lens.
 
-CROSS-FRAME RULES Same room and glow as the start frame, no stroke moved or added, ceiling included. NO INVENTED ACTION, PERFORMANCE PACING and CONTINUITY LOCK apply as written above.
+CROSS-FRAME RULES Same room and glow as the start frame, no stroke moved or added, ceiling included. CONTINUITY LOCK above and the POSITIVE CONSTRAINTS below apply in full.
 
 LOCATION @RedHouseInterior — one downstairs room of an old cottage: cracked plaster written over from skirting to a man's height in dense dark red looping cursive strokes; wide worn boards; a written staircase; a small window, black night behind.
 
@@ -433,7 +433,7 @@ ACTIVE REFERENCES
 @RedHouseInterior: One downstairs room of an old cottage, its cracked plaster written over from skirting to a man's height in dense dark red looping cursive; wide worn boards, a written staircase, a small window with black night behind. The strokes form no characters, in no language, nowhere legible. 100% matches the reference.
 
 FORMAT MODE
-One single continuous uncut take, 6 seconds long, at real-time speed. No cut, no montage, no speed ramp, no slow motion.
+One single continuous uncut take, 6 seconds long, at real-time speed. No cut, no montage, no dissolve, no speed ramp, no slow motion.
 
 OPTICS
 Anamorphic 50 mm f/1.4 equivalent. Depth of field wide open at that stop: the plane described in the FRAME MAP is tack sharp and everything behind it falls off progressively. Focus holds on that plane and breathes naturally with the camera's movement — no deliberate rack focus unless the FRAME MAP calls for one.
@@ -458,7 +458,7 @@ SHOT 1 [0.0-6.0s] | CAM: close, 90 cm from her, eye level, three-quarter, static
 
 SUBJECT LOCK, NORA The exact girl of @Nora — fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Navy parka over charcoal hoodie, dark indigo jeans, scuffed off-white sneakers. NOTHING RED ON HER, no jewellery. She never looks at the lens.
 
-CROSS-FRAME RULES Same girl, face and wardrobe as her reference; she is alone, nothing else in frame. NO INVENTED ACTION, PERFORMANCE PACING and CONTINUITY LOCK apply as written above.
+CROSS-FRAME RULES Same girl, face and wardrobe as her reference; she is alone, nothing else in frame. CONTINUITY LOCK above and the POSITIVE CONSTRAINTS below apply in full.
 
 LOCATION @RedHouseInterior — one downstairs room of an old cottage: cracked plaster written over from skirting to a man's height in dense dark red looping cursive strokes; wide worn boards; a written staircase; a small window, black night behind.
 
@@ -513,7 +513,7 @@ ACTIVE REFERENCES
 @RedHouseInterior: One downstairs room of an old cottage, its cracked plaster written over from skirting to a man's height in dense dark red looping cursive; wide worn boards, a written staircase, a small window with black night behind. The strokes form no characters, in no language, nowhere legible. 100% matches the reference.
 
 FORMAT MODE
-One single continuous uncut take, 5 seconds long, at real-time speed. No cut, no montage, no speed ramp, no slow motion.
+One single continuous uncut take, 5 seconds long, at real-time speed. No cut, no montage, no dissolve, no speed ramp, no slow motion.
 
 OPTICS
 Anamorphic 28 mm f/1.4 equivalent. Depth of field wide open at that stop: the plane described in the FRAME MAP is tack sharp and everything behind it falls off progressively. Focus holds on that plane and breathes naturally with the camera's movement — no deliberate rack focus unless the FRAME MAP calls for one.
@@ -537,7 +537,7 @@ SHOT 1 [0.0-5.0s] | CAM: begins on the exact last frame of the previous generati
 
 SUBJECT LOCK, NORA The exact girl of @Nora — fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Navy parka over charcoal hoodie, dark indigo jeans, scuffed off-white sneakers. NOTHING RED ON HER, no jewellery. She never looks at the lens.
 
-CROSS-FRAME RULES Same room and glow as the start frame; she is alone. The strokes are a dense abstract texture forming no characters, in no language, nowhere legible. No red touches anything beyond the threshold stone. NO INVENTED ACTION, PERFORMANCE PACING and CONTINUITY LOCK apply as written above.
+CROSS-FRAME RULES Same room and glow as the start frame; she is alone. The strokes are a dense abstract texture forming no characters, in no language, nowhere legible. No red touches anything beyond the threshold stone. CONTINUITY LOCK above and the POSITIVE CONSTRAINTS below apply in full.
 
 LOCATION @RedHouseInterior — one downstairs room of an old cottage: cracked plaster written over from skirting to a man's height in dense dark red looping cursive strokes; wide worn boards; a written staircase; a small window, black night behind.
 
@@ -591,7 +591,7 @@ ACTIVE REFERENCES
 @RedHouseExterior: The last house of a poor terraced street, wooden-fronted, deep dark red gone chalky, neighbours grey and blank, wet black road. THE ONLY RED IN THE WORLD OUTSIDE. 100% matches the reference.
 
 FORMAT MODE
-One single continuous uncut take, 5 seconds long, at real-time speed. No cut, no montage, no speed ramp, no slow motion.
+One single continuous uncut take, 5 seconds long, at real-time speed. No cut, no montage, no dissolve, no speed ramp, no slow motion.
 
 OPTICS
 Anamorphic 24 mm f/2.8 equivalent. Depth of field wide open at that stop: the plane described in the FRAME MAP is tack sharp and everything behind it falls off progressively. Focus holds on that plane and breathes naturally with the camera's movement — no deliberate rack focus unless the FRAME MAP calls for one.
@@ -614,7 +614,7 @@ SHOT 1 [0.0-5.0s] | CAM: begins on the exact last frame of the previous generati
 
 SUBJECT LOCK None — no character appears in this generation: no girl, no man, no silhouette, nobody at any window, nobody in any car. The street is a place, not a scene.
 
-CROSS-FRAME RULES The same street throughout, receding in one direction only. Nobody appears. No red exists anywhere except the shrinking doorway. NO INVENTED ACTION, PERFORMANCE PACING and CONTINUITY LOCK apply as written above.
+CROSS-FRAME RULES The same street throughout, receding in one direction only. Nobody appears. No red exists anywhere except the shrinking doorway. CONTINUITY LOCK above and the POSITIVE CONSTRAINTS below apply in full.
 
 LOCATION @RedHouseExterior — a poor terraced street, grey rendered fronts, wet black road, dished kerbstones, one sodium lamp, dead cars; the red house at its dead end.
 
@@ -664,7 +664,7 @@ WORLD — THE RED HOUSE
 The only place in the film where red is allowed, and here it is the whole place. Outside: a red door in a grey street. Inside, once the bulb is out, there is no light source at all — the room is lit by nothing but its own writing, every stroke glowing faintly from within, low and even, the colour of embers under ash, far too dim and too soft for any stroke to be read. Never bright red, never neon, never a magic glow.
 
 FORMAT MODE
-One single continuous uncut take, 5 seconds long, at real-time speed. No cut, no montage, no speed ramp, no slow motion.
+One single continuous uncut take, 5 seconds long, at real-time speed. No cut, no montage, no dissolve, no speed ramp, no slow motion.
 
 OPTICS
 Anamorphic 24 mm f/2.8 equivalent. Depth of field wide open at that stop: the plane described in the FRAME MAP is tack sharp and everything behind it falls off progressively. Focus holds on that plane and breathes naturally with the camera's movement — no deliberate rack focus unless the FRAME MAP calls for one.
@@ -687,7 +687,7 @@ SHOT 1 [0.0-5.0s] | CAM: begins on the exact last frame of the previous generati
 
 SUBJECT LOCK None — no character appears in this generation: no figure, no silhouette, no vehicle moving, nothing alive anywhere in frame at any altitude.
 
-CROSS-FRAME RULES The same town for the whole climb, one continuous viewpoint. Nobody appears. No red anywhere, at any altitude. No text, no lit sign, no readable window. NO INVENTED ACTION, PERFORMANCE PACING and CONTINUITY LOCK apply as written above.
+CROSS-FRAME RULES The same town for the whole climb, one continuous viewpoint. Nobody appears. No red anywhere, at any altitude. No text, no lit sign, no readable window. CONTINUITY LOCK above and the POSITIVE CONSTRAINTS below apply in full.
 
 LOCATION A poor northern town at night from the air, underexposed: slate roofs, black streets, sodium lamps as small orange grains, no landmark, no red anywhere.
 
@@ -741,7 +741,7 @@ ACTIVE REFERENCES
 @BusShelter: The bus shelter at the end of the world, a single sodium cone in the dark, wet ground, no legible signage. 100% matches the reference.
 
 FORMAT MODE
-One single continuous uncut take, 5 seconds long, at real-time speed. No cut, no montage, no speed ramp, no slow motion.
+One single continuous uncut take, 5 seconds long, at real-time speed. No cut, no montage, no dissolve, no speed ramp, no slow motion.
 
 OPTICS
 Anamorphic 24 mm f/2.8 equivalent. Depth of field wide open at that stop: the plane described in the FRAME MAP is tack sharp and everything behind it falls off progressively. Focus holds on that plane and breathes naturally with the camera's movement — no deliberate rack focus unless the FRAME MAP calls for one.
@@ -764,7 +764,7 @@ SHOT 1 [0.0-5.0s] | CAM: high above the town, descending on one straight line at
 
 SUBJECT LOCK, THE MAN @SamSDF seen at twelve metres and never closer: a seated man in a dark heavy coat, shoulders forward, head down, hands in his lap, a knitted hat. NO FACIAL FEATURE IS EVER READABLE at this distance — no eyes, no mouth, no expression, no skin above the collar. He is a shape, and he stays a shape.
 
-CROSS-FRAME RULES @BusShelter is the same shelter as its reference. The man is the only person; the road is empty, no bus, no car, no passer-by. No red anywhere — no tail light, no traffic light, no sign. NO INVENTED ACTION, PERFORMANCE PACING and CONTINUITY LOCK apply as written above.
+CROSS-FRAME RULES @BusShelter is the same shelter as its reference. The man is the only person; the road is empty, no bus, no car, no passer-by. No red anywhere — no tail light, no traffic light, no sign. CONTINUITY LOCK above and the POSITIVE CONSTRAINTS below apply in full.
 
 LOCATION @BusShelter — a steel and glass shelter at the edge of town under a single sodium lamp, one bench, a blank milky light box with no lettering, a bolted bin, black road, black fields beyond.
 
@@ -896,7 +896,7 @@ ACTIVE REFERENCES
 @BusShelter: The bus shelter at the end of the world, a single sodium cone in the dark, wet ground, no legible signage. 100% matches the reference.
 
 FORMAT MODE
-One single continuous uncut take, 10 seconds long, at real-time speed. No cut, no montage, no speed ramp, no slow motion.
+One take of 10 seconds at real-time speed, containing exactly 3 successive framings joined by 2 hard cuts, placed at the moments the FRAME MAP gives and nowhere else. Each framing is held completely still between its cuts. No other cut, no montage, no dissolve, no speed ramp, no slow motion.
 
 OPTICS
 Anamorphic 85 mm f/2 equivalent. Depth of field wide open at that stop: the plane described in the FRAME MAP is tack sharp and everything behind it falls off progressively. Focus holds on that plane and breathes naturally with the camera's movement — no deliberate rack focus unless the FRAME MAP calls for one.
@@ -931,7 +931,7 @@ SHOT 3 [5.6-10.0s] — Close, straight on, camera 115 cm high, 1.2 m away, stati
 
 SUBJECT LOCK, SAMSDF AND SAM THE FIRST OF THE TWO TIMES IN THE WHOLE FILM THAT THIS MAN'S EYES ARE SEEN, and they must read clearly in shot 3. Body, wardrobe and dirt of @SamSDF: beanie pushed back high on the crown, hood back from [2.6s], torn olive parka, fingerless grey wool gloves, nothing red anywhere on him — and HIS OWN MONTH-OLD MATTED BEARD, never a false or glued-on beard, never a prosthetic, never anything that could be pulled off. The face inside all that is the EXACT FACE OF @Sam: broad rectangular face, heavy jaw, pale grey-blue eyes, the father ten kilograms heavier, the corners of the mouth fallen. He never looks at the lens.
 
-CROSS-FRAME RULES The same shelter in all three shots; the blankets keep their fold across the cuts, the packet stays against his left thigh from [1.6s], the hair stays wet and flattened, the wiped cheek stays wiped, and the stain is identical in shot 2 and in any glimpse of his hands in shot 3. He is alone: no girl, no passer-by, no vehicle, no second figure at any distance, in any shot. Nobody looks at the lens. NO INVENTED ACTION: If a body part is not described as moving, it does not move. PERFORMANCE PACING and CONTINUITY LOCK rules apply as written above.
+CROSS-FRAME RULES The same shelter in all three shots; the blankets keep their fold across the cuts, the packet stays against his left thigh from [1.6s], the hair stays wet and flattened, the wiped cheek stays wiped, and the stain is identical in shot 2 and in any glimpse of his hands in shot 3. He is alone: no girl, no passer-by, no vehicle, no second figure at any distance, in any shot. Nobody looks at the lens. NO INVENTED ACTION: If a body part is not described as moving, it does not move. CONTINUITY LOCK above and the POSITIVE CONSTRAINTS below apply in full.
 
 LOCATION @BusShelter — rusted chipped steel frame, glass clouded with scratches and grime, a bench of worn timber slats, a blank white light box with no image and no lettering, a leaning timetable pole with an empty fogged frame, a wet empty road, a dark warehouse mass behind. No red anywhere. No readable text, no lettering, no signage with words, no logos.
 
@@ -990,7 +990,7 @@ ACTIVE REFERENCES
 @Bathroom: A small bathroom, tiled, a mirror over the basin. 100% matches the reference.
 
 FORMAT MODE
-One single continuous uncut take, 14 seconds long, at real-time speed. No cut, no montage, no speed ramp, no slow motion.
+One take of 14 seconds at real-time speed, containing exactly 4 successive framings joined by 3 hard cuts, placed at the moments the FRAME MAP gives and nowhere else. Each framing is held completely still between its cuts. No other cut, no montage, no dissolve, no speed ramp, no slow motion.
 
 OPTICS
 Anamorphic 50 mm f/2 equivalent. Depth of field wide open at that stop: the plane described in the FRAME MAP is tack sharp and everything behind it falls off progressively. Focus holds on that plane and breathes naturally with the camera's movement — no deliberate rack focus unless the FRAME MAP calls for one.
@@ -1036,7 +1036,7 @@ SUBJECT LOCK, NORA The exact girl of @Nora — fifteen, long dark brown unwashed
 
 SUBJECT LOCK, THE COAT The exact garment of @Mender: the long mid-calf oilskin sea coat in heavy weather-beaten waxed canvas, its deep dried-blood red held to almost brown under the lamp in shot 2 and to almost black in the dark of shot 4, never bright, never saturated; the back densely covered collar to hem in thousands of lines of handwritten ivory script, some raised in embroidered thread — dense but abstract, NEVER legible as words in any language; patches sewn in over the years, salt bloom at the hem. In shot 2 it is an inert object worn by nobody; in shot 4 it is a back walking away, and no face, profile, chin or eye ever appears above its collar.
 
-CROSS-FRAME RULES The same house across all four shots. Shot 1 begins on the reference frame at the pixel and its only movement is one slow pan right; the gap never widens, the laptop never opens, nobody enters the bedroom, and the warm spill never rises above Sam's chest — no second source ever models his face. The ink is ivory in every frame and NO RED EXISTS ANYWHERE here. The mirror stays dry, clean and unmarked from first frame to last. In shot 4 the door that claps and the feet that run are sound only: no second body, shadow or reflection exists anywhere. Nobody looks at the lens. NO INVENTED ACTION: If a body part is not described as moving, it does not move. PERFORMANCE PACING and CONTINUITY LOCK rules apply as written above.
+CROSS-FRAME RULES The same house across all four shots. Shot 1 begins on the reference frame at the pixel and its only movement is one slow pan right; the gap never widens, the laptop never opens, nobody enters the bedroom, and the warm spill never rises above Sam's chest — no second source ever models his face. The ink is ivory in every frame and NO RED EXISTS ANYWHERE here. The mirror stays dry, clean and unmarked from first frame to last. In shot 4 the door that claps and the feet that run are sound only: no second body, shadow or reflection exists anywhere. Nobody looks at the lens. NO INVENTED ACTION: If a body part is not described as moving, it does not move. CONTINUITY LOCK above and the POSITIVE CONSTRAINTS below apply in full.
 
 LOCATION Shots 1 and 4, @NoraBedroom's landing — bare boards worn pale along the walk-line, chipped skirting, a many-times-repainted panel door with a tarnished handle, the stair rail post at the far corner. Shot 2, @Kitchen at night as a workbench — a scrubbed wooden table, grey grouting, the window black. Shot 3, @Bathroom in flat daylight — a mirror over a basin, silvering bloomed black at two corners, cracked white tiles, a frosted window. No readable text, no lettering, no labels, no logos.
 
@@ -1101,7 +1101,7 @@ ACTIVE REFERENCES
 @LibraryCorridor: A school library corridor, flat grey afternoon through high windows, shelving in depth. No legible book title anywhere. 100% matches the reference.
 
 FORMAT MODE
-One single continuous uncut take, 19 seconds long, at real-time speed. No cut, no montage, no speed ramp, no slow motion.
+One take of 19 seconds at real-time speed, containing exactly 5 successive framings joined by 4 hard cuts, placed at the moments the FRAME MAP gives and nowhere else. Each framing is held completely still between its cuts. No other cut, no montage, no dissolve, no speed ramp, no slow motion.
 
 OPTICS
 Anamorphic 28 mm f/1.4 equivalent. Depth of field wide open at that stop: the plane described in the FRAME MAP is tack sharp and everything behind it falls off progressively. Focus holds on that plane and breathes naturally with the camera's movement — no deliberate rack focus unless the FRAME MAP calls for one.
@@ -1153,7 +1153,7 @@ SUBJECT LOCK, SAM The exact man of @Sam — broad rectangular face, heavy jaw, t
 
 SUBJECT LOCK, THE FOUR WOMEN Exact to their reference Elements and never mixed: @Anna, a very old woman with broad Slavic cheekbones, hooded grey-blue eyes and hands swollen by arthritis, in a heavy dark wool cardigan; @Mei, fifty-eight, Chinese American, black hair going grey in a low bun with a lacquered hairpin, white shirt and long dark green apron; @Fatiha, sixty-six, Moroccan American, golden-olive skin, faded traditional dots tattooed on the chin, ochre and dusty-blue headscarf; @Asha, East African, tall and still, close-wrapped dark headwrap and plain dark clothes. All four are at ease with him, none of them laughs, none of them speaks, none of them looks at the lens.
 
-CROSS-FRAME RULES Shots 1 and 2 are THE SAME ROOM at two states months apart — same doorway viewpoint, same staircase, same wide old boards, same bare bulb on its flex — bare plaster in shot 1, covered edge to edge in shot 2, and never anything in between. Not one stroke anywhere is legible as a word, in any language, at any moment. No surface glows while the bulb is on. Anna's kitchen and the restaurant are their reference Elements in daylight, stove unlit, lanterns off. The coat exists only in shot 5, only from behind, and is a rolled bundle after [16.2s]. Nobody looks at the lens. NO INVENTED ACTION: If a body part is not described as moving, it does not move. PERFORMANCE PACING and CONTINUITY LOCK rules apply as written above.
+CROSS-FRAME RULES Shots 1 and 2 are THE SAME ROOM at two states months apart — same doorway viewpoint, same staircase, same wide old boards, same bare bulb on its flex — bare plaster in shot 1, covered edge to edge in shot 2, and never anything in between. Not one stroke anywhere is legible as a word, in any language, at any moment. No surface glows while the bulb is on. Anna's kitchen and the restaurant are their reference Elements in daylight, stove unlit, lanterns off. The coat exists only in shot 5, only from behind, and is a rolled bundle after [16.2s]. Nobody looks at the lens. NO INVENTED ACTION: If a body part is not described as moving, it does not move. CONTINUITY LOCK above and the POSITIVE CONSTRAINTS below apply in full.
 
 LOCATION Shots 1-2, @RedHouseInterior v2 — one downstairs room, cracked and patched plaster, wide old floorboards, a staircase at the back, one naked bulb on a flex. Shot 3, @AnnaKitchen — worn oilcloth on a small table, a cast-iron stove behind its grate, unlit. Shot 4, @Restaurant closed for the afternoon — formica tables with chairs up on all but one, a lacquered counter, a dark fish tank, a beaded curtain, paper lanterns switched off, a roller blind half down. Shot 5, @LibraryCorridor's service corridor — dark varnished shelf ends, worn herringbone parquet, a grey window at the far end. No readable text, no lettering, no menus with words, no logos.
 
@@ -1213,7 +1213,7 @@ ACTIVE REFERENCES
 @HospitalRoom: A hospital room — sea-green tiling, water-green monitors, no red anywhere, no legible signage. 100% matches the reference.
 
 FORMAT MODE
-One single continuous uncut take, 8 seconds long, at real-time speed. No cut, no montage, no speed ramp, no slow motion.
+One single continuous uncut take, 8 seconds long, at real-time speed. No cut, no montage, no dissolve, no speed ramp, no slow motion.
 
 OPTICS
 Anamorphic 50 mm f/2 equivalent. Depth of field wide open at that stop: the plane described in the FRAME MAP is tack sharp and everything behind it falls off progressively. Focus holds on that plane and breathes naturally with the camera's movement — no deliberate rack focus unless the FRAME MAP calls for one.
@@ -1248,7 +1248,7 @@ SUBJECT LOCK, MAEVE The exact gaunt woman of @MaeveIll — hollowed cheeks, shar
 
 SUBJECT LOCK, SAM The exact man of @SamBefore — short neat dark brown hair, short trimmed salt-and-pepper beard, grey marl sweatshirt, steel wedding band, clean hands with no ink or stain of any kind — seen mostly from behind in three-quarter, his face only in lost profile inside her hands. He cries without wiping his face; his hands stay on his knees and never rise to hers. He nods twice and only twice. He never looks at the lens.
 
-CROSS-FRAME RULES One continuous take: framing, camera height and off-centre crop never change by a single pixel, no cut and no camera movement of any kind. The glass, its wire mesh, the condensation and the moving reflections stay between us and them for the full eight seconds. No chair and no other person anywhere in frame, on either side of the glass. Nobody looks at the lens. NO INVENTED ACTION: If a body part is not described as moving, it does not move. PERFORMANCE PACING and CONTINUITY LOCK rules apply as written above.
+CROSS-FRAME RULES One continuous take: framing, camera height and off-centre crop never change by a single pixel, no cut and no camera movement of any kind. The glass, its wire mesh, the condensation and the moving reflections stay between us and them for the full eight seconds. No chair and no other person anywhere in frame, on either side of the glass. Nobody looks at the lens. NO INVENTED ACTION: If a body part is not described as moving, it does not move. CONTINUITY LOCK above and the POSITIVE CONSTRAINTS below apply in full.
 
 LOCATION The @HospitalCorridor side of a closed hospital room door with a wired-glass window — heavy laminate door, chipped paint edge, dulled steel push plate, diamond wire mesh, cleaning smears and edge condensation, the scuffed corridor wall at frame-left; @HospitalRoom beyond the glass — the raised bed, the small warm bed lamp, the voile blind. Signage green. Nothing readable anywhere.
 
@@ -1304,7 +1304,7 @@ ACTIVE REFERENCES
 @BusShelter: The bus shelter at the end of the world, a single sodium cone in the dark, wet ground, no legible signage. 100% matches the reference.
 
 FORMAT MODE
-One single continuous uncut take, 8 seconds long, at real-time speed. No cut, no montage, no speed ramp, no slow motion.
+One single continuous uncut take, 8 seconds long, at real-time speed. No cut, no montage, no dissolve, no speed ramp, no slow motion.
 
 OPTICS
 Anamorphic 85 mm f/2 equivalent. Depth of field wide open at that stop: the plane described in the FRAME MAP is tack sharp and everything behind it falls off progressively. Focus holds on that plane and breathes naturally with the camera's movement — no deliberate rack focus unless the FRAME MAP calls for one.
@@ -1331,7 +1331,7 @@ ONE SHOT [0.0-8.0s] — Close, straight on, camera 110 cm high, 1.1 m away, lock
 
 SUBJECT LOCK, SAMSDF AND SAM THE SECOND AND LAST TIME IN THE WHOLE FILM THAT THIS MAN'S EYES ARE SEEN, and they must read clearly from [1.2s] to the last frame. The body, wardrobe and dirt of @SamSDF: bare-headed, the beanie in his fist; HIS OWN MONTH-OLD MATTED BEARD, never a false or glued-on beard, never a prosthetic, never anything that could be pulled off, and it stays on his face for every frame; wind-cracked lips, grime lifted off the cheeks in streaks; the torn olive parka, the fingerless grey wool gloves, the fingers stained dark to the second knuckle, never red. AND THE FACE INSIDE ALL THAT IS THE EXACT FACE OF @Sam: the broad rectangular face, the heavy jaw, the pale grey-blue eyes — the father, ten kilograms heavier, the corners of the mouth fallen until they rise at [4.6s] and stay risen.
 
-CROSS-FRAME RULES ONE unbroken take: no cut, no dissolve, no reframe, no change of lens or distance; the same shelter from first frame to last. The beanie stays in his left fist, the rag stays on his right knee, nothing is removed from him and nothing is added. HE IS ALONE: no girl, no vehicle, no headlight, in any frame or reflection. The head lifts ONCE and never comes down. Nobody looks at the lens. NO INVENTED ACTION: If a body part is not described as moving, it does not move. PERFORMANCE PACING and CONTINUITY LOCK rules apply as written above.
+CROSS-FRAME RULES ONE unbroken take: no cut, no dissolve, no reframe, no change of lens or distance; the same shelter from first frame to last. The beanie stays in his left fist, the rag stays on his right knee, nothing is removed from him and nothing is added. HE IS ALONE: no girl, no vehicle, no headlight, in any frame or reflection. The head lifts ONCE and never comes down. Nobody looks at the lens. NO INVENTED ACTION: If a body part is not described as moving, it does not move. CONTINUITY LOCK above and the POSITIVE CONSTRAINTS below apply in full.
 
 LOCATION @BusShelter at night — rusted chipped steel frame, glass clouded with scratches and grime, a bench of worn timber slats, a blank white light box with no image and no lettering, switched off, wet asphalt, a dark warehouse mass behind, ground mist low on the road. No red anywhere. No readable text, no lettering, no signage with words, no logos.
 
