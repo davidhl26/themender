@@ -1,10 +1,10 @@
 # LIEU @NoraBedroom — la chambre de Nora *(monde gris · sert en séq. 4, 6, 7, 8, 11)*
 
 > **✅ GÉNÉRÉ le 27/08 (GPT Image 2 · 4K · réalisme v2)** — job ids :
-> IMAGE 1 (master, → Élément `@NoraBedroom`) : `34c893b4`
-> IMAGE 2 : `d95acd14`
-> IMAGE 3 : `505a6eed`
-> IMAGE 4 : `1411c182`
+> IMAGE 1 (master, → Élément `@NoraBedroom`) : `34c893b4-8774-450e-bac3-0f9f88f3bb78`
+> IMAGE 2 : `d95acd14-2a0b-4c42-a7dc-e3f3904e4a23`
+> IMAGE 3 : `505a6eed-78e3-4121-8735-ea5a3352ba99`
+> IMAGE 4 : `1411c182-590f-4869-a187-d615b4c1c9e8`
 > Chaque angle a été généré avec le master en référence. Si tu regénères le master, regénère aussi ses angles.
 
 > **Ordre d'exécution** : ① générer l'IMAGE 1 (master) DANS LE PROJET FESTIVAL Cinema Studio →

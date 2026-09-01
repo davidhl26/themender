@@ -1,9 +1,9 @@
 # LIEU @Bathroom — la salle de bain *(monde gris · sert en séq. 8, 10)*
 
 > **✅ GÉNÉRÉ le 27/08 (GPT Image 2 · 4K · réalisme v2)** — job ids :
-> IMAGE 1 (master, → Élément `@Bathroom`) : `758bcd39`
-> IMAGE 2 : `7b737903`
-> IMAGE 3 : `16e4dd1f`
+> IMAGE 1 (master, → Élément `@Bathroom`) : `758bcd39-ae0f-4093-96aa-4d48f8f9aa7d`
+> IMAGE 2 : `7b737903-7e38-4b85-bbfe-ca1f81a224bf`
+> IMAGE 3 : `16e4dd1f-60fa-4652-8335-19f88b358ff9`
 > Chaque angle a été généré avec le master en référence. Si tu regénères le master, regénère aussi ses angles.
 
 > **Ordre d'exécution** : ① générer l'IMAGE 1 (master) DANS LE PROJET FESTIVAL Cinema Studio →

@@ -1,9 +1,9 @@
 # LIEU @HospitalRoom — la chambre d'hôpital *(monde en transition — la clarté se retire · sert en séq. 3, remploi en 11.2)*
 
 > **✅ GÉNÉRÉ le 27/08 (GPT Image 2 · 4K · réalisme v2)** — job ids :
-> IMAGE 1 (master, → Élément `@HospitalRoom`) : `56e6a6eb`
-> IMAGE 2 : `b0dd0806`
-> IMAGE 3 : `286557de`
+> IMAGE 1 (master, → Élément `@HospitalRoom`) : `56e6a6eb-3fb9-42c6-b279-c5d396255af9`
+> IMAGE 2 : `b0dd0806-d147-4a98-81ee-baf527f0e2a0`
+> IMAGE 3 : `286557de-937c-43ce-abc2-52a89e66aaa4`
 > Chaque angle a été généré avec le master en référence. Si tu regénères le master, regénère aussi ses angles.
 
 > **Ordre d'exécution** : ① générer l'IMAGE 1 (master) DANS LE PROJET FESTIVAL Cinema Studio →

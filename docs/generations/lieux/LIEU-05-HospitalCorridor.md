@@ -1,10 +1,10 @@
 # LIEU @HospitalCorridor — Le couloir d'hôpital *(monde transition — la clarté se retire · sert en séq. 3)*
 
 > **✅ GÉNÉRÉ le 27/08 (GPT Image 2 · 4K · réalisme v2)** — job ids :
-> IMAGE 1 (master, → Élément `@HospitalCorridor`) : `a4cd990c`
-> IMAGE 2 : `6cecaf17`
-> IMAGE 3 : `900b8bab`
-> IMAGE 4 : `6339f628`
+> IMAGE 1 (master, → Élément `@HospitalCorridor`) : `a4cd990c-4b2c-4d48-a2d1-3ce633df7ee1`
+> IMAGE 2 : `6cecaf17-20c8-467e-b556-6df4eb10862f`
+> IMAGE 3 : `900b8bab-f6ef-4306-aaed-6afdd7a03716`
+> IMAGE 4 : `6339f628-7084-43cc-b83e-a59c944851d1`
 > Chaque angle a été généré avec le master en référence. Si tu regénères le master, regénère aussi ses angles.
 
 > **Ordre d'exécution** : ① générer l'IMAGE 1 (master) DANS LE PROJET FESTIVAL Cinema Studio →

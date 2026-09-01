@@ -1,10 +1,10 @@
 # LIEU @BusShelter — l'abribus au bout de la ville *(monde gris · sert en séq. 9, 10, 11)*
 
 > **✅ GÉNÉRÉ le 27/08 (GPT Image 2 · 4K · réalisme v2)** — job ids :
-> IMAGE 1 (master, → Élément `@BusShelter`) : `fb1d73ec`
-> IMAGE 2 : `0bba39e0`
-> IMAGE 3 : `e4ed52a0`
-> IMAGE 4 : `f1ca51e4`
+> IMAGE 1 (master, → Élément `@BusShelter`) : `fb1d73ec-08c8-45b8-a766-b74620eee2c3`
+> IMAGE 2 : `0bba39e0-ec81-4ad8-8bcf-97f392629344`
+> IMAGE 3 : `e4ed52a0-8d2e-4517-8ee3-3ce4fd579bd9`
+> IMAGE 4 : `f1ca51e4-0e2b-4625-8375-df19dd703bb3`
 > Chaque angle a été généré avec le master en référence. Si tu regénères le master, regénère aussi ses angles.
 
 > **Ordre d'exécution** : ① générer l'IMAGE 1 (master) DANS LE PROJET FESTIVAL Cinema Studio →

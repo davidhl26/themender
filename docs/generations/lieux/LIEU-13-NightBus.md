@@ -1,9 +1,9 @@
 # LIEU @NightBus — le bus de nuit *(monde gris · sert en séq. 8)*
 
 > **✅ GÉNÉRÉ le 27/08 (GPT Image 2 · 4K · réalisme v2)** — job ids :
-> IMAGE 1 (master, → Élément `@NightBus`) : `7e32f1d9`
-> IMAGE 2 : `20cc7d4b`
-> IMAGE 3 : `19d59c30`
+> IMAGE 1 (master, → Élément `@NightBus`) : `7e32f1d9-4e75-4510-a12f-dea1c13695e8`
+> IMAGE 2 : `20cc7d4b-938c-4fdc-8fdd-67e81f17c5a8`
+> IMAGE 3 : `19d59c30-be13-4de7-9cac-41eab79b8951`
 > Chaque angle a été généré avec le master en référence. Si tu regénères le master, regénère aussi ses angles.
 
 > **Ordre d'exécution** : ① générer l'IMAGE 1 (master) DANS LE PROJET FESTIVAL Cinema Studio →

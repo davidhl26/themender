@@ -1,9 +1,9 @@
 # LIEU @BackGallery — la galerie arrière *(monde gris · sert en séq. 6, 7)*
 
 > **✅ GÉNÉRÉ le 27/08 (GPT Image 2 · 4K · réalisme v2)** — job ids :
-> IMAGE 1 (master, → Élément `@BackGallery`) : `352dcc17`
-> IMAGE 2 : `b44aaad9`
-> IMAGE 3 : `59b53708`
+> IMAGE 1 (master, → Élément `@BackGallery`) : `352dcc17-659c-4c16-a938-1cb793dd2d8a`
+> IMAGE 2 : `b44aaad9-04f2-4aaa-8963-432ba15e320a`
+> IMAGE 3 : `59b53708-f872-43c5-a224-cb649db75e90`
 > Chaque angle a été généré avec le master en référence. Si tu regénères le master, regénère aussi ses angles.
 
 > **Ordre d'exécution** : ① générer l'IMAGE 1 (master) DANS LE PROJET FESTIVAL Cinema Studio →

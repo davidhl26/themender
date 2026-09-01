@@ -42,7 +42,7 @@
 > à travers une fenêtre. Les générer ensemble, dans cet ordre : **17 → 18 → 19 → 20** (le couloir
 > d'abord : c'est lui qui fixe le niveau de délavage de tout le bloc).
 > ⚠ **LIEU-17 doit être construit sur le cadre exact de `LIEU-05-HospitalCorridor`** (master déjà
-> généré, job `a4cd990c`) : même focale, même hauteur d'œil, même point de fuite. Anna a perdu son fils
+> généré, job `a4cd990c-4b2c-4d48-a2d1-3ce633df7ee1`) : même focale, même hauteur d'œil, même point de fuite. Anna a perdu son fils
 > là où Nora a perdu sa mère — si les deux cadres ne se répondent pas, l'écho ne se voit pas.
 
 ## Les règles qui ne bougent jamais

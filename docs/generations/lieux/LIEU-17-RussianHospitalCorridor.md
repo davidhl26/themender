@@ -1,6 +1,6 @@
 # LIEU @RussianHospitalCorridor — Le couloir d'hôpital soviétique *(souvenir lavé · il y a ~30 ans · sert en séq. 4, le flashback d'Anna)*
 
-> **GÉNÉRÉ LE 30/08 — master : job `169a2139`** *(GPT Image 2 · 4K · quality high · 21:9)*.
+> **GÉNÉRÉ LE 30/08 — master : job `169a2139-9a2a-4217-9f50-6da4b8abede5`** *(GPT Image 2 · 4K · quality high · 21:9)*.
 > ⚠ **Sauvegarder ce master comme Élément dans le PROJET FESTIVAL avant de générer les angles**,
 > et le passer en référence à chacun d'eux avec son paragraphe GEOMETRY recopié mot pour mot.
 
@@ -54,14 +54,14 @@ A corridor in an ageing state hospital of the late Soviet years, seen at eye lev
 ```
 
 ## IMAGE 2 — ANGLE A, l'axe depuis les portes doubles *(usage prévu : le plan large de la course dans le couloir et de la chute d'Anna — la caméra est au bout, dos aux portes, et les portes ne sont PAS dans le cadre · réf. IMAGE 1)*
-> **GÉNÉRÉ LE 31/08 — job `d59972a5`** *(référence = le master de ce document)*.
+> **GÉNÉRÉ LE 31/08 — job `d59972a5-16f0-4f65-ab14-ca0382620e7a`** *(référence = le master de ce document)*.
 
 ```
 THE SAME Soviet-era hospital corridor as the reference image, nothing changed — the same pale eau-de-nil glazed tiles to mid-wall with their crazed glaze and two mismatched replacements, the same cream oil paint and chalky distemper above, the same wheeled gurney with its cracked grey oilcloth mattress parked against the gurney wall, the same slatted wooden bench bolted beyond it, the same three closed room doors receding along the room wall, the same worn brown-grey linoleum with its pattern rubbed off along the centre line, the same run of enamel troughs down the ceiling. GEOMETRY — THE CORRIDOR, LOCKED FOR THE WHOLE FLASHBACK: the corridor runs dead straight for about eighteen metres. At one end stands a pair of heavy double doors, each with a round porthole window, the glass dark inside; the two metres of bare linoleum in front of those doors is THE OPEN SPAN and it stays empty. Halfway along, parked against the side called THE GURNEY WALL, a wheeled gurney stands with its head end toward the double doors, and a slatted wooden bench is bolted to that same wall just beyond it, further from the doors. The opposite side is THE ROOM WALL: three closed room doors receding, and the last of them — the one furthest from the double doors — opens on a small room with a single child's bed. At that far end, past the bench and the last door, a tall window with a painted frame and a cast-iron radiator beneath it. One run of fluorescent tubes in shallow enamel troughs goes down the centre line of the ceiling; the tube closest to the double doors is the failing one. SETUP: camera standing WITH ITS BACK TO THE DOUBLE DOORS, low — about chest height, one metre twenty — on the corridor's centre line, facing away from them down the full length of the corridor, SO THAT THE DOUBLE DOORS THEMSELVES ARE BEHIND THE CAMERA AND NOT IN FRAME; the bare stretch of linoleum in the immediate foreground is THE OPEN SPAN and it runs empty out of the bottom of frame, taking a third of the image, every scuff and taped seam readable in it; the gurney sits against the gurney wall at mid-depth on one side, the bench just beyond it, the three room doors receding on the other side, and the corridor ends on the tall window, its glass blown out to a flat white rectangle that backlights the whole depth of the frame; the failing tube is directly overhead and out of frame, its dimmer light falling on the near foreground. The tubes lay their cold, even, pallid wash the length of the corridor with no shadow deeper than a half-tone, the foreground a stop down under the failing tube, everything held in bone, grey-brown and the faintest sea-green, the colour bleached out of the light itself, nothing saturated anywhere, nothing warm anywhere except the pure white of the far window. No red anywhere: no red cross, no red paint, no fire equipment, no red blanket, no red-brown stain on the floor or the walls, no warning colour of any kind. No lettering anywhere and no Cyrillic characters of any kind — no signage, no door plates, no numerals, no notices. The location is completely empty, no people anywhere, no figures, no subject. No readable text, no lettering, no signage with words, no logos, no brand names, no place names. Hyper-realistic documentary photograph, indistinguishable from a real location photo: shot on a full-frame digital cinema camera, natural light only, true-to-life colour, real-world imperfections everywhere — fingerprints and grease marks on handles and surfaces, chipped and repainted edges, uneven plaster, scuffed floor, water stains, dust in the corners, worn varnish, slightly crooked shelves — subtle sensor grain, gentle natural vignetting, nothing staged or styled. NOT CGI, NOT a 3D render, NOT an illustration, no concept-art look, no video-game lighting, no HDR glow, no over-saturation, no perfect symmetry, no showroom cleanliness. Shot like a real photograph, not a render: full-frame camera with a fixed prime lens, natural depth of field with gentle focus falloff, soft halation blooming around the brightest window or lamp, subtle chromatic aberration and natural vignetting at the frame edges, faint ISO noise in the deepest shadows, highlights rolling off softly like film, white balance a touch imperfect as on a real location, the composition half a degree off-true as if framed by a human hand. The image should look like an unremarkable frame from a location scout's camera roll — believable, ordinary, real. No oversharpening, no waxy or plastic surfaces, no teal-and-orange colour grade, no tilt-shift miniature effect, no impossible depth of field, no dreamlike haze, no fantasy atmosphere, no AI artifacts.
 ```
 
 ## IMAGE 3 — ANGLE B, LE CONTRECHAMP DEPUIS LE BRANCARD *(usage prévu : LE PLAN QUI RETOURNE LA SÉQUENCE — on découvre d'où c'était regardé · réf. IMAGE 1)*
-> **GÉNÉRÉ LE 31/08 — job `b58aed0d`** *(référence = le master de ce document)*.
+> **GÉNÉRÉ LE 31/08 — job `b58aed0d-85ce-487f-9f9e-9b7a626e430b`** *(référence = le master de ce document)*.
 
 ⚠ **C'est l'image la plus importante du lieu.** Elle n'est PAS le miroir de l'IMAGE 2 : dans l'IMAGE 2
 les portes sont DERRIÈRE la caméra et hors cadre ; ici elles sont EN FACE, en plein milieu. Ce n'est
@@ -77,7 +77,7 @@ THE SAME Soviet-era hospital corridor as the reference image, nothing changed �
 ```
 
 ## IMAGE 4 — ANGLE C, la chambre au bout, le lit d'enfant vide *(usage prévu : le plan de la chambre défaite, vu depuis la porte · réf. IMAGE 1)*
-> **GÉNÉRÉ LE 31/08 — job `45171598`** *(référence = le master de ce document)*.
+> **GÉNÉRÉ LE 31/08 — job `45171598-cf11-4165-8bfb-6c151b5ad13e`** *(référence = le master de ce document)*.
 
 ⚠ **Ce prompt porte la GEOMETRY DE LA CHAMBRE, pas celle du couloir** — et il le dit explicitement au
 modèle (« NOTHING OF THE CORRIDOR IS IN THIS FRAME »). Ne pas y recopier la géométrie du couloir :
@@ -88,7 +88,7 @@ THE SAME hospital as the reference image and the same materials, one room off th
 ```
 
 ## IMAGE 5 — ANGLE D, LE PLAFOND DEPUIS LE BRANCARD *(usage prévu : « elle lève les yeux » — le plan du vœu de la femme enceinte · réf. IMAGE 1)*
-> **GÉNÉRÉ LE 31/08 — job `9cd3944d`** *(référence = le master de ce document)*.
+> **GÉNÉRÉ LE 31/08 — job `9cd3944d-08bc-40e6-b33a-7ff201f1e7f2`** *(référence = le master de ce document)*.
 
 ⚠ **Image ajoutée : sans elle, la consigne 1 de David n'a pas de start frame.** Son verbatim dit
 « **elle lève les yeux au ciel et demande au ciel** ». **RÈGLE E : il n'y a pas de ciel.** Elle est

@@ -1,8 +1,8 @@
 # LIEU @RedHouseExterior — la maison rouge, extérieur *(l'exception rouge du monde gris — règle B : le SEUL lieu extérieur où le rouge est autorisé · sert en séq. 10)*
 
 > **✅ GÉNÉRÉ le 27/08 (GPT Image 2 · 4K · réalisme v2)** — job ids :
-> IMAGE 1 (master, → Élément `@RedHouseExterior`) : `4931048c`
-> IMAGE 2 : `05cea34f`
+> IMAGE 1 (master, → Élément `@RedHouseExterior`) : `4931048c-eadd-491a-9141-0b0129f8671b`
+> IMAGE 2 : `05cea34f-8edc-4814-978f-f391e42d1412`
 > Chaque angle a été généré avec le master en référence. Si tu regénères le master, regénère aussi ses angles.
 
 > **Ordre d'exécution** : ① générer l'IMAGE 1 (master) DANS LE PROJET FESTIVAL Cinema Studio →

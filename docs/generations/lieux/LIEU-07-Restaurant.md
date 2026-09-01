@@ -1,11 +1,11 @@
 # LIEU @Restaurant — Le restaurant chinois du port *(monde clair · sert en séq. 2, 5, 10 — la version grise de la séq. 5 se joue au style prompt VIDÉO, le lieu reste neutre-chaud)*
 
 > **✅ GÉNÉRÉ le 27/08 (GPT Image 2 · 4K · réalisme v2)** — job ids :
-> IMAGE 1 (master, → Élément `@Restaurant`) : `cf686b7f`
-> IMAGE 2 : `8de6453e`
-> IMAGE 3 : `45a67772`
-> IMAGE 4 : `6d31990e`
-> IMAGE 5 : `476773ad`
+> IMAGE 1 (master, → Élément `@Restaurant`) : `cf686b7f-0b97-4c8f-b63a-5bf08e67f87b`
+> IMAGE 2 : `8de6453e-7566-4883-a15b-05c0fb8efff2`
+> IMAGE 3 : `45a67772-b647-4c62-b574-3559d39538aa`
+> IMAGE 4 : `6d31990e-9b35-4815-bc4e-5511dddfba5c`
+> IMAGE 5 : `476773ad-7bc9-4831-8687-09c2f48fbf83`
 > Chaque angle a été généré avec le master en référence. Si tu regénères le master, regénère aussi ses angles.
 
 > **Ordre d'exécution** : ① générer l'IMAGE 1 (master) DANS LE PROJET FESTIVAL Cinema Studio →

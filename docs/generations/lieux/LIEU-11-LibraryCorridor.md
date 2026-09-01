@@ -1,10 +1,10 @@
 # LIEU @LibraryCorridor — le couloir de la bibliothèque *(monde gris · sert en séq. 8)*
 
 > **✅ GÉNÉRÉ le 27/08 (GPT Image 2 · 4K · réalisme v2)** — job ids :
-> IMAGE 1 (master, → Élément `@LibraryCorridor`) : `f8212503`
-> IMAGE 2 : `70763340`
-> IMAGE 3 : `80d0d014`
-> IMAGE 4 : `e51ef15f`
+> IMAGE 1 (master, → Élément `@LibraryCorridor`) : `f8212503-b239-46de-9594-b3aa16d444e4`
+> IMAGE 2 : `70763340-3e24-4b93-96f4-e7891aa0f7fe`
+> IMAGE 3 : `80d0d014-452c-49db-af7d-f664c9d0e852`
+> IMAGE 4 : `e51ef15f-c0b2-4f9b-b592-f530327d95d4`
 > Chaque angle a été généré avec le master en référence. Si tu regénères le master, regénère aussi ses angles.
 
 > **Ordre d'exécution** : ① générer l'IMAGE 1 (master) DANS LE PROJET FESTIVAL Cinema Studio →

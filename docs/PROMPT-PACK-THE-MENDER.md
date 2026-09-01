@@ -182,7 +182,7 @@ lip-sync russe à générer. ⚠ Ils n'existent que dans le bloc 4.3, jamais ail
 > *Flat even studio lighting, shadowless, no cast shadows on the background, identical lighting across all three panels. Photographic, shot on a real camera, sharp focus, visible skin pores and fabric weave, no CGI, no beauty retouching, no skin smoothing. **No red anywhere in the image** — no red garment, no red trim, no red scarf and above all no red pioneer neckerchief, no red badge, no red star, no red prop, nothing red in the background. **No religious object of any kind** — no cross, no icon, no pendant, no medal, no amulet. **No badge, no emblem, no insignia, no crest, no pin.** **No lettering anywhere and no Cyrillic characters of any kind** — no writing on any garment, no numerals, no label, no tag. Original character, not resembling any real person. No text, no watermark, no logos.*
 
 ## @AnnaYoung — Anna trente ans plus tôt, en Russie *(48 ans — flashback séq. 4)* ⟵ *(fiche @Anna en référence — OBLIGATOIRE)*
-> **GÉNÉRÉE LE 30/08 — job `cf30ae6c`** *(GPT Image 2 · 4K · high · 16:9 · référence = la fiche @Anna, job `fcd3c452`)*.
+> **GÉNÉRÉE LE 30/08 — job `cf30ae6c-483b-4279-a0ee-4dbef01c3e71`** *(GPT Image 2 · 4K · high · 16:9 · référence = la fiche @Anna, job `fcd3c452-58fd-45dd-b053-e88a3371d6a1`)*.
 > ⚠ **À VALIDER À L'ŒIL AVANT TOUT LE RESTE DE LA SÉQ. 4** : si on ne reconnaît pas la vieille voisine dans cette femme, tout le souvenir russe s'effondre. Sauvegarder ensuite comme Élément `@AnnaYoung`.
 *Ce n'est pas une nouvelle personne, c'est une variante d'âge : le spectateur doit reconnaître la vieille voisine dans la femme du flashback **sans qu'on le lui dise jamais**. Générée sans la fiche @Anna en image de référence, elle ne vaut rien.*
 
@@ -198,7 +198,7 @@ Wardrobe, identical in all three panels: period-correct everyday winter clothing
 ⚠ **Ce qui doit rester générique** : elle n'a aucune expression à porter dans la fiche. Le chagrin se joue au plan, dans la main qui se referme sur du vide (4.3a) et dans le corps qui descend le long de la faïence (4.3c) — jamais dans un visage de fiche.
 
 **Tirage à générer EN PLUS de la fiche — la nuque, foulard repoussé** *(hors Éléments · fiche @AnnaYoung en référence)*
-> **GÉNÉRÉ LE 30/08 — job `9890c939`** *(GPT Image 2 · 4K · high · 3:2 · référence = @AnnaYoung, job `cf30ae6c`)*.
+> **GÉNÉRÉ LE 30/08 — job `9890c939-e6b6-42be-a522-b06b881a1b24`** *(GPT Image 2 · 4K · high · 3:2 · référence = @AnnaYoung, job `cf30ae6c-483b-4279-a0ee-4dbef01c3e71`)*.
 
 A single reference image of the same forty-eight year old woman from the reference image, standing full length on the same plain mid-grey seamless studio background, seen from directly behind, arms at her sides — **the dark charcoal headscarf pushed back off the head and lying across the shoulders, still knotted loosely at the throat, so the low flat bun is fully visible**: thick dark chestnut hair heavily streaked with grey, pinned with the same steel pins, a few coarse strands pulled loose at the nape and standing away from the head, the parting showing grey. Same heavy overcoat, same shoulder seams dropping past her own shoulders, wardrobe otherwise identical to the reference sheet in every detail. The nape and the set of the shoulders clearly readable. Flat even studio lighting, shadowless.
 *(+ QUEUE COMMUNE, en retirant « identical lighting across all three panels »)*
@@ -206,7 +206,7 @@ A single reference image of the same forty-eight year old woman from the referen
 ⚠ **Pourquoi ce tirage existe** : le couloir de l'hôpital est le seul endroit du film où Anna est filmée de dos, et c'est le plan charnière de la séquence. Sans référence verrouillée, la nuque de 4.3b et la nuque de 4.3c ne seront pas la même femme.
 
 ## @Kolya11 — le fils d'Anna, 11 ans, à l'hôpital *(sa seule apparition du film : 4.3a, le lit)* ⟵ *(fiche @AnnaYoung en référence)*
-> **GÉNÉRÉE LE 30/08 — job `b968601b`** *(GPT Image 2 · 4K · high · 3:2 · référence = la fiche @AnnaYoung, job `cf30ae6c`)*.
+> **GÉNÉRÉE LE 30/08 — job `b968601b-a4dd-462d-9323-89847835d336`** *(GPT Image 2 · 4K · high · 3:2 · référence = la fiche @AnnaYoung, job `cf30ae6c-483b-4279-a0ee-4dbef01c3e71`)*.
 > ⚠ **LE GABARIT À TROIS PANNEAUX A ÉTÉ REFUSÉ PAR LA MODÉRATION HIGGSFIELD** (statut `nsfw`) : le panneau
 > « corps de face SANS TÊTE », appliqué à un enfant gravement malade en chemise d'hôpital, déclenche le
 > filtre. **Fiche refaite en DEUX panneaux, tous deux avec la tête** (buste de face · buste de dos), et
@@ -227,7 +227,7 @@ Wardrobe, identical in all three panels: a washed-thin pale grey-green cotton ho
 ⚠ **Aucune photographie encadrée de lui n'existe dans le film.** Ne pas fabriquer d'insert : @AnnaKitchen est un lieu verrouillé, et sa fiche impose *« framed photographs turned so their faces are not readable »* — tous les cadres restent de dos, y compris chez Anna aujourd'hui. Son fils, on ne le voit qu'à l'hôpital, il y a trente ans.
 
 ## @WardDoctor — le médecin de service *(jamais nommé — 4.3b, 4.3d, 4.3e)* ⟵ *(fiche de base, aucune référence croisée)*
-> **GÉNÉRÉE LE 30/08 — job `b7340dca`** *(GPT Image 2 · 4K · high · 16:9 · sans référence)*.
+> **GÉNÉRÉE LE 30/08 — job `b7340dca-eb18-4567-a894-fbedb466381c`** *(GPT Image 2 · 4K · high · 16:9 · sans référence)*.
 *Sans lui, le raccord entre 4.3b (le couloir vu d'Anna) et 4.3e (le même couloir vu du brancard) ne tient pas : ce sera deux hommes différents, et la séquence perd son pivot. **Il ne parle jamais.** Son seul geste : il retire sa casquette de toile et n'avance pas.*
 
 A three-panel character reference sheet, evenly spaced left to right, separated by thin vertical dividers, on a plain mid-grey seamless studio background.
@@ -242,7 +242,7 @@ Wardrobe, identical in all three panels: period-correct hospital clothing of thi
 ⚠ **Il joue aussi le médecin penché à l'oreille de la jeune femme (4.3d).** Un seul homme pour les trois plans : c'est plus vrai (un hôpital de nuit n'a qu'un médecin de garde) et c'est une génération de moins.
 
 ## @YoungMother — la jeune mère, dans la cour *(25 ans — il y a ~28 ans · **fiche de base**)*
-> **GÉNÉRÉE LE 30/08 — job `f0200a53`** *(GPT Image 2 · 4K · high · 16:9 · sans référence)*. C'est la fiche de base : les deux suivantes en descendent.
+> **GÉNÉRÉE LE 30/08 — job `f0200a53-86ce-4b0f-950b-954b81e89d47`** *(GPT Image 2 · 4K · high · 16:9 · sans référence)*. C'est la fiche de base : les deux suivantes en descendent.
 *Générée **sans référence croisée** : elle ne descend de personne. Un visage ordinaire, fatigué, que personne ne remarquerait — c'est capital pour le réalisme, et c'est ce qui rend le prénom bouleversant plutôt que joli.*
 
 A three-panel character reference sheet, evenly spaced left to right, separated by thin vertical dividers, on a plain mid-grey seamless studio background.
@@ -257,7 +257,7 @@ Wardrobe, identical in all three panels: period-correct everyday winter clothing
 ⚠ **Le lieu de la rencontre est la cour** (@RussianCourtyard), au banc — c'est là que le prénom est demandé et donné. Elle n'a aucune réplique à l'image : la voix d'Anna couvre tout, **aucun lip-sync russe à générer.**
 
 ## @YoungMotherHospital — variante *(l'hôpital, deux ans plus tôt — 23 ans, enceinte)* ⟵ *(fiche @YoungMother en référence)*
-> **GÉNÉRÉE LE 30/08 — job `28f272da`** *(GPT Image 2 · 4K · high · 3:2 · référence = @YoungMother, job `f0200a53`)*.
+> **GÉNÉRÉE LE 30/08 — job `28f272da-e8db-4229-983a-43564754a04a`** *(GPT Image 2 · 4K · high · 3:2 · référence = @YoungMother, job `f0200a53-86ce-4b0f-950b-954b81e89d47`)*.
 A three-panel character reference sheet of the same woman from the reference image, keeping her exact face — the narrow oval face, the long straight nose off-true at the bridge, the close-set light hazel-brown eyes with their pale lashes, the chipped upper front tooth — **now two years younger, twenty-three, and heavily pregnant at around eight months**: the face fuller and water-swollen, the eyelids and the upper lip puffy, the jawline lost, blotchy uneven pigmentation across the cheekbones and the forehead, the skin shining with sweat, the hair stuck flat to the temples and the forehead in dark wet strands with the rest scraped back and escaping a snapped elastic, the lips colourless and dry with a fresh split, the lower lids swollen and the whites of the eyes reddened from crying, the eyes open too wide and not focused on anything. The belly high and full, the body heavy and off-balance, one hand resting low under the bump, the ankles swollen over the socks. Same three panels as the reference: headless full-body front view (the hospital gown's neckline holding its own shape, an empty dark hollow, crisp edge, no fade, no blur, no ghosting, no stump, no wound), full rear view with the hair present and the gown's back ties visible, chest-up front portrait with neutral expression and mouth closed. Same plain mid-grey seamless studio background, same thin vertical dividers.
 Wardrobe, identical in all three panels: a washed-thin pale grey-green cotton hospital gown of the period, the printed pattern worn away to a ghost, the seams softened by a hundred boil washes, one shoulder tie broken and re-knotted, tied loose at the back; a stretched dark grey hand-knitted cardigan hanging off the shoulders; thick hand-knitted oatmeal socks; no shoes; **a plain narrow blank fabric band on the left wrist with no lettering and no marking of any kind**. No jewellery except the plain thin steel wedding band.
 *(+ QUEUE COMMUNE)*
@@ -268,7 +268,7 @@ Wardrobe, identical in all three panels: a washed-thin pale grey-green cotton ho
 ⚠ **C'est la seule variante du pack qui remonte le temps** au lieu de le descendre : 23 ans à l'hôpital, 25 dans la cour deux ans plus tard.
 
 ## @Kolya2 — le petit garçon de la cour, 2 ans *(il y a ~28 ans)* ⟵ *(fiche @YoungMother en référence)*
-> **GÉNÉRÉE LE 30/08 — job `436b224b`** *(GPT Image 2 · 4K · high · 3:2 · référence = @YoungMother, job `f0200a53`)*. Deux panneaux avec la tête, même raison que @Kolya11.
+> **GÉNÉRÉE LE 30/08 — job `436b224b-b82f-4c44-a9dc-373fa7ebca4a`** *(GPT Image 2 · 4K · high · 3:2 · référence = @YoungMother, job `f0200a53-86ce-4b0f-950b-954b81e89d47`)*. Deux panneaux avec la tête, même raison que @Kolya11.
 *Il porte le prénom du fils mort. **Il ne fait rien d'autre qu'être là** : accroché à la jambe de sa mère, il regarde par en dessous une vieille femme qu'il ne connaît pas. Le prénom, ce sont les deux femmes qui se le disent — lui ne réagit pas, ne se retourne pas, n'entend rien de particulier. **C'est ce qui rend la scène insoutenable : l'enfant ne sait pas ce qu'il porte.***
 
 A three-panel character reference sheet of an original two year old boy who is unmistakably THE SON OF THE WOMAN IN THE REFERENCE IMAGE — her long straight nose in miniature, her close-set light hazel-brown eyes with the same pale sparse lashes, her fine sandy-brown hair, here soft and flyaway with a deep whorl at the crown and a cut fringe. He is a distinct original child, not a copy of the woman. Toddler proportions observed honestly: a large head on a short neck, a rounded belly, short legs slightly bowed, small fat hands with dimples where the knuckles will be, no waist. Evenly spaced panels left to right, separated by thin vertical dividers, on a plain mid-grey seamless studio background.

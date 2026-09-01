@@ -3,7 +3,7 @@
 > **✅ SÉRIE DE RÉFÉRENCE (25/08 soir) — ancrée sur le plan des toasts de David** : générée en
 > GPT Image 2 4K à partir d'une frame de SON plan vidéo (l'ouverture du film) — gazinière émail
 > blanc à grilles noires, poêle à manche riveté, fenêtre à cadre blanc au-dessus, lumière de jour
-> douce. Master `a3f6c078` · habillée `abf2d210` · H `e9dc3786` · D `d4d53a11` · G `9ff73e9b`.
+> douce. Master `a3f6c078-5f78-43e6-a08c-a5da17f94151` · habillée `abf2d210-6211-4457-ba2f-0082f4bcdb8d` · H `e9dc3786-b5ea-4ca3-849e-f5e20e6c30c6` · D `d4d53a11-2f08-4ada-83fe-8d214671f83a` · G `9ff73e9b-e775-4fa3-91f0-2d6a9b0208fd`.
 > **C'est la série qui raccorde avec l'ouverture → à préférer.** Les deux séries antérieures du
 > 24-25/08 (GPT et Nano Banana, or dur, fonte noire) sont PÉRIMÉES si celle-ci est retenue.
 > **Choisir UNE série, ne jamais mélanger**, sauvegarder son master comme Élément `@Kitchen`

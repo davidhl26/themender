@@ -1,11 +1,11 @@
 # LIEU @RedHouseInterior — la maison rouge, intérieur *(l'exception rouge — règle B : rouges et ambres chauds autorisés · sert en séq. 10)*
 
 > **✅ GÉNÉRÉ le 27/08 (GPT Image 2 · 4K · réalisme v2)** — job ids :
-> IMAGE 1 (master, → Élément `@RedHouseInterior`) : `8a4e7461`
-> IMAGE 2 : `60c997a9`
-> IMAGE 3 : `66ce627b`
-> IMAGE 4 : `508d8813`
-> IMAGE 5 : `36740bef`
+> IMAGE 1 (master, → Élément `@RedHouseInterior`) : `8a4e7461-6986-4b3f-8e26-faa3e6bc1fce`
+> IMAGE 2 : `60c997a9-9b2c-48ea-8fad-360c154ed5a0`
+> IMAGE 3 : `66ce627b-871d-4932-9f22-6aa85ed17c8a`
+> IMAGE 4 : `508d8813-8363-49e1-ac3e-6330ccea903c`
+> IMAGE 5 : `36740bef-af29-4243-9cd1-a60a9a25429a`
 > Chaque angle a été généré avec le master en référence. Si tu regénères le master, regénère aussi ses angles.
 
 > **Ordre d'exécution** : ① générer l'IMAGE 1 (master) DANS LE PROJET FESTIVAL Cinema Studio →

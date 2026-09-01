@@ -1,11 +1,11 @@
 # LIEU @AnnaKitchen — La cuisine d'Anna *(monde gris · sert en séq. 4, 10 — montage 10.7, fragment 9.7b)*
 
 > **✅ GÉNÉRÉ le 27/08 (GPT Image 2 · 4K · réalisme v2)** — job ids :
-> IMAGE 1 (master, → Élément `@AnnaKitchen`) : `646e4713`
-> IMAGE 2 : `b9a855cd`
-> IMAGE 3 : `69c9e216`
-> IMAGE 4 : `2dd0d216`
-> IMAGE 5 : `1f305e00`
+> IMAGE 1 (master, → Élément `@AnnaKitchen`) : `646e4713-3eac-4659-a7b7-df505f816d74`
+> IMAGE 2 : `b9a855cd-e9d5-4576-84e0-3bcdc11f949c`
+> IMAGE 3 : `69c9e216-6034-49e0-9a3c-e098b4f61db9`
+> IMAGE 4 : `2dd0d216-84ac-44ed-a906-369b599d50b6`
+> IMAGE 5 : `1f305e00-ce2f-4307-abce-3152743bd952`
 > Chaque angle a été généré avec le master en référence. Si tu regénères le master, regénère aussi ses angles.
 
 > **Ordre d'exécution** : ① générer l'IMAGE 1 (master) DANS LE PROJET FESTIVAL Cinema Studio →

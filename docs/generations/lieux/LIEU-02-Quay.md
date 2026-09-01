@@ -1,10 +1,10 @@
 # LIEU @Quay — le quai de pêche *(monde clair · sert en séq. 2)*
 
 > **✅ GÉNÉRÉ le 27/08 (GPT Image 2 · 4K · réalisme v2)** — job ids :
-> IMAGE 1 (master, → Élément `@Quay`) : `9dfecd62`
-> IMAGE 2 : `8930843d`
-> IMAGE 3 : `e8b4da16`
-> IMAGE 4 : `45a89a9a`
+> IMAGE 1 (master, → Élément `@Quay`) : `9dfecd62-ecbc-4d06-8c1f-23d722f8e7f4`
+> IMAGE 2 : `8930843d-2715-4656-9bde-5af4fe71a4ad`
+> IMAGE 3 : `e8b4da16-174a-4f1a-8e30-ee4f0e84c591`
+> IMAGE 4 : `45a89a9a-20e3-41d6-acb7-7693299664b5`
 > Chaque angle a été généré avec le master en référence. Si tu regénères le master, regénère aussi ses angles.
 
 > **Ordre d'exécution** : ① générer l'IMAGE 1 (master) DANS LE PROJET FESTIVAL Cinema Studio →
