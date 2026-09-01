@@ -17,15 +17,28 @@ le 3 septembre 23h59 PT, avec un post public sur YouTube/X/Instagram/Reddit. $1M
 
 ## Calendrier officiel
 
+> ⚠️ **DEADLINE REPOUSSÉE — vérifié le 01/09/2026.** Higgsfield a prolongé de 11 jours :
+> **3 septembre → 14 septembre.** Et **le fuseau a changé avec** : c'était 23h59 **PT**,
+> c'est désormais 23h59 **UTC**.
+> **→ En heure de Miami : le 14 septembre à 19h59.** Compter en PT ferait arriver 7 h trop tard.
+> ⚠ Source : deux recherches web concordantes du 01/09. **higgsfield.ai reste bloqué depuis
+> l'environnement de dev — David doit confirmer dans son navigateur.**
+
 | Étape | Date |
 |---|---|
 | Ouverture de la compétition | 10 août 2026 |
-| **Deadline de soumission** | **3 septembre 2026, 23h59 PT** |
+| ~~Deadline initiale~~ | ~~3 septembre 2026, 23h59 PT~~ |
+| **Deadline de soumission** | **14 septembre 2026, 23h59 UTC** = **14/09 19h59 Miami** |
 | Shortlist | 24 septembre |
 | Délibération du jury | 25 septembre → 1er octobre |
 | Annonce des gagnants | première semaine d'octobre |
 
-Objectif David : **film terminé le 26 août** (une semaine) → marge de 8 jours sur la deadline.
+⚠ **Les dates d'aval n'ont PAS bougé** dans les annonces trouvées (shortlist toujours au 24) :
+le jury a donc dix jours de moins, pas nous.
+
+⚠ **CONSÉQUENCE SUR LES PACKS ILLIMITÉS.** Les packs Higgsfield sont à durée limitée (7 jours).
+**Ne pas les acheter avant de commencer réellement à générer** : un pack pris le 01/09 expire
+le 08/09, six jours avant le rendu.
 
 ## Prix — $1,000,000, 14 gagnants
 
