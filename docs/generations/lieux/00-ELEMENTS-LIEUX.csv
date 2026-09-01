@@ -1,0 +1,20 @@
+ordre,lieu,element,intitule,monde,sequences,job_id_a_sauvegarder,statut,action
+1,LIEU-01,@Kitchen,La cuisine familiale,CLAIR,1 / 7.4,a3f6c078-5f78-43e6-a08c-a5da17f94151,A RENOMMER,"Renommer l'element existant Kitchen-1 en Kitchen. Supprimer d'abord les 3 vieux doublons kitchen / kitchen / kitchen-2 (construits sur un ANGLE, pas sur le master) sinon le nom Kitchen restera pris."
+2,LIEU-02,@Quay,Le quai de peche,CLAIR (or du couchant),2,9dfecd62-ecbc-4d06-8c1f-23d722f8e7f4,OK,Rien a faire.
+3,LIEU-03,@KidsBedroom,La chambre des enfants,CLAIR (soir chaud),aucune,,COUPE,"Ne PAS creer. Le lieu est coupe (aucune sequence active). A ne generer que si David leve la contradiction relevee dans les Notes de production."
+4,LIEU-04,@HospitalRoom,La chambre d'hopital,TRANSITION (bleme),3,56e6a6eb-3fb9-42c6-b279-c5d396255af9,OK,Rien a faire.
+5,LIEU-05,@HospitalCorridor,Le couloir d'hopital,TRANSITION (bleme),3 / 10.10,a4cd990c-4b2c-4d48-a2d1-3ce633df7ee1,OK,"Rien a faire. C'est lui qui sert de cadre de reference au LIEU-17 (l'echo Anna / Nora)."
+6,LIEU-06,@AnnaKitchen,La cuisine d'Anna,GRIS (poele ambre),4,646e4713-3eac-4659-a7b7-df505f816d74,OK,Rien a faire.
+7,LIEU-07,@Restaurant,Le restaurant de Mei,neutre-chaud,2 / 5,cf686b7f-0b97-4c8f-b63a-5bf08e67f87b,OK,Rien a faire.
+8,LIEU-08,@NoraBedroom,La chambre de Nora,GRIS,4 / 6 / 7 / 8 / 11,34c893b4-8774-450e-bac3-0f9f88f3bb78,OK,Rien a faire.
+9,LIEU-09,@BackGallery,La galerie arriere,GRIS (sodium),6 / 7,352dcc17-659c-4c16-a938-1cb793dd2d8a,OK,Rien a faire.
+10,LIEU-10,@Bathroom,La salle de bain,GRIS (vapeur),8,758bcd39-ae0f-4093-96aa-4d48f8f9aa7d,OK,"Rien a faire. Le miroir est volontairement vierge : le texte au savon est compose en post (regle G)."
+11,LIEU-11,@LibraryCorridor,La bibliotheque,GRIS (apres-midi plat),8,f8212503-b239-46de-9594-b3aa16d444e4,OK,Rien a faire.
+12,LIEU-13,@NightBus,Le bus de nuit,GRIS (neon + sodium),8,7e32f1d9-4e75-4510-a12f-dea1c13695e8,OK,Rien a faire.
+13,LIEU-14,@BusShelter,L'abribus du bout du monde,GRIS (cone sodium),9 / 10 / 11,fb1d73ec-08c8-45b8-a766-b74620eee2c3,OK,Rien a faire.
+14,LIEU-15,@RedHouseExterior,La maison rouge (exterieur),GRIS + LE rouge,10,4931048c-eadd-491a-9141-0b0129f8671b,OK,Rien a faire.
+15,LIEU-16,@RedHouseInterior,La maison rouge (interieur),GRIS + LE rouge,10 (21 blocs),4b92db60-65dd-46f1-b984-c769f170ac2a,A CREER,"MANQUANT. C'est l'image A v2 du 01/09 (ampoule allumee, ecriture corrigee). 21 blocs de la sequence 10 l'appellent : sans lui, ils ne trouvent rien."
+16,LIEU-17,@RussianHospitalCorridor,Le couloir d'hopital sovietique,SOUVENIR LAVE,4 (flashback),169a2139-9a2a-4217-9f50-6da4b8abede5,OK,Rien a faire.
+17,LIEU-18,@AnnaKitchenPast,La cuisine russe d'Anna la nuit,SOUVENIR LAVE,4 (flashback),92e2e258-fc68-48fb-a164-cc9d348a4959,OK,Rien a faire.
+18,LIEU-19,@RussianNightStreet,La rue entre les barres la nuit,SOUVENIR LAVE,4 (flashback),c6fcd466-5033-40ea-b8c7-8cd405ac2257,OK,Rien a faire.
+19,LIEU-20,@RussianCourtyard,La cour entre les immeubles,SOUVENIR LAVE,4 (flashback),4c1779ab-347e-4944-8666-af9d21d4fbe1,OK,Rien a faire.

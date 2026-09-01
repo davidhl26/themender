@@ -8,6 +8,15 @@
 > ⚠ Un lieu = UNE série d'images cohérentes. Si un master ne te plaît pas, regénère le master
 > AVANT de faire ses angles — jamais l'inverse.
 
+## ➜ À FAIRE À LA MAIN DANS L'INTERFACE : `00-ELEMENTS-LIEUX.csv`
+
+Le CSV liste les **19 Éléments de lieu**, avec pour chacun le **job de l'image à sauvegarder** et
+l'action à faire. État au 01/09 : **16 en place**, **1 à créer** (`@RedHouseInterior`), **1 à
+renommer** (`Kitchen-1` → `Kitchen`), **1 coupé** (`@KidsBedroom`, à ne pas créer).
+
+Deux Éléments **hors lieux** attendent aussi : `mender` (à remplacer par la fiche du 01/09, l'ancienne
+porte les gribouillages) et `@AnnaDrawing` (à créer — 5 générations de la séq. 4 l'appellent).
+
 ## Ordre conseillé (l'ordre du tournage des vidéos)
 
 | # | Document | Lieu | Monde | Sert en séq. | Statut |
