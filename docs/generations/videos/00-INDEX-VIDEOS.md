@@ -28,6 +28,16 @@ Ce qui survit vit dans **VIDEO-SEQ-10**, plans 10.8 à 10.12.
 du script a son bloc *(sauf 1.1, tourné par David, et 10.12, le carton composé en post)* · aucun mot de
 français dans un bloc à coller.
 
+## ⭐ LES BLOCS PRÊTS À COLLER — **c'est ici qu'on génère**
+
+**`PRET-SEQ-01.md` … `PRET-SEQ-10.md`** — les 62 blocs **autonomes** : chaîne, pellicule, monde,
+références et contraintes sont DÉJÀ dedans. Tu copies un bloc, tu colles, tu génères. **Rien à ajouter.**
+
+**[`00-ELEMENTS-PAR-PLAN.md`](00-ELEMENTS-PAR-PLAN.md)** — quels Elements charger pour chaque plan.
+
+*(Les `VIDEO-SEQ-*.md` restent la source : c'est là qu'on modifie une scène. Les `PRET-SEQ-*.md`
+en sont la version assemblée, régénérée par script.)*
+
 ## 🎴 Les cartes à coller — **à lire avant tout**
 
 **[`00-CARTES-A-COLLER.md`](00-CARTES-A-COLLER.md)** — les cartes courtes qui se collent dans chaque
