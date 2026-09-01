@@ -8,30 +8,23 @@
 ## VIDÉO 6A — plan 6.1 « Le forum » *(12 s de rushes → 7 s au montage · Elements : @Nora + @NoraBedroom · start frame : LIEU-08 IMAGE 3 — écarts déclarés en tête de document)*
 
 ```
+SCENE CONTEXT
+Alone at night in a dark bedroom, a girl reads a page on her laptop, scrolls once, stops on something, and lifts her eyes off the screen toward the black window. Three shots, two hard cuts. Nothing on the screen is ever a word: the page exists as light and blocks only. Every second is choreographed below; nothing beyond it may be invented. 12 seconds, in 3 framings joined by 2 hard cuts.
+
 CONTINUITY REFERENCE
 @Video 1: an earlier shot from the same film (5D), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level, its composition or any of its frames: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything is built new, at full quality.
-
-Style prompt: A fifteen-year-old girl's small unmade bedroom, late at night, desaturated grey-blue. The open laptop screen is the only key light — cold blue-white on her face, shifting faintly as unseen pages move — with the sodium orange of a street lamp through the window as a thin rim on her hair, and deep blue-black shadow everywhere else, gently underexposed, blacks truly black, the corners of the room gone entirely. The screen carries no writing of any kind: only a soft blue field and a few pale grey blocks with no characters in them, not one letter, not one digit, in any shot, at any moment. Camera locked off in every shot, no handheld shake. Real-time pacing.
-
-FILM EMULATION — THE SAME STOCK FROM THE FIRST FRAME TO THE LAST
-Shot on Kodak Vision3 500T 5219 tungsten colour negative, one stock, one lab, for the entire film, rated at box speed and printed flat. Cool naturalistic colour science; shadows falling slightly blue-green and holding real separation and texture inside them; skin tones understated, never warmed up, never rosy. Gentle contrast, soft highlight roll-off, highlights restrained and never blown, a faint halation ring blooming around every practical source. Moderate fine grain that grows in the underexposed areas and breathes with the exposure. Not glossy, not digital, not warm. Daylight scenes are the same stock corrected with an 85 filter, never a different look.
-
-CAMERA — OPERATED, NOT SIMULATED
-One anamorphic lens set throughout: slight barrel distortion at the frame edges, oval out-of-focus highlights, mild edge softness, faint vignetting, vintage lens character. Focus is pulled by a human hand — it arrives a few frames late, occasionally overshoots by a hair and settles back, and breathes with the operator's pace. Every held frame keeps a residual human weight in it, a drift of a few millimetres: never a locked robotic stillness, never a shake. No digital sharpening, no edge halos, no noise-reduction smear, no beauty retouching, no plastic skin, no CGI gloss.
-
-PHYSICS — WEIGHT, INERTIA, CONTACT
-Everything in frame has mass and obeys it. A body starts and stops with its own weight: it settles into a position rather than snapping into it, and a limb leads while the torso follows a beat later. Feet take the ground with real contact and real friction — on wet stone a step is slightly damped, never sliding, never skating. Clothing lags behind the body that moves it, keeps its own folds and swings back late; hair moves a beat behind the head and comes to rest slowly.
-Objects have the mass their material implies. A wooden door swings on its hinges at the speed its own weight allows: it starts slowly, gathers a little, and is slowed at the end by its own friction and the resistance of the hinge — it never floats, never snaps open, never accelerates on its own, and it never moves before something moves it. Hands deform what they touch: fingers flatten slightly against a hard surface, fabric compresses under a grip, a held object presses back. Nothing passes through anything. Nothing changes speed without a cause visible in the frame.
-
-PHOTOGRAPHIC REALISM
-True skin texture with visible pores and fine hairs, real fabric weave, seams and wrinkles that crease with movement, worn surfaces with real wear, natural asymmetry, natural motion blur in every movement. Deliberately underexposed where the scene calls for it, protecting the shadows and retaining detail inside them: no banding, no posterisation, no crushed flat blacks, no smeared low-light noise, no digital mush.
-
-WORLD — AFTER
-A grey-blue world, gently underexposed, roughly two thirds of a stop below normal. Sparse motivated sources only — one bulb, one window, one sodium lamp — and deep quiet blacks between them. Colour is drained but not absent: what survives is amber from a flame, sodium orange from a street, sea-green from tile. Never a saturated hue. No red anywhere, flames included.
 
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
 @NoraBedroom: Nora's bedroom and the landing outside it, grey and underexposed, one narrow sodium band under the door. 100% matches the reference.
+
+LOCATION MAP
+Framing 1 [0.0-4.0s] — camera: Medium from three-quarter behind her left shoulder, seated eye level, camera about 120 cm high and one metre behind the chair, static, locked off — exactly the axis of the reference angle, the desk filling the lower right half of frame, the window a black rectangle screen-right.
+Framing 2 [4.0-9.0s] — camera: THE PLATE. Over her right shoulder, straight onto the laptop screen, camera about 130 cm high and 70 cm behind her, the screen square to the lens and IN FOCUS, static, locked off, no drift of any kind. The screen fills the middle of frame from x=22% to x=78% and 46% of frame height; the dark mass of her right shoulder and the back of her head cuts the lower left corner as an out-of-focus silhouette; the dark room around the screen is near-black.
+Framing 3 [9.0-12.0s] — camera: Close-up front-on, eye level a few degrees below hers, camera in the place of the wall beside the screen, the laptop itself out of frame below the lower edge, static, locked off.
+Every distance, height and frame position given above is literal and is held exactly; nothing drifts toward a more flattering angle.
+
+FIRST FRAME AND SPATIAL BLOCKING The generation opens on this exact frame: Medium from three-quarter behind her left shoulder, seated eye level, camera about 120 cm high and one metre behind the chair, static, locked off — exactly the axis of the reference angle, the desk filling the lower right half of frame, the window a black rectangle screen-right. Starting positions, held until described otherwise: @Nora SEATED at x=55%, three-quarter back to camera, filling 58% of frame height, her face in lost profile toward the screen; the open laptop screen-left at x=25%, its screen a soft blue-white glow angled away from camera, its content unreadable from here and containing no characters. Left forearm flat on the desk, right hand at the trackpad. Her cheek and the edge of her nose carry the cold blue; the sodium rims her hair from screen-right. Expression: slack with attention, lips closed. This is the frame the first video frame must already be, before anything moves: nothing is settling into place, nothing fades up, nothing is mid-transition.
 
 FORMAT MODE
 One take of 12 seconds at real-time speed, containing exactly 3 successive framings joined by 2 hard cuts, placed at the moments the FRAME MAP gives and nowhere else. Each framing is held completely still between its cuts. No other cut, no montage, no dissolve, no speed ramp, no slow motion.
@@ -39,13 +32,9 @@ One take of 12 seconds at real-time speed, containing exactly 3 successive frami
 OPTICS
 Anamorphic 85 mm f/2 equivalent. Depth of field wide open at that stop: the plane described in the FRAME MAP is tack sharp and everything behind it falls off progressively. Focus holds on that plane and breathes naturally with the camera's movement — no deliberate rack focus unless the FRAME MAP calls for one.
 
-SCENE Alone at night in a dark bedroom, a girl reads a page on her laptop, scrolls once, stops on something, and lifts her eyes off the screen toward the black window. Three shots, two hard cuts. Nothing on the screen is ever a word: the page exists as light and blocks only. Every second is choreographed below; nothing beyond it may be invented.
-
 CONTINUITY LOCK Every prop named in the layout appears in EVERY shot where its surface is visible, in the same position and state — nothing appears, disappears, multiplies or moves unless the choreography says so. Each character's posture (SEATED or STANDING) is stated at the top of every shot and never changes off-screen. A character holds exactly the object the choreography puts in their hand — no other utensil or object may materialise. THE SCREEN'S CONTENT IS A LOCKED PROP: the same blue field and the same pale grey blocks in every frame of every shot, changing exactly once, at the single scroll, and never otherwise — no window opening, no popup, no notification, no cursor, no image, no photograph, no map, no drawing, no icon, no character of any alphabet at any time.
 
 PROP LAYOUT — FIXED The cluttered desk against the wall, the window screen-right of it. At its centre the laptop, OPEN for this whole generation, its screen angled toward @Nora and away from camera in shot 1. Screen-left of the laptop: the leaning pile of dog-eared school books, spines away from camera, their covers scuffed to blankness. Screen-right of it: a cold mug of tea, untouched, ringed onto the topmost book. Behind her: the chair back with clothes slung over it, the unmade bed a dark mass at the frame edge. Nothing on the desk moves, nothing is added to it, nothing is picked up. Matter and wear, precise: the desk varnish is worn through to bare wood along the front edge and marked with old water rings; the laptop lid is clouded with fingerprints and carries the ghost outlines of peeled-off stickers, its charging cable kinked and mended with a turn of tape; the books' covers are soft and cupped, their corners rounded; the mug's glaze is crazed and its inside stained brown; the window sill's paint is flaking and old condensation stains sit in the corners of the panes.
-
-POSTURE LOCK @Nora is SEATED at the desk for the entire generation and never stands, never leaves the chair, never turns away from the desk. Shoulders rounded inward, hood down, hair pushed behind the ears. Her hands: left forearm flat on the desk edge and staying there; right hand resting at the trackpad, the index finger moving only for the single scroll written below. She wears the oversized faded charcoal-grey hoodie — no parka in this generation. She never types, never speaks, never touches her face.
 
 FRAME MAP & CHOREOGRAPHY — SECOND BY SECOND
 
@@ -83,7 +72,30 @@ DIALOGUE None. Nobody speaks in this generation. She reads.
 
 LAST FRAME Her face front-on filling the frame, lit cold blue from below, eyes lifted just past the unseen screen toward the dark window, the sodium rim in her hair, everything behind her blue-black.
 
-AUDIO The faint whirr of the laptop fan, her slow breathing, one swallow at [9.8s], one soft dry tap of the trackpad at [5.8s] and no other, a single car passing far below at [7.2s] — and beneath everything the low hum of the sleeping city, one gust pressing briefly on the window glass, the building's pipes ticking once as they cool. No typing. No keyboard. No voices. No notification sound. No music.
+
+
+CHARACTER PERFORMANCE
+Nobody performs an emotion here. The feeling is legible only through the exact physical events written in the choreography above, and through nothing else: no added expression, no widened eyes, no trembling lip, no theatrical breath. What is not written does not happen. Between the written events every body simply holds its last position, breathing, blinking and drifting a few millimetres, never frozen and never fidgeting.
+@Nora is SEATED at the desk for the entire generation and never stands, never leaves the chair, never turns away from the desk. Shoulders rounded inward, hood down, hair pushed behind the ears. Her hands: left forearm flat on the desk edge and staying there; right hand resting at the trackpad, the index finger moving only for the single scroll written below. She wears the oversized faded charcoal-grey hoodie — no parka in this generation. She never types, never speaks, never touches her face.
+
+PHYSICS — WEIGHT, INERTIA, CONTACT
+Everything in frame has mass and obeys it. A body starts and stops with its own weight: it settles into a position rather than snapping into it, and a limb leads while the torso follows a beat later. Feet take the ground with real contact and real friction — on wet stone a step is slightly damped, never sliding, never skating. Clothing lags behind the body that moves it, keeps its own folds and swings back late; hair moves a beat behind the head and comes to rest slowly.
+Objects have the mass their material implies. A wooden door swings on its hinges at the speed its own weight allows: it starts slowly, gathers a little, and is slowed at the end by its own friction and the resistance of the hinge — it never floats, never snaps open, never accelerates on its own, and it never moves before something moves it. Hands deform what they touch: fingers flatten slightly against a hard surface, fabric compresses under a grip, a held object presses back. Nothing passes through anything. Nothing changes speed without a cause visible in the frame.
+
+CINEMATOGRAPHY
+Naturalistic available-light cinematography in the raw realist tradition. One motivated source at a time and no fill — a single bulb, a single window, a distant sodium lamp — with deep quiet blacks between them. Deliberately underexposed, roughly two thirds of a stop below normal, protecting the shadows and keeping real separation and texture inside them. Highlights restrained, never blown, holding texture in the filament and the wet stone. Low gentle contrast. Muted desaturated true-to-life colour: what survives is amber from a flame, sodium orange from a street, sea-green from tile — never a saturated hue, and never red.
+
+FILM EMULATION — THE SAME STOCK FROM THE FIRST FRAME TO THE LAST
+Shot on Kodak Vision3 500T 5219 tungsten colour negative, one stock, one lab, for the entire film, rated at box speed and printed flat. Cool naturalistic colour science; shadows falling slightly blue-green and holding real separation and texture inside them; skin tones understated, never warmed up, never rosy. Gentle contrast, soft highlight roll-off, highlights restrained and never blown, a faint halation ring blooming around every practical source. Moderate fine grain that grows in the underexposed areas and breathes with the exposure. Not glossy, not digital, not warm. Daylight scenes are the same stock corrected with an 85 filter, never a different look.
+
+CAMERA — OPERATED, NOT SIMULATED
+One anamorphic lens set throughout: slight barrel distortion at the frame edges, oval out-of-focus highlights, mild edge softness, faint vignetting, vintage lens character. Focus is pulled by a human hand — it arrives a few frames late, occasionally overshoots by a hair and settles back, and breathes with the operator's pace. Every held frame keeps a residual human weight in it, a drift of a few millimetres: never a locked robotic stillness, never a shake. No digital sharpening, no edge halos, no noise-reduction smear, no beauty retouching, no plastic skin, no CGI gloss.
+
+PHOTOGRAPHIC REALISM
+True skin texture with visible pores and fine hairs, real fabric weave, seams and wrinkles that crease with movement, worn surfaces with real wear, natural asymmetry, natural motion blur in every movement. Deliberately underexposed where the scene calls for it, protecting the shadows and retaining detail inside them: no banding, no posterisation, no crushed flat blacks, no smeared low-light noise, no digital mush.
+
+AUDIO
+SFX only. No music. No background music of any kind, no score, no drone, no ambient pad. The faint whirr of the laptop fan, her slow breathing, one swallow at [9.8s], one soft dry tap of the trackpad at [5.8s] and no other, a single car passing far below at [7.2s] — and beneath everything the low hum of the sleeping city, one gust pressing briefly on the window glass, the building's pipes ticking once as they cool. No typing. No keyboard. No voices. No notification sound. No music.
 
 POSITIVE CONSTRAINTS — CHECK EVERY FRAME AGAINST THESE
 Every named reference above is matched 100%: same face, same build, same wardrobe, same wear. Nobody is better groomed, better lit, better dressed or better rested than the shot before; wardrobe, hair, dirt, damage and wear do not improve or clean themselves up. Props stay exactly where the prop layout puts them. The light level, the weather and the time of day do not move inside this generation.
@@ -92,7 +104,8 @@ Nobody looks at the lens at any point. Nobody speaks except where DIALOGUE says 
 Every stroke of handwriting anywhere in frame is a dense abstract texture forming no characters, in no language, nowhere legible. No signage, no label, no digit, no subtitle, no caption is readable anywhere.
 One continuous uncut take at real-time speed, for the exact duration requested. No slow motion, no speed ramp, no added cut.
 
-NEGATIVE PROMPT readable text on the screen, legible letters, words, digits or interface on the screen, characters of any alphabet on the screen, a cursor, an icon, a photograph, a map, a drawing or an image on the screen, a browser window or menu bar, a notification popup, screen content reflected legibly in her eyes or in the window glass, a second scroll, the screen drifting or reframing, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, a second person, a silhouette in the doorway, a figure in the window, a reflection of anyone else, a long written coat, any coated figure, subjects looking at camera, visible camera rigs, camera movement, dolly, pan, zoom, handheld shake, slow motion, morphing objects, extra people in frame, extra gestures, improvised actions, wandering hands, typing on a keyboard, repositioned props, appearing or disappearing objects, warm lamps, tidy room, any red anywhere, a red charging LED, glamorous styling, posed expression, theatrical acting, overacting, rushed movements, uncanny smoothness, plastic skin, beauty filter, CGI look, video-game lighting, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness, generated music.
+AVOID
+readable text on the screen, legible letters, words, digits or interface on the screen, characters of any alphabet on the screen, a cursor, an icon, a photograph, a map, a drawing or an image on the screen, a browser window or menu bar, a notification popup, screen content reflected legibly in her eyes or in the window glass, a second scroll, the screen drifting or reframing, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, a second person, a silhouette in the doorway, a figure in the window, a reflection of anyone else, a long written coat, any coated figure, subjects looking at camera, visible camera rigs, camera movement, dolly, pan, zoom, handheld shake, slow motion, morphing objects, extra people in frame, extra gestures, improvised actions, wandering hands, typing on a keyboard, repositioned props, appearing or disappearing objects, warm lamps, tidy room, any red anywhere, a red charging LED, glamorous styling, posed expression, theatrical acting, overacting, rushed movements, uncanny smoothness, plastic skin, beauty filter, CGI look, video-game lighting, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness, generated music.
 ```
 
 
@@ -123,29 +136,20 @@ Les huit vignettes sont dessinées en post : **jamais un manteau généré à l'
 ### VIDÉO 6A-bis — SECOURS de 6A *(6 s · à ne lancer QUE si le shot 2 de 6A sort avec des caractères à l'écran, une icône, un curseur ou une fenêtre de navigateur — c'est-à-dire dès qu'il est incalable en POST · Elements : @NoraBedroom · start frame : LIEU-08 IMAGE 3)*
 
 ```
+SCENE CONTEXT
+A laptop screen alone in a dark empty bedroom, holding a page that is only light and blocks. It sits still, scrolls once, and sits still again. One single shot, no cut, closer than the main version and without anyone in frame, so the surface is clean enough to be composed on. Nobody appears at any point. Every second is choreographed below; nothing beyond it may be invented. 6 seconds, one continuous framing, no cut.
+
 CONTINUITY REFERENCE
 No previous shot is attached to this generation. This is the first shot of its chain: it sets the light, the grain and the skin rendering that every following shot will be matched to. Build every frame new from the references below, at full quality.
 
-Style prompt: The open laptop screen of a fifteen-year-old girl's dark bedroom at night, seen alone, nobody in the room. Desaturated grey-blue darkness all around it; the screen is the only light in frame — a plain, even, cold blue-white panel that carries no writing of any kind: only a soft blue field and a few pale grey blocks with no characters in them, not one letter, not one digit, at any moment. One single shot, no cut. Camera locked off, absolutely no drift, no handheld shake. Real-time pacing.
-
-FILM EMULATION — THE SAME STOCK FROM THE FIRST FRAME TO THE LAST
-Shot on Kodak Vision3 500T 5219 tungsten colour negative, one stock, one lab, for the entire film, rated at box speed and printed flat. Cool naturalistic colour science; shadows falling slightly blue-green and holding real separation and texture inside them; skin tones understated, never warmed up, never rosy. Gentle contrast, soft highlight roll-off, highlights restrained and never blown, a faint halation ring blooming around every practical source. Moderate fine grain that grows in the underexposed areas and breathes with the exposure. Not glossy, not digital, not warm. Daylight scenes are the same stock corrected with an 85 filter, never a different look.
-
-CAMERA — OPERATED, NOT SIMULATED
-One anamorphic lens set throughout: slight barrel distortion at the frame edges, oval out-of-focus highlights, mild edge softness, faint vignetting, vintage lens character. Focus is pulled by a human hand — it arrives a few frames late, occasionally overshoots by a hair and settles back, and breathes with the operator's pace. Every held frame keeps a residual human weight in it, a drift of a few millimetres: never a locked robotic stillness, never a shake. No digital sharpening, no edge halos, no noise-reduction smear, no beauty retouching, no plastic skin, no CGI gloss.
-
-PHYSICS — WEIGHT, INERTIA, CONTACT
-Everything in frame has mass and obeys it. A body starts and stops with its own weight: it settles into a position rather than snapping into it, and a limb leads while the torso follows a beat later. Feet take the ground with real contact and real friction — on wet stone a step is slightly damped, never sliding, never skating. Clothing lags behind the body that moves it, keeps its own folds and swings back late; hair moves a beat behind the head and comes to rest slowly.
-Objects have the mass their material implies. A wooden door swings on its hinges at the speed its own weight allows: it starts slowly, gathers a little, and is slowed at the end by its own friction and the resistance of the hinge — it never floats, never snaps open, never accelerates on its own, and it never moves before something moves it. Hands deform what they touch: fingers flatten slightly against a hard surface, fabric compresses under a grip, a held object presses back. Nothing passes through anything. Nothing changes speed without a cause visible in the frame.
-
-PHOTOGRAPHIC REALISM
-True skin texture with visible pores and fine hairs, real fabric weave, seams and wrinkles that crease with movement, worn surfaces with real wear, natural asymmetry, natural motion blur in every movement. Deliberately underexposed where the scene calls for it, protecting the shadows and retaining detail inside them: no banding, no posterisation, no crushed flat blacks, no smeared low-light noise, no digital mush.
-
-WORLD — AFTER
-A grey-blue world, gently underexposed, roughly two thirds of a stop below normal. Sparse motivated sources only — one bulb, one window, one sodium lamp — and deep quiet blacks between them. Colour is drained but not absent: what survives is amber from a flame, sodium orange from a street, sea-green from tile. Never a saturated hue. No red anywhere, flames included.
-
 ACTIVE REFERENCES
 @NoraBedroom: Nora's bedroom and the landing outside it, grey and underexposed, one narrow sodium band under the door. 100% matches the reference.
+
+LOCATION MAP
+Framing 1 [0.0-6.0s] — camera: Static, camera about 105 cm high and 45 cm from the laptop, the screen square to the lens and IN FOCUS, locked off, absolutely no drift. The screen fills the frame from x=14% to x=86% and 62% of frame height; the worn keyboard along the bottom edge; near-black on all four sides.
+Every distance, height and frame position given above is literal and is held exactly; nothing drifts toward a more flattering angle.
+
+FIRST FRAME AND SPATIAL BLOCKING The generation opens on this exact frame: Static, camera about 105 cm high and 45 cm from the laptop, the screen square to the lens and IN FOCUS, locked off, absolutely no drift. The screen fills the frame from x=14% to x=86% and 62% of frame height; the worn keyboard along the bottom edge; near-black on all four sides. The screen: a plain soft blue-white field with a scatter of pale grey blocks laid across it in horizontal bands — bands of flat pale grey with NO characters in them, not one letter, not one digit, not one punctuation mark, in any language, at any size. The blocks are motionless. Nothing else is on the screen: no cursor, no icon, no image, no photograph, no map, no drawing, no window frame, no menu bar. This is the frame the first video frame must already be, before anything moves: nothing is settling into place, nothing fades up, nothing is mid-transition.
 
 FORMAT MODE
 One single continuous uncut take, 6 seconds long, at real-time speed. No cut, no montage, no dissolve, no speed ramp, no slow motion.
@@ -153,13 +157,9 @@ One single continuous uncut take, 6 seconds long, at real-time speed. No cut, no
 OPTICS
 Anamorphic 85 mm f/2 equivalent. Depth of field wide open at that stop: the plane described in the FRAME MAP is tack sharp and everything behind it falls off progressively. Focus holds on that plane and breathes naturally with the camera's movement — no deliberate rack focus unless the FRAME MAP calls for one.
 
-SCENE A laptop screen alone in a dark empty bedroom, holding a page that is only light and blocks. It sits still, scrolls once, and sits still again. One single shot, no cut, closer than the main version and without anyone in frame, so the surface is clean enough to be composed on. Nobody appears at any point. Every second is choreographed below; nothing beyond it may be invented.
-
 CONTINUITY LOCK Every prop named in the layout appears in the frame where its surface is visible, in the same position and state — nothing appears, disappears, multiplies or moves unless the choreography says so. THE SCREEN'S CONTENT IS A LOCKED PROP: the same blue field and the same pale grey blocks in every frame, changing exactly once, at the single scroll, and never otherwise — no window opening, no popup, no notification, no cursor, no icon, no image, no photograph, no map, no drawing, no character of any alphabet at any time. NOBODY ENTERS: no hand, no shoulder, no reflection of a person, at any point.
 
 PROP LAYOUT — FIXED The open laptop on the worn desk, its screen square to the lens and filling most of the frame; below its lower edge, the top of the keyboard in raking light, the keycaps worn shiny at their centres, the letters on them rubbed away to blankness. Around the screen the room is near-black. Nothing else is in frame and nothing is added. Matter and wear, precise: the screen bezel carries a fine film of dust and two thumb smears at its lower corners; the panel's surface holds the faintest grid of its own coating and a shallow scratch across the lower third; the desk varnish beyond the laptop is worn through to bare wood and marked with old water rings.
-
-POSTURE LOCK Nobody is in this generation. No person, no body, no hand, no shoulder, no reflected figure, in any frame.
 
 FRAME MAP & CHOREOGRAPHY — SECOND BY SECOND
 
@@ -181,7 +181,30 @@ DIALOGUE None. Nobody speaks in this generation. The room is empty.
 
 LAST FRAME The laptop screen square to the lens, filling the frame, an even cold blue-white field with its motionless pale grey blocks and not one character on it; the worn keyboard raking along the bottom edge; near-black on all four sides.
 
-AUDIO The faint whirr of the laptop fan, the low hum of the sleeping city under it, one gust pressing briefly on the window glass far behind, the building's pipes ticking once as they cool. One soft dry tap of a trackpad at [2.4s], off screen, and no other. No breathing. No typing. No voices. No notification sound. No music.
+
+
+CHARACTER PERFORMANCE
+Nobody performs an emotion here. The feeling is legible only through the exact physical events written in the choreography above, and through nothing else: no added expression, no widened eyes, no trembling lip, no theatrical breath. What is not written does not happen. Between the written events every body simply holds its last position, breathing, blinking and drifting a few millimetres, never frozen and never fidgeting.
+Nobody is in this generation. No person, no body, no hand, no shoulder, no reflected figure, in any frame.
+
+PHYSICS — WEIGHT, INERTIA, CONTACT
+Everything in frame has mass and obeys it. A body starts and stops with its own weight: it settles into a position rather than snapping into it, and a limb leads while the torso follows a beat later. Feet take the ground with real contact and real friction — on wet stone a step is slightly damped, never sliding, never skating. Clothing lags behind the body that moves it, keeps its own folds and swings back late; hair moves a beat behind the head and comes to rest slowly.
+Objects have the mass their material implies. A wooden door swings on its hinges at the speed its own weight allows: it starts slowly, gathers a little, and is slowed at the end by its own friction and the resistance of the hinge — it never floats, never snaps open, never accelerates on its own, and it never moves before something moves it. Hands deform what they touch: fingers flatten slightly against a hard surface, fabric compresses under a grip, a held object presses back. Nothing passes through anything. Nothing changes speed without a cause visible in the frame.
+
+CINEMATOGRAPHY
+Naturalistic available-light cinematography in the raw realist tradition. One motivated source at a time and no fill — a single bulb, a single window, a distant sodium lamp — with deep quiet blacks between them. Deliberately underexposed, roughly two thirds of a stop below normal, protecting the shadows and keeping real separation and texture inside them. Highlights restrained, never blown, holding texture in the filament and the wet stone. Low gentle contrast. Muted desaturated true-to-life colour: what survives is amber from a flame, sodium orange from a street, sea-green from tile — never a saturated hue, and never red.
+
+FILM EMULATION — THE SAME STOCK FROM THE FIRST FRAME TO THE LAST
+Shot on Kodak Vision3 500T 5219 tungsten colour negative, one stock, one lab, for the entire film, rated at box speed and printed flat. Cool naturalistic colour science; shadows falling slightly blue-green and holding real separation and texture inside them; skin tones understated, never warmed up, never rosy. Gentle contrast, soft highlight roll-off, highlights restrained and never blown, a faint halation ring blooming around every practical source. Moderate fine grain that grows in the underexposed areas and breathes with the exposure. Not glossy, not digital, not warm. Daylight scenes are the same stock corrected with an 85 filter, never a different look.
+
+CAMERA — OPERATED, NOT SIMULATED
+One anamorphic lens set throughout: slight barrel distortion at the frame edges, oval out-of-focus highlights, mild edge softness, faint vignetting, vintage lens character. Focus is pulled by a human hand — it arrives a few frames late, occasionally overshoots by a hair and settles back, and breathes with the operator's pace. Every held frame keeps a residual human weight in it, a drift of a few millimetres: never a locked robotic stillness, never a shake. No digital sharpening, no edge halos, no noise-reduction smear, no beauty retouching, no plastic skin, no CGI gloss.
+
+PHOTOGRAPHIC REALISM
+True skin texture with visible pores and fine hairs, real fabric weave, seams and wrinkles that crease with movement, worn surfaces with real wear, natural asymmetry, natural motion blur in every movement. Deliberately underexposed where the scene calls for it, protecting the shadows and retaining detail inside them: no banding, no posterisation, no crushed flat blacks, no smeared low-light noise, no digital mush.
+
+AUDIO
+SFX only. No music. No background music of any kind, no score, no drone, no ambient pad. The faint whirr of the laptop fan, the low hum of the sleeping city under it, one gust pressing briefly on the window glass far behind, the building's pipes ticking once as they cool. One soft dry tap of a trackpad at [2.4s], off screen, and no other. No breathing. No typing. No voices. No notification sound. No music.
 
 POSITIVE CONSTRAINTS — CHECK EVERY FRAME AGAINST THESE
 Every named reference above is matched 100%: same face, same build, same wardrobe, same wear. Nobody is better groomed, better lit, better dressed or better rested than the shot before; wardrobe, hair, dirt, damage and wear do not improve or clean themselves up. Props stay exactly where the prop layout puts them. The light level, the weather and the time of day do not move inside this generation.
@@ -190,7 +213,8 @@ Nobody looks at the lens at any point. Nobody speaks except where DIALOGUE says 
 Every stroke of handwriting anywhere in frame is a dense abstract texture forming no characters, in no language, nowhere legible. No signage, no label, no digit, no subtitle, no caption is readable anywhere.
 One continuous uncut take at real-time speed, for the exact duration requested. No slow motion, no speed ramp, no added cut.
 
-NEGATIVE PROMPT readable text on the screen, legible letters, words, digits or interface on the screen, characters of any alphabet on the screen, a cursor, an icon, a photograph, a map, a drawing or an image on the screen, a browser window or menu bar, a notification popup, a second scroll, the screen drifting or reframing, screen flicker bands, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, a person, a hand, a shoulder, a reflection of anyone, a long written coat, any coated figure, subjects looking at camera, visible camera rigs, camera movement, dolly, pan, zoom, handheld shake, slow motion, morphing objects, extra people in frame, extra gestures, improvised actions, repositioned props, appearing or disappearing objects, warm lamps, any red anywhere, a red charging LED, uncanny smoothness, plastic skin, beauty filter, CGI look, video-game lighting, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness, generated music.
+AVOID
+readable text on the screen, legible letters, words, digits or interface on the screen, characters of any alphabet on the screen, a cursor, an icon, a photograph, a map, a drawing or an image on the screen, a browser window or menu bar, a notification popup, a second scroll, the screen drifting or reframing, screen flicker bands, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, a person, a hand, a shoulder, a reflection of anyone, a long written coat, any coated figure, subjects looking at camera, visible camera rigs, camera movement, dolly, pan, zoom, handheld shake, slow motion, morphing objects, extra people in frame, extra gestures, improvised actions, repositioned props, appearing or disappearing objects, warm lamps, any red anywhere, a red charging LED, uncanny smoothness, plastic skin, beauty filter, CGI look, video-game lighting, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness, generated music.
 ```
 
 
@@ -208,30 +232,22 @@ on passe de son épaule à l'écran seul, ce que le montage fait de toute façon
 ## VIDÉO 6B — plan 6.2 « Le cri » *(12 s de rushes → 9 s au montage · Elements : @Nora + @BackGallery · start frame : LIEU-09 IMAGE 2 ; l'IMAGE 3 est l'axe du shot 2)*
 
 ```
+SCENE CONTEXT
+At midnight a girl comes out onto the rear gallery of her building, takes hold of the rail, hesitates, and throws one question out loud at the rooftops. Nothing answers. A dog barks twice, very far away. She lets go and goes back in. Two shots, one hard cut. She is the only living being on screen and nothing in the world responds to her. Every second is choreographed below; nothing beyond it may be invented. 12 seconds, in 2 framings joined by 1 hard cut.
+
 CONTINUITY REFERENCE
 @Video 1: an earlier shot from the same film (6A), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level, its composition or any of its frames: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything is built new, at full quality.
-
-Style prompt: The rear wooden gallery of a working-class triple-decker at midnight, desaturated grey-blue. Sodium street lamps from below and behind push a dull orange up-light that catches the underside of the rail, the curled paint flakes and the proud rusted nailheads, and lights her breath into brief clouds; the night sky is a cold deep blue, nearly black at the zenith, and lies as a weak top fill on her shoulders; everything outside these two sources falls to near-black, gently underexposed, blacks truly black. The warm rectangle of window light from the flat below lies low across the boards near the bottom frame edge, one texture among others, never favoured, never approached, never framed on its own. Camera locked off in both shots, no movement of any kind, no handheld shake. Real-time pacing, long true silences.
-
-FILM EMULATION — THE SAME STOCK FROM THE FIRST FRAME TO THE LAST
-Shot on Kodak Vision3 500T 5219 tungsten colour negative, one stock, one lab, for the entire film, rated at box speed and printed flat. Cool naturalistic colour science; shadows falling slightly blue-green and holding real separation and texture inside them; skin tones understated, never warmed up, never rosy. Gentle contrast, soft highlight roll-off, highlights restrained and never blown, a faint halation ring blooming around every practical source. Moderate fine grain that grows in the underexposed areas and breathes with the exposure. Not glossy, not digital, not warm. Daylight scenes are the same stock corrected with an 85 filter, never a different look.
-
-CAMERA — OPERATED, NOT SIMULATED
-One anamorphic lens set throughout: slight barrel distortion at the frame edges, oval out-of-focus highlights, mild edge softness, faint vignetting, vintage lens character. Focus is pulled by a human hand — it arrives a few frames late, occasionally overshoots by a hair and settles back, and breathes with the operator's pace. Every held frame keeps a residual human weight in it, a drift of a few millimetres: never a locked robotic stillness, never a shake. No digital sharpening, no edge halos, no noise-reduction smear, no beauty retouching, no plastic skin, no CGI gloss.
-
-PHYSICS — WEIGHT, INERTIA, CONTACT
-Everything in frame has mass and obeys it. A body starts and stops with its own weight: it settles into a position rather than snapping into it, and a limb leads while the torso follows a beat later. Feet take the ground with real contact and real friction — on wet stone a step is slightly damped, never sliding, never skating. Clothing lags behind the body that moves it, keeps its own folds and swings back late; hair moves a beat behind the head and comes to rest slowly.
-Objects have the mass their material implies. A wooden door swings on its hinges at the speed its own weight allows: it starts slowly, gathers a little, and is slowed at the end by its own friction and the resistance of the hinge — it never floats, never snaps open, never accelerates on its own, and it never moves before something moves it. Hands deform what they touch: fingers flatten slightly against a hard surface, fabric compresses under a grip, a held object presses back. Nothing passes through anything. Nothing changes speed without a cause visible in the frame.
-
-PHOTOGRAPHIC REALISM
-True skin texture with visible pores and fine hairs, real fabric weave, seams and wrinkles that crease with movement, worn surfaces with real wear, natural asymmetry, natural motion blur in every movement. Deliberately underexposed where the scene calls for it, protecting the shadows and retaining detail inside them: no banding, no posterisation, no crushed flat blacks, no smeared low-light noise, no digital mush.
-
-WORLD — AFTER
-A grey-blue world, gently underexposed, roughly two thirds of a stop below normal. Sparse motivated sources only — one bulb, one window, one sodium lamp — and deep quiet blacks between them. Colour is drained but not absent: what survives is amber from a flame, sodium orange from a street, sea-green from tile. Never a saturated hue. No red anywhere, flames included.
 
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
 @BackGallery: The back gallery at night under sodium, wet concrete, iron rail. 100% matches the reference.
+
+LOCATION MAP
+Framing 1 [0.0-5.0s] — camera: Wide along the gallery, eye level, camera about 160 cm high on the gallery itself looking down its length, static, locked off — exactly the axis of the reference angle: the empty walkway running away from camera, the rail screen-left, the ajar door in the wall screen-right at x=78%, the cold blue sky, the rooftops and the far harbour cranes beyond, the warm rectangle low across the boards at the bottom frame edge.
+Framing 2 [5.0-12.0s] — camera: Medium close along the rail, three-quarter left profile, eye level, camera about 160 cm high and 1.5 m from the rail, static, locked off — the axis of the second reference angle: the rail crossing from the lower left foreground toward mid-frame, its top rubbed to bare grey wood where her hands rest, the dark rooftops and back yards soft beyond it screen-left, the receding rails of the flats above and below soft screen-right, the empty washing line sagging through the upper frame, the cold deep blue sky above. The warm rectangle is out of this frame entirely.
+Every distance, height and frame position given above is literal and is held exactly; nothing drifts toward a more flattering angle.
+
+FIRST FRAME AND SPATIAL BLOCKING The generation opens on this exact frame: Wide along the gallery, eye level, camera about 160 cm high on the gallery itself looking down its length, static, locked off — exactly the axis of the reference angle: the empty walkway running away from camera, the rail screen-left, the ajar door in the wall screen-right at x=78%, the cold blue sky, the rooftops and the far harbour cranes beyond, the warm rectangle low across the boards at the bottom frame edge. Frame contents, nothing moving through them yet: the gallery exactly as the reference, empty, nobody in it. The warm rectangle lies low, unremarked. The washing line sags empty overhead. This is the frame the first video frame must already be, before anything moves: nothing is settling into place, nothing fades up, nothing is mid-transition.
 
 FORMAT MODE
 One take of 12 seconds at real-time speed, containing exactly 2 successive framings joined by 1 hard cut, placed at the moments the FRAME MAP gives and nowhere else. Each framing is held completely still between its cuts. No other cut, no montage, no dissolve, no speed ramp, no slow motion.
@@ -239,13 +255,9 @@ One take of 12 seconds at real-time speed, containing exactly 2 successive frami
 OPTICS
 Anamorphic 50 mm f/2 equivalent. Depth of field wide open at that stop: the plane described in the FRAME MAP is tack sharp and everything behind it falls off progressively. Focus holds on that plane and breathes naturally with the camera's movement — no deliberate rack focus unless the FRAME MAP calls for one.
 
-SCENE At midnight a girl comes out onto the rear gallery of her building, takes hold of the rail, hesitates, and throws one question out loud at the rooftops. Nothing answers. A dog barks twice, very far away. She lets go and goes back in. Two shots, one hard cut. She is the only living being on screen and nothing in the world responds to her. Every second is choreographed below; nothing beyond it may be invented.
-
 CONTINUITY LOCK Every prop named in the layout appears in EVERY shot where its surface is visible, in the same position and state — nothing appears, disappears, multiplies or moves unless the choreography says so. Each character's posture (SEATED or STANDING) is stated at the top of every shot and never changes off-screen. A character holds exactly the object the choreography puts in their hand — no other utensil or object may materialise; her hands are empty for the whole generation. THE WORLD DOES NOT ANSWER: no light anywhere changes brightness, no window lights up or goes dark, no curtain moves, no door opens, no shape appears at any point, before, during or after the line.
 
 PROP LAYOUT — FIXED The gallery boards bare and peeling. The painted wooden rail runs across frame on its turned balusters, two of them replaced with plain sticks. The washing line sags overhead, EMPTY — no laundry, not one garment, ever. The door back into the flat stands ajar at the screen-right edge of the wide shot, dark inside. The warm rectangle of light from the flat below lies across the boards near the lower frame edge in the wide shot only, unremarked, cut by the rail's shadow, and is out of frame entirely in the close shot. Every window of the flats below and above stays dark or unframed — no lit window is ever framed directly, no figure and no silhouette appears in any window, doorway or yard. Nothing moves in this generation except @Nora. Matter and wear, precise: the rail is grey over green over an older white, the layers curling and flaking, rubbed to bare silvered wood along the top where hands have rested for decades; the deck boards have the grain raised and split at the ends, rusted nailheads standing proud, each bleeding a small dark streak, grit and dead leaves caught in the gaps; the washing line is grey-green cord, slackened and frayed, its fibres fuzzed along the sag, a few wooden pegs left clipped to it, one split; rust streaks bleed from the rail brackets down the posts; the boards still hold a thin sheen from earlier rain.
-
-POSTURE LOCK @Nora is STANDING for the entire generation — she never sits, never crouches, never leans over the rail, never climbs anything. She wears the dark navy nylon parka with the broken zip pull over the charcoal hoodie, hood down. Her hands are empty throughout: at her sides from [0.0s] to [2.6s], BOTH ON THE RAIL from [2.6s] to [10.4s], at her sides again after. She holds no object at any point.
 
 FRAME MAP & CHOREOGRAPHY — SECOND BY SECOND
 
@@ -276,7 +288,30 @@ DIALOGUE [6.6-8.4s] @Nora, out loud to the night, thrown at the rooftops, louder
 
 LAST FRAME Her back at the gallery rail, already turning away toward the ajar door, both hands off the rail and at her sides, the empty washing line sagging above, the rooftops and the harbour cranes beyond, the warm rectangle unchanged and unremarked at the lower frame edge — nothing in the world has answered.
 
-AUDIO Night wind, the boards creaking under her steps, the low tide-hum of the port beneath everything, a loose halyard clinking far off against a mast, a single car crossing the town below at [4.2s], her breathing audible and quick; then the line — one voice alone in the night, dry and unamplified, no reverb, no echo, no space added to it — and after it a long true silence with nothing in it but the wind, broken at [9.4s] by a dog barking twice, very far away. No reply of any kind. No door, no window, no voice. No music.
+
+
+CHARACTER PERFORMANCE
+Nobody performs an emotion here. The feeling is legible only through the exact physical events written in the choreography above, and through nothing else: no added expression, no widened eyes, no trembling lip, no theatrical breath. What is not written does not happen. Between the written events every body simply holds its last position, breathing, blinking and drifting a few millimetres, never frozen and never fidgeting.
+@Nora is STANDING for the entire generation — she never sits, never crouches, never leans over the rail, never climbs anything. She wears the dark navy nylon parka with the broken zip pull over the charcoal hoodie, hood down. Her hands are empty throughout: at her sides from [0.0s] to [2.6s], BOTH ON THE RAIL from [2.6s] to [10.4s], at her sides again after. She holds no object at any point.
+
+PHYSICS — WEIGHT, INERTIA, CONTACT
+Everything in frame has mass and obeys it. A body starts and stops with its own weight: it settles into a position rather than snapping into it, and a limb leads while the torso follows a beat later. Feet take the ground with real contact and real friction — on wet stone a step is slightly damped, never sliding, never skating. Clothing lags behind the body that moves it, keeps its own folds and swings back late; hair moves a beat behind the head and comes to rest slowly.
+Objects have the mass their material implies. A wooden door swings on its hinges at the speed its own weight allows: it starts slowly, gathers a little, and is slowed at the end by its own friction and the resistance of the hinge — it never floats, never snaps open, never accelerates on its own, and it never moves before something moves it. Hands deform what they touch: fingers flatten slightly against a hard surface, fabric compresses under a grip, a held object presses back. Nothing passes through anything. Nothing changes speed without a cause visible in the frame.
+
+CINEMATOGRAPHY
+Naturalistic available-light cinematography in the raw realist tradition. One motivated source at a time and no fill — a single bulb, a single window, a distant sodium lamp — with deep quiet blacks between them. Deliberately underexposed, roughly two thirds of a stop below normal, protecting the shadows and keeping real separation and texture inside them. Highlights restrained, never blown, holding texture in the filament and the wet stone. Low gentle contrast. Muted desaturated true-to-life colour: what survives is amber from a flame, sodium orange from a street, sea-green from tile — never a saturated hue, and never red.
+
+FILM EMULATION — THE SAME STOCK FROM THE FIRST FRAME TO THE LAST
+Shot on Kodak Vision3 500T 5219 tungsten colour negative, one stock, one lab, for the entire film, rated at box speed and printed flat. Cool naturalistic colour science; shadows falling slightly blue-green and holding real separation and texture inside them; skin tones understated, never warmed up, never rosy. Gentle contrast, soft highlight roll-off, highlights restrained and never blown, a faint halation ring blooming around every practical source. Moderate fine grain that grows in the underexposed areas and breathes with the exposure. Not glossy, not digital, not warm. Daylight scenes are the same stock corrected with an 85 filter, never a different look.
+
+CAMERA — OPERATED, NOT SIMULATED
+One anamorphic lens set throughout: slight barrel distortion at the frame edges, oval out-of-focus highlights, mild edge softness, faint vignetting, vintage lens character. Focus is pulled by a human hand — it arrives a few frames late, occasionally overshoots by a hair and settles back, and breathes with the operator's pace. Every held frame keeps a residual human weight in it, a drift of a few millimetres: never a locked robotic stillness, never a shake. No digital sharpening, no edge halos, no noise-reduction smear, no beauty retouching, no plastic skin, no CGI gloss.
+
+PHOTOGRAPHIC REALISM
+True skin texture with visible pores and fine hairs, real fabric weave, seams and wrinkles that crease with movement, worn surfaces with real wear, natural asymmetry, natural motion blur in every movement. Deliberately underexposed where the scene calls for it, protecting the shadows and retaining detail inside them: no banding, no posterisation, no crushed flat blacks, no smeared low-light noise, no digital mush.
+
+AUDIO
+SFX only. No music. No background music of any kind, no score, no drone, no ambient pad. Night wind, the boards creaking under her steps, the low tide-hum of the port beneath everything, a loose halyard clinking far off against a mast, a single car crossing the town below at [4.2s], her breathing audible and quick; then the line — one voice alone in the night, dry and unamplified, no reverb, no echo, no space added to it — and after it a long true silence with nothing in it but the wind, broken at [9.4s] by a dog barking twice, very far away. No reply of any kind. No door, no window, no voice. No music.
 
 POSITIVE CONSTRAINTS — CHECK EVERY FRAME AGAINST THESE
 Every named reference above is matched 100%: same face, same build, same wardrobe, same wear. Nobody is better groomed, better lit, better dressed or better rested than the shot before; wardrobe, hair, dirt, damage and wear do not improve or clean themselves up. Props stay exactly where the prop layout puts them. The light level, the weather and the time of day do not move inside this generation.
@@ -285,7 +320,8 @@ Nobody looks at the lens at any point. Nobody speaks except where DIALOGUE says 
 Every stroke of handwriting anywhere in frame is a dense abstract texture forming no characters, in no language, nowhere legible. No signage, no label, no digit, no subtitle, no caption is readable anywhere.
 One continuous uncut take at real-time speed, for the exact duration requested. No slow motion, no speed ramp, no added cut.
 
-NEGATIVE PROMPT a second person, a man, any figure or silhouette in any window, doorway or yard, a lit kitchen window framed directly, an insert of a window, a window lighting up or going dark, a curtain moving, a door opening, camera movement, camera tilt, camera pan, push-in toward any window, drift, any red anywhere, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, subjects looking at camera, visible camera rigs, slow motion, rain, thunder, an answering voice, reverb or echo on the voice, an amplified or processed voice, extra people in frame, extra gestures, improvised actions, wandering hands, laundry on the line, warm light on her face, a long written coat, any coated figure, theatrical acting, overacting, screaming, sobbing, rushed movements, uncanny smoothness, plastic skin, beauty filter, CGI look, video-game lighting, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness, generated music.
+AVOID
+a second person, a man, any figure or silhouette in any window, doorway or yard, a lit kitchen window framed directly, an insert of a window, a window lighting up or going dark, a curtain moving, a door opening, camera movement, camera tilt, camera pan, push-in toward any window, drift, any red anywhere, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, subjects looking at camera, visible camera rigs, slow motion, rain, thunder, an answering voice, reverb or echo on the voice, an amplified or processed voice, extra people in frame, extra gestures, improvised actions, wandering hands, laundry on the line, warm light on her face, a long written coat, any coated figure, theatrical acting, overacting, screaming, sobbing, rushed movements, uncanny smoothness, plastic skin, beauty filter, CGI look, video-game lighting, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness, generated music.
 ```
 
 
@@ -309,30 +345,21 @@ la voix : le cri doit tomber à plat dans la nuit. Si l'un des trois lâche, la 
 ### VIDÉO 6B-bis — SECOURS de 6B *(6 s · à ne lancer QUE si le shot 2 de 6B rate : une fenêtre allumée ou une silhouette entre au cadre, une lumière change pendant la réplique, ou la voix sort avec de l'écho · Elements : @Nora + @BackGallery · start frame : LIEU-09 IMAGE 3, au rail)*
 
 ```
+SCENE CONTEXT
+At midnight, at the rail of a rear gallery, a girl hesitates and throws one question out loud at the rooftops. Nothing answers. A dog barks twice, very far away. One single shot, no cut, tighter than the main version so that nothing in the world can enter the frame to answer her. She is the only living being on screen. Every second is choreographed below; nothing beyond it may be invented. 6 seconds, one continuous framing, no cut.
+
 CONTINUITY REFERENCE
 No previous shot is attached to this generation. This is the first shot of its chain: it sets the light, the grain and the skin rendering that every following shot will be matched to. Build every frame new from the references below, at full quality.
-
-Style prompt: A close section of the rear wooden gallery of a working-class triple-decker at midnight, desaturated grey-blue, framed so tightly that no window, no door and no walkway can enter the shot. Sodium street lamps from below and behind rake their dull orange upward, catching the underside of the rail, the curled paint flakes and the proud rusted nailheads, edging her jaw and shoulder from behind and lighting her breath into brief clouds; the cold deep blue of the night sky lies as a weak top fill; everything else falls to near-black, gently underexposed, blacks truly black. One single shot, no cut. Camera locked off, no movement of any kind, no handheld shake. Real-time pacing, long true silences.
-
-FILM EMULATION — THE SAME STOCK FROM THE FIRST FRAME TO THE LAST
-Shot on Kodak Vision3 500T 5219 tungsten colour negative, one stock, one lab, for the entire film, rated at box speed and printed flat. Cool naturalistic colour science; shadows falling slightly blue-green and holding real separation and texture inside them; skin tones understated, never warmed up, never rosy. Gentle contrast, soft highlight roll-off, highlights restrained and never blown, a faint halation ring blooming around every practical source. Moderate fine grain that grows in the underexposed areas and breathes with the exposure. Not glossy, not digital, not warm. Daylight scenes are the same stock corrected with an 85 filter, never a different look.
-
-CAMERA — OPERATED, NOT SIMULATED
-One anamorphic lens set throughout: slight barrel distortion at the frame edges, oval out-of-focus highlights, mild edge softness, faint vignetting, vintage lens character. Focus is pulled by a human hand — it arrives a few frames late, occasionally overshoots by a hair and settles back, and breathes with the operator's pace. Every held frame keeps a residual human weight in it, a drift of a few millimetres: never a locked robotic stillness, never a shake. No digital sharpening, no edge halos, no noise-reduction smear, no beauty retouching, no plastic skin, no CGI gloss.
-
-PHYSICS — WEIGHT, INERTIA, CONTACT
-Everything in frame has mass and obeys it. A body starts and stops with its own weight: it settles into a position rather than snapping into it, and a limb leads while the torso follows a beat later. Feet take the ground with real contact and real friction — on wet stone a step is slightly damped, never sliding, never skating. Clothing lags behind the body that moves it, keeps its own folds and swings back late; hair moves a beat behind the head and comes to rest slowly.
-Objects have the mass their material implies. A wooden door swings on its hinges at the speed its own weight allows: it starts slowly, gathers a little, and is slowed at the end by its own friction and the resistance of the hinge — it never floats, never snaps open, never accelerates on its own, and it never moves before something moves it. Hands deform what they touch: fingers flatten slightly against a hard surface, fabric compresses under a grip, a held object presses back. Nothing passes through anything. Nothing changes speed without a cause visible in the frame.
-
-PHOTOGRAPHIC REALISM
-True skin texture with visible pores and fine hairs, real fabric weave, seams and wrinkles that crease with movement, worn surfaces with real wear, natural asymmetry, natural motion blur in every movement. Deliberately underexposed where the scene calls for it, protecting the shadows and retaining detail inside them: no banding, no posterisation, no crushed flat blacks, no smeared low-light noise, no digital mush.
-
-WORLD — AFTER
-A grey-blue world, gently underexposed, roughly two thirds of a stop below normal. Sparse motivated sources only — one bulb, one window, one sodium lamp — and deep quiet blacks between them. Colour is drained but not absent: what survives is amber from a flame, sodium orange from a street, sea-green from tile. Never a saturated hue. No red anywhere, flames included.
 
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
 @BackGallery: The back gallery at night under sodium, wet concrete, iron rail. 100% matches the reference.
+
+LOCATION MAP
+Framing 1 [0.0-6.0s] — camera: Medium close along the rail, three-quarter left profile, eye level, camera about 160 cm high and 1.2 m from her, static, locked off, one stop tighter than the main version so the frame is filled by her, the rail and the night alone.
+Every distance, height and frame position given above is literal and is held exactly; nothing drifts toward a more flattering angle.
+
+FIRST FRAME AND SPATIAL BLOCKING The generation opens on this exact frame: Medium close along the rail, three-quarter left profile, eye level, camera about 160 cm high and 1.2 m from her, static, locked off, one stop tighter than the main version so the frame is filled by her, the rail and the night alone. Starting positions, held until described otherwise: @Nora at x=45%, filling 82% of frame height, in three-quarter left profile facing the dark rooftops screen-left, both hands on the rail, weight forward, head slightly bowed. Her breath fast and shallow, visible in the cold. Expression: a tired face with two things fighting on it, neither of them named. This is the frame the first video frame must already be, before anything moves: nothing is settling into place, nothing fades up, nothing is mid-transition.
 
 FORMAT MODE
 One single continuous uncut take, 6 seconds long, at real-time speed. No cut, no montage, no dissolve, no speed ramp, no slow motion.
@@ -340,13 +367,9 @@ One single continuous uncut take, 6 seconds long, at real-time speed. No cut, no
 OPTICS
 Anamorphic 85 mm f/2 equivalent. Depth of field wide open at that stop: the plane described in the FRAME MAP is tack sharp and everything behind it falls off progressively. Focus holds on that plane and breathes naturally with the camera's movement — no deliberate rack focus unless the FRAME MAP calls for one.
 
-SCENE At midnight, at the rail of a rear gallery, a girl hesitates and throws one question out loud at the rooftops. Nothing answers. A dog barks twice, very far away. One single shot, no cut, tighter than the main version so that nothing in the world can enter the frame to answer her. She is the only living being on screen. Every second is choreographed below; nothing beyond it may be invented.
-
 CONTINUITY LOCK Every prop named in the layout appears in the frame where its surface is visible, in the same position and state — nothing appears, disappears, multiplies or moves unless the choreography says so. Her posture (STANDING) is stated below and never changes; her hands are empty and stay on the rail. THE WORLD DOES NOT ANSWER: no light anywhere changes brightness, no window lights up or goes dark, no curtain moves, no door opens, no shape appears at any point, before, during or after the line. NO WINDOW, NO DOOR AND NO WALKWAY IS IN THIS FRAME AT ALL.
 
 PROP LAYOUT — FIXED The painted rail crossing the frame from the lower left foreground toward mid-frame, its turned balusters and rust-streaked brackets below it. The empty washing line sagging through the upper frame — no laundry, not one garment, ever. Beyond the rail, soft and far, dark rooftops and back yards; screen-right, soft, the receding rails of the flats above and below. Nothing else is in frame; no door, no window, no lit rectangle, no threshold. Matter and wear, precise: the rail is grey over green over an older white, the layers curling and flaking, rubbed to bare silvered wood along the top at x=45% where hands have rested for decades; the balusters are chipped at their turnings, two of them replaced with plain sticks; rust bleeds from the brackets down the posts; the cord of the line is grey-green, slackened and frayed, its fibres fuzzed along the sag, a few wooden pegs left clipped to it, one split.
-
-POSTURE LOCK @Nora is STANDING for the entire generation — she never sits, never crouches, never leans over the rail, never steps away, never turns her back to camera. She wears the dark navy nylon parka with the broken zip pull over the charcoal hoodie, hood down. Both hands are on the rail from [0.0s] to the end, knuckles pale with grip; she holds no object at any point.
 
 FRAME MAP & CHOREOGRAPHY — SECOND BY SECOND
 
@@ -369,7 +392,30 @@ DIALOGUE [1.6-3.4s] @Nora, out loud to the night, thrown at the rooftops, louder
 
 LAST FRAME Her three-quarter left profile at the rail, both hands still on the worn bare-wood top, her eyes open again on the dark rooftops, one last cloud of breath in the sodium, the empty washing line sagging above, the night behind her unchanged — nothing has answered.
 
-AUDIO Night wind, the low tide-hum of the port beneath everything, a loose halyard clinking far off against a mast, her breathing audible and quick; then the line — one voice alone in the night, dry and unamplified, no reverb, no echo, no space added to it — and after it a long true silence with nothing in it but the wind, broken at [4.4s] by a dog barking twice, very far away. No reply of any kind. No door, no window, no voice. No music.
+
+
+CHARACTER PERFORMANCE
+Nobody performs an emotion here. The feeling is legible only through the exact physical events written in the choreography above, and through nothing else: no added expression, no widened eyes, no trembling lip, no theatrical breath. What is not written does not happen. Between the written events every body simply holds its last position, breathing, blinking and drifting a few millimetres, never frozen and never fidgeting.
+@Nora is STANDING for the entire generation — she never sits, never crouches, never leans over the rail, never steps away, never turns her back to camera. She wears the dark navy nylon parka with the broken zip pull over the charcoal hoodie, hood down. Both hands are on the rail from [0.0s] to the end, knuckles pale with grip; she holds no object at any point.
+
+PHYSICS — WEIGHT, INERTIA, CONTACT
+Everything in frame has mass and obeys it. A body starts and stops with its own weight: it settles into a position rather than snapping into it, and a limb leads while the torso follows a beat later. Feet take the ground with real contact and real friction — on wet stone a step is slightly damped, never sliding, never skating. Clothing lags behind the body that moves it, keeps its own folds and swings back late; hair moves a beat behind the head and comes to rest slowly.
+Objects have the mass their material implies. A wooden door swings on its hinges at the speed its own weight allows: it starts slowly, gathers a little, and is slowed at the end by its own friction and the resistance of the hinge — it never floats, never snaps open, never accelerates on its own, and it never moves before something moves it. Hands deform what they touch: fingers flatten slightly against a hard surface, fabric compresses under a grip, a held object presses back. Nothing passes through anything. Nothing changes speed without a cause visible in the frame.
+
+CINEMATOGRAPHY
+Naturalistic available-light cinematography in the raw realist tradition. One motivated source at a time and no fill — a single bulb, a single window, a distant sodium lamp — with deep quiet blacks between them. Deliberately underexposed, roughly two thirds of a stop below normal, protecting the shadows and keeping real separation and texture inside them. Highlights restrained, never blown, holding texture in the filament and the wet stone. Low gentle contrast. Muted desaturated true-to-life colour: what survives is amber from a flame, sodium orange from a street, sea-green from tile — never a saturated hue, and never red.
+
+FILM EMULATION — THE SAME STOCK FROM THE FIRST FRAME TO THE LAST
+Shot on Kodak Vision3 500T 5219 tungsten colour negative, one stock, one lab, for the entire film, rated at box speed and printed flat. Cool naturalistic colour science; shadows falling slightly blue-green and holding real separation and texture inside them; skin tones understated, never warmed up, never rosy. Gentle contrast, soft highlight roll-off, highlights restrained and never blown, a faint halation ring blooming around every practical source. Moderate fine grain that grows in the underexposed areas and breathes with the exposure. Not glossy, not digital, not warm. Daylight scenes are the same stock corrected with an 85 filter, never a different look.
+
+CAMERA — OPERATED, NOT SIMULATED
+One anamorphic lens set throughout: slight barrel distortion at the frame edges, oval out-of-focus highlights, mild edge softness, faint vignetting, vintage lens character. Focus is pulled by a human hand — it arrives a few frames late, occasionally overshoots by a hair and settles back, and breathes with the operator's pace. Every held frame keeps a residual human weight in it, a drift of a few millimetres: never a locked robotic stillness, never a shake. No digital sharpening, no edge halos, no noise-reduction smear, no beauty retouching, no plastic skin, no CGI gloss.
+
+PHOTOGRAPHIC REALISM
+True skin texture with visible pores and fine hairs, real fabric weave, seams and wrinkles that crease with movement, worn surfaces with real wear, natural asymmetry, natural motion blur in every movement. Deliberately underexposed where the scene calls for it, protecting the shadows and retaining detail inside them: no banding, no posterisation, no crushed flat blacks, no smeared low-light noise, no digital mush.
+
+AUDIO
+SFX only. No music. No background music of any kind, no score, no drone, no ambient pad. Night wind, the low tide-hum of the port beneath everything, a loose halyard clinking far off against a mast, her breathing audible and quick; then the line — one voice alone in the night, dry and unamplified, no reverb, no echo, no space added to it — and after it a long true silence with nothing in it but the wind, broken at [4.4s] by a dog barking twice, very far away. No reply of any kind. No door, no window, no voice. No music.
 
 POSITIVE CONSTRAINTS — CHECK EVERY FRAME AGAINST THESE
 Every named reference above is matched 100%: same face, same build, same wardrobe, same wear. Nobody is better groomed, better lit, better dressed or better rested than the shot before; wardrobe, hair, dirt, damage and wear do not improve or clean themselves up. Props stay exactly where the prop layout puts them. The light level, the weather and the time of day do not move inside this generation.
@@ -378,7 +424,8 @@ Nobody looks at the lens at any point. Nobody speaks except where DIALOGUE says 
 Every stroke of handwriting anywhere in frame is a dense abstract texture forming no characters, in no language, nowhere legible. No signage, no label, no digit, no subtitle, no caption is readable anywhere.
 One continuous uncut take at real-time speed, for the exact duration requested. No slow motion, no speed ramp, no added cut.
 
-NEGATIVE PROMPT a second person, a man, any figure or silhouette anywhere, a window in frame, a door in frame, a lit rectangle of light in frame, a window lighting up or going dark, a curtain moving, camera movement, camera tilt, camera pan, drift, any red anywhere, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, subjects looking at camera, visible camera rigs, slow motion, rain, thunder, an answering voice, reverb or echo on the voice, an amplified or processed voice, extra people in frame, extra gestures, improvised actions, wandering hands, laundry on the line, warm light on her face, a long written coat, any coated figure, theatrical acting, overacting, screaming, sobbing, rushed movements, uncanny smoothness, plastic skin, beauty filter, CGI look, video-game lighting, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness, generated music.
+AVOID
+a second person, a man, any figure or silhouette anywhere, a window in frame, a door in frame, a lit rectangle of light in frame, a window lighting up or going dark, a curtain moving, camera movement, camera tilt, camera pan, drift, any red anywhere, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, subjects looking at camera, visible camera rigs, slow motion, rain, thunder, an answering voice, reverb or echo on the voice, an amplified or processed voice, extra people in frame, extra gestures, improvised actions, wandering hands, laundry on the line, warm light on her face, a long written coat, any coated figure, theatrical acting, overacting, screaming, sobbing, rushed movements, uncanny smoothness, plastic skin, beauty filter, CGI look, video-game lighting, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness, generated music.
 ```
 
 
@@ -396,31 +443,22 @@ l'endroit — c'est le même axe, la même lumière, le même costume.*
 ## VIDÉO 6C — plan 6.3 « L'escalier » *(8 s de rushes → 5 s au montage · Elements : @Nora + @Sam + @NoraBedroom · start frame : LIEU-08 IMAGE 4, le palier, porte entrouverte 10 cm)*
 
 ```
+SCENE CONTEXT
+A father stands in the dark landing outside his daughter's door, just arrived at the top of the stairs, and asks one quiet question. She answers through the gap without opening it. The door closes. He stays where he is. One single static shot, no cut. Whether he heard anything tonight is never answered — his face is never lit, his expression never readable, and she never asks him anything. Every second is choreographed below; nothing beyond it may be invented. 8 seconds, one continuous framing, no cut.
+
 CONTINUITY REFERENCE
 @Video 1: an earlier shot from the same film (6B), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level, its composition or any of its frames: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything is built new, at full quality.
-
-Style prompt: A near-black upstairs landing at night in a working-class family home, at the top of the stairs. The only light is the thin blade of cold blue and sodium light escaping through the girl's bedroom door, ajar ten centimetres, lying across the bare floorboards toward camera. The man exists only as an unlit grey silhouette against deeper black — no light of any kind ever touches his face, at any point, and his expression never resolves. Deep crushed blacks, desaturated, gently underexposed, sparse motivated sources. Camera locked off, no handheld shake. Real-time pacing, long true silences.
-
-FILM EMULATION — THE SAME STOCK FROM THE FIRST FRAME TO THE LAST
-Shot on Kodak Vision3 500T 5219 tungsten colour negative, one stock, one lab, for the entire film, rated at box speed and printed flat. Cool naturalistic colour science; shadows falling slightly blue-green and holding real separation and texture inside them; skin tones understated, never warmed up, never rosy. Gentle contrast, soft highlight roll-off, highlights restrained and never blown, a faint halation ring blooming around every practical source. Moderate fine grain that grows in the underexposed areas and breathes with the exposure. Not glossy, not digital, not warm. Daylight scenes are the same stock corrected with an 85 filter, never a different look.
-
-CAMERA — OPERATED, NOT SIMULATED
-One anamorphic lens set throughout: slight barrel distortion at the frame edges, oval out-of-focus highlights, mild edge softness, faint vignetting, vintage lens character. Focus is pulled by a human hand — it arrives a few frames late, occasionally overshoots by a hair and settles back, and breathes with the operator's pace. Every held frame keeps a residual human weight in it, a drift of a few millimetres: never a locked robotic stillness, never a shake. No digital sharpening, no edge halos, no noise-reduction smear, no beauty retouching, no plastic skin, no CGI gloss.
-
-PHYSICS — WEIGHT, INERTIA, CONTACT
-Everything in frame has mass and obeys it. A body starts and stops with its own weight: it settles into a position rather than snapping into it, and a limb leads while the torso follows a beat later. Feet take the ground with real contact and real friction — on wet stone a step is slightly damped, never sliding, never skating. Clothing lags behind the body that moves it, keeps its own folds and swings back late; hair moves a beat behind the head and comes to rest slowly.
-Objects have the mass their material implies. A wooden door swings on its hinges at the speed its own weight allows: it starts slowly, gathers a little, and is slowed at the end by its own friction and the resistance of the hinge — it never floats, never snaps open, never accelerates on its own, and it never moves before something moves it. Hands deform what they touch: fingers flatten slightly against a hard surface, fabric compresses under a grip, a held object presses back. Nothing passes through anything. Nothing changes speed without a cause visible in the frame.
-
-PHOTOGRAPHIC REALISM
-True skin texture with visible pores and fine hairs, real fabric weave, seams and wrinkles that crease with movement, worn surfaces with real wear, natural asymmetry, natural motion blur in every movement. Deliberately underexposed where the scene calls for it, protecting the shadows and retaining detail inside them: no banding, no posterisation, no crushed flat blacks, no smeared low-light noise, no digital mush.
-
-WORLD — AFTER
-A grey-blue world, gently underexposed, roughly two thirds of a stop below normal. Sparse motivated sources only — one bulb, one window, one sodium lamp — and deep quiet blacks between them. Colour is drained but not absent: what survives is amber from a flame, sodium orange from a street, sea-green from tile. Never a saturated hue. No red anywhere, flames included.
 
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
 @Sam: Sam two years later, a month of badly trimmed beard, ten kilos heavier, grey under the eyes. Two years without speaking — not sullen, emptied. He moves through his own house like a guest, shoulders forward, eyes down and to the side. Every gesture is finished; none is explained. 100% matches the reference.
 @NoraBedroom: Nora's bedroom and the landing outside it, grey and underexposed, one narrow sodium band under the door. 100% matches the reference.
+
+LOCATION MAP
+Framing 1 [0.0-8.0s] — camera: Single fixed shot down the landing, eye level, camera about 160 cm high at the top of the stairs, static, locked off. No cut, no reframe, no drift — exactly the axis of the reference angle: the bedroom door screen-right at x=68% ajar ten centimetres, the blade of light lying across the boards toward camera, the stair rail's top post screen-left at x=15%, near-black everywhere else.
+Every distance, height and frame position given above is literal and is held exactly; nothing drifts toward a more flattering angle.
+
+FIRST FRAME AND SPATIAL BLOCKING The generation opens on this exact frame: Single fixed shot down the landing, eye level, camera about 160 cm high at the top of the stairs, static, locked off. No cut, no reframe, no drift — exactly the axis of the reference angle: the bedroom door screen-right at x=68% ajar ten centimetres, the blade of light lying across the boards toward camera, the stair rail's top post screen-left at x=15%, near-black everywhere else. Starting positions, held until described otherwise: @Sam a grey silhouette at x=32%, filling 74% of frame height, three-quarter back to camera, facing the lit door gap, arms at his sides, weight even on both feet, the heavy shoulders slightly slumped, the head a fraction forward. The blade of light on the boards does not touch him and never will. In the gap at x=68%: the sliver of @Nora — one eye, part of a pale cheek, dark hair, the navy edge of her collar — her face half turned away. This is the frame the first video frame must already be, before anything moves: nothing is settling into place, nothing fades up, nothing is mid-transition.
 
 FORMAT MODE
 One single continuous uncut take, 8 seconds long, at real-time speed. No cut, no montage, no dissolve, no speed ramp, no slow motion.
@@ -428,13 +466,9 @@ One single continuous uncut take, 8 seconds long, at real-time speed. No cut, no
 OPTICS
 Anamorphic 50 mm f/2 equivalent. Depth of field wide open at that stop: the plane described in the FRAME MAP is tack sharp and everything behind it falls off progressively. Focus holds on that plane and breathes naturally with the camera's movement — no deliberate rack focus unless the FRAME MAP calls for one.
 
-SCENE A father stands in the dark landing outside his daughter's door, just arrived at the top of the stairs, and asks one quiet question. She answers through the gap without opening it. The door closes. He stays where he is. One single static shot, no cut. Whether he heard anything tonight is never answered — his face is never lit, his expression never readable, and she never asks him anything. Every second is choreographed below; nothing beyond it may be invented.
-
 CONTINUITY LOCK Every prop named in the layout appears in EVERY frame where its surface is visible, in the same position and state — nothing appears, disappears, multiplies or moves unless the choreography says so. Each character's posture (SEATED or STANDING) is stated at the top of the shot and never changes off-screen. Neither character holds any object at any point, and no object may materialise in anyone's hand. THE ONLY THING THAT MOVES IN THIS GENERATION IS THE DOOR, and only when the choreography says so. NO GARMENT IS EVER AN OBJECT IN THIS HOUSE: nothing hangs on any hook, nothing is folded, nothing is laid down, and no long written coat exists anywhere in this generation, in any frame, in any corner.
 
 PROP LAYOUT — FIXED The dark landing at the top of the stairs. @Nora's bedroom door screen-right at x=68%, ajar ten centimetres; through the gap, a vertical sliver of @NoraBedroom — cold blue-white and sodium orange — and the blade of that light across the bare floorboards toward camera. The stair rail's top post screen-left at x=15%, barely separable from the dark. Nothing else is readable in the black: no hook, no coat, no bag, no shoes, no mirror, no glass, no picture, no furniture. Matter and wear, precise: the boards are cupped and gappy where the blade grazes them, worn pale along the walk-line, their nail heads dark and slightly proud; the skirting's paint is bruised at ankle height; the door's paint is thickened by old repaints and chipped around the latch, the latch plate scratched bright around the tongue, the handle tarnished and slightly loose; the rail post's varnish is rubbed dull and slightly sticky from decades of hands.
-
-POSTURE LOCK @Sam is STANDING for the entire generation, hands empty at his sides, and never moves from where he stands — he never steps forward, never steps back, never turns away, never reaches for the door, never touches anything. He is rendered ONLY as an unlit grey silhouette: outline and posture, never features, never skin, never eyes. @Nora is STANDING behind the door for the entire generation, visible only as a vertical sliver in the ten-centimetre gap: one eye, part of a cheek, strands of dark hair, and the dark navy edge of her parka collar. She never opens the door wider, never steps into the gap, never leans out.
 
 FRAME MAP & CHOREOGRAPHY — SECOND BY SECOND
 
@@ -462,7 +496,30 @@ DIALOGUE [1.5-2.4s] @Sam, quiet, low, rusty from disuse, almost swallowed: "You 
 
 LAST FRAME The near-black landing, the bedroom door shut, the blade of light gone, the father's silhouette motionless at x=32% facing the closed door, arms at his sides, barely separable from the dark, nothing lit anywhere in frame.
 
-AUDIO The house settling, one click of wood below at [0.7s], a water pipe ticking somewhere as it cools, the muffled night of the street barely reaching through the walls; his breathing, slow; hers behind the door, a little quicker; the two lines quiet and unhurried with a real silence between them; the slow swing of the door and one soft click of the latch at [5.9s]; then only his breathing and the house. No footsteps. No stairs. No music.
+
+
+CHARACTER PERFORMANCE
+Nobody performs an emotion here. The feeling is legible only through the exact physical events written in the choreography above, and through nothing else: no added expression, no widened eyes, no trembling lip, no theatrical breath. What is not written does not happen. Between the written events every body simply holds its last position, breathing, blinking and drifting a few millimetres, never frozen and never fidgeting.
+@Sam is STANDING for the entire generation, hands empty at his sides, and never moves from where he stands — he never steps forward, never steps back, never turns away, never reaches for the door, never touches anything. He is rendered ONLY as an unlit grey silhouette: outline and posture, never features, never skin, never eyes. @Nora is STANDING behind the door for the entire generation, visible only as a vertical sliver in the ten-centimetre gap: one eye, part of a cheek, strands of dark hair, and the dark navy edge of her parka collar. She never opens the door wider, never steps into the gap, never leans out.
+
+PHYSICS — WEIGHT, INERTIA, CONTACT
+Everything in frame has mass and obeys it. A body starts and stops with its own weight: it settles into a position rather than snapping into it, and a limb leads while the torso follows a beat later. Feet take the ground with real contact and real friction — on wet stone a step is slightly damped, never sliding, never skating. Clothing lags behind the body that moves it, keeps its own folds and swings back late; hair moves a beat behind the head and comes to rest slowly.
+Objects have the mass their material implies. A wooden door swings on its hinges at the speed its own weight allows: it starts slowly, gathers a little, and is slowed at the end by its own friction and the resistance of the hinge — it never floats, never snaps open, never accelerates on its own, and it never moves before something moves it. Hands deform what they touch: fingers flatten slightly against a hard surface, fabric compresses under a grip, a held object presses back. Nothing passes through anything. Nothing changes speed without a cause visible in the frame.
+
+CINEMATOGRAPHY
+Naturalistic available-light cinematography in the raw realist tradition. One motivated source at a time and no fill — a single bulb, a single window, a distant sodium lamp — with deep quiet blacks between them. Deliberately underexposed, roughly two thirds of a stop below normal, protecting the shadows and keeping real separation and texture inside them. Highlights restrained, never blown, holding texture in the filament and the wet stone. Low gentle contrast. Muted desaturated true-to-life colour: what survives is amber from a flame, sodium orange from a street, sea-green from tile — never a saturated hue, and never red.
+
+FILM EMULATION — THE SAME STOCK FROM THE FIRST FRAME TO THE LAST
+Shot on Kodak Vision3 500T 5219 tungsten colour negative, one stock, one lab, for the entire film, rated at box speed and printed flat. Cool naturalistic colour science; shadows falling slightly blue-green and holding real separation and texture inside them; skin tones understated, never warmed up, never rosy. Gentle contrast, soft highlight roll-off, highlights restrained and never blown, a faint halation ring blooming around every practical source. Moderate fine grain that grows in the underexposed areas and breathes with the exposure. Not glossy, not digital, not warm. Daylight scenes are the same stock corrected with an 85 filter, never a different look.
+
+CAMERA — OPERATED, NOT SIMULATED
+One anamorphic lens set throughout: slight barrel distortion at the frame edges, oval out-of-focus highlights, mild edge softness, faint vignetting, vintage lens character. Focus is pulled by a human hand — it arrives a few frames late, occasionally overshoots by a hair and settles back, and breathes with the operator's pace. Every held frame keeps a residual human weight in it, a drift of a few millimetres: never a locked robotic stillness, never a shake. No digital sharpening, no edge halos, no noise-reduction smear, no beauty retouching, no plastic skin, no CGI gloss.
+
+PHOTOGRAPHIC REALISM
+True skin texture with visible pores and fine hairs, real fabric weave, seams and wrinkles that crease with movement, worn surfaces with real wear, natural asymmetry, natural motion blur in every movement. Deliberately underexposed where the scene calls for it, protecting the shadows and retaining detail inside them: no banding, no posterisation, no crushed flat blacks, no smeared low-light noise, no digital mush.
+
+AUDIO
+SFX only. No music. No background music of any kind, no score, no drone, no ambient pad. The house settling, one click of wood below at [0.7s], a water pipe ticking somewhere as it cools, the muffled night of the street barely reaching through the walls; his breathing, slow; hers behind the door, a little quicker; the two lines quiet and unhurried with a real silence between them; the slow swing of the door and one soft click of the latch at [5.9s]; then only his breathing and the house. No footsteps. No stairs. No music.
 
 POSITIVE CONSTRAINTS — CHECK EVERY FRAME AGAINST THESE
 Every named reference above is matched 100%: same face, same build, same wardrobe, same wear. Nobody is better groomed, better lit, better dressed or better rested than the shot before; wardrobe, hair, dirt, damage and wear do not improve or clean themselves up. Props stay exactly where the prop layout puts them. The light level, the weather and the time of day do not move inside this generation.
@@ -471,7 +528,8 @@ Nobody looks at the lens at any point. Nobody speaks except where DIALOGUE says 
 Every stroke of handwriting anywhere in frame is a dense abstract texture forming no characters, in no language, nowhere legible. No signage, no label, no digit, no subtitle, no caption is readable anywhere.
 One continuous uncut take at real-time speed, for the exact duration requested. No slow motion, no speed ramp, no added cut.
 
-NEGATIVE PROMPT the man's face visible, the man's eyes, the man's profile lit, any light on the man's face or body, a rim of light on his cheek, a readable expression on the man, the man stepping forward, the man reaching for the door, the man turning away, the man going down the stairs, the door slamming, the door reopening, the girl opening the door wider, the girl leaning out, the girl fully visible, the girl asking a question, the girl saying a name, the girl frowning, a doubtful or suspicious look, a third person, a silhouette on the stairs, a shape at the bottom of the stairwell, a long written coat, any coated figure, a coat on a hook, any red anywhere, a second light source, a lamp switching on, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, subjects looking at camera, visible camera rigs, camera movement, dolly, pan, zoom, handheld shake, slow motion, morphing objects, extra people in frame, extra gestures, improvised actions, wandering hands, repositioned props, appearing or disappearing objects, footsteps walking away, hurried dialogue, characters answering instantly, theatrical acting, overacting, warm lamps, uncanny smoothness, plastic skin, beauty filter, CGI look, video-game lighting, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness, generated music.
+AVOID
+the man's face visible, the man's eyes, the man's profile lit, any light on the man's face or body, a rim of light on his cheek, a readable expression on the man, the man stepping forward, the man reaching for the door, the man turning away, the man going down the stairs, the door slamming, the door reopening, the girl opening the door wider, the girl leaning out, the girl fully visible, the girl asking a question, the girl saying a name, the girl frowning, a doubtful or suspicious look, a third person, a silhouette on the stairs, a shape at the bottom of the stairwell, a long written coat, any coated figure, a coat on a hook, any red anywhere, a second light source, a lamp switching on, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, subjects looking at camera, visible camera rigs, camera movement, dolly, pan, zoom, handheld shake, slow motion, morphing objects, extra people in frame, extra gestures, improvised actions, wandering hands, repositioned props, appearing or disappearing objects, footsteps walking away, hurried dialogue, characters answering instantly, theatrical acting, overacting, warm lamps, uncanny smoothness, plastic skin, beauty filter, CGI look, video-game lighting, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness, generated music.
 ```
 
 
