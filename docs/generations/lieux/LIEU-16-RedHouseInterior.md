@@ -136,6 +136,36 @@ The strokes are a dense abstract texture forming no characters, in no language, 
 
 ---
 
+## §v2 — GÉNÉRÉES le 01/09/2026 *(GPT Image 2 · 4K · high · 21:9)*
+
+| | Image | Job ID | Référence utilisée |
+|---|---|---|---|
+| **A** | Le master, ampoule allumée | `f2ebd4b6-8ec3-4da2-9297-4cd7737e1a60` | — *(tête)* |
+| **B** | La plage de plâtre vide | `1ccf6d1d-bb37-4923-ae31-bf4b9204f080` | **A** |
+| **C** | Les braises, vue d'ensemble | `46ede9ac-25ba-43b4-8fd1-a180a856f80f` | **A** |
+| **D** | Les braises au ras du sol | `ba0172c7-9ed0-45d2-8c0c-316161173ac4` | **A** |
+
+Coût : 4 × 14 crédits = **56 crédits (~$4,50)**.
+
+⚠ **Ces quatre images sont des PRÉVISUALISATIONS.** Elles sont nées **hors du projet festival**
+(Cinema Studio) : le règlement exige que les fichiers livrés soient générés *dans* le projet et y
+restent. Elles servent à valider la direction — **les versions définitives sont à régénérer dans le
+projet festival**, avec exactement les mêmes prompts.
+
+**À vérifier à l'œil avant de valider** *(les cinq pièges, dans l'ordre)* :
+
+1. **A** — une **ampoule à filament**, pas une flamme, pas une lampe à pétrole.
+2. **A** — le rouge est **crayeux et mat**, pas néon, pas saturé.
+3. **C et D** — **aucune source visible** : ni lampe allumée, ni bougie, ni rayon. Seuls les traits
+   éclairent. Si une source apparaît, l'image est fausse.
+4. **B** — la plage centrale est **absolument vide**. Le moindre trait, la moindre forme dessus =
+   à refaire *(le dragon s'incruste en post, c'est le fichier du plan 2.4)*.
+5. **Les quatre** — **aucun trait lisible**. L'écriture est une texture, dans aucune langue.
+
+Si A passe les cinq : **l'enregistrer comme Élément `@RedHouseInterior`** *(écrase l'ancien)*.
+
+---
+
 **Les cinq pièges de ce lieu**
 
 1. **L'ampoule, jamais une flamme.** C'est elle qui charge le pigment (règle H). Une flamme au rush = prise à refaire.
