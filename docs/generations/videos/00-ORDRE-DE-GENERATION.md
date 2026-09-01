@@ -56,6 +56,61 @@ Aucune des deux ne dépend de l'autre. Puis vous vous partagez S2 et S3.
 
 ---
 
+# 👥 QUI GÉNÈRE QUOI — à deux
+
+Les 7 chaînes sont indépendantes : **vous ne vous marchez jamais dessus.**
+
+## 👤 DAVID — la fin du film · 15 plans · **tout dans `VIDEO-SEQ-10.md`**
+
+| Chaîne | Plans, dans l'ordre |
+|---|---|
+| 🟥 **S4** | `10A → 10B → 10C` |
+| 🟥 **S5** | `10D-1 → 10D-2 → 10E → 10F-1 → 10F-2 → 10F-3 → 10F-4 → 10H → 10I → 10J` |
+| 🌤 **S6** | `10K` — l'hôpital, isolé des deux côtés |
+| ⬛ **S7** | `10L` — le dernier plan, **chaîné sur 10H**, pas sur 10K |
+
+**Pourquoi lui** : c'est tout ce qui peut rater. Le rouge, les braises, le visage de Nora,
+les yeux du père. Ça ne se délègue pas.
+
+## 👤 LE SECOND — l'ouverture · 14 plans · **`VIDEO-SEQ-01`, `-02`, `-03`**
+
+| Chaîne | Plans, dans l'ordre |
+|---|---|
+| 🌤 **S1** | `1A → 1B → 1C → 1D → 2A → 2B → 2C → 2D → 3A → 3B → 3C → 3D → 3E → 3F` |
+
+**Pourquoi lui** : la chaîne la plus sûre techniquement — une cuisine, un quai, un hôpital,
+de la lumière franche. Et elle démarre sur la vraie vidéo des toasts filmée par David.
+
+### ⚠ Les trois choses à lui dire, sinon il casse le film
+
+1. **`3A → 3B` : carte 🎞 B, JAMAIS 🔗 A.** C'est là que la clarté se retire. Transmettre la
+   lumière de la cuisine à l'hôpital annule la bascule du film.
+2. **`3F` est son dernier plan.** Il ne touche pas à la séquence 4.
+3. **Il valide chaque clip AVANT de générer le suivant.** Un plan tiède contamine les 13 suivants.
+
+## 👥 ENSUITE, à deux — les 27 plans du milieu
+
+| Chaîne | Plans | |
+|---|---|---|
+| 🕯 **S3** | 5 | `4E → 4F → 4G → 4H → 4I` — le souvenir russe |
+| ⬛ **S2** | 22 | `4A → … → 9C` — la longue traversée grise |
+
+S3 et S2 sont **parallèles** (souvenir / présent, jamais reliés) : un chacun.
+
+---
+
+# 📌 LES DÉCISIONS PRISES — ne pas les rouvrir
+
+| Décision | Pourquoi |
+|---|---|
+| **Chaîner, jamais de multishot** | Le jury note la **réalisation**. Réaliser, c'est choisir où on coupe. Un multishot donne la coupe au modèle. |
+| **Deux valeurs = deux générations** | Le serré chaîné sur le large en 🔗 A. Même continuité qu'un multishot, mais la coupe reste à toi. |
+| **Un seul modèle pour tout le film** | Deux modèles dans un même film, ça se voit. Une fois l'A/B tranché, on n'en change plus. |
+| **1080p, pas d'upscale 4K** | Le festival dit « jusqu'à 4K » : c'est un plafond, pas une exigence. L'upscale coûte ~37 crédits par clip et invente du détail. |
+| **Génération dans le projet festival Cinema Studio** | Règle du concours : les assets doivent y rester pour vérification. |
+
+---
+
 # LE TABLEAU — les 56 plans
 
 ## 🌤 S1 — LE MONDE CLAIR · 14 plans · 139 s de rushes
