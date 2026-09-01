@@ -156,7 +156,7 @@ SHOT 1 [0.0-12.0s] | CAM: wide from just inside the doorway, eye level 160 cm, l
 
 SUBJECT LOCK, NORA The exact girl of @Nora — fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Navy parka over charcoal hoodie, dark indigo jeans, scuffed off-white sneakers. NOTHING RED ON HER, no jewellery. She never looks at the lens.
 
-CROSS-FRAME RULES Same room in every frame, props in their positions. She is alone. The strokes are a dense abstract texture forming no characters, in no language, nowhere legible. NO INVENTED ACTION, PERFORMANCE PACING and CONTINUITY LOCK apply as written above.
+CROSS-FRAME RULES Same room in every frame, props in their positions. She is alone. The writing is real handwriting laid out in straight horizontal lines — word-shaped clusters separated by spaces, gathered into sentences and paragraphs — in an invented cursive alphabet whose characters recur again and again the way a real alphabet's do. Unmistakably a script, but no script that exists on earth, and not one word readable in any language: it reads as writing from across the room and as nothing at all up close. Never random scribble, never a scrawl, never abstract mark-making, never decorative squiggles. NO INVENTED ACTION, PERFORMANCE PACING and CONTINUITY LOCK apply as written above.
 
 LOCATION @RedHouseInterior — one downstairs room of an old cottage: cracked plaster written over from skirting to a man's height in dense dark red looping cursive strokes; wide worn boards; a written staircase; a small window, black night behind.
 
@@ -213,7 +213,7 @@ SHOT 2 [4.4-10.0s] | CAM: the front door from inside, chest height 140 cm, three
 
 SUBJECT LOCK, NORA The exact girl of @Nora — fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Navy parka over charcoal hoodie, dark indigo jeans, scuffed off-white sneakers. NOTHING RED ON HER, no jewellery. She never looks at the lens.
 
-CROSS-FRAME RULES Same room, wall and strokes in both shots. She is alone. The strokes are a dense abstract texture forming no characters, in no language, nowhere legible. The clear patch is bare plaster and stays bare. NO INVENTED ACTION, PERFORMANCE PACING and CONTINUITY LOCK apply as written above.
+CROSS-FRAME RULES Same room, wall and strokes in both shots. She is alone. The writing is real handwriting laid out in straight horizontal lines — word-shaped clusters separated by spaces, gathered into sentences and paragraphs — in an invented cursive alphabet whose characters recur again and again the way a real alphabet's do. Unmistakably a script, but no script that exists on earth, and not one word readable in any language: it reads as writing from across the room and as nothing at all up close. Never random scribble, never a scrawl, never abstract mark-making, never decorative squiggles. The clear patch is bare plaster and stays bare. NO INVENTED ACTION, PERFORMANCE PACING and CONTINUITY LOCK apply as written above.
 
 LOCATION @RedHouseInterior — one downstairs room of an old cottage: cracked plaster written over from skirting to a man's height in dense dark red looping cursive strokes; wide worn boards; a written staircase; a small window, black night behind.
 
@@ -263,7 +263,7 @@ SHOT 1 [0.0-8.0s] | CAM: wide, eye level 160 cm, middle of the room looking back
 
 SUBJECT LOCK, NORA The exact girl of @Nora — fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Navy parka over charcoal hoodie, dark indigo jeans, scuffed off-white sneakers. NOTHING RED ON HER, no jewellery. She never looks at the lens.
 
-CROSS-FRAME RULES Same room as its reference, props unmoved, bulb dead. She is alone. The strokes are a dense abstract texture forming no characters, in no language, nowhere legible. NO INVENTED ACTION, PERFORMANCE PACING and CONTINUITY LOCK apply as written above.
+CROSS-FRAME RULES Same room as its reference, props unmoved, bulb dead. She is alone. The writing is real handwriting laid out in straight horizontal lines — word-shaped clusters separated by spaces, gathered into sentences and paragraphs — in an invented cursive alphabet whose characters recur again and again the way a real alphabet's do. Unmistakably a script, but no script that exists on earth, and not one word readable in any language: it reads as writing from across the room and as nothing at all up close. Never random scribble, never a scrawl, never abstract mark-making, never decorative squiggles. NO INVENTED ACTION, PERFORMANCE PACING and CONTINUITY LOCK apply as written above.
 
 LOCATION @RedHouseInterior — one downstairs room of an old cottage: cracked plaster written over from skirting to a man's height in dense dark red looping cursive strokes; wide worn boards; a written staircase; a small window, black night behind.
 
@@ -414,7 +414,7 @@ SHOT 1 [0.0-5.0s] | CAM: begins on the exact last frame of the previous generati
 
 SUBJECT LOCK, NORA The exact girl of @Nora — fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Navy parka over charcoal hoodie, dark indigo jeans, scuffed off-white sneakers. NOTHING RED ON HER, no jewellery. She never looks at the lens.
 
-CROSS-FRAME RULES Same room and glow as the start frame; she is alone. The strokes are a dense abstract texture forming no characters, in no language, nowhere legible. No red touches anything beyond the threshold stone. NO INVENTED ACTION, PERFORMANCE PACING and CONTINUITY LOCK apply as written above.
+CROSS-FRAME RULES Same room and glow as the start frame; she is alone. The writing is real handwriting laid out in straight horizontal lines — word-shaped clusters separated by spaces, gathered into sentences and paragraphs — in an invented cursive alphabet whose characters recur again and again the way a real alphabet's do. Unmistakably a script, but no script that exists on earth, and not one word readable in any language: it reads as writing from across the room and as nothing at all up close. Never random scribble, never a scrawl, never abstract mark-making, never decorative squiggles. No red touches anything beyond the threshold stone. NO INVENTED ACTION, PERFORMANCE PACING and CONTINUITY LOCK apply as written above.
 
 LOCATION @RedHouseInterior — one downstairs room of an old cottage: cracked plaster written over from skirting to a man's height in dense dark red looping cursive strokes; wide worn boards; a written staircase; a small window, black night behind.
 
@@ -763,7 +763,7 @@ SHOT 1 [0.0-4.0s] — The locked frame of the reference start image: a near-blac
 HARD CUT
 
 SHOT 2 [4.0-8.0s] — Macro-close, straight down onto the coat's back on the table, camera 55 cm above it, static, locked off. The waxed canvas fills the frame, his hands entering from the lower edge, the collar crossing the top at 88% of frame height.
-[4.0-5.6s] The back already carries thousands of fine ivory lines packed close — dense abstract texture forming no characters, in no language, readable nowhere. THE CURVED NEEDLE in his right hand at x=58% draws one long ivory stitch through a sewn-in patch of grey sailcloth, slowly; his left hand holds the cloth taut at x=26%. His fingers are stained dark to the second knuckle with dried ivory ink.
+[4.0-5.6s] The back already carries thousands of fine ivory lines packed close — The writing is real handwriting laid out in straight horizontal lines — word-shaped clusters separated by spaces, gathered into sentences and paragraphs — in an invented cursive alphabet whose characters recur again and again the way a real alphabet's do. Unmistakably a script, but no script that exists on earth, and not one word readable in any language: it reads as writing from across the room and as nothing at all up close. Never random scribble, never a scrawl, never abstract mark-making, never decorative squiggles. THE CURVED NEEDLE in his right hand at x=58% draws one long ivory stitch through a sewn-in patch of grey sailcloth, slowly; his left hand holds the cloth taut at x=26%. His fingers are stained dark to the second knuckle with dried ivory ink.
 [5.6-6.2s] He lays the needle on the canvas at x=70%, TAKES THE STEEL RULING PEN, dips it in the dish at x=74% — one wet tick — and brings it down onto the cloth.
 [6.2-8.0s] THE PEN RUNS: one unbroken stroke drawn slowly across the weave left to right, the ivory ink laying down wet and catching the lamp, the canvas giving under the nib; the hand lifts and starts a second stroke below the first. The strokes stay abstract and never form a letter.
 

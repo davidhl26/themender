@@ -70,7 +70,7 @@ The colour is bleached out of the light itself, never in the grade. Heavy silver
 
 ```
 WORLD — THE RED HOUSE
-The only place in the film where red is allowed, and here it is the whole place. Outside: a red door in a grey street. Inside, once the bulb is out, there is no light source at all — the room is lit by nothing but its own writing, every stroke glowing faintly from within, low and even, the colour of embers under ash, far too dim and too soft for any stroke to be read. Never bright red, never neon, never a magic glow. The strokes are a dense abstract texture forming no characters, in no language, nowhere legible.
+The only place in the film where red is allowed, and here it is the whole place. Outside: a red door in a grey street. Inside, once the bulb is out, there is no light source at all — the room is lit by nothing but its own writing, every stroke glowing faintly from within, low and even, the colour of embers under ash, far too dim and too soft for any stroke to be read. Never bright red, never neon, never a magic glow. The writing is real handwriting laid out in straight horizontal lines — word-shaped clusters separated by spaces, gathered into sentences and paragraphs — in an invented cursive alphabet whose characters recur again and again the way a real alphabet's do. Unmistakably a script, but no script that exists on earth, and not one word readable in any language: it reads as writing from across the room and as nothing at all up close. Never random scribble, never a scrawl, never abstract mark-making, never decorative squiggles.
 ```
 
 ---
