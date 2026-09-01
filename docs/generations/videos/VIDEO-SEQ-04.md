@@ -1,6 +1,7 @@
 > ⚠ **MISE À JOUR 31/08 — LA FIN DE LA SÉQUENCE EST RESSERRÉE.** Les plans 4.4 à 4.7 passent de
 
 > ## 🎴 AVANT DE GÉNÉRER — les cartes à coller
+> **Ordre de génération et chaînage : [`00-ORDRE-DE-GENERATION.md`](00-ORDRE-DE-GENERATION.md)**
 > Chaque bloc de ce document se colle **avec** les cartes de
 > **[`00-CARTES-A-COLLER.md`](00-CARTES-A-COLLER.md)** — elles tiennent la continuité et le réalisme.
 >

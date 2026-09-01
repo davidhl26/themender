@@ -35,7 +35,14 @@ génération en plus du bloc : la **caméra** (identique dans les 56 plans), le 
 **tempérament** de chaque personnage, l'**anti-dérive**, et la **vidéo précédente** pour les cinq
 blocs chaînés. Les blocs ne changent pas ; les cartes s'y ajoutent.
 
-## Ordre de génération conseillé
+## 📋 L'ordre de génération — **le document de travail**
+
+**[`00-ORDRE-DE-GENERATION.md`](00-ORDRE-DE-GENERATION.md)** — les 56 plans dans l'ordre, répartis en
+**7 chaînes indépendantes** (deux personnes peuvent en prendre une chacune), avec pour chaque plan sa
+carte de chaîne, son décor et sa durée. Contient aussi les 4 plans de tête à générer en premier,
+l'A/B Seedance 2.0 vs 2.5, et la méthode multi-cam.
+
+## ~~Ordre de génération conseillé~~ *(remplacé par le document ci-dessus)*
 
 1. **Les fiches personnages et les lieux d'abord** *(voir `docs/generations/lieux/00-INDEX-LIEUX.md`)* —
    une vidéo générée sans son Élément ne raccorde avec rien.

@@ -1,6 +1,7 @@
 # SÉQUENCE 2 — LE RESTAURANT HEUREUX · VIDÉOS À COPIER-COLLER *(monde clair · 4 générations obligatoires · 48 s de rushes → 21 s au montage)*
 
 > ## 🎴 AVANT DE GÉNÉRER — les cartes à coller
+> **Ordre de génération et chaînage : [`00-ORDRE-DE-GENERATION.md`](00-ORDRE-DE-GENERATION.md)**
 > Chaque bloc de ce document se colle **avec** les cartes de
 > **[`00-CARTES-A-COLLER.md`](00-CARTES-A-COLLER.md)** — elles tiennent la continuité et le réalisme.
 >

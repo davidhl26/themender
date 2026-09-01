@@ -1,6 +1,7 @@
 # SÉQUENCE 1 — LES TOASTS BRÛLÉS · VIDÉOS À COPIER-COLLER *(monde CLAIR · script épuré du 31/08 · 4 générations obligatoires · 33 s de rushes → 23 s au montage, plus les 4 s du plan de David)*
 
 > ## 🎴 AVANT DE GÉNÉRER — les cartes à coller
+> **Ordre de génération et chaînage : [`00-ORDRE-DE-GENERATION.md`](00-ORDRE-DE-GENERATION.md)**
 > Chaque bloc de ce document se colle **avec** les cartes de
 > **[`00-CARTES-A-COLLER.md`](00-CARTES-A-COLLER.md)** — elles tiennent la continuité et le réalisme.
 >
