@@ -1,5 +1,18 @@
 # SÉQUENCE 3 — LA PERTE · VIDÉOS À COPIER-COLLER *(monde en transition — la clarté se retire · 6 générations obligatoires · 58 s de rushes → 31 s au montage)*
 
+> ## 🎴 AVANT DE GÉNÉRER — les cartes à coller
+> Chaque bloc de ce document se colle **avec** les cartes de
+> **[`00-CARTES-A-COLLER.md`](00-CARTES-A-COLLER.md)** — elles tiennent la continuité et le réalisme.
+>
+> | Carte | Valeur pour cette séquence |
+> |---|---|
+> | **CAMÉRA** | la même dans tout le film — **toujours** |
+> | **MONDE** | **CLAIR qui se retire** |
+> | **TEMPÉRAMENT** | @SamBefore · @MaeveIll · @NoraBefore · @MiloBefore — *seulement ceux présents au cadre* |
+> | **ANTI-DÉRIVE** | **toujours** |
+
+
+
 > **Réglages constants** : Genre Drama · Camera Fine Film · 21:9 · 1080p · sound on ·
 > Lens Anamorphic **40 mm f/2.8** (3A) / **85 mm f/2** (3B, 3F) / **50 mm f/2** (3C, 3D, 3E) — la durée de chaque bloc est dans son titre.
 > **Elements requis** (à charger avant de générer) : **@Maeve** (3A, sans écharpe) · **@MaeveIll** (3C, 3D, 3E — écharpe rouge sur les épaules) · **@SamBefore** (3B, 3E, 3F seg. 2 en main seule — ⚠ règle F : encore l'homme d'avant, mains SANS encre) · **@NoraBefore** (3B, 3D, 3F) · **@MiloBefore** (3C) · **@MotherRing** (3D) — pack §1 · lieux **@Kitchen** (docs/generations/lieux/LIEU-01, déjà généré pour la séq. 1), **@HospitalRoom** (LIEU-04), **@HospitalCorridor** (LIEU-05). Le médecin de 3B est un figurant décrit dans son bloc — pas d'Élément.

@@ -1,5 +1,18 @@
 # SÉQUENCE 6 — LE FORUM ET LE CRI · VIDÉOS À COPIER-COLLER *(monde gris · 3 générations obligatoires + 2 secours · 32 s de rushes → 21 s au montage)*
 
+> ## 🎴 AVANT DE GÉNÉRER — les cartes à coller
+> Chaque bloc de ce document se colle **avec** les cartes de
+> **[`00-CARTES-A-COLLER.md`](00-CARTES-A-COLLER.md)** — elles tiennent la continuité et le réalisme.
+>
+> | Carte | Valeur pour cette séquence |
+> |---|---|
+> | **CAMÉRA** | la même dans tout le film — **toujours** |
+> | **MONDE** | **GRIS** |
+> | **TEMPÉRAMENT** | @Nora · @Sam — *seulement ceux présents au cadre* |
+> | **ANTI-DÉRIVE** | **toujours** |
+
+
+
 > **Réglages constants** : Genre Noir · Camera Fine Film · 21:9 · 1080p · sound on ·
 > Lens Anamorphic **85 mm f/2** (6A, 6A-bis, 6B-bis) / **50 mm f/2** (6B, 6C) — la durée de chaque bloc est dans son titre.
 > **Elements requis** (à charger avant de générer) : **@Nora** (pack §1 — 6A, 6B, 6B-bis, 6C) ·

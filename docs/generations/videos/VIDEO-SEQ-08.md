@@ -1,4 +1,17 @@
 > ⚠ **PAPIER DU SANDWICH — DIVERGENCE TRANCHÉE LE 31/08.** Le paquet est décrit partout de la même façon :
+
+> ## 🎴 AVANT DE GÉNÉRER — les cartes à coller
+> Chaque bloc de ce document se colle **avec** les cartes de
+> **[`00-CARTES-A-COLLER.md`](00-CARTES-A-COLLER.md)** — elles tiennent la continuité et le réalisme.
+>
+> | Carte | Valeur pour cette séquence |
+> |---|---|
+> | **CAMÉRA** | la même dans tout le film — **toujours** |
+> | **MONDE** | **GRIS** |
+> | **TEMPÉRAMENT** | @Nora — *seulement ceux présents au cadre* |
+> | **ANTI-DÉRIVE** | **toujours** |
+
+
 > **`plain unprinted matte pale-grey paper`, froissé, sans ficelle, sans impression.** Ce document portait
 > encore « white kitchen paper » : corrigé. Raison du gris plutôt que du blanc — le paquet traverse le bus
 > au néon (8.5) puis l'abribus au sodium (9.2, 11.4) : **du papier blanc y crame et devient une tache**,

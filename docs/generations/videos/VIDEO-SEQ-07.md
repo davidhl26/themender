@@ -1,5 +1,18 @@
 # SÉQUENCE 7 — L'ATTENTE · VIDÉOS À COPIER-COLLER *(monde gris · 2 générations · 22 s générées → ~11 s à l'écran · 5 plans depuis la refonte du 30/08)*
 
+> ## 🎴 AVANT DE GÉNÉRER — les cartes à coller
+> Chaque bloc de ce document se colle **avec** les cartes de
+> **[`00-CARTES-A-COLLER.md`](00-CARTES-A-COLLER.md)** — elles tiennent la continuité et le réalisme.
+>
+> | Carte | Valeur pour cette séquence |
+> |---|---|
+> | **CAMÉRA** | la même dans tout le film — **toujours** |
+> | **MONDE** | **GRIS** |
+> | **TEMPÉRAMENT** | @Nora — *seulement ceux présents au cadre* |
+> | **ANTI-DÉRIVE** | **toujours** |
+
+
+
 > **Réglages constants** : Genre Noir · Camera Fine Film · Lens Anamorphic 50 mm f/2 · 21:9 · 1080p · sound on — la durée générée de chaque bloc est dans son titre, la durée montée aussi.
 > **Elements requis** (à charger avant de générer) : **@Nora** (pack §1 — seule à l'écran dans les cinq plans) · **@BackGallery** (7A plan 7.1 = SHOT 1 · 7B plan 7.4 = SHOT 1 — voir `docs/generations/lieux/LIEU-09-BackGallery.md`) · **@Kitchen** (7A plan 7.3 = SHOT 3 — voir `docs/generations/lieux/LIEU-01-Kitchen.md` ; la version « gone cold » se joue au style prompt VIDÉO, il n'existe pas d'image grise du lieu) · **@NoraBedroom** (7B plan 7.5 = SHOT 2 — voir `docs/generations/lieux/LIEU-08-NoraBedroom.md`). **La boîte aux lettres (plans 7.2 et 7.4) est entièrement décrite dans les deux blocs — pas d'Élément.**
 > **Start frames** : **aucune start frame imposée**, dans aucun des deux blocs. Deux raisons distinctes, à ne pas confondre : ⚠ ① @BackGallery et @NoraBedroom sont des images de **NUIT** — pour un plan de JOUR (7.1, 7.2, 7.3) une start frame imposerait littéralement la nuit au premier frame ; les charger en **référence de décor**, jamais en start frame. ⚠ ② Pour le plan 7.4, qui est pourtant bien un plan au sodium, LIEU-09 IMAGE 2 ne peut PAS servir de start frame non plus : **la boîte aux lettres n'existe pas dans cette image** (c'est un habillage one-off du prompt vidéo) et une start frame la ferait apparaître en cours de plan. Repères de cadre seulement : LIEU-09 IMAGE 3 (angle B « au rail ») pour le plan 7.1 · LIEU-09 IMAGE 2 (angle A « le long de la galerie ») pour le plan 7.4 · LIEU-01 IMAGE 1 pour le plan 7.3.

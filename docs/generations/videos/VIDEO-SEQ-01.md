@@ -1,5 +1,18 @@
 # SÉQUENCE 1 — LES TOASTS BRÛLÉS · VIDÉOS À COPIER-COLLER *(monde CLAIR · script épuré du 31/08 · 4 générations obligatoires · 33 s de rushes → 23 s au montage, plus les 4 s du plan de David)*
 
+> ## 🎴 AVANT DE GÉNÉRER — les cartes à coller
+> Chaque bloc de ce document se colle **avec** les cartes de
+> **[`00-CARTES-A-COLLER.md`](00-CARTES-A-COLLER.md)** — elles tiennent la continuité et le réalisme.
+>
+> | Carte | Valeur pour cette séquence |
+> |---|---|
+> | **CAMÉRA** | la même dans tout le film — **toujours** |
+> | **MONDE** | **CLAIR** |
+> | **TEMPÉRAMENT** | @SamBefore · @Maeve · @NoraBefore · @MiloBefore — *seulement ceux présents au cadre* |
+> | **ANTI-DÉRIVE** | **toujours** |
+
+
+
 > **Réglages constants** : Genre Drama · Camera Fine Film · 21:9 · 1080p · sound on ·
 > Lens Anamorphic **40 mm f/2.8** (1A, 1C, 1D) / **50 mm f/2** (1B) — la durée de chaque bloc est dans son titre.
 > **Elements requis** : **@SamBefore** + **@Maeve** (pack §1 — 1A, 1B, 1C) · **@NoraBefore** + **@MiloBefore**

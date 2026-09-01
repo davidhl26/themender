@@ -28,6 +28,13 @@ Ce qui survit vit dans **VIDEO-SEQ-10**, plans 10.8 à 10.12.
 du script a son bloc *(sauf 1.1, tourné par David, et 10.12, le carton composé en post)* · aucun mot de
 français dans un bloc à coller.
 
+## 🎴 Les cartes à coller — **à lire avant tout**
+
+**[`00-CARTES-A-COLLER.md`](00-CARTES-A-COLLER.md)** — les cartes courtes qui se collent dans chaque
+génération en plus du bloc : la **caméra** (identique dans les 56 plans), le **monde** de l'acte, le
+**tempérament** de chaque personnage, l'**anti-dérive**, et la **vidéo précédente** pour les cinq
+blocs chaînés. Les blocs ne changent pas ; les cartes s'y ajoutent.
+
 ## Ordre de génération conseillé
 
 1. **Les fiches personnages et les lieux d'abord** *(voir `docs/generations/lieux/00-INDEX-LIEUX.md`)* —

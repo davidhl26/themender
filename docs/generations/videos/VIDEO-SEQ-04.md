@@ -1,4 +1,17 @@
 > ⚠ **MISE À JOUR 31/08 — LA FIN DE LA SÉQUENCE EST RESSERRÉE.** Les plans 4.4 à 4.7 passent de
+
+> ## 🎴 AVANT DE GÉNÉRER — les cartes à coller
+> Chaque bloc de ce document se colle **avec** les cartes de
+> **[`00-CARTES-A-COLLER.md`](00-CARTES-A-COLLER.md)** — elles tiennent la continuité et le réalisme.
+>
+> | Carte | Valeur pour cette séquence |
+> |---|---|
+> | **CAMÉRA** | la même dans tout le film — **toujours** |
+> | **MONDE** | **GRIS — **et SOUVENIR LAVÉ dans le flashback russe**** |
+> | **TEMPÉRAMENT** | @Nora · @Anna — puis @AnnaYoung dans le souvenir — *seulement ceux présents au cadre* |
+> | **ANTI-DÉRIVE** | **toujours** |
+
+
 > **30 s à 19 s** : 4.4 = 5 s · 4.5 = 5 s · 4.6 = 4 s · 4.7 = 5 s *(voir le script)*. Le souvenir
 > russe et les plans 4.1-4.3 sont **inchangés**. Dans les blocs 4C et 4D ci-dessous, **raccourcir
 > les silences tenus, jamais le texte** : aucune réplique ne change, elles sont juste moins portées.

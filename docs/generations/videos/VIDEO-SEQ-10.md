@@ -1,5 +1,21 @@
 # SÉQUENCE 10 — LA MAISON ROUGE, ET LA FIN · VIDÉOS À COPIER-COLLER *(86 s au montage · refonte du 31/08 · AUCUNE PAROLE avant 10.10)*
 
+> ## 🎴 AVANT DE GÉNÉRER — les cartes à coller
+> Chaque bloc de ce document se colle **avec** les cartes de
+> **[`00-CARTES-A-COLLER.md`](00-CARTES-A-COLLER.md)** — elles tiennent la continuité et le réalisme.
+>
+> | Carte | Valeur pour cette séquence |
+> |---|---|
+> | **CAMÉRA** | la même dans tout le film — **toujours** |
+> | **MONDE** | **LA MAISON ROUGE** |
+> | **TEMPÉRAMENT** | @Nora · @SamSDF · @MaeveIll — et @Anna · @Mei · @Asha · @Fatiha dans le montage muet — *seulement ceux présents au cadre* |
+> | **ANTI-DÉRIVE** | **toujours** |
+
+> ⚠ **10D-2, 10F-1, 10F-2, 10F-3 et 10F-4** prennent en plus la **CARTE VIDÉO PRÉCÉDENTE**.
+> Lire le cas **10F-4** dans le document des cartes : il n'a pas d'image de départ, et c'est ton plus gros risque de raccord.
+
+
+
 > **Réglages** : Genre Drama · Style Manual · Camera Fine Film · 21:9 · 1080p · sound on. **Objectif** :
 > **40 mm f/2.8** (10A) · **28 mm f/1.4** (10B, 10C, 10D-1, 10D-2, 10F-1) · **50 mm f/1.4** (10E) ·
 > **24 mm f/2.8** (10F-2/3/4). ⚠ Ne JAMAIS fermer le diaphragme à l'intérieur : la très faible profondeur de

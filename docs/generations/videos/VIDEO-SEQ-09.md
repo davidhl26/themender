@@ -1,5 +1,18 @@
 # SÉQUENCE 9 — L'ABRIBUS · VIDÉOS À COPIER-COLLER *(monde gris · 3 générations · 34 s de rushes → 20 s au montage)*
 
+> ## 🎴 AVANT DE GÉNÉRER — les cartes à coller
+> Chaque bloc de ce document se colle **avec** les cartes de
+> **[`00-CARTES-A-COLLER.md`](00-CARTES-A-COLLER.md)** — elles tiennent la continuité et le réalisme.
+>
+> | Carte | Valeur pour cette séquence |
+> |---|---|
+> | **CAMÉRA** | la même dans tout le film — **toujours** |
+> | **MONDE** | **GRIS** |
+> | **TEMPÉRAMENT** | @Nora · @SamSDF — *seulement ceux présents au cadre* |
+> | **ANTI-DÉRIVE** | **toujours** |
+
+
+
 > **Réglages constants** : Genre Noir · Style Manual · Camera Fine Film · 21:9 · 1080p · sound on · **Lens Anamorphic 50 mm f/2 (9A) / 85 mm f/2 (9B et 9C)** — la durée de chaque bloc est dans son titre.
 > ⚠ **9C est passée à 85 mm** : son shot 8 demande « long-lens character with the perspective compressed flat » (c'est l'écriture de LIEU-14 IMAGE 3). Une génération = un objectif ; à 50 mm la compression n'arrive pas et l'îlot néon ne rime plus avec son start frame.
 > **Elements requis** (à charger avant de générer) : @Nora + @SamSDF *(pack §1 — déguisement dérivé de @Sam : la VRAIE barbe d'un mois de Sam, salie et hérissée, AUCUNE barbe postiche)* + @BusShelter — voir `docs/generations/lieux/LIEU-14-BusShelter`. **Aucun objet Élément** : le sandwich est décrit au prompt (description canonique ci-dessous, à reprendre mot pour mot en séq. 11) ; la bague n'est JAMAIS visible, seulement sentie à travers le nylon.
