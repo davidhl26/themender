@@ -312,7 +312,7 @@ MOVEMENT None. Locked off — no dolly, pan, tilt or zoom. No cut.
 
 DIALOGUE None. Nobody speaks in this generation.
 
-LAST FRAME The room at mid-glow, both written walls alive in dim ember red, the ceiling still dark, @Nora a dark unmoving shape at x=50%, hand raised on the switch. **Start frame de 10D-2 — ne pas recadrer.**
+LAST FRAME The room at mid-glow, both written walls alive in dim ember red, the ceiling still dark, @Nora a dark unmoving shape at x=50%, hand raised on the switch. This exact frame is the start frame of the next generation: it must be usable as it stands, uncropped and unreframed.
 
 AUDIO The black is not silent: her breath close and fast for four seconds, a board settling, the night outside.
 
@@ -468,7 +468,7 @@ MOVEMENT None. Locked off — no dolly, pan, tilt, zoom, push-in or drift. No cu
 
 DIALOGUE None. Nobody speaks in this generation.
 
-LAST FRAME Her face, close, in dim ember red — jaw open, one wet track down the right cheek, smiling, eyes creased, not moving. **Start frame de 10F-1 — ne pas recadrer.**
+LAST FRAME Her face, close, in dim ember red — jaw open, one wet track down the right cheek, smiling, eyes creased, not moving. This exact frame is the start frame of the next generation: it must be usable as it stands, uncropped and unreframed.
 
 AUDIO Nothing but her: one caught breath at [4.6s], the small sound of a mouth opening, the room's dead silence around it. No music.
 
