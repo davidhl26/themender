@@ -10,12 +10,25 @@
 
 ## ➜ À FAIRE À LA MAIN DANS L'INTERFACE : `00-ELEMENTS-LIEUX.csv`
 
-Le CSV liste les **19 Éléments de lieu**, avec pour chacun le **job de l'image à sauvegarder** et
-l'action à faire. État au 01/09 : **16 en place**, **1 à créer** (`@RedHouseInterior`), **1 à
-renommer** (`Kitchen-1` → `Kitchen`), **1 coupé** (`@KidsBedroom`, à ne pas créer).
+Le CSV liste les **19 Éléments de lieu** avec, pour chacun : le **nombre d'images déjà générées**,
+le **job du master** à sauvegarder, et **tous les jobs d'angles** à ajouter au même Élément
+*(un Élément accepte plusieurs images — plus il voit d'angles du décor, mieux il le tient)*.
 
-Deux Éléments **hors lieux** attendent aussi : `mender` (à remplacer par la fiche du 01/09, l'ancienne
-porte les gribouillages) et `@AnnaDrawing` (à créer — 5 générations de la séq. 4 l'appellent).
+**69 images générées** sur 18 lieux. État : **16 Éléments en place**, **1 à créer**
+(`@RedHouseInterior`), **1 à renommer** (`Kitchen-1` → `Kitchen`), **1 coupé** (`@KidsBedroom`,
+rien de généré, à ne pas créer).
+
+⚠ **Deux pièges dans le CSV, en colonne `action`** :
+- **`@Kitchen`** : les 5 images sont la série du 25/08 au soir, ancrée sur le plan des toasts —
+  c'est elle qui raccorde avec l'ouverture. Les deux séries antérieures sont périmées.
+  **Ne jamais mélanger deux séries dans un Élément.**
+- **`@RedHouseInterior`** : n'y mettre que **A et B** (les deux éclairés). **C et D sont l'état
+  braises, lumière éteinte** — deux états de lumière dans un même Élément brouillent l'identité
+  du décor. Les garder ouvertes à côté comme cibles visuelles de 10D-2 et 10E.
+
+Deux Éléments **hors lieux** attendent aussi : `mender` (à remplacer par la fiche du 01/09,
+l'ancienne porte les gribouillages) et `@AnnaDrawing` (à créer — 5 générations de la séq. 4
+l'appellent).
 
 ## Ordre conseillé (l'ordre du tournage des vidéos)
 
