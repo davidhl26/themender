@@ -28,7 +28,7 @@
 > ⚠ **LE LIEU A CHANGÉ (30/08).** LIEU-16 est PÉRIMÉ (écritures ivoire, lampe à pétrole). Regénérer les
 > **quatre images v2** — **A** (master « ampoule allumée », sauvegardée comme Élément `@RedHouseInterior`,
 > écrase l'ancien), **B** (plage de plâtre vide), **C** (braises, ensemble), **D** (braises au ras du sol) ;
-> B, C, D avec A en référence. **Prompts inchangés : `lieux/LIEU-16-RedHouseInterior.md` §v2.**
+> B, C, D avec A en référence. **Les 4 prompts sont écrits : `lieux/LIEU-16-RedHouseInterior.md` §v2 (en bas du document).**
 > **Start frames** : 10A shot 1 → **LIEU-15 IMAGE 1** · 10A shot 2 → **LIEU-15 IMAGE 2** · 10B → **IMAGE A** ·
 > 10C shot 1 → **IMAGE B** · **10D-1 : AUCUN (noir plein)** · **10D-2 = LAST FRAME de 10D-1** · **10E : AUCUN** ·
 > **10F-1 = LAST FRAME de 10E** · **10F-2 = LAST FRAME de 10F-1** · **10F-3 = LAST FRAME de 10F-2** ·

@@ -1,6 +1,11 @@
 # LIEU @RedHouseInterior — la maison rouge, intérieur *(l'exception rouge — règle B : rouges et ambres chauds autorisés · sert en séq. 10)*
 
-> **✅ GÉNÉRÉ le 27/08 (GPT Image 2 · 4K · réalisme v2)** — job ids :
+> 🗄 **CES CINQ IMAGES SONT PÉRIMÉES — NE PAS LES GÉNÉRER.** Elles montrent une lampe à pétrole et
+> des écritures ivoire ; la refonte du 30/08 a mis une ampoule électrique et du rouge.
+> **➜ LES PROMPTS À UTILISER SONT EN BAS DE CE DOCUMENT, SECTION §v2.**
+> *(Les job ids ci-dessous sont conservés pour mémoire seulement.)*
+
+> ~~GÉNÉRÉ le 27/08~~ — job ids :
 > IMAGE 1 (master, → Élément `@RedHouseInterior`) : `8a4e7461-6986-4b3f-8e26-faa3e6bc1fce`
 > IMAGE 2 : `60c997a9-9b2c-48ea-8fad-360c154ed5a0`
 > IMAGE 3 : `66ce627b-871d-4932-9f22-6aa85ed17c8a`
@@ -59,3 +64,82 @@ THE SAME written room as the reference image, nothing changed — the same layer
 - **L'écriture n'est JAMAIS lisible**, à aucune époque, sous aucun angle — « dense but abstract and not legible as words in any language » est conservé tel quel dans chaque image ; en vidéo, la vitesse du faisceau, la surexposition et le f/1.4 la protègent en plus.
 - **Le rouge** : le traitement du master (« Warm reds and ambers », la lampe) vaut pour 10B/10C/10D (rouge saturé plein cadre, réglages 28 mm f/1.4) ; les états antérieurs (IMAGES 3-4) suivent 10G-3 : ambre et ombre, « never the saturated red treatment of 10.1-10.4 », no red anywhere — ce n'est pas un affaiblissement du master, c'est la règle propre du montage 10.7.
 - Les start frames de 10D-1 et des plans habités se génèrent ensuite avec les fiches personnages par-dessus ces bases — le lieu, lui, reste vide.
+
+
+---
+
+# §v2 — LES QUATRE IMAGES À GÉNÉRER *(refonte du 30/08)*
+
+> **⚠ TOUT CE QUI PRÉCÈDE EST PÉRIMÉ.** Les cinq images du 27/08 montrent **une lampe à pétrole et
+> des écritures ivoire**. La refonte du 30/08 a changé les deux : c'est **une ampoule électrique**
+> qui éclaire — et surtout **qui charge les murs** (règle H : ce n'est pas un miracle, c'est de la
+> peinture) — et l'écriture est **rouge sombre**. Ne pas générer les images 1 à 5.
+>
+> **Quatre images, dans cet ordre :**
+> **A** le master, ampoule allumée → sauvegarder comme Élément `@RedHouseInterior` *(écrase l'ancien)*
+> **B** la plage de plâtre vide *(le dragon y sera incrusté en post)*
+> **C** les braises, vue d'ensemble · **D** les braises au ras du sol
+> **B, C et D se génèrent avec A EN RÉFÉRENCE.** Jamais sans.
+>
+> Réglages : **GPT Image 2 · 4K · quality high · 21:9** · dans le PROJET FESTIVAL.
+> Sert de start frame à : **10B → IMAGE A** · **10C shot 1 → IMAGE B**.
+> **C et D ne sont pas des start frames** : ce sont les cibles visuelles de 10D-2 et 10E — ce à quoi
+> la pièce doit ressembler une fois qu'elle s'allume. Les garder ouvertes à côté en générant.
+
+## IMAGE A — LE MASTER v2 *(ampoule allumée · → l'Élément `@RedHouseInterior`)*
+
+```
+GEOMETRY, IDENTICAL IN ALL FOUR IMAGES: one single downstairs room of a small old wooden cottage, roughly four metres by five, entered by a plank front door in the left-hand wall; a narrow boxed staircase rising along the right-hand wall from the far corner; one small square window in the far wall, its glass black with night; wide worn floorboards running from the door toward the far wall; the ceiling low, of plain painted boards with one beam across. SETUP: camera at eye level, 160 cm, standing just inside the front door and looking across the room toward the far wall and the foot of the staircase, the whole room in frame.
+
+THE WRITING: dense looping cursive strokes in deep dark red paint, gone chalky and matte where it has dried into raw plaster, covering the cracked and patched walls edge to edge from the skirting board up to about the height of a man's head, running straight over every crack and every repair without stopping, up the staircase stringer and across each riser, and on across the whole ceiling corner to corner, brightest and densest directly above the mattress. The strokes are a dense abstract texture forming no characters, in no language, nowhere legible — never letters, never words, never a script that could be read.
+
+THE WORK THAT MADE IT, in frame and never moved: empty paint pots with hardened runs down their sides and their lids pressed back on askew, standing along the skirting; a jam jar of brushes gone stiff, bristles splayed; a paint-stained wooden stepladder folded flat against the wall; a bare mattress lying on the boards in the middle of the room, its ticking marked with dried red where a hand rested; dried red drips scattered over the boards and worn into the grain along the path from door to staircase.
+
+THE LIGHT: ONE ORDINARY HOT FILAMENT BULB hangs bare on a twisted flex from the ceiling beam, switched on and burning steadily — an old tungsten bulb, its filament visible, the glass slightly smoked, never flickering, NOT a flame, NOT a lamp, NOT a candle, no shade. It is the only source in the room. It is hung low, at about head height, and its light is warm and weak: it lays a clean warm pool across the mattress and the middle of the boards, rakes the raised dry paint of the writing into hair-thin relief on the nearest wall, and falls away into deep quiet dark in the corners and along the top of the staircase. Gently underexposed. The window in the far wall is black.
+
+THE COLOUR: the room reads as dark red — the red of dried paint under a weak warm bulb, chalky and matte, never a saturated postcard red, never neon, never glowing. The bare plaster showing between the strokes stays grey-white.
+
+The location is completely empty, no people anywhere, no figures, no subject. No readable text, no lettering, no signage with words, no logos, no brand names, no place names. Hyper-realistic documentary photograph, indistinguishable from a real location photo: shot on a full-frame digital cinema camera, natural light only, true-to-life colour, real-world imperfections everywhere — fingerprints and grease marks on handles and surfaces, chipped and repainted edges, uneven plaster, scuffed floor, water stains, dust in the corners, worn varnish, slightly crooked shelves — subtle sensor grain, gentle natural vignetting, nothing staged or styled. NOT CGI, NOT a 3D render, NOT an illustration, no concept-art look, no video-game lighting, no HDR glow, no over-saturation, no perfect symmetry, no showroom cleanliness. Shot like a real photograph, not a render: full-frame camera with a fixed prime lens, natural depth of field with gentle focus falloff, soft halation blooming around the brightest window or lamp, subtle chromatic aberration and natural vignetting at the frame edges, faint ISO noise in the deepest shadows, highlights rolling off softly like film, white balance a touch imperfect as on a real location, the composition half a degree off-true as if framed by a human hand. The image should look like an unremarkable frame from a location scout's camera roll — believable, ordinary, real. No oversharpening, no waxy or plastic surfaces, no teal-and-orange colour grade, no tilt-shift miniature effect, no impossible depth of field, no dreamlike haze, no fantasy atmosphere, no AI artifacts.
+```
+
+## IMAGE B — LA PLAGE DE PLÂTRE VIDE *(start frame de 10C · réf. IMAGE A)*
+
+```
+THE SAME written room as the reference image, nothing changed about it — the same deep dark red looping cursive strokes gone chalky on cracked plaster, the same hanging bare filament bulb just off frame, the same weak warm light. SETUP: medium-close on ONE WALL at arm's reach, camera at eye level facing the wall straight on, the wall filling the frame.
+
+AT THE EXACT CENTRE OF FRAME, at 50 percent of frame width and 50 percent of frame height: ONE CLEAR PATCH OF BARE PLASTER the size of two spread hands, COMPLETELY EMPTY — no drawing, no figure, no animal, no creature, no shape, no mark of any kind on it, not one stroke — evenly lit, in focus, visually calm. The writing crowds right up to its edge on all four sides and stops. Around it the red strokes dissolve soft and unreadable at razor-thin depth of field.
+
+THE LIGHT: the bare hot filament bulb, off frame to one side, warm and weak, resting calm and even on the empty patch and falling away into deep dark at the frame edges. Gently underexposed. NOT a flame, NOT a lamp, no flicker.
+
+The strokes are a dense abstract texture forming no characters, in no language, nowhere legible. The location is completely empty, no people anywhere, no figures, no subject. No readable text, no lettering, no signage with words, no logos, no brand names, no place names. Hyper-realistic documentary photograph, indistinguishable from a real location photo: shot on a full-frame digital cinema camera, natural light only, true-to-life colour, real-world imperfections everywhere — fingerprints and grease marks on handles and surfaces, chipped and repainted edges, uneven plaster, scuffed floor, water stains, dust in the corners, worn varnish, slightly crooked shelves — subtle sensor grain, gentle natural vignetting, nothing staged or styled. NOT CGI, NOT a 3D render, NOT an illustration, no concept-art look, no video-game lighting, no HDR glow, no over-saturation, no perfect symmetry, no showroom cleanliness. Shot like a real photograph, not a render: full-frame camera with a fixed prime lens, natural depth of field with gentle focus falloff, soft halation blooming around the brightest window or lamp, subtle chromatic aberration and natural vignetting at the frame edges, faint ISO noise in the deepest shadows, highlights rolling off softly like film, white balance a touch imperfect as on a real location, the composition half a degree off-true as if framed by a human hand. The image should look like an unremarkable frame from a location scout's camera roll — believable, ordinary, real. No oversharpening, no waxy or plastic surfaces, no teal-and-orange colour grade, no tilt-shift miniature effect, no impossible depth of field, no dreamlike haze, no fantasy atmosphere, no AI artifacts.
+```
+
+## IMAGE C — LES BRAISES, VUE D'ENSEMBLE *(cible visuelle de 10D-2 · réf. IMAGE A)*
+
+```
+THE SAME room as the reference image, the same geometry to the pixel, the same viewpoint from just inside the front door at eye level 160 cm, the same writing on the same walls, staircase and ceiling, the same paint pots and brushes and folded stepladder along the skirting, the same bare mattress on the boards — BUT THE BULB IS OUT. The filament bulb still hangs from its flex, dead and dark, and there is NO LIGHT SOURCE ANYWHERE IN THE ROOM.
+
+THE ONLY LIGHT IS THE WRITING ITSELF. Every red stroke glows faintly from within, low and even, the colour of embers under ash — a dim dark red, deep and matte, far too weak and too soft for any stroke to be read. The glow covers both walls and runs on across the whole ceiling corner to corner, brightest directly above the mattress. It does not throw a beam and it does not light the room: it only reveals its own lines and the few centimetres of plaster around them, while the boards, the corners, the dead bulb and the black window stay in deep dark. Nothing sparkles, nothing pulses, nothing flickers, no halo, no aura, no magic glow, no neon, no bright red.
+
+The strokes are a dense abstract texture forming no characters, in no language, nowhere legible. Very heavily underexposed, the blacks dense but holding real texture inside them — no banding, no crushed flat black. The location is completely empty, no people anywhere, no figures, no subject. No readable text, no lettering, no signage with words, no logos, no brand names, no place names. Hyper-realistic documentary photograph, indistinguishable from a real location photo: shot on a full-frame digital cinema camera, natural light only, true-to-life colour, real-world imperfections everywhere — fingerprints and grease marks on handles and surfaces, chipped and repainted edges, uneven plaster, scuffed floor, water stains, dust in the corners, worn varnish, slightly crooked shelves — subtle sensor grain, gentle natural vignetting, nothing staged or styled. NOT CGI, NOT a 3D render, NOT an illustration, no concept-art look, no video-game lighting, no HDR glow, no over-saturation, no perfect symmetry, no showroom cleanliness. Shot like a real photograph, not a render: full-frame camera with a fixed prime lens, natural depth of field with gentle focus falloff, soft halation blooming around the brightest window or lamp, subtle chromatic aberration and natural vignetting at the frame edges, faint ISO noise in the deepest shadows, highlights rolling off softly like film, white balance a touch imperfect as on a real location, the composition half a degree off-true as if framed by a human hand. The image should look like an unremarkable frame from a location scout's camera roll — believable, ordinary, real. No oversharpening, no waxy or plastic surfaces, no teal-and-orange colour grade, no tilt-shift miniature effect, no impossible depth of field, no dreamlike haze, no fantasy atmosphere, no AI artifacts.
+```
+
+## IMAGE D — LES BRAISES AU RAS DU SOL *(cible visuelle de 10E · réf. IMAGE A)*
+
+```
+THE SAME room as the reference image, the same geometry, the same writing on the same walls and ceiling, the same bare mattress on the boards — BUT THE BULB IS OUT and there is NO LIGHT SOURCE ANYWHERE IN THE ROOM. SETUP: camera at floor level, the lens 6 centimetres above the boards, in the middle of the room, looking across the floor toward the far wall — the open wood grain, the old nail heads and the dust felted into the board gaps in the immediate foreground, the edge of the mattress ticking entering the lower frame, and the glowing walls beyond rising away at razor-thin focus.
+
+THE ONLY LIGHT IS THE WRITING ITSELF, seen from below: every red stroke glowing faintly from within, low and even, the colour of embers under ash, far too weak and too soft for any stroke to be read, the glow climbing the walls above the camera and spreading across the ceiling. At floor level almost nothing is lit — the boards catch only the faintest red wash from the walls, and the corners are black. Nothing sparkles, nothing pulses, nothing flickers, no beam, no halo, no magic glow, no neon, no bright red.
+
+The strokes are a dense abstract texture forming no characters, in no language, nowhere legible. Very heavily underexposed, the blacks dense but holding real texture inside them — no banding, no crushed flat black. The location is completely empty, no people anywhere, no figures, no subject. No readable text, no lettering, no signage with words, no logos, no brand names, no place names. Hyper-realistic documentary photograph, indistinguishable from a real location photo: shot on a full-frame digital cinema camera, natural light only, true-to-life colour, real-world imperfections everywhere — fingerprints and grease marks on handles and surfaces, chipped and repainted edges, uneven plaster, scuffed floor, water stains, dust in the corners, worn varnish, slightly crooked shelves — subtle sensor grain, gentle natural vignetting, nothing staged or styled. NOT CGI, NOT a 3D render, NOT an illustration, no concept-art look, no video-game lighting, no HDR glow, no over-saturation, no perfect symmetry, no showroom cleanliness. Shot like a real photograph, not a render: full-frame camera with a fixed prime lens, natural depth of field with gentle focus falloff, soft halation blooming around the brightest window or lamp, subtle chromatic aberration and natural vignetting at the frame edges, faint ISO noise in the deepest shadows, highlights rolling off softly like film, white balance a touch imperfect as on a real location, the composition half a degree off-true as if framed by a human hand. The image should look like an unremarkable frame from a location scout's camera roll — believable, ordinary, real. No oversharpening, no waxy or plastic surfaces, no teal-and-orange colour grade, no tilt-shift miniature effect, no impossible depth of field, no dreamlike haze, no fantasy atmosphere, no AI artifacts.
+```
+
+---
+
+**Les cinq pièges de ce lieu**
+
+1. **L'ampoule, jamais une flamme.** C'est elle qui charge le pigment (règle H). Une flamme au rush = prise à refaire.
+2. **Le rouge est crayeux, pas lumineux.** De la peinture sèche sous une ampoule faible. Jamais néon, jamais saturé.
+3. **En C et D il n'y a AUCUNE source.** Si l'image montre une lampe, une bougie ou un rayon, elle est fausse : la pièce n'est éclairée que par ses propres traits.
+4. **La plage de B reste vide à jamais.** Le dragon est incrusté en post — c'est le même fichier qu'au plan 2.4. Laisser le modèle le dessiner, c'est perdre le raccord ET la règle G.
+5. **Aucun trait lisible, à aucune image.** L'écriture est une texture, dans aucune langue.
