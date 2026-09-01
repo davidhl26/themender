@@ -7,9 +7,10 @@
 > | Carte | Valeur pour cette séquence |
 > |---|---|
 > | **CAMÉRA** | la même dans tout le film — **toujours** |
-> | **MONDE** | **GRIS — **et SOUVENIR LAVÉ dans le flashback russe**** |
+> | **MONDE** | **GRIS** — et **SOUVENIR LAVÉ** dans le flashback russe |
 > | **TEMPÉRAMENT** | @Nora · @Anna — puis @AnnaYoung dans le souvenir — *seulement ceux présents au cadre* |
 > | **ANTI-DÉRIVE** | **toujours** |
+> | **CHAÎNE** | ⚠ **RUPTURE 2 en amont (`3F → 4A` : aucune chaîne)** et ⚠ **RUPTURE 3 ici : DEUX CHAÎNES PARALLÈLES.** Présent `4A→4B→4C→4D` d'un côté, souvenir `4E→4F→4G→4H→4I` de l'autre. **Jamais l'un vers l'autre.** |
 
 
 > **30 s à 19 s** : 4.4 = 5 s · 4.5 = 5 s · 4.6 = 4 s · 4.7 = 5 s *(voir le script)*. Le souvenir

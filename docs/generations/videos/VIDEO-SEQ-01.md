@@ -10,6 +10,7 @@
 > | **MONDE** | **CLAIR** |
 > | **TEMPÉRAMENT** | @SamBefore · @Maeve · @NoraBefore · @MiloBefore — *seulement ceux présents au cadre* |
 > | **ANTI-DÉRIVE** | **toujours** |
+> | **CHAÎNE** | **Chaîne COMPLÈTE partout** — même cuisine, même matin. ⭐ **1A se chaîne sur ta propre vidéo des toasts** : c'est le premier maillon du film. |
 
 
 

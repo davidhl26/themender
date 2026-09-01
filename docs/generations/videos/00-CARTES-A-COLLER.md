@@ -17,7 +17,7 @@ Tu construis ta génération comme ça, de haut en bas :
 
 | Ordre | Quoi | Quand |
 |---|---|---|
-| 1 | **CARTE VIDÉO PRÉCÉDENTE** | ⚠ blocs chaînés **seulement** (liste plus bas) |
+| 1 | **CARTE DE CHAÎNE** (A, B ou C) | **presque toujours** — sauf aux 5 ruptures. Voir §4. |
 | 2 | `Style prompt:` … | ligne existante du bloc |
 | 3 | **CARTE CAMÉRA** | **TOUJOURS.** Tous les blocs, sans exception. |
 | 4 | **CARTE MONDE** | **TOUJOURS.** Celle de l'acte où tu es. |
@@ -170,39 +170,82 @@ TEMPERAMENT, MEI Brisk, busy, entirely unmystified. She runs a restaurant and sh
 
 ---
 
-# 4. LA CARTE VIDÉO PRÉCÉDENTE — blocs chaînés seulement
+# 4. LA CHAÎNE — chaque plan part du précédent
 
-⚠ **NE LA COLLE QUE SUR CES CINQ BLOCS.** *(quatre chaînés par l'image + 10F-4, cas particulier.)* Ce sont les seuls où un même mouvement est découpé en
-segments. Partout ailleurs il y a un **cut** — et donner le plan précédent en référence sur un cut
-fait hériter son cadre : le cut ne se lit plus comme un cut, et ton montage tombe.
+**C'est la méthode principale du film.** Tu génères dans l'ordre, et **chaque plan reçoit le clip
+d'avant en référence vidéo**. Le film se tient parce qu'il se construit maillon par maillon, comme
+un tournage réel où l'équipe ne change pas entre deux plans.
 
-| Bloc | Ce qu'il continue | Image de départ |
+⚠ **Mais la chaîne ne transmet pas toujours la même chose.** Deux cartes, et une règle d'une seconde
+pour choisir :
+
+> **Regarde la ligne `Elements :` en tête du bloc.**
+> **Même décor que le plan d'avant ?** → **CHAÎNE COMPLÈTE**
+> **Décor différent, même monde ?** → **CHAÎNE PELLICULE**
+> **Changement de monde ?** *(les 5 ruptures, plus bas)* → **AUCUNE CHAÎNE**
+
+---
+
+## 🔗 CARTE A — CHAÎNE COMPLÈTE *(même décor que le plan précédent)*
+
+Elle transmet tout : la lumière, la pellicule, l'état des corps.
+
+```
+@Video 1: the shot that immediately precedes this one, in the same place and the same minute. Use it ONLY to read where the scene stands — the exact light level and direction, the grain, the skin rendering, the state the bodies and the props are in, and the camera's speed. Do NOT reuse, copy or extend any of its frames: every frame here is generated new from the start frame and the references below, at full quality. The framing of this shot is defined solely by the FRAME MAP below and owes nothing to the previous shot's composition.
+```
+
+## 🎞 CARTE B — CHAÎNE PELLICULE *(nouveau décor, même monde)*
+
+Elle transmet **la caméra et la peau, jamais la lumière.** C'est la nuance qui compte : sans elle,
+la lumière du décor précédent déteint sur le nouveau.
+
+```
+@Video 1: an earlier shot from the same film, in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric are resolved, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level, its composition or any of its frames: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything is generated new, at full quality.
+```
+
+## ⛓ CARTE C — MÊME MOUVEMENT *(un plan découpé en segments)*
+
+Uniquement **10D-2, 10F-1, 10F-2, 10F-3, 10F-4**. Elle transmet en plus la vitesse et l'état exact
+du mouvement.
+
+```
+@Video 1: the previous segment of this same continuous shot. Use it ONLY to read where the movement stands — light level, grain, skin rendering, and above all the camera's exact speed and direction at the moment it hands over. Do NOT reuse, copy or extend any of its frames: every frame here is generated new from the start frame and the references below, at full quality. The framing is defined solely by the FRAME MAP below, and the movement continues at exactly the same constant speed, with no ease-in and no ease-out.
+```
+
+---
+
+## 🚫 LES CINQ RUPTURES — là, tu ne chaînes pas
+
+Le film est construit sur des cassures. **Chaîner par-dessus une cassure la supprime.**
+
+| # | Où | Pourquoi |
 |---|---|---|
-| **10D-2** | la montée des braises, segment 2/2 | ✅ dernière image de 10D-1 |
-| **10F-1** | le grand travelling arrière, segment 1/4 | ✅ dernière image de 10E |
-| **10F-2** | segment 2/4 | ✅ dernière image de 10F-1 |
-| **10F-3** | segment 3/4 | ✅ dernière image de 10F-2 |
-| **10F-4** | segment 4/4 — l'arrivée sur l'abribus | ❌ **AUCUNE** — voir ci-dessous |
+| **1** | **3A → 3B** | La cuisine claire, puis l'hôpital. **C'est ici que la clarté se retire.** Ne transmets surtout pas la lumière de la cuisine. *(Chaîne PELLICULE acceptable, jamais COMPLÈTE.)* |
+| **2** | **3F → 4A** | Monde CLAIR → monde GRIS, et deux ans passent. **Aucune chaîne.** Le gris doit arriver d'un coup. |
+| **3** | **présent ↔ souvenir, dans toute la séquence 4** | Deux chaînes **parallèles** : le présent entre lui *(4A→4B→4C→4D)*, le souvenir entre lui *(4E→4F→4G→4H→4I)*. **Jamais l'un vers l'autre.** Le souvenir lavé doit être un autre monde, et il entre par un fondu sur le dessin. |
+| **4** | **9C → 10A** | **LA RUPTURE DU FILM.** Le monde gris, puis le premier rouge plein cadre. Aucune chaîne, aucune exception. |
+| **5** | **10J → 10K → 10L** | Le montage muet, puis l'hôpital *(un autre temps, un autre monde)*, puis le retour à l'abribus. **Aucune chaîne des deux côtés du 10K.** |
 
-### ⚠ Le cas 10F-4 — c'est là que la carte sert le plus
+**Cas particulier — 10C → 10D-1** : l'ampoule s'éteint, le bloc doit s'ouvrir sur du **noir plein**.
+Une référence vidéo de la pièce éclairée y ramènerait de la lumière. **Aucune chaîne.**
 
-**10F-4 est le segment 4/4 d'un mouvement continu, et pourtant il n'a aucune image de départ.**
-C'est un écart assumé dans le document : la caméra redescend sur l'abribus, un décor que la dernière
-image de 10F-3 ne contient pas.
+**Cas particulier — 10F-4** : segment 4/4 d'un mouvement continu, mais **aucune image de départ**
+(la caméra arrive sur un décor que 10F-3 ne contient pas). C'est le plan où l'on voit enfin les yeux
+du père : ton plus gros risque de raccord. **Colle la CARTE C, sans image de départ.** La vitesse et
+le grain passent, le cadre non.
 
-Résultat : **le plan le plus important du film — celui où on voit enfin les yeux du père — repart
-de zéro au milieu d'un mouvement.** C'est ton plus gros risque de raccord.
+---
 
-👉 **Sur 10F-4, colle la carte MAIS ne mets PAS d'image de départ.** Passe 10F-3 en référence vidéo
-seulement. La carte transmettra la vitesse, le grain et le niveau de lumière — pas le cadre.
-C'est exactement ce pour quoi elle est faite.
+## ⚠ CE QUE LA CHAÎNE TE COÛTE — à savoir avant de commencer
 
-Tu passes le clip précédent en **référence vidéo**, et tu colles ceci **tout en haut**, avant
-`Style prompt:` :
+**1. Tu génères en série, plus en parallèle.** Chaque plan attend que le précédent existe. Sur
+13 jours c'est jouable ; sur 2 ça ne l'aurait pas été.
 
-```
-@Video 1: the shot that immediately precedes this one. Use it ONLY to read where the scene stands — light level, grain, skin rendering, camera speed and direction, and the exact state the movement is in. Do NOT reuse, copy or extend any of its frames: every frame here is generated new from the start frame and the references below, at full quality. The framing of this shot is defined solely by the FRAME MAP below, and the movement continues at exactly the same speed, without easing in or out.
-```
+**2. Un plan raté contamine tous les suivants.** **Valide chaque clip AVANT de chaîner le suivant.**
+C'est une contrainte — et c'est aussi ce qui t'oblige à ne jamais laisser passer un plan tiède.
+
+**3. Si tu regénères un plan plus tard, ceux d'après pointent vers une version morte.** Regénère
+dans l'ordre à partir de là, ou accepte que le maillon soit rompu à cet endroit.
 
 ---
 

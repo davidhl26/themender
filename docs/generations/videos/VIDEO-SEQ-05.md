@@ -10,6 +10,7 @@
 > | **MONDE** | **GRIS** |
 > | **TEMPÉRAMENT** | @Nora · @Milo · @Mei · @Asha · @Fatiha — *seulement ceux présents au cadre* |
 > | **ANTI-DÉRIVE** | **toujours** |
+> | **CHAÎNE** | **Chaîne COMPLÈTE** dans le restaurant. `4x → 5A` = PELLICULE. |
 
 
 

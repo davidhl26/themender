@@ -10,6 +10,7 @@
 > | **MONDE** | **CLAIR qui se retire** |
 > | **TEMPÉRAMENT** | @SamBefore · @MaeveIll · @NoraBefore · @MiloBefore — *seulement ceux présents au cadre* |
 > | **ANTI-DÉRIVE** | **toujours** |
+> | **CHAÎNE** | ⚠ **RUPTURE 1 : `3A → 3B`** — la cuisine claire puis l'hôpital, c'est ici que la clarté se retire. PELLICULE, **jamais COMPLÈTE**. Ensuite COMPLÈTE dans l'hôpital. |
 
 
 

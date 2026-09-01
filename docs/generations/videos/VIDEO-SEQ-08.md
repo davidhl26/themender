@@ -10,6 +10,7 @@
 > | **MONDE** | **GRIS** |
 > | **TEMPÉRAMENT** | @Nora — *seulement ceux présents au cadre* |
 > | **ANTI-DÉRIVE** | **toujours** |
+> | **CHAÎNE** | **PELLICULE** entre chaque bloc : bibliothèque, couloir, salle de bain, chambre, bus — cinq décors, cinq maillons. |
 
 
 > **`plain unprinted matte pale-grey paper`, froissé, sans ficelle, sans impression.** Ce document portait

@@ -10,6 +10,7 @@
 > | **MONDE** | **GRIS** |
 > | **TEMPÉRAMENT** | @Nora · @SamSDF — *seulement ceux présents au cadre* |
 > | **ANTI-DÉRIVE** | **toujours** |
+> | **CHAÎNE** | **Chaîne COMPLÈTE** — `9A → 9B → 9C`, même abribus, même nuit. |
 
 
 

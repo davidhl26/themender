@@ -10,6 +10,7 @@
 > | **MONDE** | **CLAIR** |
 > | **TEMPÉRAMENT** | @SamBefore · @Maeve · @NoraBefore · @MiloBefore · @Mei — *seulement ceux présents au cadre* |
 > | **ANTI-DÉRIVE** | **toujours** |
+> | **CHAÎNE** | **Chaîne COMPLÈTE** entre plans du même décor, **PELLICULE** au changement de décor. `1D → 2A` = PELLICULE. |
 
 
 

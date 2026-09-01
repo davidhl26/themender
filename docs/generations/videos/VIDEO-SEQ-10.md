@@ -10,6 +10,7 @@
 > | **MONDE** | **LA MAISON ROUGE** |
 > | **TEMPÉRAMENT** | @Nora · @SamSDF · @MaeveIll — et @Anna · @Mei · @Asha · @Fatiha dans le montage muet — *seulement ceux présents au cadre* |
 > | **ANTI-DÉRIVE** | **toujours** |
+> | **CHAÎNE** | ⚠ **RUPTURE 4 en amont : `9C → 10A`, AUCUNE CHAÎNE** — c'est la rupture du film. Puis : `10C → 10D-1` **aucune chaîne** (le noir doit être noir) · `10D-2, 10F-1/2/3/4` = **CARTE C** · ⚠ **RUPTURE 5 : `10J → 10K → 10L`, aucune chaîne des deux côtés de l'hôpital.** |
 
 > ⚠ **10D-2, 10F-1, 10F-2, 10F-3 et 10F-4** prennent en plus la **CARTE VIDÉO PRÉCÉDENTE**.
 > Lire le cas **10F-4** dans le document des cartes : il n'a pas d'image de départ, et c'est ton plus gros risque de raccord.

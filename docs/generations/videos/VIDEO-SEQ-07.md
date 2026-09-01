@@ -10,6 +10,7 @@
 > | **MONDE** | **GRIS** |
 > | **TEMPÉRAMENT** | @Nora — *seulement ceux présents au cadre* |
 > | **ANTI-DÉRIVE** | **toujours** |
+> | **CHAÎNE** | **Chaîne COMPLÈTE** — `7A → 7B`. |
 
 
 

@@ -10,6 +10,7 @@
 > | **MONDE** | **GRIS** |
 > | **TEMPÉRAMENT** | @Nora · @Sam — *seulement ceux présents au cadre* |
 > | **ANTI-DÉRIVE** | **toujours** |
+> | **CHAÎNE** | **PELLICULE** aux changements de décor (chambre → galerie → escalier), COMPLÈTE sinon. |
 
 
 
