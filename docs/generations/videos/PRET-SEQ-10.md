@@ -11,7 +11,7 @@
 CONTINUITY REFERENCE
 No previous shot is attached to this generation. This is the first shot of its chain: it sets the light, the grain and the skin rendering that every following shot will be matched to. Build every frame new from the references below, at full quality.
 
-Style prompt: The dead end of a grey terraced street at night, one small dark red house at the end of it. Hyper-realistic live-action footage, indistinguishable from film shot on a real set with real actors: true skin texture with visible pores and fine hairs, real fabric weave, seams and wrinkles that crease with movement, natural motion blur, constant micro-life in every held position (breathing, blinking, weight shifts of a few millimetres), only motivated practical light, subtle film grain, true-to-life colour. NOT CGI, NOT animation, no uncanny smoothness, no plastic skin, no beauty retouching, no video-game look.
+Style prompt: The dead end of a grey terraced street at night, one small dark red house at the end of it.
 
 FILM EMULATION — THE SAME STOCK FROM THE FIRST FRAME TO THE LAST
 Shot on Kodak Vision3 500T 5219 tungsten colour negative, one stock, one lab, for the entire film, rated at box speed and printed flat. Cool naturalistic colour science; shadows falling slightly blue-green and holding real separation and texture inside them; skin tones understated, never warmed up, never rosy. Gentle contrast, soft highlight roll-off, highlights restrained and never blown, a faint halation ring blooming around every practical source. Moderate fine grain that grows in the underexposed areas and breathes with the exposure. Not glossy, not digital, not warm. Daylight scenes are the same stock corrected with an 85 filter, never a different look.
@@ -29,13 +29,13 @@ ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
 @RedHouseExterior: The last house of a poor terraced street, wooden-fronted, deep dark red gone chalky, neighbours grey and blank, wet black road. THE ONLY RED IN THE WORLD OUTSIDE. 100% matches the reference.
 
+FORMAT MODE
+One single continuous uncut take, 8 seconds long, at real-time speed. No cut, no montage, no speed ramp, no slow motion.
+
+OPTICS
+Anamorphic 40 mm f/2.8 equivalent. Depth of field wide open at that stop: the plane described in the FRAME MAP is tack sharp and everything behind it falls off progressively. Focus holds on that plane and breathes naturally with the camera's movement — no deliberate rack focus unless the FRAME MAP calls for one.
+
 SCENE A girl walks the last metres of a grey street toward the only red house in the world, stops, lays her hand flat on the door — and the door opens under her hand.
-
-PERFORMANCE PACING Unhurried, naturalistic, lived-in performance throughout. Real-time pacing: every action takes the time it takes in real life, nothing is compressed or hurried. A character always finishes their action before they speak. Before every reply there is a beat of silence — the listener breathes, thinks, then answers. Dialogue at relaxed conversational speed with natural pauses inside the lines. Held looks are truly held. Documentary naturalism, warm and imperfect, never theatrical.
-
-NATURAL MICRO-MOVEMENT Nobody is ever frozen, not for a single frame. Between and during the written actions, every character carries constant, very slow, very human micro-movement: breath visibly lifting the chest and shoulders, soft weight shifts of a few millimetres, small head drifts of a degree or two, fingers settling and resettling, eyes travelling a few millimetres and returning, blinks at natural intervals. This micro-life never adds gestures, steps, props or expressions — it is simply how a living body holds a position. Always slow and organic, never fidgety, never twitchy; no statue stillness, no freeze-frame, no mannequin pose.
-
-NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written below; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
 
 CONTINUITY LOCK House, street, window and curtain identical in both shots. The door is unlatched and opens ONCE, inward, only under her hand. Nothing red exists outside the house.
 
@@ -95,7 +95,7 @@ NEGATIVE PROMPT a paraffin flame, a flickering flame, candlelight, knocking, a d
 CONTINUITY REFERENCE
 @Video 1: an earlier shot from the same film (10A), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level, its composition or any of its frames: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything is built new, at full quality.
 
-Style prompt: The single downstairs room of an old cottage, every wall written over from skirting to a man's height in dense dark red cursive strokes, under one bare hanging bulb. Hyper-realistic live-action footage, indistinguishable from film shot on a real set with real actors: true skin texture with visible pores and fine hairs, real fabric weave, seams and wrinkles that crease with movement, natural motion blur, constant micro-life in every held position (breathing, blinking, weight shifts of a few millimetres), only motivated practical light, subtle film grain, true-to-life colour. NOT CGI, NOT animation, no uncanny smoothness, no plastic skin, no beauty retouching, no video-game look.
+Style prompt: The single downstairs room of an old cottage, every wall written over from skirting to a man's height in dense dark red cursive strokes, under one bare hanging bulb.
 
 FILM EMULATION — THE SAME STOCK FROM THE FIRST FRAME TO THE LAST
 Shot on Kodak Vision3 500T 5219 tungsten colour negative, one stock, one lab, for the entire film, rated at box speed and printed flat. Cool naturalistic colour science; shadows falling slightly blue-green and holding real separation and texture inside them; skin tones understated, never warmed up, never rosy. Gentle contrast, soft highlight roll-off, highlights restrained and never blown, a faint halation ring blooming around every practical source. Moderate fine grain that grows in the underexposed areas and breathes with the exposure. Not glossy, not digital, not warm. Daylight scenes are the same stock corrected with an 85 filter, never a different look.
@@ -113,13 +113,13 @@ ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
 @RedHouseInterior: One downstairs room of an old cottage, its cracked plaster written over from skirting to a man's height in dense dark red looping cursive; wide worn boards, a written staircase, a small window with black night behind. The strokes form no characters, in no language, nowhere legible. 100% matches the reference.
 
+FORMAT MODE
+One single continuous uncut take, 12 seconds long, at real-time speed. No cut, no montage, no speed ramp, no slow motion.
+
+OPTICS
+Anamorphic 28 mm f/1.4 equivalent. Depth of field wide open at that stop: the plane described in the FRAME MAP is tack sharp and everything behind it falls off progressively. Focus holds on that plane and breathes naturally with the camera's movement — no deliberate rack focus unless the FRAME MAP calls for one.
+
 SCENE A girl steps into a room written on for months and turns once on herself, far too slowly for a look.
-
-PERFORMANCE PACING Unhurried, naturalistic, lived-in performance throughout. Real-time pacing: every action takes the time it takes in real life, nothing is compressed or hurried. A character always finishes their action before they speak. Before every reply there is a beat of silence — the listener breathes, thinks, then answers. Dialogue at relaxed conversational speed with natural pauses inside the lines. Held looks are truly held. Documentary naturalism, warm and imperfect, never theatrical.
-
-NATURAL MICRO-MOVEMENT Nobody is ever frozen, not for a single frame. Between and during the written actions, every character carries constant, very slow, very human micro-movement: breath visibly lifting the chest and shoulders, soft weight shifts of a few millimetres, small head drifts of a degree or two, fingers settling and resettling, eyes travelling a few millimetres and returning, blinks at natural intervals. This micro-life never adds gestures, steps, props or expressions — it is simply how a living body holds a position. Always slow and organic, never fidgety, never twitchy; no statue stillness, no freeze-frame, no mannequin pose.
-
-NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written below; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
 
 CONTINUITY LOCK Every object is in frame from [0.0s] and never moves. The bulb burns steadily, never switched, never swung. The writing covers the same band in every frame — skirting to a man's height, never above.
 
@@ -174,7 +174,7 @@ NEGATIVE PROMPT paint pots absent, brushes absent, ladder absent, mattress absen
 CONTINUITY REFERENCE
 @Video 1: the shot that immediately precedes this one (10B), in the same place and the same minute. Use it ONLY to read where the scene stands — the exact light level and direction, the grain, the skin rendering, the state the bodies and the props are left in, and the camera's speed. Do NOT reuse, copy or extend any of its frames: every frame here is built new from the references below, at full quality. The framing comes solely from the FRAME MAP below and owes nothing to the previous shot's composition.
 
-Style prompt: The written room under its bare bulb: dark red cursive strokes wall to wall, saturated inside the cone, black outside it. Hyper-realistic live-action footage, indistinguishable from film shot on a real set with real actors: true skin texture with visible pores and fine hairs, real fabric weave, seams and wrinkles that crease with movement, natural motion blur, constant micro-life in every held position (breathing, blinking, weight shifts of a few millimetres), only motivated practical light, subtle film grain, true-to-life colour. NOT CGI, NOT animation, no uncanny smoothness, no plastic skin, no beauty retouching, no video-game look.
+Style prompt: The written room under its bare bulb: dark red cursive strokes wall to wall, saturated inside the cone, black outside it.
 
 FILM EMULATION — THE SAME STOCK FROM THE FIRST FRAME TO THE LAST
 Shot on Kodak Vision3 500T 5219 tungsten colour negative, one stock, one lab, for the entire film, rated at box speed and printed flat. Cool naturalistic colour science; shadows falling slightly blue-green and holding real separation and texture inside them; skin tones understated, never warmed up, never rosy. Gentle contrast, soft highlight roll-off, highlights restrained and never blown, a faint halation ring blooming around every practical source. Moderate fine grain that grows in the underexposed areas and breathes with the exposure. Not glossy, not digital, not warm. Daylight scenes are the same stock corrected with an 85 filter, never a different look.
@@ -192,13 +192,13 @@ ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
 @RedHouseInterior: One downstairs room of an old cottage, its cracked plaster written over from skirting to a man's height in dense dark red looping cursive; wide worn boards, a written staircase, a small window with black night behind. The strokes form no characters, in no language, nowhere legible. 100% matches the reference.
 
+FORMAT MODE
+One single continuous uncut take, 10 seconds long, at real-time speed. No cut, no montage, no speed ramp, no slow motion.
+
+OPTICS
+Anamorphic 28 mm f/1.4 equivalent. Depth of field wide open at that stop: the plane described in the FRAME MAP is tack sharp and everything behind it falls off progressively. Focus holds on that plane and breathes naturally with the camera's movement — no deliberate rack focus unless the FRAME MAP calls for one.
+
 SCENE A girl stops dead before one clear empty patch of plaster in the middle of the writing, smiles without knowing why, and walks on; at the door her hand finds the switch out of ordinary politeness and turns it off.
-
-PERFORMANCE PACING Unhurried, naturalistic, lived-in performance throughout. Real-time pacing: every action takes the time it takes in real life, nothing is compressed or hurried. A character always finishes their action before they speak. Before every reply there is a beat of silence — the listener breathes, thinks, then answers. Dialogue at relaxed conversational speed with natural pauses inside the lines. Held looks are truly held. Documentary naturalism, warm and imperfect, never theatrical.
-
-NATURAL MICRO-MOVEMENT Nobody is ever frozen, not for a single frame. Between and during the written actions, every character carries constant, very slow, very human micro-movement: breath visibly lifting the chest and shoulders, soft weight shifts of a few millimetres, small head drifts of a degree or two, fingers settling and resettling, eyes travelling a few millimetres and returning, blinks at natural intervals. This micro-life never adds gestures, steps, props or expressions — it is simply how a living body holds a position. Always slow and organic, never fidgety, never twitchy; no statue stillness, no freeze-frame, no mannequin pose.
-
-NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written below; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
 
 CONTINUITY LOCK THE CLEAR PATCH OF PLASTER STAYS COMPLETELY EMPTY IN EVERY FRAME — no drawing, no figure, no animal, no creature, no mark of any kind is ever on it.
 
@@ -260,7 +260,7 @@ NEGATIVE PROMPT a drawing on the plaster, a dragon, an animal, a creature, any f
 CONTINUITY REFERENCE
 No previous shot is attached to this generation. This is the first shot of its chain: it sets the light, the grain and the skin rendering that every following shot will be matched to. Build every frame new from the references below, at full quality.
 
-Style prompt: A pitch-dark room that slowly stops being dark: the writing on its walls comes up in luminance on its own, dim ember red under ash, with no source anywhere. Hyper-realistic live-action footage, indistinguishable from film shot on a real set with real actors: true skin texture with visible pores and fine hairs, real fabric weave, seams and wrinkles that crease with movement, natural motion blur, constant micro-life in every held position (breathing, blinking, weight shifts of a few millimetres), only motivated practical light, subtle film grain, true-to-life colour. NOT CGI, NOT animation, no uncanny smoothness, no plastic skin, no beauty retouching, no video-game look.
+Style prompt: A pitch-dark room that slowly stops being dark: the writing on its walls comes up in luminance on its own, dim ember red under ash, with no source anywhere.
 
 FILM EMULATION — THE SAME STOCK FROM THE FIRST FRAME TO THE LAST
 Shot on Kodak Vision3 500T 5219 tungsten colour negative, one stock, one lab, for the entire film, rated at box speed and printed flat. Cool naturalistic colour science; shadows falling slightly blue-green and holding real separation and texture inside them; skin tones understated, never warmed up, never rosy. Gentle contrast, soft highlight roll-off, highlights restrained and never blown, a faint halation ring blooming around every practical source. Moderate fine grain that grows in the underexposed areas and breathes with the exposure. Not glossy, not digital, not warm. Daylight scenes are the same stock corrected with an 85 filter, never a different look.
@@ -278,13 +278,13 @@ ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
 @RedHouseInterior: One downstairs room of an old cottage, its cracked plaster written over from skirting to a man's height in dense dark red looping cursive; wide worn boards, a written staircase, a small window with black night behind. The strokes form no characters, in no language, nowhere legible. 100% matches the reference.
 
+FORMAT MODE
+One single continuous uncut take, 8 seconds long, at real-time speed. No cut, no montage, no speed ramp, no slow motion.
+
+OPTICS
+Anamorphic 28 mm f/1.4 equivalent. Depth of field wide open at that stop: the plane described in the FRAME MAP is tack sharp and everything behind it falls off progressively. Focus holds on that plane and breathes naturally with the camera's movement — no deliberate rack focus unless the FRAME MAP calls for one.
+
 SCENE One full second of pure black, then the black lights up: the strokes she has just walked past rise slowly until the room is readable, and the girl in the middle of it stops breathing.
-
-PERFORMANCE PACING Unhurried, naturalistic, lived-in performance throughout. Real-time pacing: every action takes the time it takes in real life, nothing is compressed or hurried. A character always finishes their action before they speak. Before every reply there is a beat of silence — the listener breathes, thinks, then answers. Dialogue at relaxed conversational speed with natural pauses inside the lines. Held looks are truly held. Documentary naturalism, warm and imperfect, never theatrical.
-
-NATURAL MICRO-MOVEMENT Nobody is ever frozen, not for a single frame. Between and during the written actions, every character carries constant, very slow, very human micro-movement: breath visibly lifting the chest and shoulders, soft weight shifts of a few millimetres, small head drifts of a degree or two, fingers settling and resettling, eyes travelling a few millimetres and returning, blinks at natural intervals. This micro-life never adds gestures, steps, props or expressions — it is simply how a living body holds a position. Always slow and organic, never fidgety, never twitchy; no statue stillness, no freeze-frame, no mannequin pose.
-
-NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written below; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
 
 CONTINUITY LOCK The rise is CONTINUOUS AND EVEN from [1.2s] to [6.5s], never reversing, never pulsing, never flickering.
 
@@ -337,7 +337,7 @@ NEGATIVE PROMPT letters appearing one by one, writing that draws itself, strokes
 CONTINUITY REFERENCE
 @Video 1: the previous segment of this same continuous shot (10D-1). Use it ONLY to read where the movement stands — light level, grain, skin rendering, and above all the camera's exact speed and direction at the moment it hands over. Do NOT reuse, copy or extend any of its frames: every frame here is built new from the references below, at full quality. The framing comes solely from the FRAME MAP below, and the movement continues at exactly the same constant speed, with no ease-in and no ease-out.
 
-Style prompt: The same pitch-dark room lit by nothing but its own writing, dim ember red under ash — and the glow runs on up the tops of the walls and across the whole ceiling. Hyper-realistic live-action footage, indistinguishable from film shot on a real set with real actors: true skin texture with visible pores and fine hairs, real fabric weave, seams and wrinkles that crease with movement, natural motion blur, constant micro-life in every held position (breathing, blinking, weight shifts of a few millimetres), only motivated practical light, subtle film grain, true-to-life colour. NOT CGI, NOT animation, no uncanny smoothness, no plastic skin, no beauty retouching, no video-game look.
+Style prompt: The same pitch-dark room lit by nothing but its own writing, dim ember red under ash — and the glow runs on up the tops of the walls and across the whole ceiling.
 
 FILM EMULATION — THE SAME STOCK FROM THE FIRST FRAME TO THE LAST
 Shot on Kodak Vision3 500T 5219 tungsten colour negative, one stock, one lab, for the entire film, rated at box speed and printed flat. Cool naturalistic colour science; shadows falling slightly blue-green and holding real separation and texture inside them; skin tones understated, never warmed up, never rosy. Gentle contrast, soft highlight roll-off, highlights restrained and never blown, a faint halation ring blooming around every practical source. Moderate fine grain that grows in the underexposed areas and breathes with the exposure. Not glossy, not digital, not warm. Daylight scenes are the same stock corrected with an 85 filter, never a different look.
@@ -355,13 +355,13 @@ ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
 @RedHouseInterior: One downstairs room of an old cottage, its cracked plaster written over from skirting to a man's height in dense dark red looping cursive; wide worn boards, a written staircase, a small window with black night behind. The strokes form no characters, in no language, nowhere legible. 100% matches the reference.
 
+FORMAT MODE
+One single continuous uncut take, 8 seconds long, at real-time speed. No cut, no montage, no speed ramp, no slow motion.
+
+OPTICS
+Anamorphic 28 mm f/1.4 equivalent. Depth of field wide open at that stop: the plane described in the FRAME MAP is tack sharp and everything behind it falls off progressively. Focus holds on that plane and breathes naturally with the camera's movement — no deliberate rack focus unless the FRAME MAP calls for one.
+
 SCENE The camera tilts up off the standing girl and finds the ceiling: written corner to corner, brightest directly above the mattress, where a man lay for weeks with his arms over his face to finish it.
-
-PERFORMANCE PACING Unhurried, naturalistic, lived-in performance throughout. Real-time pacing: every action takes the time it takes in real life, nothing is compressed or hurried. A character always finishes their action before they speak. Before every reply there is a beat of silence — the listener breathes, thinks, then answers. Dialogue at relaxed conversational speed with natural pauses inside the lines. Held looks are truly held. Documentary naturalism, warm and imperfect, never theatrical.
-
-NATURAL MICRO-MOVEMENT Nobody is ever frozen, not for a single frame. Between and during the written actions, every character carries constant, very slow, very human micro-movement: breath visibly lifting the chest and shoulders, soft weight shifts of a few millimetres, small head drifts of a degree or two, fingers settling and resettling, eyes travelling a few millimetres and returning, blinks at natural intervals. This micro-life never adds gestures, steps, props or expressions — it is simply how a living body holds a position. Always slow and organic, never fidgety, never twitchy; no statue stillness, no freeze-frame, no mannequin pose.
-
-NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written below; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
 
 CONTINUITY LOCK Room, props and girl are exactly as the start frame left them and none of them moves.
 
@@ -414,7 +414,7 @@ NEGATIVE PROMPT letters appearing one by one, writing that draws itself, strokes
 CONTINUITY REFERENCE
 @Video 1: the shot that immediately precedes this one (10D-2), in the same place and the same minute. Use it ONLY to read where the scene stands — the exact light level and direction, the grain, the skin rendering, the state the bodies and the props are left in, and the camera's speed. Do NOT reuse, copy or extend any of its frames: every frame here is built new from the references below, at full quality. The framing comes solely from the FRAME MAP below and owes nothing to the previous shot's composition.
 
-Style prompt: A girl's face in a dark room, lit by nothing but what she is looking at: dim ember red arriving from every direction at once, no source in frame. Hyper-realistic live-action footage, indistinguishable from film shot on a real set with real actors: true skin texture with visible pores and fine hairs, real fabric weave, seams and wrinkles that crease with movement, natural motion blur, constant micro-life in every held position (breathing, blinking, weight shifts of a few millimetres), only motivated practical light, subtle film grain, true-to-life colour. NOT CGI, NOT animation, no uncanny smoothness, no plastic skin, no beauty retouching, no video-game look.
+Style prompt: A girl's face in a dark room, lit by nothing but what she is looking at: dim ember red arriving from every direction at once, no source in frame.
 
 FILM EMULATION — THE SAME STOCK FROM THE FIRST FRAME TO THE LAST
 Shot on Kodak Vision3 500T 5219 tungsten colour negative, one stock, one lab, for the entire film, rated at box speed and printed flat. Cool naturalistic colour science; shadows falling slightly blue-green and holding real separation and texture inside them; skin tones understated, never warmed up, never rosy. Gentle contrast, soft highlight roll-off, highlights restrained and never blown, a faint halation ring blooming around every practical source. Moderate fine grain that grows in the underexposed areas and breathes with the exposure. Not glossy, not digital, not warm. Daylight scenes are the same stock corrected with an 85 filter, never a different look.
@@ -432,13 +432,13 @@ ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
 @RedHouseInterior: One downstairs room of an old cottage, its cracked plaster written over from skirting to a man's height in dense dark red looping cursive; wide worn boards, a written staircase, a small window with black night behind. The strokes form no characters, in no language, nowhere legible. 100% matches the reference.
 
+FORMAT MODE
+One single continuous uncut take, 6 seconds long, at real-time speed. No cut, no montage, no speed ramp, no slow motion.
+
+OPTICS
+Anamorphic 50 mm f/1.4 equivalent. Depth of field wide open at that stop: the plane described in the FRAME MAP is tack sharp and everything behind it falls off progressively. Focus holds on that plane and breathes naturally with the camera's movement — no deliberate rack focus unless the FRAME MAP calls for one.
+
 SCENE The face of a fifteen-year-old who has just seen the inside of a whole house light up.
-
-PERFORMANCE PACING Unhurried, naturalistic, lived-in performance throughout. Real-time pacing: every action takes the time it takes in real life, nothing is compressed or hurried. A character always finishes their action before they speak. Before every reply there is a beat of silence — the listener breathes, thinks, then answers. Dialogue at relaxed conversational speed with natural pauses inside the lines. Held looks are truly held. Documentary naturalism, warm and imperfect, never theatrical.
-
-NATURAL MICRO-MOVEMENT Nobody is ever frozen, not for a single frame. Between and during the written actions, every character carries constant, very slow, very human micro-movement: breath visibly lifting the chest and shoulders, soft weight shifts of a few millimetres, small head drifts of a degree or two, fingers settling and resettling, eyes travelling a few millimetres and returning, blinks at natural intervals. This micro-life never adds gestures, steps, props or expressions — it is simply how a living body holds a position. Always slow and organic, never fidgety, never twitchy; no statue stillness, no freeze-frame, no mannequin pose.
-
-NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written below; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
 
 CONTINUITY LOCK Her jaw, once open at [3.4s], never closes again. ONE tear only, from the right eye; the left stays wet and never spills. The light on her never changes level.
 
@@ -494,7 +494,7 @@ NEGATIVE PROMPT letters appearing one by one, writing that draws itself, strokes
 CONTINUITY REFERENCE
 @Video 1: the previous segment of this same continuous shot (10E). Use it ONLY to read where the movement stands — light level, grain, skin rendering, and above all the camera's exact speed and direction at the moment it hands over. Do NOT reuse, copy or extend any of its frames: every frame here is built new from the references below, at full quality. The framing comes solely from the FRAME MAP below, and the movement continues at exactly the same constant speed, with no ease-in and no ease-out.
 
-Style prompt: The glowing written room in dim ember red, a girl's face at the start of it. Hyper-realistic live-action footage, indistinguishable from film shot on a real set with real actors: true skin texture with visible pores and fine hairs, real fabric weave, seams and wrinkles that crease with movement, natural motion blur, constant micro-life in every held position (breathing, blinking, weight shifts of a few millimetres), only motivated practical light, subtle film grain, true-to-life colour. NOT CGI, NOT animation, no uncanny smoothness, no plastic skin, no beauty retouching, no video-game look.
+Style prompt: The glowing written room in dim ember red, a girl's face at the start of it.
 
 FILM EMULATION — THE SAME STOCK FROM THE FIRST FRAME TO THE LAST
 Shot on Kodak Vision3 500T 5219 tungsten colour negative, one stock, one lab, for the entire film, rated at box speed and printed flat. Cool naturalistic colour science; shadows falling slightly blue-green and holding real separation and texture inside them; skin tones understated, never warmed up, never rosy. Gentle contrast, soft highlight roll-off, highlights restrained and never blown, a faint halation ring blooming around every practical source. Moderate fine grain that grows in the underexposed areas and breathes with the exposure. Not glossy, not digital, not warm. Daylight scenes are the same stock corrected with an 85 filter, never a different look.
@@ -512,13 +512,13 @@ ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
 @RedHouseInterior: One downstairs room of an old cottage, its cracked plaster written over from skirting to a man's height in dense dark red looping cursive; wide worn boards, a written staircase, a small window with black night behind. The strokes form no characters, in no language, nowhere legible. 100% matches the reference.
 
+FORMAT MODE
+One single continuous uncut take, 5 seconds long, at real-time speed. No cut, no montage, no speed ramp, no slow motion.
+
+OPTICS
+Anamorphic 28 mm f/1.4 equivalent. Depth of field wide open at that stop: the plane described in the FRAME MAP is tack sharp and everything behind it falls off progressively. Focus holds on that plane and breathes naturally with the camera's movement — no deliberate rack focus unless the FRAME MAP calls for one.
+
 SCENE The camera leaves her face, draws back across the glowing room and out through the open door, and she stays where she is — smiling, getting smaller, until the door frame takes her.
-
-PERFORMANCE PACING Unhurried, naturalistic, lived-in performance throughout. Real-time pacing: every action takes the time it takes in real life, nothing is compressed or hurried. A character always finishes their action before they speak. Before every reply there is a beat of silence — the listener breathes, thinks, then answers. Dialogue at relaxed conversational speed with natural pauses inside the lines. Held looks are truly held. Documentary naturalism, warm and imperfect, never theatrical.
-
-NATURAL MICRO-MOVEMENT Nobody is ever frozen, not for a single frame. Between and during the written actions, every character carries constant, very slow, very human micro-movement: breath visibly lifting the chest and shoulders, soft weight shifts of a few millimetres, small head drifts of a degree or two, fingers settling and resettling, eyes travelling a few millimetres and returning, blinks at natural intervals. This micro-life never adds gestures, steps, props or expressions — it is simply how a living body holds a position. Always slow and organic, never fidgety, never twitchy; no statue stillness, no freeze-frame, no mannequin pose.
-
-NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written below; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
 
 CONTINUITY LOCK Speed is CONSTANT from first frame to last: no ease-in, no ease-out, no acceleration — the cut points depend on it.
 
@@ -573,7 +573,7 @@ NEGATIVE PROMPT letters appearing one by one, writing that draws itself, strokes
 CONTINUITY REFERENCE
 @Video 1: the previous segment of this same continuous shot (10F-1). Use it ONLY to read where the movement stands — light level, grain, skin rendering, and above all the camera's exact speed and direction at the moment it hands over. Do NOT reuse, copy or extend any of its frames: every frame here is built new from the references below, at full quality. The framing comes solely from the FRAME MAP below, and the movement continues at exactly the same constant speed, with no ease-in and no ease-out.
 
-Style prompt: A grey terraced street at night seen backwards, the red doorway shrinking at the far end. Hyper-realistic live-action footage, indistinguishable from film shot on a real set with real actors: true skin texture with visible pores and fine hairs, real fabric weave, seams and wrinkles that crease with movement, natural motion blur, constant micro-life in every held position (breathing, blinking, weight shifts of a few millimetres), only motivated practical light, subtle film grain, true-to-life colour. NOT CGI, NOT animation, no uncanny smoothness, no plastic skin, no beauty retouching, no video-game look.
+Style prompt: A grey terraced street at night seen backwards, the red doorway shrinking at the far end.
 
 FILM EMULATION — THE SAME STOCK FROM THE FIRST FRAME TO THE LAST
 Shot on Kodak Vision3 500T 5219 tungsten colour negative, one stock, one lab, for the entire film, rated at box speed and printed flat. Cool naturalistic colour science; shadows falling slightly blue-green and holding real separation and texture inside them; skin tones understated, never warmed up, never rosy. Gentle contrast, soft highlight roll-off, highlights restrained and never blown, a faint halation ring blooming around every practical source. Moderate fine grain that grows in the underexposed areas and breathes with the exposure. Not glossy, not digital, not warm. Daylight scenes are the same stock corrected with an 85 filter, never a different look.
@@ -590,13 +590,13 @@ The only place in the film where red is allowed, and here it is the whole place.
 ACTIVE REFERENCES
 @RedHouseExterior: The last house of a poor terraced street, wooden-fronted, deep dark red gone chalky, neighbours grey and blank, wet black road. THE ONLY RED IN THE WORLD OUTSIDE. 100% matches the reference.
 
+FORMAT MODE
+One single continuous uncut take, 5 seconds long, at real-time speed. No cut, no montage, no speed ramp, no slow motion.
+
+OPTICS
+Anamorphic 24 mm f/2.8 equivalent. Depth of field wide open at that stop: the plane described in the FRAME MAP is tack sharp and everything behind it falls off progressively. Focus holds on that plane and breathes naturally with the camera's movement — no deliberate rack focus unless the FRAME MAP calls for one.
+
 SCENE The camera keeps going: back down the grey street the girl climbed, the red doorway shrinking to a warm point, and the ground begins to fall away.
-
-PERFORMANCE PACING Unhurried, naturalistic, lived-in performance throughout. Real-time pacing: every action takes the time it takes in real life, nothing is compressed or hurried. A character always finishes their action before they speak. Before every reply there is a beat of silence — the listener breathes, thinks, then answers. Dialogue at relaxed conversational speed with natural pauses inside the lines. Held looks are truly held. Documentary naturalism, warm and imperfect, never theatrical.
-
-NATURAL MICRO-MOVEMENT Nobody is ever frozen, not for a single frame. Between and during the written actions, every character carries constant, very slow, very human micro-movement: breath visibly lifting the chest and shoulders, soft weight shifts of a few millimetres, small head drifts of a degree or two, fingers settling and resettling, eyes travelling a few millimetres and returning, blinks at natural intervals. This micro-life never adds gestures, steps, props or expressions — it is simply how a living body holds a position. Always slow and organic, never fidgety, never twitchy; no statue stillness, no freeze-frame, no mannequin pose.
-
-NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written below; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
 
 CONTINUITY LOCK Speed and rate of climb are CONSTANT from first frame to last — no ease, no acceleration.
 
@@ -649,7 +649,7 @@ NEGATIVE PROMPT people in the street, a girl, a man, a car moving, red on the ro
 CONTINUITY REFERENCE
 @Video 1: the previous segment of this same continuous shot (10F-2). Use it ONLY to read where the movement stands — light level, grain, skin rendering, and above all the camera's exact speed and direction at the moment it hands over. Do NOT reuse, copy or extend any of its frames: every frame here is built new from the references below, at full quality. The framing comes solely from the FRAME MAP below, and the movement continues at exactly the same constant speed, with no ease-in and no ease-out.
 
-Style prompt: Roofs at night falling away beneath a camera going straight up, and a whole underexposed town opening under it. Hyper-realistic live-action footage, indistinguishable from film shot on a real set with real actors: true skin texture with visible pores and fine hairs, real fabric weave, seams and wrinkles that crease with movement, natural motion blur, constant micro-life in every held position (breathing, blinking, weight shifts of a few millimetres), only motivated practical light, subtle film grain, true-to-life colour. NOT CGI, NOT animation, no uncanny smoothness, no plastic skin, no beauty retouching, no video-game look.
+Style prompt: Roofs at night falling away beneath a camera going straight up, and a whole underexposed town opening under it.
 
 FILM EMULATION — THE SAME STOCK FROM THE FIRST FRAME TO THE LAST
 Shot on Kodak Vision3 500T 5219 tungsten colour negative, one stock, one lab, for the entire film, rated at box speed and printed flat. Cool naturalistic colour science; shadows falling slightly blue-green and holding real separation and texture inside them; skin tones understated, never warmed up, never rosy. Gentle contrast, soft highlight roll-off, highlights restrained and never blown, a faint halation ring blooming around every practical source. Moderate fine grain that grows in the underexposed areas and breathes with the exposure. Not glossy, not digital, not warm. Daylight scenes are the same stock corrected with an 85 filter, never a different look.
@@ -663,13 +663,13 @@ True skin texture with visible pores and fine hairs, real fabric weave, seams an
 WORLD — THE RED HOUSE
 The only place in the film where red is allowed, and here it is the whole place. Outside: a red door in a grey street. Inside, once the bulb is out, there is no light source at all — the room is lit by nothing but its own writing, every stroke glowing faintly from within, low and even, the colour of embers under ash, far too dim and too soft for any stroke to be read. Never bright red, never neon, never a magic glow.
 
+FORMAT MODE
+One single continuous uncut take, 5 seconds long, at real-time speed. No cut, no montage, no speed ramp, no slow motion.
+
+OPTICS
+Anamorphic 24 mm f/2.8 equivalent. Depth of field wide open at that stop: the plane described in the FRAME MAP is tack sharp and everything behind it falls off progressively. Focus holds on that plane and breathes naturally with the camera's movement — no deliberate rack focus unless the FRAME MAP calls for one.
+
 SCENE The camera leaves the street behind and rises straight up until the town is nothing but a scatter of orange grains in a black landscape.
-
-PERFORMANCE PACING Unhurried, naturalistic, lived-in performance throughout. Real-time pacing: every action takes the time it takes in real life, nothing is compressed or hurried. A character always finishes their action before they speak. Before every reply there is a beat of silence — the listener breathes, thinks, then answers. Dialogue at relaxed conversational speed with natural pauses inside the lines. Held looks are truly held. Documentary naturalism, warm and imperfect, never theatrical.
-
-NATURAL MICRO-MOVEMENT Nobody is ever frozen, not for a single frame. Between and during the written actions, every character carries constant, very slow, very human micro-movement: breath visibly lifting the chest and shoulders, soft weight shifts of a few millimetres, small head drifts of a degree or two, fingers settling and resettling, eyes travelling a few millimetres and returning, blinks at natural intervals. This micro-life never adds gestures, steps, props or expressions — it is simply how a living body holds a position. Always slow and organic, never fidgety, never twitchy; no statue stillness, no freeze-frame, no mannequin pose.
-
-NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written below; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
 
 CONTINUITY LOCK The climb is CONSTANT from first frame to last — no ease, no acceleration, no hover.
 
@@ -722,7 +722,7 @@ NEGATIVE PROMPT red anywhere, a red roof, a red light, city lights bright enough
 CONTINUITY REFERENCE
 @Video 1: the previous segment of this same continuous shot (10F-3). Use it ONLY to read where the movement stands — light level, grain, skin rendering, and above all the camera's exact speed and direction at the moment it hands over. Do NOT reuse, copy or extend any of its frames: every frame here is built new from the references below, at full quality. The framing comes solely from the FRAME MAP below, and the movement continues at exactly the same constant speed, with no ease-in and no ease-out.
 
-Style prompt: A high underexposed town at night, and one small lit island at the edge of it: a bus shelter under a single sodium lamp. Hyper-realistic live-action footage, indistinguishable from film shot on a real set with real actors: true skin texture with visible pores and fine hairs, real fabric weave, seams and wrinkles that crease with movement, natural motion blur, constant micro-life in every held position (breathing, blinking, weight shifts of a few millimetres), only motivated practical light, subtle film grain, true-to-life colour. NOT CGI, NOT animation, no uncanny smoothness, no plastic skin, no beauty retouching, no video-game look.
+Style prompt: A high underexposed town at night, and one small lit island at the edge of it: a bus shelter under a single sodium lamp.
 
 FILM EMULATION — THE SAME STOCK FROM THE FIRST FRAME TO THE LAST
 Shot on Kodak Vision3 500T 5219 tungsten colour negative, one stock, one lab, for the entire film, rated at box speed and printed flat. Cool naturalistic colour science; shadows falling slightly blue-green and holding real separation and texture inside them; skin tones understated, never warmed up, never rosy. Gentle contrast, soft highlight roll-off, highlights restrained and never blown, a faint halation ring blooming around every practical source. Moderate fine grain that grows in the underexposed areas and breathes with the exposure. Not glossy, not digital, not warm. Daylight scenes are the same stock corrected with an 85 filter, never a different look.
@@ -740,13 +740,13 @@ ACTIVE REFERENCES
 @SamSDF: The vagrant — Sam in disguise, and playing him well. Slower, stiller, older in the joints; the cold has genuinely got into him. He does not perform kindness: he asks for something small, receives it, gives back more than he took, and states it flatly. He never watches anyone walk away while they can still see him. 100% matches the reference.
 @BusShelter: The bus shelter at the end of the world, a single sodium cone in the dark, wet ground, no legible signage. 100% matches the reference.
 
+FORMAT MODE
+One single continuous uncut take, 5 seconds long, at real-time speed. No cut, no montage, no speed ramp, no slow motion.
+
+OPTICS
+Anamorphic 24 mm f/2.8 equivalent. Depth of field wide open at that stop: the plane described in the FRAME MAP is tack sharp and everything behind it falls off progressively. Focus holds on that plane and breathes naturally with the camera's movement — no deliberate rack focus unless the FRAME MAP calls for one.
+
 SCENE Kilometres away from the red house, the camera comes down out of the air and settles on a bus shelter, where a man sits alone on the bench, head down.
-
-PERFORMANCE PACING Unhurried, naturalistic, lived-in performance throughout. Real-time pacing: every action takes the time it takes in real life, nothing is compressed or hurried. A character always finishes their action before they speak. Before every reply there is a beat of silence — the listener breathes, thinks, then answers. Dialogue at relaxed conversational speed with natural pauses inside the lines. Held looks are truly held. Documentary naturalism, warm and imperfect, never theatrical.
-
-NATURAL MICRO-MOVEMENT Nobody is ever frozen, not for a single frame. Between and during the written actions, every character carries constant, very slow, very human micro-movement: breath visibly lifting the chest and shoulders, soft weight shifts of a few millimetres, small head drifts of a degree or two, fingers settling and resettling, eyes travelling a few millimetres and returning, blinks at natural intervals. This micro-life never adds gestures, steps, props or expressions — it is simply how a living body holds a position. Always slow and organic, never fidgety, never twitchy; no statue stillness, no freeze-frame, no mannequin pose.
-
-NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written below; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
 
 CONTINUITY LOCK The descent is CONSTANT and decelerates only in the last second, stopping completely by the final frame.
 
@@ -876,7 +876,7 @@ inutilisable, l'artwork unique ne pourra plus s'y caler.
 CONTINUITY REFERENCE
 @Video 1: the shot that immediately precedes this one (10F-4), in the same place and the same minute. Use it ONLY to read where the scene stands — the exact light level and direction, the grain, the skin rendering, the state the bodies and the props are left in, and the camera's speed. Do NOT reuse, copy or extend any of its frames: every frame here is built new from the references below, at full quality. The framing comes solely from the FRAME MAP below and owes nothing to the previous shot's composition.
 
-Style prompt: A bus shelter at the edge of a port town, deep night: one sodium lamp above the shelter and SLIGHTLY IN FRONT OF THE BENCH throws a hard orange cone down and a little forward, everything outside it near-black, desaturated grey-blue, gently underexposed, crushed blacks. Long lens, shallow focus, camera locked off in every shot, no handheld shake, real-time pacing. Hyper-realistic live-action footage, indistinguishable from film shot on a real set with real actors: true skin texture with visible pores and fine hairs, real fabric weave, seams and wrinkles that crease with movement, natural motion blur, constant micro-life in every held position (breathing, blinking, weight shifts of a few millimetres), only motivated practical light, subtle film grain, true-to-life colour. NOT CGI, NOT animation, no uncanny smoothness, no plastic skin, no beauty retouching, no video-game look.
+Style prompt: A bus shelter at the edge of a port town, deep night: one sodium lamp above the shelter and SLIGHTLY IN FRONT OF THE BENCH throws a hard orange cone down and a little forward, everything outside it near-black, desaturated grey-blue, gently underexposed, crushed blacks. Long lens, shallow focus, camera locked off in every shot, no handheld shake, real-time pacing.
 
 FILM EMULATION — THE SAME STOCK FROM THE FIRST FRAME TO THE LAST
 Shot on Kodak Vision3 500T 5219 tungsten colour negative, one stock, one lab, for the entire film, rated at box speed and printed flat. Cool naturalistic colour science; shadows falling slightly blue-green and holding real separation and texture inside them; skin tones understated, never warmed up, never rosy. Gentle contrast, soft highlight roll-off, highlights restrained and never blown, a faint halation ring blooming around every practical source. Moderate fine grain that grows in the underexposed areas and breathes with the exposure. Not glossy, not digital, not warm. Daylight scenes are the same stock corrected with an 85 filter, never a different look.
@@ -895,13 +895,13 @@ ACTIVE REFERENCES
 @Sam: Sam two years later, a month of badly trimmed beard, ten kilos heavier, grey under the eyes. Two years without speaking — not sullen, emptied. He moves through his own house like a guest, shoulders forward, eyes down and to the side. Every gesture is finished; none is explained. 100% matches the reference.
 @BusShelter: The bus shelter at the end of the world, a single sodium cone in the dark, wet ground, no legible signage. 100% matches the reference.
 
+FORMAT MODE
+One single continuous uncut take, 10 seconds long, at real-time speed. No cut, no montage, no speed ramp, no slow motion.
+
+OPTICS
+Anamorphic 85 mm f/2 equivalent. Depth of field wide open at that stop: the plane described in the FRAME MAP is tack sharp and everything behind it falls off progressively. Focus holds on that plane and breathes naturally with the camera's movement — no deliberate rack focus unless the FRAME MAP calls for one.
+
 SCENE A homeless man alone under sodium puts down a half-eaten sandwich, pushes his beanie back, wipes one cheek; his hands fill the frame half a second — the fingers stained dark to the second knuckle — and then the head lifts and his eyes come into the light. Three shots, two hard cuts. Every second is choreographed below; nothing beyond it may be invented.
-
-PERFORMANCE PACING Unhurried, naturalistic, lived-in performance throughout. Real-time pacing: every action takes the time it takes in real life, nothing is compressed or hurried. A character always finishes their action before they speak. Before every reply there is a beat of silence — the listener breathes, thinks, then answers. Dialogue at relaxed conversational speed with natural pauses inside the lines. Held looks are truly held. Documentary naturalism, warm and imperfect, never theatrical.
-
-NATURAL MICRO-MOVEMENT Nobody is ever frozen, not for a single frame. Between and during the written actions, every character carries constant, very slow, very human micro-movement: breath visibly lifting the chest and shoulders, soft weight shifts of a few millimetres, small head drifts of a degree or two, fingers settling and resettling, eyes travelling a few millimetres and returning, blinks at natural intervals. This micro-life never adds gestures, steps, props or expressions — it is simply how a living body holds a position. Always slow and organic, never fidgety, never twitchy; no statue stillness, no freeze-frame, no mannequin pose.
-
-NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written below; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
 
 CONTINUITY LOCK Every prop named in the layout appears in EVERY shot where its surface is visible, in the same position and state — nothing appears, disappears, multiplies or moves unless the choreography says so. Each character's posture is stated at the top of every shot and never changes off-screen. THE PACKET IS NEVER OPENED, unwrapped or eaten from here.
 
@@ -967,7 +967,7 @@ plus** (les doigts passent AVANT le visage ; à 1,5 s l'insert devient une expli
 CONTINUITY REFERENCE
 @Video 1: an earlier shot from the same film (10H), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level, its composition or any of its frames: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything is built new, at full quality.
 
-Style prompt: One working-class family home across four moments: a near-black upstairs landing at night with one warm band escaping a half-open door; a kitchen table at night under a single hard work lamp; a bathroom in flat colourless daylight; the same landing again, later. Desaturated grey-blue, gently underexposed, sparse motivated sources, crushed blacks. Camera locked off in every shot except the single slow pivot in shot 1; no handheld shake. Real-time pacing. Hyper-realistic live-action footage, indistinguishable from film shot on a real set with real actors: true skin texture with visible pores and fine hairs, real fabric weave, seams and wrinkles that crease with movement, natural motion blur, constant micro-life in every held position (breathing, blinking, weight shifts of a few millimetres), only motivated practical light, subtle film grain, true-to-life colour. NOT CGI, NOT animation, no uncanny smoothness, no plastic skin, no beauty retouching, no video-game look.
+Style prompt: One working-class family home across four moments: a near-black upstairs landing at night with one warm band escaping a half-open door; a kitchen table at night under a single hard work lamp; a bathroom in flat colourless daylight; the same landing again, later. Desaturated grey-blue, gently underexposed, sparse motivated sources, crushed blacks. Camera locked off in every shot except the single slow pivot in shot 1; no handheld shake. Real-time pacing.
 
 FILM EMULATION — THE SAME STOCK FROM THE FIRST FRAME TO THE LAST
 Shot on Kodak Vision3 500T 5219 tungsten colour negative, one stock, one lab, for the entire film, rated at box speed and printed flat. Cool naturalistic colour science; shadows falling slightly blue-green and holding real separation and texture inside them; skin tones understated, never warmed up, never rosy. Gentle contrast, soft highlight roll-off, highlights restrained and never blown, a faint halation ring blooming around every practical source. Moderate fine grain that grows in the underexposed areas and breathes with the exposure. Not glossy, not digital, not warm. Daylight scenes are the same stock corrected with an 85 filter, never a different look.
@@ -989,13 +989,13 @@ ACTIVE REFERENCES
 @Kitchen: The family kitchen — warm domestic wood and cream-and-blue crockery, morning light through glass. NO RED anywhere in the room. 100% matches the reference.
 @Bathroom: A small bathroom, tiled, a mirror over the basin. 100% matches the reference.
 
+FORMAT MODE
+One single continuous uncut take, 14 seconds long, at real-time speed. No cut, no montage, no speed ramp, no slow motion.
+
+OPTICS
+Anamorphic 50 mm f/2 equivalent. Depth of field wide open at that stop: the plane described in the FRAME MAP is tack sharp and everything behind it falls off progressively. Focus holds on that plane and breathes naturally with the camera's movement — no deliberate rack focus unless the FRAME MAP calls for one.
+
 SCENE Four moments in one house, cut hard together. A father stands one metre from his crying daughter's half-open door and his hand stops short of the wood — a silhouette, no light ever on his face. He inks line after line onto a long dark coat laid flat under a lamp. In daylight he draws a soap-loaded fingertip across a DRY mirror and nothing appears. And at the end, wearing the coat, he walks away down his own hallway while a door claps behind him and bare feet run — and he does not turn around. Four shots, three hard cuts. Every second is choreographed below; nothing beyond it may be invented.
-
-PERFORMANCE PACING Unhurried, naturalistic, lived-in performance throughout. Real-time pacing: every action takes the time it takes in real life, nothing is compressed or hurried. A character always finishes their action before they speak. Before every reply there is a beat of silence — the listener breathes, thinks, then answers. Dialogue at relaxed conversational speed with natural pauses inside the lines. Held looks are truly held. Documentary naturalism, warm and imperfect, never theatrical.
-
-NATURAL MICRO-MOVEMENT Nobody is ever frozen, not for a single frame. Between and during the written actions, every character carries constant, very slow, very human micro-movement: breath visibly lifting the chest and shoulders, soft weight shifts of a few millimetres, small head drifts of a degree or two, fingers settling and resettling, eyes travelling a few millimetres and returning, blinks at natural intervals. This micro-life never adds gestures, steps, props or expressions — it is simply how a living body holds a position. Always slow and organic, never fidgety, never twitchy; no statue stillness, no freeze-frame, no mannequin pose.
-
-NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written below; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
 
 CONTINUITY LOCK Every prop named in the layout appears in EVERY shot where its surface is visible, in the same position and state — nothing appears, disappears, multiplies or moves unless the choreography says so. Each character's posture is stated at the top of every shot and never changes off-screen. THE COAT IS NEVER AN OBJECT IN THIS HOUSE: a flat worked surface on a table in shot 2, a moving back in shot 4, nowhere else — never on a hook, never folded, never hanging, never in shots 1 or 3.
 
@@ -1074,7 +1074,7 @@ refaire. ⚠ Son jeté au mix : le montage 10.9 est muet sous la musique pleine.
 CONTINUITY REFERENCE
 @Video 1: an earlier shot from the same film (10I), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level, its composition or any of its frames: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything is built new, at full quality.
 
-Style prompt: Four places, none of them his home: one downstairs room under a naked bulb — bare white-grey plaster in the first shot, every surface covered in dark red strokes in the second; then an old woman's kitchen in flat daylight, a restaurant closed for the afternoon, and the service corridor behind a school library. Desaturated grey-blue, gently underexposed, crushed blacks — with one exception, the dark red writing on plaster, the only saturated colour here. Camera locked off in every shot, no handheld shake. Real-time pacing. Hyper-realistic live-action footage, indistinguishable from film shot on a real set with real actors: true skin texture with visible pores and fine hairs, real fabric weave, seams and wrinkles that crease with movement, natural motion blur, constant micro-life in every held position (breathing, blinking, weight shifts of a few millimetres), only motivated practical light, subtle film grain, true-to-life colour. NOT CGI, NOT animation, no uncanny smoothness, no plastic skin, no beauty retouching, no video-game look.
+Style prompt: Four places, none of them his home: one downstairs room under a naked bulb — bare white-grey plaster in the first shot, every surface covered in dark red strokes in the second; then an old woman's kitchen in flat daylight, a restaurant closed for the afternoon, and the service corridor behind a school library. Desaturated grey-blue, gently underexposed, crushed blacks — with one exception, the dark red writing on plaster, the only saturated colour here. Camera locked off in every shot, no handheld shake. Real-time pacing.
 
 FILM EMULATION — THE SAME STOCK FROM THE FIRST FRAME TO THE LAST
 Shot on Kodak Vision3 500T 5219 tungsten colour negative, one stock, one lab, for the entire film, rated at box speed and printed flat. Cool naturalistic colour science; shadows falling slightly blue-green and holding real separation and texture inside them; skin tones understated, never warmed up, never rosy. Gentle contrast, soft highlight roll-off, highlights restrained and never blown, a faint halation ring blooming around every practical source. Moderate fine grain that grows in the underexposed areas and breathes with the exposure. Not glossy, not digital, not warm. Daylight scenes are the same stock corrected with an 85 filter, never a different look.
@@ -1100,13 +1100,13 @@ ACTIVE REFERENCES
 @Restaurant: Mei's restaurant — amber lanterns, green tablecloths, a green fish tank. No red anywhere, no legible signage. 100% matches the reference.
 @LibraryCorridor: A school library corridor, flat grey afternoon through high windows, shelving in depth. No legible book title anywhere. 100% matches the reference.
 
+FORMAT MODE
+One single continuous uncut take, 19 seconds long, at real-time speed. No cut, no montage, no speed ramp, no slow motion.
+
+OPTICS
+Anamorphic 28 mm f/1.4 equivalent. Depth of field wide open at that stop: the plane described in the FRAME MAP is tack sharp and everything behind it falls off progressively. Focus holds on that plane and breathes naturally with the camera's movement — no deliberate rack focus unless the FRAME MAP calls for one.
+
 SCENE A man lays the first stroke of dark red on a bare wall and steps back to measure what it will cost. Months later, in the same room, every surface is covered; he comes down the ladder with his fingers red to the second knuckle, pushes the switch OFF — and the strokes rise out of the dark on their own, faint, walls and ceiling together. Then he goes round to the people who will speak for him, an old woman and three women in a closed restaurant, and both times he talks and they nod. And in a library service corridor he drags the coat up over his own head and stands up as nobody. Five shots, four hard cuts. Every second is choreographed below; nothing beyond it may be invented.
-
-PERFORMANCE PACING Unhurried, naturalistic, lived-in performance throughout. Real-time pacing: every action takes the time it takes in real life, nothing is compressed or hurried. A character always finishes their action before they speak. Before every reply there is a beat of silence — the listener breathes, thinks, then answers. Dialogue at relaxed conversational speed with natural pauses inside the lines. Held looks are truly held. Documentary naturalism, warm and imperfect, never theatrical.
-
-NATURAL MICRO-MOVEMENT Nobody is ever frozen, not for a single frame. Between and during the written actions, every character carries constant, very slow, very human micro-movement: breath visibly lifting the chest and shoulders, soft weight shifts of a few millimetres, small head drifts of a degree or two, fingers settling and resettling, eyes travelling a few millimetres and returning, blinks at natural intervals. This micro-life never adds gestures, steps, props or expressions — it is simply how a living body holds a position. Always slow and organic, never fidgety, never twitchy; no statue stillness, no freeze-frame, no mannequin pose.
-
-NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written below; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
 
 CONTINUITY LOCK Every prop named in the layout appears in EVERY shot where its surface is visible, in the same position and state — nothing appears, disappears, multiplies or moves unless the choreography says so. Each character's posture is stated at the top of every shot and never changes off-screen. NO SURFACE EVER EMITS LIGHT WHILE THE BULB IS ON: the glow exists only after the switch goes down.
 
@@ -1192,7 +1192,7 @@ la surface est reprise en **[POST]**.*
 CONTINUITY REFERENCE
 No previous shot is attached to this generation. This is the first shot of its chain: it sets the light, the grain and the skin rendering that every following shot will be matched to. Build every frame new from the references below, at full quality.
 
-Style prompt: Seen from the corridor through the wired-glass window of a closed hospital room door — cold green fluorescent reflections sliding faintly on the glass between us and them, condensation at the pane's edge, and beyond the glass the room warmer, a small bed lamp's amber on two faces. Deep desaturated green-greys on our side. Camera locked off, absolutely still, no handheld shake. Real-time pacing. Hyper-realistic live-action footage, indistinguishable from film shot on a real set with real actors: true skin texture with visible pores and fine hairs, real fabric weave, seams and wrinkles that crease with movement, natural motion blur, constant micro-life in every held position (breathing, blinking, weight shifts of a few millimetres), only motivated practical light, subtle film grain, true-to-life colour. NOT CGI, NOT animation, no uncanny smoothness, no plastic skin, no beauty retouching, no video-game look.
+Style prompt: Seen from the corridor through the wired-glass window of a closed hospital room door — cold green fluorescent reflections sliding faintly on the glass between us and them, condensation at the pane's edge, and beyond the glass the room warmer, a small bed lamp's amber on two faces. Deep desaturated green-greys on our side. Camera locked off, absolutely still, no handheld shake. Real-time pacing.
 
 FILM EMULATION — THE SAME STOCK FROM THE FIRST FRAME TO THE LAST
 Shot on Kodak Vision3 500T 5219 tungsten colour negative, one stock, one lab, for the entire film, rated at box speed and printed flat. Cool naturalistic colour science; shadows falling slightly blue-green and holding real separation and texture inside them; skin tones understated, never warmed up, never rosy. Gentle contrast, soft highlight roll-off, highlights restrained and never blown, a faint halation ring blooming around every practical source. Moderate fine grain that grows in the underexposed areas and breathes with the exposure. Not glossy, not digital, not warm. Daylight scenes are the same stock corrected with an 85 filter, never a different look.
@@ -1212,13 +1212,13 @@ ACTIVE REFERENCES
 @HospitalCorridor: A hospital corridor — sea-green tiling to half height, green signage, deep perspective, no legible text. 100% matches the reference.
 @HospitalRoom: A hospital room — sea-green tiling, water-green monitors, no red anywhere, no legible signage. 100% matches the reference.
 
+FORMAT MODE
+One single continuous uncut take, 8 seconds long, at real-time speed. No cut, no montage, no speed ramp, no slow motion.
+
+OPTICS
+Anamorphic 50 mm f/2 equivalent. Depth of field wide open at that stop: the plane described in the FRAME MAP is tack sharp and everything behind it falls off progressively. Focus holds on that plane and breathes naturally with the camera's movement — no deliberate rack focus unless the FRAME MAP calls for one.
+
 SCENE Through the glass of a hospital room door: a dying woman takes her husband's face in both her hands, will not let go of it, and asks him for something. He opens his mouth and nothing comes out. He cries. He nods. He nods again. One continuous shot, locked frame, no cut, no camera movement of any kind. Every second is choreographed below; nothing beyond it may be invented.
-
-PERFORMANCE PACING Unhurried, naturalistic, lived-in performance throughout. Real-time pacing: every action takes the time it takes in real life, nothing is compressed or hurried. A character always finishes their action before they speak. Before every reply there is a beat of silence — the listener breathes, thinks, then answers. Dialogue at relaxed conversational speed with natural pauses inside the lines. Held looks are truly held. Documentary naturalism, warm and imperfect, never theatrical.
-
-NATURAL MICRO-MOVEMENT Nobody is ever frozen, not for a single frame. Between and during the written actions, every character carries constant, very slow, very human micro-movement: breath visibly lifting the chest and shoulders, soft weight shifts of a few millimetres, small head drifts of a degree or two, fingers settling and resettling, eyes travelling a few millimetres and returning, blinks at natural intervals. This micro-life never adds gestures, steps, props or expressions — it is simply how a living body holds a position. Always slow and organic, never fidgety, never twitchy; no statue stillness, no freeze-frame, no mannequin pose.
-
-NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written below; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
 
 CONTINUITY LOCK Every prop named in the layout keeps the same position and state; nothing appears, disappears, multiplies or moves unless the choreography says so. Each character's posture is stated at the top of the shot and never changes. HER TWO HANDS, ONCE ON HIS FACE AT [1.8s], NEVER LEAVE IT AND NEVER COME DOWN, to the last frame.
 
@@ -1284,7 +1284,7 @@ regénérer une version « sonore » séparée** : deux fichiers différents tue
 CONTINUITY REFERENCE
 @Video 1: an earlier shot from the same film (10H), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level, its composition or any of its frames: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything is built new, at full quality.
 
-Style prompt: A bus shelter at the far edge of a port town, deep night, empty road, nobody left. One sodium lamp is the only source and it stands SLIGHTLY IN FRONT OF THE BENCH and above it, so the hard orange cone falls from above and a little forward and reaches into the eye sockets instead of leaving them in shadow. Everything outside the cone near-black, desaturated grey-blue, gently underexposed, ground mist, wet asphalt, no red anywhere. Long lens, shallow focus. ONE SINGLE TAKE, NO CUT, locked off, no reframing. Hyper-realistic live-action footage, indistinguishable from film shot on a real set with real actors: true skin texture with visible pores and fine hairs, real fabric weave, seams and wrinkles that crease with movement, natural motion blur, constant micro-life in every held position (breathing, blinking, weight shifts of a few millimetres), only motivated practical light, subtle film grain, true-to-life colour. NOT CGI, NOT animation, no uncanny smoothness, no plastic skin, no beauty retouching, no video-game look.
+Style prompt: A bus shelter at the far edge of a port town, deep night, empty road, nobody left. One sodium lamp is the only source and it stands SLIGHTLY IN FRONT OF THE BENCH and above it, so the hard orange cone falls from above and a little forward and reaches into the eye sockets instead of leaving them in shadow. Everything outside the cone near-black, desaturated grey-blue, gently underexposed, ground mist, wet asphalt, no red anywhere. Long lens, shallow focus. ONE SINGLE TAKE, NO CUT, locked off, no reframing.
 
 FILM EMULATION — THE SAME STOCK FROM THE FIRST FRAME TO THE LAST
 Shot on Kodak Vision3 500T 5219 tungsten colour negative, one stock, one lab, for the entire film, rated at box speed and printed flat. Cool naturalistic colour science; shadows falling slightly blue-green and holding real separation and texture inside them; skin tones understated, never warmed up, never rosy. Gentle contrast, soft highlight roll-off, highlights restrained and never blown, a faint halation ring blooming around every practical source. Moderate fine grain that grows in the underexposed areas and breathes with the exposure. Not glossy, not digital, not warm. Daylight scenes are the same stock corrected with an 85 filter, never a different look.
@@ -1303,15 +1303,15 @@ ACTIVE REFERENCES
 @Sam: Sam two years later, a month of badly trimmed beard, ten kilos heavier, grey under the eyes. Two years without speaking — not sullen, emptied. He moves through his own house like a guest, shoulders forward, eyes down and to the side. Every gesture is finished; none is explained. 100% matches the reference.
 @BusShelter: The bus shelter at the end of the world, a single sodium cone in the dark, wet ground, no legible signage. 100% matches the reference.
 
+FORMAT MODE
+One single continuous uncut take, 8 seconds long, at real-time speed. No cut, no montage, no speed ramp, no slow motion.
+
+OPTICS
+Anamorphic 85 mm f/2 equivalent. Depth of field wide open at that stop: the plane described in the FRAME MAP is tack sharp and everything behind it falls off progressively. Focus holds on that plane and breathes naturally with the camera's movement — no deliberate rack focus unless the FRAME MAP calls for one.
+
 SCENE A heavy homeless man alone on a bus shelter bench under sodium, his face already wiped in lighter streaks. He lifts his head — further than before, past level, until he is looking up at the night sky. A long beat. Then the corners of his mouth go up and do not come down again, and one line of water crosses the wiped cheek, and he does not wipe it. He is smiling and crying at once, and he does not move again. One single take, no cut. Every second is choreographed below; nothing beyond it may be invented.
 
 WHAT IS REMOVED, AND WHAT IS NOT Nothing here is a disguise and NOTHING IS TORN OFF. THE BEARD IS HIS OWN AND STAYS ON: never pulled, never peeled, never lifted at an edge; no false beard, no prosthetic, no mask, no wig, no glue line. What was hiding him was dirt, a hat, and the fact that nobody looks at a man like this.
-
-PERFORMANCE PACING Unhurried, naturalistic, lived-in performance throughout. Real-time pacing: every action takes the time it takes in real life, nothing is compressed or hurried. A character always finishes their action before they speak. Before every reply there is a beat of silence — the listener breathes, thinks, then answers. Dialogue at relaxed conversational speed with natural pauses inside the lines. Held looks are truly held. Documentary naturalism, warm and imperfect, never theatrical.
-
-NATURAL MICRO-MOVEMENT Nobody is ever frozen, not for a single frame. Between and during the written actions, every character carries constant, very slow, very human micro-movement: breath visibly lifting the chest and shoulders, soft weight shifts of a few millimetres, small head drifts of a degree or two, fingers settling and resettling, eyes travelling a few millimetres and returning, blinks at natural intervals. This micro-life never adds gestures, steps, props or expressions — it is simply how a living body holds a position. Always slow and organic, never fidgety, never twitchy; no statue stillness, no freeze-frame, no mannequin pose.
-
-NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written below; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
 
 CONTINUITY LOCK Every prop named in the layout keeps the same position and state; nothing appears, disappears or moves unless the choreography says so. His posture (SEATED) never changes. THE BEANIE IS NEVER DROPPED, never thrown, never set down: it stays shut in his left fist on his knee from the first frame to the last.
 
