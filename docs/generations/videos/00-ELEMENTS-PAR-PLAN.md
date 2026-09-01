@@ -167,3 +167,44 @@
 | `@WardDoctor` | 🎭 personnage |
 | `@YoungMother` | 🎭 personnage |
 | `@YoungMotherHospital` | 🎭 personnage |
+
+---
+
+## ✅ LES ELEMENTS DE LIEUX EXISTENT — créés le 01/09
+
+Les 17 lieux du film sont maintenant enregistrés comme Elements dans Higgsfield, chacun **sur son
+image MASTER** et nommé comme dans les documents. Il n'y a plus rien à créer : tu les charges, c'est tout.
+
+| `@Element` | id | Doc | Note |
+|---|---|---|---|
+| `@Kitchen-1` | `efb7e486-7d41-4ec4-865e-fb7819d4aca5` | LIEU-01 | ⚠ le nom `Kitchen` était pris |
+| `@Quay` | `1995747d-a3fa-4f1c-b961-2447df509713` | LIEU-02 |  |
+| `@HospitalRoom` | `00091ff6-c8a3-4c7e-9f14-c3b8806cbcde` | LIEU-04 |  |
+| `@HospitalCorridor` | `039e0c17-5dba-49a0-9dfe-da2d897bb14d` | LIEU-05 |  |
+| `@AnnaKitchen` | `1f52688d-eb2d-4d22-8dc8-fc0fe0767c80` | LIEU-06 |  |
+| `@Restaurant` | `4c45eb46-6391-4f9d-aa7a-90ef92edd9db` | LIEU-07 |  |
+| `@NoraBedroom` | `0bf65b3a-34df-4562-be24-0f7624c66e6a` | LIEU-08 |  |
+| `@BackGallery` | `8bf5cd08-b418-4689-9133-2d7f7aa85979` | LIEU-09 |  |
+| `@Bathroom` | `c80c273b-a960-482b-beaf-45527dcff4e9` | LIEU-10 |  |
+| `@LibraryCorridor` | `016f6c5b-c26c-436c-98e2-2e78afa55441` | LIEU-11 |  |
+| `@NightBus` | `1ebc89e2-22e8-43cf-8d2e-3c04d0a7a87a` | LIEU-13 |  |
+| `@BusShelter` | `17adad6f-6137-4e3b-b077-4c74f841a7e5` | LIEU-14 |  |
+| `@RedHouseExterior` | `94d4c41e-65e3-47a4-b439-c4da10c4f06d` | LIEU-15 |  |
+| `@RussianHospitalCorridor` | `68b57993-3631-4e60-ad55-a64ddd3c680e` | LIEU-17 |  |
+| `@AnnaKitchenPast` | `1b2dd5fd-f718-4117-9f0b-45c46b61d28a` | LIEU-18 |  |
+| `@RussianNightStreet` | `eefb91c7-75b6-4129-a423-64b5d3d90d83` | LIEU-19 |  |
+| `@RussianCourtyard` | `ee53660d-1112-4f1e-ab18-7bbed83c9362` | LIEU-20 |  |
+
+### ⚠ Deux choses à savoir
+
+**1. `@Kitchen` s'appelle `@Kitchen-1`.** Un Element `kitchen` existait déjà — construit sur l'ANGLE H,
+pas sur le master — et Higgsfield a refusé le doublon. **Supprime l'ancien `kitchen` dans l'interface**,
+puis renomme `Kitchen-1` en `Kitchen`. Sans ça, les blocs qui disent `@Kitchen` ne trouveront rien.
+
+**2. `@RedHouseInterior` n'existe pas, et c'est voulu.** Ses images sont celles du 27/08, marquées
+PÉRIMÉES : écritures ivoire et lampe à pétrole au lieu de l'ampoule électrique. **Génère d'abord les
+quatre images v2** (prompt prêt dans `LIEU-16 §v2`), puis sauvegarde la v2 A comme Element.
+En attendant, toute la séquence 10 intérieure est bloquée.
+
+*(Les personnages étaient déjà tous enregistrés : nora, sam, sambefore, samafter, milo, milobefore,
+norabefore, maeva, anna, mei, asha, fatiha, mender.)*
