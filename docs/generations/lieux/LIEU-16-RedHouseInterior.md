@@ -146,16 +146,18 @@ The writing is real handwriting laid out in straight horizontal lines — word-s
 |---|---|---|---|
 | **A** | Le master, ampoule allumée | `4b92db60-65dd-46f1-b984-c769f170ac2a` | — *(tête)* |
 | ~~A~~ | ~~1ʳᵉ passe — **REJETÉE** : gribouillages au lieu d'écriture~~ | ~~`f2ebd4b6-8ec3-4da2-9297-4cd7737e1a60`~~ | — |
-| **B** | La plage de plâtre vide | ⬜ *à régénérer sur le nouvel A* | **A** |
-| **C** | Les braises, vue d'ensemble | ⬜ *à régénérer sur le nouvel A* | **A** |
-| **D** | Les braises au ras du sol | ⬜ *à régénérer sur le nouvel A* | **A** |
+| **B** | La plage de plâtre vide | `87ccd7cb-b65a-4177-b6c8-d6d3c2fb5cb1` | **A** |
+| **C** | Les braises, vue d'ensemble | `3217fb91-e212-42bb-ba96-8c64e3ee18a0` | **A** |
+| **D** | Les braises au ras du sol | `57893b7a-c337-4dda-8986-c7b726ab598c` | **A** |
 
 *(1ʳᵉ passe rejetée avec A : `1ccf6d1d-…`, `46ede9ac-…`, `ba0172c7-…` — elles héritaient de ses gribouillages.)*
 
 Coût 1ʳᵉ passe : 56 crédits (~$4,50), **perdus**. 2ᵉ passe : A seule = 14 crédits.
 
-**B, C et D ne sont PAS relancées tant que A n'est pas validée à l'œil** — elles se génèrent avec A
-en référence et hériteraient de sa faute. C'est exactement ce qui s'est passé à la 1ʳᵉ passe.
+A validée par David, B/C/D relancées dessus : 42 crédits. **Total 2ᵉ passe : 56 crédits.**
+
+*Méthode retenue : générer A seule, la faire valider, puis les trois autres. À la 1ʳᵉ passe les quatre
+étaient parties d'un coup et les trois dernières ont hérité de la faute de la première.*
 
 ⚠ **Ces quatre images sont des PRÉVISUALISATIONS.** Elles sont nées **hors du projet festival**
 (Cinema Studio) : le règlement exige que les fichiers livrés soient générés *dans* le projet et y
