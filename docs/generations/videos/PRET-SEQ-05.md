@@ -46,6 +46,12 @@ The owner brings tea to a family of three she has known for years and, out of ol
 CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
 THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (4D), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (4D) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The kitchen with nobody in it: the near upright of the door frame at frame left gone soft, the black doorway beside it, and sharp at frame right the taut line above the cast-iron stove with its eight small odd mittens hanging in the amber, no two alike, swaying a millimetre in the rising heat — the grate glowing low behind them, the corners of the room lost in deep warm shadow.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Anna: SEATED, x=26%, filling 66% of frame height. @Nora: STANDING, x=40%, filling 82% of frame height.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 ACTIVE REFERENCES
 @Sam: Sam two years later, a month of badly trimmed beard, ten kilos heavier, grey under the eyes. Two years without speaking — not sullen, emptied. He moves through his own house like a guest, shoulders forward, eyes down and to the side. Every gesture is finished; none is explained. 100% matches the reference.
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
@@ -122,7 +128,9 @@ LIGHT The amber paper lanterns burning low — weak tungsten bulbs inside the pa
 
 DIALOGUE None. Nobody speaks in this generation — the service happens without one word.
 
-LAST FRAME The family table with exactly THREE cups steaming, the metal teapot at centre, the bare place bare, the empty chair pushed in; @Sam mid-cut over @Milo's plate, eyes down; @Milo chewing; @Nora's fork on her plate rim; @Mei's back leaving frame right with the tray and the fourth cup on it. Grey-blue room, the green tank glowing far behind, nothing at the counter's far end.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The family table with exactly THREE cups steaming, the metal teapot at centre, the bare place bare, the empty chair pushed in; @Sam mid-cut over @Milo's plate, eyes down; @Milo chewing; @Nora's fork on her plate rim; @Mei's back leaving frame right with the tray and the fourth cup on it. Grey-blue room, the green tank glowing far behind, nothing at the counter's far end.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Sam: SEATED, x=58%, filling 45% of frame height. @Milo: SEATED, x=38%, filling 30% of frame height. @Nora: SEATED, x=20%, filling 50% of frame height. @Mei: STANDING, x=52%.
 
 
 
@@ -206,6 +214,12 @@ At the next table over, three women who have known each other for years are talk
 CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO
 THE VIDEO ATTACHED TO THIS GENERATION is the shot that immediately precedes this one (5A), in the same place and the same minute. THIS GENERATION IS ITS DIRECT CONTINUATION and must feel like the same take filmed by the same operator seconds later: carry over its exact light level and direction, its grain, its skin rendering, the state the bodies and the props are left in, AND ABOVE ALL THE WAY ITS CAMERA BEHAVES — the same height, the same kind of movement, the same speed, the same breathing weight in the frame. Pick the scene up exactly where the attached video leaves it. Do not restart it, do not reset the room, do not relight it, do not change operator. The new framing is the one the FRAME MAP gives below, but it is reached by the same camera, moving the same way.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (5A) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The family table with exactly THREE cups steaming, the metal teapot at centre, the bare place bare, the empty chair pushed in; @Sam mid-cut over @Milo's plate, eyes down; @Milo chewing; @Nora's fork on her plate rim; @Mei's back leaving frame right with the tray and the fourth cup on it. Grey-blue room, the green tank glowing far behind, nothing at the counter's far end.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Sam: SEATED, x=58%, filling 45% of frame height. @Milo: SEATED, x=38%, filling 30% of frame height. @Nora: SEATED, x=20%, filling 50% of frame height. @Mei: STANDING, x=52%.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
 @Mei: Mei, fifty-eight, who runs the restaurant — brisk, busy, entirely unmystified, and still running it while this happens. What she passes on she passes on the way she would pass on a phone number: practical, low, half over her shoulder, already moving. Dark green apron stained at the hip. 100% matches the reference.
@@ -270,7 +284,9 @@ LIGHT The amber paper lanterns burning low — weak tungsten bulbs inside the pa
 
 DIALOGUE Four voices' worth of talk in one table's worth of time, quick and overlapping at the joins, each line landing on the tail of the one before, about four words a second, nobody projecting, nobody performing. [0.35-2.15s] @Fatiha: "…my grandmother swore she saw him. Twice." — [1.95-2.95s] @Mei, cutting across her last word, flat and amused, eyes on her own cup: "Everyone's grandmother saw him." — [2.80-4.20s] @Fatiha, over the tail of that: "Al-Maktoub. That's what we call him." — [4.05-4.60s] @Asha, level, one word: "Msimulizi." — [4.60-5.15s] @Mei, straight after: "Mòyīrén." — a short breath of a laugh — [5.55-6.55s] @Mei: "I thought he was ours." — Nobody else speaks. Not one word is spoken at the family table. None of the three names is ever translated, explained or repeated in English.
 
-LAST FRAME The women's round table under the green tank glow, mid-meal and mid-conversation: @Fatiha drawing breath, her hands above the cloth; @Asha's eyes on Fatiha, chopsticks in her right hand; @Mei's hand still around her cup on the cloth, her chest just settling from a short laugh; in the extreme soft left foreground the back of @Nora's head and shoulder, unmoved, her fork still stopped in the air; nothing at the counter's far end.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The women's round table under the green tank glow, mid-meal and mid-conversation: @Fatiha drawing breath, her hands above the cloth; @Asha's eyes on Fatiha, chopsticks in her right hand; @Mei's hand still around her cup on the cloth, her chest just settling from a short laugh; in the extreme soft left foreground the back of @Nora's head and shoulder, unmoved, her fork still stopped in the air; nothing at the counter's far end.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Asha: SEATED, x=27%. @Mei: SEATED, x=48%, filling 50% of frame height. @Fatiha: SEATED, x=73%, filling 55% of frame height.
 
 
 
@@ -352,6 +368,12 @@ The same three women at the same table, still talking across each other about th
 CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO
 THE VIDEO ATTACHED TO THIS GENERATION is the shot that immediately precedes this one (5B-1), in the same place and the same minute. THIS GENERATION IS ITS DIRECT CONTINUATION and must feel like the same take filmed by the same operator seconds later: carry over its exact light level and direction, its grain, its skin rendering, the state the bodies and the props are left in, AND ABOVE ALL THE WAY ITS CAMERA BEHAVES — the same height, the same kind of movement, the same speed, the same breathing weight in the frame. Pick the scene up exactly where the attached video leaves it. Do not restart it, do not reset the room, do not relight it, do not change operator. The new framing is the one the FRAME MAP gives below, but it is reached by the same camera, moving the same way.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (5B-1) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The women's round table under the green tank glow, mid-meal and mid-conversation: @Fatiha drawing breath, her hands above the cloth; @Asha's eyes on Fatiha, chopsticks in her right hand; @Mei's hand still around her cup on the cloth, her chest just settling from a short laugh; in the extreme soft left foreground the back of @Nora's head and shoulder, unmoved, her fork still stopped in the air; nothing at the counter's far end.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Asha: SEATED, x=27%. @Mei: SEATED, x=48%, filling 50% of frame height. @Fatiha: SEATED, x=73%, filling 55% of frame height.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
 @Mei: Mei, fifty-eight, who runs the restaurant — brisk, busy, entirely unmystified, and still running it while this happens. What she passes on she passes on the way she would pass on a phone number: practical, low, half over her shoulder, already moving. Dark green apron stained at the hip. 100% matches the reference.
@@ -415,7 +437,9 @@ LIGHT The amber paper lanterns burning low — weak tungsten bulbs inside the pa
 
 DIALOGUE Quick, overlapping at the joins, about four words a second, nobody projecting, nobody performing. [0.20-0.95s] @Asha, level: "He's everybody's." — [0.85-2.65s] @Fatiha, over the tail of that: "He asks for something first. Always something small." — [2.50-3.45s] @Mei, cutting in flat, eyes on her own cup: "Never a big one." — [3.70-5.30s] @Asha, unhurried and without weight: "And nobody has ever seen his face." — HALF A SECOND OF SILENCE, [5.30-5.85s], nobody speaking, nobody reacting — [5.85-6.35s] @Fatiha, already elsewhere, to @Mei, completely ordinary: "More tea?" — Nobody else speaks. Not one word is spoken at the family table.
 
-LAST FRAME The women's round table under the green tank glow, already onto something else: @Fatiha's right hand closed on the dented metal teapot's handle, the pot still on the cloth; @Mei mid-nod, her cup still in her right hand; @Asha's chopsticks lying flat across her plate, her eyes back on the two of them; in the extreme soft left foreground the back of @Nora's head and shoulder, unmoved, her fork still stopped in the air; nothing at the counter's far end.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The women's round table under the green tank glow, already onto something else: @Fatiha's right hand closed on the dented metal teapot's handle, the pot still on the cloth; @Mei mid-nod, her cup still in her right hand; @Asha's chopsticks lying flat across her plate, her eyes back on the two of them; in the extreme soft left foreground the back of @Nora's head and shoulder, unmoved, her fork still stopped in the air; nothing at the counter's far end.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Asha: SEATED, x=27%, filling 55% of frame height. @Mei: SEATED, x=48%, filling 50% of frame height. @Fatiha: SEATED, x=73%, filling 55% of frame height.
 
 
 
@@ -502,6 +526,12 @@ Two large workman's hands cut a child's food, slowly and evenly, the way they ha
 CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO
 THE VIDEO ATTACHED TO THIS GENERATION is the shot that immediately precedes this one (5B-2), in the same place and the same minute. THIS GENERATION IS ITS DIRECT CONTINUATION and must feel like the same take filmed by the same operator seconds later: carry over its exact light level and direction, its grain, its skin rendering, the state the bodies and the props are left in, AND ABOVE ALL THE WAY ITS CAMERA BEHAVES — the same height, the same kind of movement, the same speed, the same breathing weight in the frame. Pick the scene up exactly where the attached video leaves it. Do not restart it, do not reset the room, do not relight it, do not change operator. The new framing is the one the FRAME MAP gives below, but it is reached by the same camera, moving the same way.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (5B-2) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The women's round table under the green tank glow, already onto something else: @Fatiha's right hand closed on the dented metal teapot's handle, the pot still on the cloth; @Mei mid-nod, her cup still in her right hand; @Asha's chopsticks lying flat across her plate, her eyes back on the two of them; in the extreme soft left foreground the back of @Nora's head and shoulder, unmoved, her fork still stopped in the air; nothing at the counter's far end.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Asha: SEATED, x=27%, filling 55% of frame height. @Mei: SEATED, x=48%, filling 50% of frame height. @Fatiha: SEATED, x=73%, filling 55% of frame height.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 ACTIVE REFERENCES
 @Sam: Sam two years later, a month of badly trimmed beard, ten kilos heavier, grey under the eyes. Two years without speaking — not sullen, emptied. He moves through his own house like a guest, shoulders forward, eyes down and to the side. Every gesture is finished; none is explained. 100% matches the reference.
 @Restaurant: Mei's restaurant — amber lanterns, green tablecloths, a green fish tank. No red anywhere, no legible signage. 100% matches the reference.
@@ -549,7 +579,9 @@ LIGHT One weak amber lantern pool from directly above, falling on the plate and 
 
 DIALOGUE No line is spoken on screen; nobody in frame has a mouth in frame. OFF SCREEN ONLY, from another table across the room, a woman's level unhurried voice, coming through the murmur of two others: [1.6-3.2s] "And nobody has ever seen his face." Nothing else is intelligible, before or after.
 
-LAST FRAME Straight down on the plate of flat noodles on the dark green cloth: the worn-handled knife in the right hand and the fork in the left, mid-cut, the olive-drab canvas sleeves with the torn left cuff entering the top of frame, the thin worn steel wedding band catching a low amber gleam, the fingertips faintly stained dark blue-black. No face anywhere in frame.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: Straight down on the plate of flat noodles on the dark green cloth: the worn-handled knife in the right hand and the fork in the left, mid-cut, the olive-drab canvas sleeves with the torn left cuff entering the top of frame, the thin worn steel wedding band catching a low amber gleam, the fingertips faintly stained dark blue-black. No face anywhere in frame.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Milo: x=48%.
 
 
 
@@ -636,6 +668,12 @@ First, the family table, wide and silent: a heavy unshaven father cutting his yo
 CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO
 THE VIDEO ATTACHED TO THIS GENERATION is the shot that immediately precedes this one (5C), in the same place and the same minute. THIS GENERATION IS ITS DIRECT CONTINUATION and must feel like the same take filmed by the same operator seconds later: carry over its exact light level and direction, its grain, its skin rendering, the state the bodies and the props are left in, AND ABOVE ALL THE WAY ITS CAMERA BEHAVES — the same height, the same kind of movement, the same speed, the same breathing weight in the frame. Pick the scene up exactly where the attached video leaves it. Do not restart it, do not reset the room, do not relight it, do not change operator. The new framing is the one the FRAME MAP gives below, but it is reached by the same camera, moving the same way.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (5C) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: Straight down on the plate of flat noodles on the dark green cloth: the worn-handled knife in the right hand and the fork in the left, mid-cut, the olive-drab canvas sleeves with the torn left cuff entering the top of frame, the thin worn steel wedding band catching a low amber gleam, the fingertips faintly stained dark blue-black. No face anywhere in frame.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Milo: x=48%.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 ACTIVE REFERENCES
 @Sam: Sam two years later, a month of badly trimmed beard, ten kilos heavier, grey under the eyes. Two years without speaking — not sullen, emptied. He moves through his own house like a guest, shoulders forward, eyes down and to the side. Every gesture is finished; none is explained. 100% matches the reference.
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
@@ -706,7 +744,9 @@ LIGHT The amber paper lanterns burning low — weak tungsten bulbs inside the pa
 
 DIALOGUE No lines. Nobody speaks anywhere in this generation, on screen or off — the conversation across the room is over and the family table has not said a word all evening.
 
-LAST FRAME @Nora's face in close-up, still; her fork down on the plate rim, the mouthful never taken; her eyes low and to the LEFT, resting where the empty chair at her own table stands soft at the frame's left edge; the amber of the room and the green of the tank soft and out of focus behind her; her lips closed.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: @Nora's face in close-up, still; her fork down on the plate rim, the mouthful never taken; her eyes low and to the LEFT, resting where the empty chair at her own table stands soft at the frame's left edge; the amber of the room and the green of the tank soft and out of focus behind her; her lips closed.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Sam: SEATED, x=56%, filling 42% of frame height. @Milo: SEATED, x=38%, filling 26% of frame height. @Nora: SEATED, x=50%, filling 70% of frame height.
 
 
 
@@ -843,7 +883,9 @@ LIGHT One weak amber lantern pool from above and slightly in front, modelling he
 
 DIALOGUE None. Nobody speaks in this generation, on screen or off.
 
-LAST FRAME @Nora's face in close-up, still; her fork down on the plate rim, the mouthful never taken; her eyes low and to the LEFT, resting where the empty chair stands soft at the frame's left edge; the amber of the room and a low green spill soft and out of focus behind her; her lips closed.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: @Nora's face in close-up, still; her fork down on the plate rim, the mouthful never taken; her eyes low and to the LEFT, resting where the empty chair stands soft at the frame's left edge; the amber of the room and a low green spill soft and out of focus behind her; her lips closed.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Nora: SEATED, x=50%, filling 72% of frame height.
 
 
 

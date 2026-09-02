@@ -263,7 +263,9 @@ LIGHT One source only: the window directly above the gas range, straight behind 
 
 DIALOGUE [6.9-7.8s] @Maeve, whispered, forehead to forehead, eyes closed: "Love you." [8.4-9.2s] @SamBefore, lower, certain, just as quietly: "Love you more." Nobody else speaks. No other line is added, and neither line is repeated.
 
-LAST FRAME The two of them chest-up and half-silhouetted in the window's gold, forehead resting against forehead, both pairs of eyes closed, her two hands flat on his chest one slightly higher than the other, his arms wrapped around her waist with the wool of her sweater gathered under his palms, one last thin thread of smoke rising from the cooling pan beside them under the window. The frame is at rest and carries no motion blur.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The two of them chest-up and half-silhouetted in the window's gold, forehead resting against forehead, both pairs of eyes closed, her two hands flat on his chest one slightly higher than the other, his arms wrapped around her waist with the wool of her sweater gathered under his palms, one last thin thread of smoke rising from the cooling pan beside them under the window. The frame is at rest and carries no motion blur.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @SamBefore: SEATED, x=30%, filling 48% of frame height. @Maeve: STANDING, x=68%, filling 62% of frame height.
 
 
 
@@ -351,6 +353,12 @@ A minute after the embrace, the children arrive and the family folds together wi
 CONTINUITY REFERENCE
 THE VIDEO ATTACHED TO THIS GENERATION is the shot that immediately precedes this one (1B), in the same place but about a minute later — the table has been re-laid in that minute. THIS GENERATION CONTINUES IT: carry over its exact light level and direction, its grain, its skin rendering, AND THE WAY ITS CAMERA BEHAVES — the same height, the same kind of movement, the same speed, the same breathing weight in the frame. Do NOT carry over the position of the props: the table is re-laid, and the PROP LAYOUT below is the only truth about it. Same operator, same room, one minute later.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (1B) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The two of them chest-up and half-silhouetted in the window's gold, forehead resting against forehead, both pairs of eyes closed, her two hands flat on his chest one slightly higher than the other, his arms wrapped around her waist with the wool of her sweater gathered under his palms, one last thin thread of smoke rising from the cooling pan beside them under the window. The frame is at rest and carries no motion blur.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @SamBefore: SEATED, x=30%, filling 48% of frame height. @Maeve: STANDING, x=68%, filling 62% of frame height.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 ACTIVE REFERENCES
 @SamBefore: Sam before, a man in his forties, clean, upright, hands with NO ink on them. A man who talks: he performs small things for his family, narrates his own failures while they happen, laughs at himself, touches people as he passes them. Loose in the shoulders, nothing guarded. 100% matches the reference.
 @Maeve: Maeve, alive — dry, fast, affectionate and entirely unsentimental. She does not soften her voice for anyone; what she wants she asks for plainly, and once. Her tenderness arrives as instruction, never as comfort. 100% matches the reference.
@@ -409,7 +417,9 @@ LIGHT One source only: the window directly above the gas range, throwing warm go
 
 DIALOGUE None. NOBODY SPEAKS IN THIS GENERATION — not the father, not the mother, not the girl, not the boy. No line is added, no name is called, no greeting is exchanged. Breath, a laugh with no word in it, and small feet on tile are the only voices this scene has.
 
-LAST FRAME The four of them together in front of the gold window at the range side of the room — the small boy's arms around his mother's legs and her hand on the crown of his head, the girl folded into her father's side under his closed arm with his chin resting on the top of her head — the breakfast table laid for four crossing the lower third untouched, the toast smoking thinly on its plate at the centre of it, the dark hallway doorway empty at the right frame edge.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The four of them together in front of the gold window at the range side of the room — the small boy's arms around his mother's legs and her hand on the crown of his head, the girl folded into her father's side under his closed arm with his chin resting on the top of her head — the breakfast table laid for four crossing the lower third untouched, the toast smoking thinly on its plate at the centre of it, the dark hallway doorway empty at the right frame edge.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @SamBefore: x=60%, filling 62% of frame height. @Maeve: x=70%, filling 56% of frame height. @NoraBefore: x=86%, filling 48% of frame height.
 
 
 
@@ -497,6 +507,12 @@ One overhead insert, no people at all: the breakfast table laid for four, intact
 CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO
 THE VIDEO ATTACHED TO THIS GENERATION is the shot that immediately precedes this one (1C), in the same place and the same minute. THIS GENERATION IS ITS DIRECT CONTINUATION and must feel like the same take filmed by the same operator seconds later: carry over its exact light level and direction, its grain, its skin rendering, the state the bodies and the props are left in, AND ABOVE ALL THE WAY ITS CAMERA BEHAVES — the same height, the same kind of movement, the same speed, the same breathing weight in the frame. Pick the scene up exactly where the attached video leaves it. Do not restart it, do not reset the room, do not relight it, do not change operator. The new framing is the one the FRAME MAP gives below, but it is reached by the same camera, moving the same way.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (1C) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The four of them together in front of the gold window at the range side of the room — the small boy's arms around his mother's legs and her hand on the crown of his head, the girl folded into her father's side under his closed arm with his chin resting on the top of her head — the breakfast table laid for four crossing the lower third untouched, the toast smoking thinly on its plate at the centre of it, the dark hallway doorway empty at the right frame edge.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @SamBefore: x=60%, filling 62% of frame height. @Maeve: x=70%, filling 56% of frame height. @NoraBefore: x=86%, filling 48% of frame height.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 ACTIVE REFERENCES
 @Kitchen: The family kitchen — warm domestic wood and cream-and-blue crockery, morning light through glass. NO RED anywhere in the room. 100% matches the reference.
 
@@ -537,7 +553,8 @@ LIGHT One source only: the window above the gas range, out of frame, laying one 
 
 DIALOGUE None. Nobody speaks. The family is heard off screen as noise, never as words: not one line, not one intelligible sentence, no name called.
 
-LAST FRAME The breakfast table straight from above, laid for four and untouched — four bowls one at each place, the open jar of orange marmalade with its standing teaspoon at the centre, the butter dish, two faintly steaming coffees, two glasses of milk, and the plate with the two blackened slices at the middle of the table with one thin thread of smoke rising straight up through the hard bar of warm window light crossing the wood.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The breakfast table straight from above, laid for four and untouched — four bowls one at each place, the open jar of orange marmalade with its standing teaspoon at the centre, the butter dish, two faintly steaming coffees, two glasses of milk, and the plate with the two blackened slices at the middle of the table with one thin thread of smoke rising straight up through the hard bar of warm window light crossing the wood.
 
 
 

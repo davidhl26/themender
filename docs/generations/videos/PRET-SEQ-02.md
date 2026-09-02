@@ -46,6 +46,11 @@ A family of four walks a quay toward dinner at sunset; an old man sits on the gr
 CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
 THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (1D), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (1D) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The breakfast table straight from above, laid for four and untouched — four bowls one at each place, the open jar of orange marmalade with its standing teaspoon at the centre, the butter dish, two faintly steaming coffees, two glasses of milk, and the plate with the two blackened slices at the middle of the table with one thin thread of smoke rising straight up through the hard bar of warm window light crossing the wood.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 ACTIVE REFERENCES
 @SamBefore: Sam before, a man in his forties, clean, upright, hands with NO ink on them. A man who talks: he performs small things for his family, narrates his own failures while they happen, laughs at himself, touches people as he passes them. Loose in the shoulders, nothing guarded. 100% matches the reference.
 @Maeve: Maeve, alive — dry, fast, affectionate and entirely unsentimental. She does not soften her voice for anyone; what she wants she asks for plainly, and once. Her tenderness arrives as instruction, never as comfort. 100% matches the reference.
@@ -111,7 +116,9 @@ LIGHT One source only: the sun, a hand's width above the horizon at the far end 
 
 DIALOGUE None. Nobody speaks in this generation — the boy's babble stays indistinct, with no intelligible word in it.
 
-LAST FRAME @Maeve standing straight over the seated man, her smile landing on his upturned, fully lit face, the coins and the folded bill in the beige cup, the crimson scarf the one line of red in the gold, @NoraBefore stopped in the background watching her mother.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: @Maeve standing straight over the seated man, her smile landing on his upturned, fully lit face, the coins and the folded bill in the beige cup, the crimson scarf the one line of red in the gold, @NoraBefore stopped in the background watching her mother.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @SamBefore: x=60%. @Maeve: x=55%. @NoraBefore: x=80%.
 
 
 
@@ -193,6 +200,12 @@ Walking on toward dinner, a thirteen-year-old challenges her mother for giving m
 CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO
 THE VIDEO ATTACHED TO THIS GENERATION is the shot that immediately precedes this one (2A), in the same place and the same minute. THIS GENERATION IS ITS DIRECT CONTINUATION and must feel like the same take filmed by the same operator seconds later: carry over its exact light level and direction, its grain, its skin rendering, the state the bodies and the props are left in, AND ABOVE ALL THE WAY ITS CAMERA BEHAVES — the same height, the same kind of movement, the same speed, the same breathing weight in the frame. Pick the scene up exactly where the attached video leaves it. Do not restart it, do not reset the room, do not relight it, do not change operator. The new framing is the one the FRAME MAP gives below, but it is reached by the same camera, moving the same way.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (2A) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: @Maeve standing straight over the seated man, her smile landing on his upturned, fully lit face, the coins and the folded bill in the beige cup, the crimson scarf the one line of red in the gold, @NoraBefore stopped in the background watching her mother.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @SamBefore: x=60%. @Maeve: x=55%. @NoraBefore: x=80%.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 ACTIVE REFERENCES
 @SamBefore: Sam before, a man in his forties, clean, upright, hands with NO ink on them. A man who talks: he performs small things for his family, narrates his own failures while they happen, laughs at himself, touches people as he passes them. Loose in the shoulders, nothing guarded. 100% matches the reference.
 @Maeve: Maeve, alive — dry, fast, affectionate and entirely unsentimental. She does not soften her voice for anyone; what she wants she asks for plainly, and once. Her tenderness arrives as instruction, never as comfort. 100% matches the reference.
@@ -267,7 +280,9 @@ LIGHT Shot 1: one source — the low sun directly behind the camera, its last wa
 
 DIALOGUE [3.4-4.6s] @NoraBefore, flat, half a challenge: "You don't even know him." [5.2-6.6s] @Maeve, not turning her head, worn smooth by habit: "Give and you shall receive." [7.3-8.2s] @NoraBefore, brows knotted: "Receive what?" [9.3-10.3s] @Maeve, unhurried, a smile in the voice: "You'll see." Nothing else is said by anyone.
 
-LAST FRAME The lit shopfront amber in the luminous blue dusk, the family small and almost at the door with their backs three-quarter to camera, the boy up on his father's shoulders, the crimson scarf one line of red, the quay empty behind them, masts black against the last of the light.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The lit shopfront amber in the luminous blue dusk, the family small and almost at the door with their backs three-quarter to camera, the boy up on his father's shoulders, the crimson scarf one line of red, the quay empty behind them, masts black against the last of the light.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Maeve: x=44%. @NoraBefore: x=58%, filling 45% of frame height.
 
 
 
@@ -350,6 +365,12 @@ The owner of a small harbour restaurant carries four plates to a family's table 
 CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
 THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (2B), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (2B) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The lit shopfront amber in the luminous blue dusk, the family small and almost at the door with their backs three-quarter to camera, the boy up on his father's shoulders, the crimson scarf one line of red, the quay empty behind them, masts black against the last of the light.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Maeve: x=44%. @NoraBefore: x=58%, filling 45% of frame height.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 ACTIVE REFERENCES
 @SamBefore: Sam before, a man in his forties, clean, upright, hands with NO ink on them. A man who talks: he performs small things for his family, narrates his own failures while they happen, laughs at himself, touches people as he passes them. Loose in the shoulders, nothing guarded. 100% matches the reference.
 @Maeve: Maeve, alive — dry, fast, affectionate and entirely unsentimental. She does not soften her voice for anyone; what she wants she asks for plainly, and once. Her tenderness arrives as instruction, never as comfort. 100% matches the reference.
@@ -410,7 +431,9 @@ LIGHT Two warm practicals only: the paper lanterns above the table drop soft amb
 
 DIALOGUE None. Nobody speaks in this generation. The two words @Mei trades with @Maeve are silent — lips moving, nothing audible.
 
-LAST FRAME The family table from the back of the room: the four seated, the FOUR green-rimmed plates set one in front of each of them on the white paper top, the stout teapot at the centre, @Mei gone from frame, the amber lantern pools on the paper, the half-fogged window and the blue night behind them.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The family table from the back of the room: the four seated, the FOUR green-rimmed plates set one in front of each of them on the white paper top, the stout teapot at the centre, @Mei gone from frame, the amber lantern pools on the paper, the half-fogged window and the blue night behind them.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @SamBefore: SEATED, x=26%, filling 50% of frame height. @Maeve: SEATED, x=44%. @MiloBefore: SEATED, x=60%. @NoraBefore: SEATED, x=76%.
 
 
 
@@ -492,6 +515,12 @@ Much later in the evening, the little boy has fallen asleep against his mother; 
 CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO
 THE VIDEO ATTACHED TO THIS GENERATION is the shot that immediately precedes this one (2C), in the same place and the same minute. THIS GENERATION IS ITS DIRECT CONTINUATION and must feel like the same take filmed by the same operator seconds later: carry over its exact light level and direction, its grain, its skin rendering, the state the bodies and the props are left in, AND ABOVE ALL THE WAY ITS CAMERA BEHAVES — the same height, the same kind of movement, the same speed, the same breathing weight in the frame. Pick the scene up exactly where the attached video leaves it. Do not restart it, do not reset the room, do not relight it, do not change operator. The new framing is the one the FRAME MAP gives below, but it is reached by the same camera, moving the same way.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (2C) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The family table from the back of the room: the four seated, the FOUR green-rimmed plates set one in front of each of them on the white paper top, the stout teapot at the centre, @Mei gone from frame, the amber lantern pools on the paper, the half-fogged window and the blue night behind them.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @SamBefore: SEATED, x=26%, filling 50% of frame height. @Maeve: SEATED, x=44%. @MiloBefore: SEATED, x=60%. @NoraBefore: SEATED, x=76%.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 ACTIVE REFERENCES
 @SamBefore: Sam before, a man in his forties, clean, upright, hands with NO ink on them. A man who talks: he performs small things for his family, narrates his own failures while they happen, laughs at himself, touches people as he passes them. Loose in the shoulders, nothing guarded. 100% matches the reference.
 @Maeve: Maeve, alive — dry, fast, affectionate and entirely unsentimental. She does not soften her voice for anyone; what she wants she asks for plainly, and once. Her tenderness arrives as instruction, never as comfort. 100% matches the reference.
@@ -552,7 +581,9 @@ LIGHT The few remaining lanterns, hanging above and slightly behind the table, d
 
 DIALOGUE [6.2-7.9s] @NoraBefore, to her mother, without taking her eyes off her father's hand, quiet and matter-of-fact: "I love Daddy's stories." That is the only line in this generation. @Maeve does not answer. Nobody else speaks.
 
-LAST FRAME The wider frame after the camera has stopped: the four of them at the table in the lantern amber — @SamBefore screen-left bent over the paper, the chopstick still in his right hand; @NoraBefore screen-right leaning in on her forearms, her eyes on his hand; @Maeve facing camera with the sleeping @MiloBefore against her shoulder, her look on her husband; the abstract wet tea strokes spread across the white paper between them; the fully fogged window and the blue harbour night behind.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The wider frame after the camera has stopped: the four of them at the table in the lantern amber — @SamBefore screen-left bent over the paper, the chopstick still in his right hand; @NoraBefore screen-right leaning in on her forearms, her eyes on his hand; @Maeve facing camera with the sleeping @MiloBefore against her shoulder, her look on her husband; the abstract wet tea strokes spread across the white paper between them; the fully fogged window and the blue harbour night behind.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @SamBefore: SEATED, x=30%. @Maeve: SEATED, x=54%, filling 45% of frame height. @MiloBefore: x=62%. @NoraBefore: SEATED, x=78%.
 
 
 

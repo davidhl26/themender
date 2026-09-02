@@ -46,6 +46,12 @@ Three short shots on three different days. A girl still hunting for a sign — t
 CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
 THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (6C), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (6C) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The near-black landing, the bedroom door shut, the blade of light gone, the father's silhouette motionless at x=32% facing the closed door, arms at his sides, barely separable from the dark, nothing lit anywhere in frame.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Sam: STANDING, x=32%, filling 74% of frame height. @Nora: STANDING, x=68%.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
 @BackGallery: The back gallery at night under sodium — a painted wooden rail, grey over green over an older white, the paint flaking to bare silvered wood along the top; peeling deck boards with the grain raised and the nailheads standing proud and rusted. 100% matches the reference.
@@ -112,7 +118,9 @@ LIGHT One light per day, each physically motivated and gently underexposed. Shot
 
 DIALOGUE None. Not a word anywhere in this generation. Nobody speaks and nobody mouths words.
 
-LAST FRAME The girl at the kitchen table, alone, eyes back down on the plate, the fork in the food, the window above the cold range a flat white rectangle behind her, the three empty chairs pushed in.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The girl at the kitchen table, alone, eyes back down on the plate, the fork in the food, the window above the cold range a flat white rectangle behind her, the three empty chairs pushed in.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Nora: SEATED, x=45%, filling 60% of frame height.
 
 
 
@@ -195,6 +203,12 @@ A girl comes home along her back gallery in the evening and walks straight past 
 CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
 THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (7A), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (7A) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The girl at the kitchen table, alone, eyes back down on the plate, the fork in the food, the window above the cold range a flat white rectangle behind her, the three empty chairs pushed in.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Nora: SEATED, x=45%, filling 60% of frame height.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
 @BackGallery: The back gallery at night under sodium — a painted wooden rail, grey over green over an older white, the paint flaking to bare silvered wood along the top; peeling deck boards with the grain raised and the nailheads standing proud and rusted. 100% matches the reference.
@@ -247,7 +261,9 @@ LIGHT Shot 1: one source only — low-pressure sodium street lamps below and beh
 
 DIALOGUE None. Not a word anywhere in this generation. Nobody speaks and nobody mouths words.
 
-LAST FRAME The back of her head and her nape above the dark quilt, absolutely still but breathing, her face away from camera, the skewed sodium rectangle out of focus behind her, the room black around it.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The back of her head and her nape above the dark quilt, absolutely still but breathing, her face away from camera, the skewed sodium rectangle out of focus behind her, the room black around it.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Nora: LYING, x=52%, filling 60% of frame height.
 
 
 

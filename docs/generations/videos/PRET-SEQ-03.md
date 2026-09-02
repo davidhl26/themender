@@ -46,6 +46,12 @@ A few weeks later, the same kitchen, a paler morning. A white cup slips from the
 CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
 THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (2D), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (2D) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The wider frame after the camera has stopped: the four of them at the table in the lantern amber — @SamBefore screen-left bent over the paper, the chopstick still in his right hand; @NoraBefore screen-right leaning in on her forearms, her eyes on his hand; @Maeve facing camera with the sleeping @MiloBefore against her shoulder, her look on her husband; the abstract wet tea strokes spread across the white paper between them; the fully fogged window and the blue harbour night behind.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @SamBefore: SEATED, x=30%. @Maeve: SEATED, x=54%, filling 45% of frame height. @MiloBefore: x=62%. @NoraBefore: SEATED, x=78%.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 ACTIVE REFERENCES
 @Maeve: Maeve, alive — dry, fast, affectionate and entirely unsentimental. She does not soften her voice for anyone; what she wants she asks for plainly, and once. Her tenderness arrives as instruction, never as comfort. 100% matches the reference.
 @Kitchen: The family kitchen — warm domestic wood and cream-and-blue crockery, morning light through glass. NO RED anywhere in the room. 100% matches the reference.
@@ -101,7 +107,9 @@ LIGHT One source: the single east window, its morning sun filtered through thin 
 
 DIALOGUE None. She says nothing to anyone, in either shot.
 
-LAST FRAME Her face right of centre in three-quarter, flat and closed, eyes down on her own raised right hand, the hand half open at chest height, the pale window light on one side of her face, the kitchen soft behind.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: Her face right of centre in three-quarter, flat and closed, eyes down on her own raised right hand, the hand half open at chest height, the pale window light on one side of her face, the kitchen soft behind.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Maeve: STANDING, x=58%, filling 70% of frame height.
 
 
 
@@ -186,6 +194,12 @@ A hospital corridor, day. In the extreme foreground, out of focus: the back of a
 CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
 THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (3A), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (3A) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: Her face right of centre in three-quarter, flat and closed, eyes down on her own raised right hand, the hand half open at chest height, the pale window light on one side of her face, the kitchen soft behind.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Maeve: STANDING, x=58%, filling 70% of frame height.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 ACTIVE REFERENCES
 @SamBefore: Sam before, a man in his forties, clean, upright, hands with NO ink on them. A man who talks: he performs small things for his family, narrates his own failures while they happen, laughs at himself, touches people as he passes them. Loose in the shoulders, nothing guarded. 100% matches the reference.
 @NoraBefore: Nora at thirteen, entirely unguarded. She interrupts, she leans on people, she laughs at her father's jokes before he finishes them. Her happiness is loud, physical, and costs her nothing. 100% matches the reference.
@@ -238,7 +252,9 @@ LIGHT Two sources: the run of overhead fluorescent tubes in their prismatic diff
 
 DIALOGUE None reaches the microphone at any point. The doctor's lips move at ten metres; his voice is never audible. No voices anywhere in this generation.
 
-LAST FRAME The doctor's hand resting on Sam's shoulder, Sam's head down, the doctor's eyes on the floor, both compressed sharp in mid-frame against the blown-out window; Nora's blurred nape motionless at the left edge. Nobody moving.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The doctor's hand resting on Sam's shoulder, Sam's head down, the doctor's eyes on the floor, both compressed sharp in mid-frame against the blown-out window; Nora's blurred nape motionless at the left edge. Nobody moving.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @SamBefore: x=57%.
 
 
 
@@ -320,6 +336,12 @@ A gravely ill mother holds her small son on a hospital bed. He is squeezing her 
 CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
 THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (3B), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (3B) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The doctor's hand resting on Sam's shoulder, Sam's head down, the doctor's eyes on the floor, both compressed sharp in mid-frame against the blown-out window; Nora's blurred nape motionless at the left edge. Nobody moving.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @SamBefore: x=57%.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 ACTIVE REFERENCES
 @MaeveIll: Maeve in hospital, forty, the illness has taken her body and left the voice and the impatience intact. She spends what is left on being understood, not on being reassuring. Not frightened, and not brave about it either — out of time and aware of it. 100% matches the reference.
 @MiloBefore: Milo at six, made of momentum. He arrives at speed, collides with legs, is picked up, is off again. He does not listen to whole sentences. 100% matches the reference.
@@ -371,7 +393,9 @@ LIGHT Two sources in frame: the north window, its daylight diffused twice — by
 
 DIALOGUE [1.4-3.1s] @MaeveIll, dry amusement over a weak voice, unhurried: "Milo. You're squashing me." [3.9-4.7s] @MiloBefore, small voice: "Sorry." [5.3-6.6s] @MaeveIll, warm, slow, serious underneath: "Don't be sorry. Squash me." Nothing else is said by anyone at any point.
 
-LAST FRAME The mother propped up in the bed, the crimson scarf across her shoulders, her eyes closed, her nose lowered into the boy's hair — and the boy clamped against her chest, both arms locked round her ribs, his eyes shut. Nobody else in frame.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The mother propped up in the bed, the crimson scarf across her shoulders, her eyes closed, her nose lowered into the boy's hair — and the boy clamped against her chest, both arms locked round her ribs, his eyes shut. Nobody else in frame.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @MaeveIll: x=58%, filling 70% of frame height. @MiloBefore: x=42%.
 
 
 
@@ -453,6 +477,12 @@ A thirteen-year-old girl comes to her dying mother's bedside and does not know w
 CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO
 THE VIDEO ATTACHED TO THIS GENERATION is the shot that immediately precedes this one (3C), in the same place and the same minute. THIS GENERATION IS ITS DIRECT CONTINUATION and must feel like the same take filmed by the same operator seconds later: carry over its exact light level and direction, its grain, its skin rendering, the state the bodies and the props are left in, AND ABOVE ALL THE WAY ITS CAMERA BEHAVES — the same height, the same kind of movement, the same speed, the same breathing weight in the frame. Pick the scene up exactly where the attached video leaves it. Do not restart it, do not reset the room, do not relight it, do not change operator. The new framing is the one the FRAME MAP gives below, but it is reached by the same camera, moving the same way.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (3C) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The mother propped up in the bed, the crimson scarf across her shoulders, her eyes closed, her nose lowered into the boy's hair — and the boy clamped against her chest, both arms locked round her ribs, his eyes shut. Nobody else in frame.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @MaeveIll: x=58%, filling 70% of frame height. @MiloBefore: x=42%.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 ACTIVE REFERENCES
 @MaeveIll: Maeve in hospital, forty, the illness has taken her body and left the voice and the impatience intact. She spends what is left on being understood, not on being reassuring. Not frightened, and not brave about it either — out of time and aware of it. 100% matches the reference.
 @NoraBefore: Nora at thirteen, entirely unguarded. She interrupts, she leans on people, she laughs at her father's jokes before he finishes them. Her happiness is loud, physical, and costs her nothing. 100% matches the reference.
@@ -522,7 +552,9 @@ LIGHT Two sources in frame: the north window, its daylight diffused twice — by
 
 DIALOGUE None. Nobody speaks in this generation, in any shot. The mother's mouth opens at [8.1s] and NO sound is produced — not a word, not a whisper, not a gasp shaped like a word.
 
-LAST FRAME The tight two-shot at the bed rail: the mother's face turned up, her mouth just closed on nothing, her eyes open on her daughter — and the daughter looking down at her, still, waiting, her closed right fist out of focus at the bottom of frame.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The tight two-shot at the bed rail: the mother's face turned up, her mouth just closed on nothing, her eyes open on her daughter — and the daughter looking down at her, still, waiting, her closed right fist out of focus at the bottom of frame.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @MaeveIll: x=62%, filling 55% of frame height. @NoraBefore: STANDING, x=32%, filling 58% of frame height.
 
 
 
@@ -606,6 +638,12 @@ Through the glass of a closed hospital room door, mute: a dying woman takes her 
 CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
 THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (3D), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (3D) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The tight two-shot at the bed rail: the mother's face turned up, her mouth just closed on nothing, her eyes open on her daughter — and the daughter looking down at her, still, waiting, her closed right fist out of focus at the bottom of frame.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @MaeveIll: x=62%, filling 55% of frame height. @NoraBefore: STANDING, x=32%, filling 58% of frame height.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 ACTIVE REFERENCES
 @MaeveIll: Maeve in hospital, forty, the illness has taken her body and left the voice and the impatience intact. She spends what is left on being understood, not on being reassuring. Not frightened, and not brave about it either — out of time and aware of it. 100% matches the reference.
 @SamBefore: Sam before, a man in his forties, clean, upright, hands with NO ink on them. A man who talks: he performs small things for his family, narrates his own failures while they happen, laughs at himself, touches people as he passes them. Loose in the shoulders, nothing guarded. 100% matches the reference.
@@ -660,7 +698,9 @@ LIGHT Corridor side: the cold green fluorescent tubes overhead behind the camera
 
 DIALOGUE None audible. Her lips move continuously behind the reflections for eight seconds; not one sound of the room crosses the glass. (In 10.10 this same file receives her voice at the mix — NEVER generate any voice here.)
 
-LAST FRAME ⚠ ABSOLUTE REFERENCE FRAME — the exact frame that returns in 10.10: through the wired glass, her two hands holding his face, thumbs on his cheekbones, her lips mid-word, his cheek wet in the lamp's warmth, the crimson scarf muted on her shoulders, the cold green reflections lying across the pane. Nothing moving but her lips.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: ⚠ ABSOLUTE REFERENCE FRAME — the exact frame that returns in 10.10: through the wired glass, her two hands holding his face, thumbs on his cheekbones, her lips mid-word, his cheek wet in the lamp's warmth, the crimson scarf muted on her shoulders, the cold green reflections lying across the pane. Nothing moving but her lips.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @MaeveIll: x=54%. @SamBefore: SEATED, x=62%.
 
 
 
@@ -746,6 +786,12 @@ A thirteen-year-old girl has just come out of a hospital room. A few paces down 
 CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
 THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (3E), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (3E) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: ⚠ ABSOLUTE REFERENCE FRAME — the exact frame that returns in 10.10: through the wired glass, her two hands holding his face, thumbs on his cheekbones, her lips mid-word, his cheek wet in the lamp's warmth, the crimson scarf muted on her shoulders, the cold green reflections lying across the pane. Nothing moving but her lips.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @MaeveIll: x=54%. @SamBefore: SEATED, x=62%.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 ACTIVE REFERENCES
 @NoraBefore: Nora at thirteen, entirely unguarded. She interrupts, she leans on people, she laughs at her father's jokes before he finishes them. Her happiness is loud, physical, and costs her nothing. 100% matches the reference.
 @SamBefore: Sam before, a man in his forties, clean, upright, hands with NO ink on them. A man who talks: he performs small things for his family, narrates his own failures while they happen, laughs at himself, touches people as he passes them. Loose in the shoulders, nothing guarded. 100% matches the reference.
@@ -806,7 +852,9 @@ LIGHT Segment 1: day — the run of overhead tubes lays an even, shadowless gree
 
 DIALOGUE None, in either segment. Not a voice anywhere in this generation.
 
-LAST FRAME The empty plastic chair, centred, in the dim green-grey corridor — no scarf, no red, no one. The film's world without red begins on this frame.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The empty plastic chair, centred, in the dim green-grey corridor — no scarf, no red, no one. The film's world without red begins on this frame.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @NoraBefore: STANDING, x=42%, filling 68% of frame height.
 
 
 

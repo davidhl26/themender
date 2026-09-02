@@ -91,7 +91,9 @@ LIGHT One source only, and it is outside the frame: the low-pressure sodium stre
 
 DIALOGUE [4.4-5.6s] @Nora, into the pillow, barely voiced, broken, on an exhale, not addressed to anyone in the house: "Why?" — Nobody answers. Nobody else speaks, on screen or off, at any point in this generation.
 
-LAST FRAME The identical locked composition: the near-black hallway, the left jamb, the narrow warm sodium band through the half-open door with the curled girl inside it, the dark face of the door, and the black wall running to the right frame edge about 60 cm past the jamb — nobody in the hallway, nothing added, nothing moved.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The identical locked composition: the near-black hallway, the left jamb, the narrow warm sodium band through the half-open door with the curled girl inside it, the dark face of the door, and the black wall running to the right frame edge about 60 cm past the jamb — nobody in the hallway, nothing added, nothing moved.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Nora: LYING, x=39%.
 
 
 
@@ -173,6 +175,12 @@ Another night. A fifteen-year-old girl brings an empty dish back to her old neig
 CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
 THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (4A), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (4A) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The identical locked composition: the near-black hallway, the left jamb, the narrow warm sodium band through the half-open door with the curled girl inside it, the dark face of the door, and the black wall running to the right frame edge about 60 cm past the jamb — nobody in the hallway, nothing added, nothing moved.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Nora: LYING, x=39%.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
 @Anna: Anna, the old neighbour — a woman who has buried people and keeps the stove lit. Warm without softness, quick and practical in the hands, slow and careful in the eyes. She does not comfort: she pours the tea and waits. She will cry mid-sentence and go on in the same steady voice, and never wipe her face. Swollen crooked fingers. 100% matches the reference.
@@ -242,7 +250,9 @@ LIGHT Two sources only, both practical, both very low: the stove's grate, which 
 
 DIALOGUE [12.2-13.0s] @Anna, from above the frame line, low and worn with a faint Russian accent, about two and a half words a second, flat, no lift on either sentence, a real pause between them: "I had a son. He was eleven." — Nobody else speaks. @Nora does not say one word in this entire generation, and nothing at all is said in shots 1 and 2.
 
-LAST FRAME The pencil hatching filling the frame edge to edge — no paper edge, no table, no cup, no hand, nobody: only rows of grey graphite strokes lying across the fibre of yellowed paper, the fibre itself risen through them, the strokes soft-focused at their tips and never resolving into a readable letter. The grain of the pencil has become the grain of the image.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The pencil hatching filling the frame edge to edge — no paper edge, no table, no cup, no hand, nobody: only rows of grey graphite strokes lying across the fibre of yellowed paper, the fibre itself risen through them, the strokes soft-focused at their tips and never resolving into a readable letter. The grain of the pencil has become the grain of the image.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Anna: SEATED, x=48%, filling 66% of frame height. @Nora: STANDING, x=72%, filling 74% of frame height.
 
 
 
@@ -325,6 +335,12 @@ The camera comes back up out of a pencil drawing onto the table it lies on. An o
 CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO
 THE VIDEO ATTACHED TO THIS GENERATION is the shot that immediately precedes this one (4B), in the same place and the same minute. THIS GENERATION IS ITS DIRECT CONTINUATION and must feel like the same take filmed by the same operator seconds later: carry over its exact light level and direction, its grain, its skin rendering, the state the bodies and the props are left in, AND ABOVE ALL THE WAY ITS CAMERA BEHAVES — the same height, the same kind of movement, the same speed, the same breathing weight in the frame. Pick the scene up exactly where the attached video leaves it. Do not restart it, do not reset the room, do not relight it, do not change operator. The new framing is the one the FRAME MAP gives below, but it is reached by the same camera, moving the same way.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (4B) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The pencil hatching filling the frame edge to edge — no paper edge, no table, no cup, no hand, nobody: only rows of grey graphite strokes lying across the fibre of yellowed paper, the fibre itself risen through them, the strokes soft-focused at their tips and never resolving into a readable letter. The grain of the pencil has become the grain of the image.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Anna: SEATED, x=48%, filling 66% of frame height. @Nora: STANDING, x=72%, filling 74% of frame height.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
 @Anna: Anna, the old neighbour — a woman who has buried people and keeps the stove lit. Warm without softness, quick and practical in the hands, slow and careful in the eyes. She does not comfort: she pours the tea and waits. She will cry mid-sentence and go on in the same steady voice, and never wipe her face. Swollen crooked fingers. 100% matches the reference.
@@ -394,7 +410,9 @@ LIGHT Two sources only, both practical, both very low: the stove's grate breathi
 
 DIALOGUE [3.1-4.0s] @Anna, from above the frame line, low and worn with a faint Russian accent, the breath going out from under the word so it comes half unvoiced: "Kolya." [6.1-7.1s] @Anna, on camera, quiet, plain, closing something, about two words a second: "She heard me." [8.6-11.0s] @Anna, on camera, flat, no lift, a real stop between the sentences, about two and a half words a second: "He explained nothing. He showed me." [11.8-14.2s] @Anna, on camera, the voice breaking in two in the middle of the second sentence and continuing through the break — no sob, no gasp, no rise in volume, about two and a half words a second: "He never gave me my son back. He gave me a reason to be alive without him." — Nobody else speaks. @Nora does not say one word in this entire generation.
 
-LAST FRAME Across the table at seated eye level: @Anna sharp at x=62%, both hands around her cup, eyes down on the drawing, the tears still standing on her lids and never wiped; the dresser and its turned photographs soft behind her; the stove's amber a soft glow at the far right edge; and in the near out-of-focus left foreground the girl's raised cup, still stopped in mid-air below her mouth, never lowered. Nobody has moved, nobody has touched anyone.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: Across the table at seated eye level: @Anna sharp at x=62%, both hands around her cup, eyes down on the drawing, the tears still standing on her lids and never wiped; the dresser and its turned photographs soft behind her; the stove's amber a soft glow at the far right edge; and in the near out-of-focus left foreground the girl's raised cup, still stopped in mid-air below her mouth, never lowered. Nobody has moved, nobody has touched anyone.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Anna: SEATED, x=62%, filling 58% of frame height. @Nora: SEATED, x=22%.
 
 
 
@@ -478,6 +496,12 @@ A fifteen-year-old girl asks an old woman where to find someone, and gets an ans
 CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO
 THE VIDEO ATTACHED TO THIS GENERATION is the shot that immediately precedes this one (4C), in the same place and the same minute. THIS GENERATION IS ITS DIRECT CONTINUATION and must feel like the same take filmed by the same operator seconds later: carry over its exact light level and direction, its grain, its skin rendering, the state the bodies and the props are left in, AND ABOVE ALL THE WAY ITS CAMERA BEHAVES — the same height, the same kind of movement, the same speed, the same breathing weight in the frame. Pick the scene up exactly where the attached video leaves it. Do not restart it, do not reset the room, do not relight it, do not change operator. The new framing is the one the FRAME MAP gives below, but it is reached by the same camera, moving the same way.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (4C) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: Across the table at seated eye level: @Anna sharp at x=62%, both hands around her cup, eyes down on the drawing, the tears still standing on her lids and never wiped; the dresser and its turned photographs soft behind her; the stove's amber a soft glow at the far right edge; and in the near out-of-focus left foreground the girl's raised cup, still stopped in mid-air below her mouth, never lowered. Nobody has moved, nobody has touched anyone.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Anna: SEATED, x=62%, filling 58% of frame height. @Nora: SEATED, x=22%.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
 @Anna: Anna, the old neighbour — a woman who has buried people and keeps the stove lit. Warm without softness, quick and practical in the hands, slow and careful in the eyes. She does not comfort: she pours the tea and waits. She will cry mid-sentence and go on in the same steady voice, and never wipe her face. Swollen crooked fingers. 100% matches the reference.
@@ -538,7 +562,9 @@ LIGHT Two sources only, both practical, both very low: the stove's grate, breath
 
 DIALOGUE [1.3-2.6s] @Nora, plain, quiet, no hope in it, about two and a half words a second: "Where do I find him?" [3.9-5.6s] @Anna, low and worn with a faint Russian accent, in two parts with a real stop between them, the second part simply stated with no lift and no emphasis: "You don't find him." then "He hears you." — Nobody else speaks. NOT ONE WORD is spoken from [5.6s] to the end of the generation: shot 2 is completely silent of speech.
 
-LAST FRAME The kitchen with nobody in it: the near upright of the door frame at frame left gone soft, the black doorway beside it, and sharp at frame right the taut line above the cast-iron stove with its eight small odd mittens hanging in the amber, no two alike, swaying a millimetre in the rising heat — the grate glowing low behind them, the corners of the room lost in deep warm shadow.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The kitchen with nobody in it: the near upright of the door frame at frame left gone soft, the black doorway beside it, and sharp at frame right the taut line above the cast-iron stove with its eight small odd mittens hanging in the amber, no two alike, swaying a millimetre in the rising heat — the grate glowing low behind them, the corners of the room lost in deep warm shadow.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Anna: SEATED, x=26%, filling 66% of frame height. @Nora: STANDING, x=40%, filling 82% of frame height.
 
 
 
@@ -727,7 +753,9 @@ LIGHT The colour is drained out of the LIGHT ITSELF, not out of the surfaces, an
 
 DIALOGUE None. Nobody speaks in this generation. The only human sound in it is one screamed name, without words.
 
-LAST FRAME The glazed eau-de-nil tiled wall filling most of the frame, and down it the wide smeared track of breath-damp left by a dragged flat hand — and low at the bottom edge, from behind and close, the top of @AnnaYoung's back and her low flat grey-streaked bun where she has come to rest kneeling against the tiles, still moving with what is left of her breath; behind and to the right, soft and out of focus, the empty corridor running away to its blown-out window.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The glazed eau-de-nil tiled wall filling most of the frame, and down it the wide smeared track of breath-damp left by a dragged flat hand — and low at the bottom edge, from behind and close, the top of @AnnaYoung's back and her low flat grey-streaked bun where she has come to rest kneeling against the tiles, still moving with what is left of her breath; behind and to the right, soft and out of focus, the empty corridor running away to its blown-out window.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Kolya11: LYING, x=52%, filling 34% of frame height. @AnnaYoung: STANDING, x=44%. @WardDoctor: STANDING, x=46%, filling 55% of frame height.
 
 
 
@@ -814,6 +842,12 @@ The same night, in the same corridor. A heavily pregnant woman is wheeled along 
 CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO
 THE VIDEO ATTACHED TO THIS GENERATION is the shot that immediately precedes this one (4E), in the same place and the same minute. THIS GENERATION IS ITS DIRECT CONTINUATION and must feel like the same take filmed by the same operator seconds later: carry over its exact light level and direction, its grain, its skin rendering, the state the bodies and the props are left in, AND ABOVE ALL THE WAY ITS CAMERA BEHAVES — the same height, the same kind of movement, the same speed, the same breathing weight in the frame. Pick the scene up exactly where the attached video leaves it. Do not restart it, do not reset the room, do not relight it, do not change operator. The new framing is the one the FRAME MAP gives below, but it is reached by the same camera, moving the same way.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (4E) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The glazed eau-de-nil tiled wall filling most of the frame, and down it the wide smeared track of breath-damp left by a dragged flat hand — and low at the bottom edge, from behind and close, the top of @AnnaYoung's back and her low flat grey-streaked bun where she has come to rest kneeling against the tiles, still moving with what is left of her breath; behind and to the right, soft and out of focus, the empty corridor running away to its blown-out window.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Kolya11: LYING, x=52%, filling 34% of frame height. @AnnaYoung: STANDING, x=44%. @WardDoctor: STANDING, x=46%, filling 55% of frame height.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 ACTIVE REFERENCES
 @YoungMotherHospital: The same young woman two years earlier, twenty-three and heavily pregnant, on a rolling hospital gurney. 100% matches the reference.
 @WardDoctor: A ward doctor of the period, plain cloth cap, no insignia, no badge, no legible text on anything he wears. 100% matches the reference.
@@ -881,7 +915,9 @@ LIGHT The colour is drained out of the LIGHT ITSELF, not out of the surfaces, an
 
 DIALOGUE None. Nobody speaks audibly in this generation. In shot 1 the doctor's mouth moves at her ear and NOTHING is heard; in shot 2 her lips form words completely and NO SOUND comes out at all. No audible speech is generated, in any language.
 
-LAST FRAME The gurney's chrome side rail streaming along, and her right hand fallen open on the taped edge of the mattress beside it, palm up, the fingers slack and still rocking with the wheels, the eau-de-nil tiles sliding past soft behind them.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The gurney's chrome side rail streaming along, and her right hand fallen open on the taped edge of the mattress beside it, palm up, the fingers slack and still rocking with the wheels, the eau-de-nil tiles sliding past soft behind them.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @YoungMotherHospital: LYING, x=42%, filling 34% of frame height. @WardDoctor: x=52%.
 
 
 
@@ -963,6 +999,12 @@ A hospital corridor at night, seen from a gurney that is rolling toward a pair o
 CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO
 THE VIDEO ATTACHED TO THIS GENERATION is the shot that immediately precedes this one (4F), in the same place and the same minute. THIS GENERATION IS ITS DIRECT CONTINUATION and must feel like the same take filmed by the same operator seconds later: carry over its exact light level and direction, its grain, its skin rendering, the state the bodies and the props are left in, AND ABOVE ALL THE WAY ITS CAMERA BEHAVES — the same height, the same kind of movement, the same speed, the same breathing weight in the frame. Pick the scene up exactly where the attached video leaves it. Do not restart it, do not reset the room, do not relight it, do not change operator. The new framing is the one the FRAME MAP gives below, but it is reached by the same camera, moving the same way.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (4F) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The gurney's chrome side rail streaming along, and her right hand fallen open on the taped edge of the mattress beside it, palm up, the fingers slack and still rocking with the wheels, the eau-de-nil tiles sliding past soft behind them.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @YoungMotherHospital: LYING, x=42%, filling 34% of frame height. @WardDoctor: x=52%.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 ACTIVE REFERENCES
 @AnnaYoung: Anna thirty years earlier, forty-eight — the same woman: practical hands, straight back, no drama offered to anyone. Everything that breaks in her breaks inward and without sound, until the one moment it does not. Never a victim in any frame. 100% matches the reference.
 @WardDoctor: A ward doctor of the period, plain cloth cap, no insignia, no badge, no legible text on anything he wears. 100% matches the reference.
@@ -1019,7 +1061,9 @@ LIGHT The colour is drained out of the LIGHT ITSELF, not out of the surfaces, an
 
 DIALOGUE None. Nobody speaks in this generation, in any language. One name is screamed off screen, ahead of camera, and no other human sound exists.
 
-LAST FRAME The corridor from sixty centimetres, the double doors slightly off centre with their two dark portholes, the ceiling troughs still crossing above — and on screen right, small in the depth, the standing man with his cap held against his chest, and lower down against the tiles the dark kneeling shape of a woman with her back turned, neither of them moving.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The corridor from sixty centimetres, the double doors slightly off centre with their two dark portholes, the ceiling troughs still crossing above — and on screen right, small in the depth, the standing man with his cap held against his chest, and lower down against the tiles the dark kneeling shape of a woman with her back turned, neither of them moving.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @WardDoctor: STANDING, x=64%. @AnnaYoung: KNEELING, x=57%.
 
 
 
@@ -1105,6 +1149,12 @@ Two years later, at night. Three knocks on a door; a woman opens it and there is
 CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
 THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (4G), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (4G) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The corridor from sixty centimetres, the double doors slightly off centre with their two dark portholes, the ceiling troughs still crossing above — and on screen right, small in the depth, the standing man with his cap held against his chest, and lower down against the tiles the dark kneeling shape of a woman with her back turned, neither of them moving.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @WardDoctor: STANDING, x=64%. @AnnaYoung: KNEELING, x=57%.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 ACTIVE REFERENCES
 @AnnaYoung: Anna thirty years earlier, forty-eight — the same woman: practical hands, straight back, no drama offered to anyone. Everything that breaks in her breaks inward and without sound, until the one moment it does not. Never a victim in any frame. 100% matches the reference.
 @Mender: The coat only — a long dark coat covered edge to edge in dense handwriting worn to texture. NEVER a face, never eyes, never identifiable. Seen from behind or passing through frame. 100% matches the reference.
@@ -1163,7 +1213,9 @@ LIGHT The colour is drained out of the LIGHT ITSELF, not out of the surfaces, an
 
 DIALOGUE None. Nobody speaks in this generation, in any language.
 
-LAST FRAME The open stove door close in frame, the small pale amber flame standing alone in the packed grey ash inside it, the cast-iron edge lit from within for the first time in two winters — and the room around it dark, her hands and the carried splinter already gone out of frame.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The open stove door close in frame, the small pale amber flame standing alone in the packed grey ash inside it, the cast-iron edge lit from within for the first time in two winters — and the room around it dark, her hands and the carried splinter already gone out of frame.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @AnnaYoung: STANDING, x=24%, filling 70% of frame height.
 
 
 
@@ -1246,6 +1298,12 @@ The same night, three streets away. A back in a long written coat stops dead in 
 CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
 THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (4H), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (4H) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The open stove door close in frame, the small pale amber flame standing alone in the packed grey ash inside it, the cast-iron edge lit from within for the first time in two winters — and the room around it dark, her hands and the carried splinter already gone out of frame.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @AnnaYoung: STANDING, x=24%, filling 70% of frame height.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 ACTIVE REFERENCES
 @AnnaYoung: Anna thirty years earlier, forty-eight — the same woman: practical hands, straight back, no drama offered to anyone. Everything that breaks in her breaks inward and without sound, until the one moment it does not. Never a victim in any frame. 100% matches the reference.
 @Mender: The coat only — a long dark coat covered edge to edge in dense handwriting worn to texture. NEVER a face, never eyes, never identifiable. Seen from behind or passing through frame. 100% matches the reference.
@@ -1319,7 +1377,9 @@ LIGHT The colour is drained out of the LIGHT ITSELF, not out of the surfaces, an
 
 DIALOGUE None. Nobody is heard in this generation, in any language. Two mouths move in shot 2 — the old woman's in the out-of-focus foreground at [5.0s], the young mother's at [6.0s] — and NO SPEECH IS EVER AUDIBLE, no whisper, no murmur, no word. Nothing at all is said in shot 1 or in shot 3.
 
-LAST FRAME The old woman close in frame under the mercury lamp, her scarf knotted under her chin, her broad reddened hand flat across her own mouth with the thumb under the jaw, her eyes wide open and dry, one breath going out around her fingers and standing white in the cold — the porch and its caged bulb a soft blur behind her shoulder, and nobody in it.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The old woman close in frame under the mercury lamp, her scarf knotted under her chin, her broad reddened hand flat across her own mouth with the thumb under the jaw, her eyes wide open and dry, one breath going out around her fingers and standing white in the cold — the porch and its caged bulb a soft blur behind her shoulder, and nobody in it.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Mender: STANDING, x=44%, filling 58% of frame height. @AnnaYoung: STANDING, x=48%, filling 62% of frame height. @YoungMother: STANDING, x=46%, filling 78% of frame height. @Kolya2: STANDING, x=36%, filling 34% of frame height.
 
 
 

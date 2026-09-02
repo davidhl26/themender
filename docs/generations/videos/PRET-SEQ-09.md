@@ -46,6 +46,11 @@ A deserted bus stop at the far edge of a port town at night. A vagrant sits moti
 CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
 THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (8E), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (8E) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: @Nora standing at the closed doors, three-quarter back to camera, her right hand on the cloudy chrome pole, the crumpled paper packet pushed into her parka's right side pocket and bulging there, her reflection doubled in the dark door glass, the empty aisle and seats behind her, the bus still slowing, the night outside absolute.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
 @SamSDF: The vagrant — Sam in disguise, and playing him well. Slower, stiller, older in the joints; the cold has genuinely got into him. He does not perform kindness: he asks for something small, receives it, gives back more than he took, and states it flatly. He never watches anyone walk away while they can still see him. 100% matches the reference.
@@ -106,7 +111,9 @@ LIGHT One source only: the sodium street lamp above the shelter — a hard orang
 
 DIALOGUE No lines in this generation. Nobody speaks.
 
-LAST FRAME @Nora from three-quarter rear at x=45%, stopped two paces from the bench inside the cone's edge, hands in her pockets, breath steaming; the camera dead behind her, so her head and shoulders eclipse the seated man's head completely — of @SamSDF only the grey blankets over his knees and his gloved hands show past her hips; the dead milky light box a pale grey rectangle beside him; both reflections on the wet asphalt.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: @Nora from three-quarter rear at x=45%, stopped two paces from the bench inside the cone's edge, hands in her pockets, breath steaming; the camera dead behind her, so her head and shoulders eclipse the seated man's head completely — of @SamSDF only the grey blankets over his knees and his gloved hands show past her hips; the dead milky light box a pale grey rectangle beside him; both reflections on the wet asphalt.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @SamSDF: SEATED, x=62%, filling 30% of frame height. @Nora: STANDING, x=45%, filling 60% of frame height.
 
 
 
@@ -185,6 +192,12 @@ He asks for food without lifting his head. Her hand goes into her pocket, closes
 
 CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO
 THE VIDEO ATTACHED TO THIS GENERATION is the shot that immediately precedes this one (9A), in the same place and the same minute. THIS GENERATION IS ITS DIRECT CONTINUATION and must feel like the same take filmed by the same operator seconds later: carry over its exact light level and direction, its grain, its skin rendering, the state the bodies and the props are left in, AND ABOVE ALL THE WAY ITS CAMERA BEHAVES — the same height, the same kind of movement, the same speed, the same breathing weight in the frame. Pick the scene up exactly where the attached video leaves it. Do not restart it, do not reset the room, do not relight it, do not change operator. The new framing is the one the FRAME MAP gives below, but it is reached by the same camera, moving the same way.
+
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (9A) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: @Nora from three-quarter rear at x=45%, stopped two paces from the bench inside the cone's edge, hands in her pockets, breath steaming; the camera dead behind her, so her head and shoulders eclipse the seated man's head completely — of @SamSDF only the grey blankets over his knees and his gloved hands show past her hips; the dead milky light box a pale grey rectangle beside him; both reflections on the wet asphalt.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @SamSDF: SEATED, x=62%, filling 30% of frame height. @Nora: STANDING, x=45%, filling 60% of frame height.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
 
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
@@ -270,7 +283,8 @@ DIALOGUE (the vagrant's voice: the same actor as @Sam, pitched a third lower, br
 [1.2-2.6s] @SamSDF — voiced by the same actor as @Sam, a third lower, broken by the cold, no processing — a rough, cold-cracked voice, head bowed, unhurried, the words dropped rather than offered: "Got anything to eat?"
 [12.0-13.2s] @SamSDF — voiced by the same actor as @Sam, a third lower, broken by the cold, no processing — around the food, quiet, half-swallowed, not a complaint and not a thank-you: "Most people say no."
 
-LAST FRAME The close-up cropped across his upper lip: the front of the hood, the matted beard with a crumb caught in it, the lips just closed after the line, the jaw NOT working, and low in frame his closed LEFT fist gripping the crumpled paper folded over the half-eaten bread, resting on the blanket over his left knee, his right hand empty beside it; steam crossing the sodium cone, deep black around.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The close-up cropped across his upper lip: the front of the hood, the matted beard with a crumb caught in it, the lips just closed after the line, the jaw NOT working, and low in frame his closed LEFT fist gripping the crumpled paper folded over the half-eaten bread, resting on the blanket over his left knee, his right hand empty beside it; steam crossing the sodium cone, deep black around.
 
 
 
@@ -353,6 +367,11 @@ Still holding the folded half of the sandwich shut in his left fist, he raises h
 CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO
 THE VIDEO ATTACHED TO THIS GENERATION is the shot that immediately precedes this one (9B), in the same place and the same minute. THIS GENERATION IS ITS DIRECT CONTINUATION and must feel like the same take filmed by the same operator seconds later: carry over its exact light level and direction, its grain, its skin rendering, the state the bodies and the props are left in, AND ABOVE ALL THE WAY ITS CAMERA BEHAVES — the same height, the same kind of movement, the same speed, the same breathing weight in the frame. Pick the scene up exactly where the attached video leaves it. Do not restart it, do not reset the room, do not relight it, do not change operator. The new framing is the one the FRAME MAP gives below, but it is reached by the same camera, moving the same way.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (9B) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The close-up cropped across his upper lip: the front of the hood, the matted beard with a crumb caught in it, the lips just closed after the line, the jaw NOT working, and low in frame his closed LEFT fist gripping the crumpled paper folded over the half-eaten bread, resting on the blanket over his left knee, his right hand empty beside it; steam crossing the sodium cone, deep black around.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
 @SamSDF: The vagrant — Sam in disguise, and playing him well. Slower, stiller, older in the joints; the cold has genuinely got into him. He does not perform kindness: he asks for something small, receives it, gives back more than he took, and states it flatly. He never watches anyone walk away while they can still see him. 100% matches the reference.
@@ -417,7 +436,9 @@ LIGHT The sodium tube above and slightly behind him is the only source in the wo
 DIALOGUE (the vagrant's voice: the same actor as @Sam, pitched a third lower, broken by the cold — slowed delivery, no processing that alters the grain of the voice)
 [3.8-5.4s] @SamSDF — voiced by the same actor as @Sam, a third lower, broken by the cold, no processing — flat, certain, unhurried, the arm held extended, a clear pause after "ahead", no emphasis on any word: "Straight ahead. When you see red, you're there."
 
-LAST FRAME The shelter a lone neon island in total black: @SamSDF small and bowed under the tube, his hooded head a dark thumbnail with no face in it, the pale folded packet gripped in his closed LEFT fist on his left knee, the dead milky light box a pale grey rectangle beside him — only his reflection on the wet asphalt, @Nora gone into the black.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The shelter a lone neon island in total black: @SamSDF small and bowed under the tube, his hooded head a dark thumbnail with no face in it, the pale folded packet gripped in his closed LEFT fist on his left knee, the dead milky light box a pale grey rectangle beside him — only his reflection on the wet asphalt, @Nora gone into the black.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @SamSDF: SEATED, x=45%, filling 75% of frame height. @Nora: STANDING, x=45%, filling 34% of frame height.
 
 
 

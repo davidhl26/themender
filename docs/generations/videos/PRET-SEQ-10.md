@@ -99,7 +99,9 @@ MOVEMENT None. Locked off in both shots — no dolly, pan or zoom. The only cut 
 
 DIALOGUE None. Nobody speaks in this generation.
 
-LAST FRAME The door 40 cm open, warm light widening across her cheek and the porch stone, her hand still flat on the board, the street black behind her.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The door 40 cm open, warm light widening across her cheek and the porch stone, her hand still flat on the board, the street black behind her.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Nora: STANDING, x=32%.
 
 
 
@@ -177,6 +179,12 @@ A girl steps into a room written on for months and turns once on herself, far to
 CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
 THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (10A), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (10A) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The door 40 cm open, warm light widening across her cheek and the porch stone, her hand still flat on the board, the street black behind her.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Nora: STANDING, x=32%.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
 @RedHouseInterior: One downstairs room of an old cottage, its cracked plaster written over from skirting to a man's height in dense dark red looping cursive; wide worn boards, a written staircase, a small window with black night behind. The strokes form no characters, in no language, nowhere legible. 100% matches the reference.
@@ -224,7 +232,9 @@ MOVEMENT None. Locked off — no dolly, pan, tilt or zoom. No cut.
 
 DIALOGUE None. Nobody speaks in this generation.
 
-LAST FRAME The girl 3/4 back to camera in the middle of the written room, arms hanging, the bulb burning above her, the pots and brushes sharp along the skirting, the ceiling black.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The girl 3/4 back to camera in the middle of the written room, arms hanging, the bulb burning above her, the pots and brushes sharp along the skirting, the ceiling black.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Nora: STANDING, x=30%.
 
 
 
@@ -302,6 +312,12 @@ A girl stops dead before one clear empty patch of plaster in the middle of the w
 CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO
 THE VIDEO ATTACHED TO THIS GENERATION is the shot that immediately precedes this one (10B), in the same place and the same minute. THIS GENERATION IS ITS DIRECT CONTINUATION and must feel like the same take filmed by the same operator seconds later: carry over its exact light level and direction, its grain, its skin rendering, the state the bodies and the props are left in, AND ABOVE ALL THE WAY ITS CAMERA BEHAVES — the same height, the same kind of movement, the same speed, the same breathing weight in the frame. Pick the scene up exactly where the attached video leaves it. Do not restart it, do not reset the room, do not relight it, do not change operator. The new framing is the one the FRAME MAP gives below, but it is reached by the same camera, moving the same way.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (10B) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The girl 3/4 back to camera in the middle of the written room, arms hanging, the bulb burning above her, the pots and brushes sharp along the skirting, the ceiling black.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Nora: STANDING, x=30%.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
 @RedHouseInterior: One downstairs room of an old cottage, its cracked plaster written over from skirting to a man's height in dense dark red looping cursive; wide worn boards, a written staircase, a small window with black night behind. The strokes form no characters, in no language, nowhere legible. 100% matches the reference.
@@ -356,7 +372,8 @@ MOVEMENT None. Locked off in both shots. The only cut is the HARD CUT at [4.4s].
 
 DIALOGUE None. Nobody speaks in this generation.
 
-LAST FRAME Pure black — no image, no glow, no silhouette, nothing.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: Pure black — no image, no glow, no silhouette, nothing.
 
 
 
@@ -480,7 +497,9 @@ MOVEMENT None. Locked off — no dolly, pan, tilt or zoom. No cut.
 
 DIALOGUE None. Nobody speaks in this generation.
 
-LAST FRAME The room at mid-glow, both written walls alive in dim ember red, the ceiling still dark, @Nora a dark unmoving shape at x=50%, hand raised on the switch. This exact frame is the start frame of the next generation: it must be usable as it stands, uncropped and unreframed.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The room at mid-glow, both written walls alive in dim ember red, the ceiling still dark, @Nora a dark unmoving shape at x=50%, hand raised on the switch. This exact frame is the start frame of the next generation: it must be usable as it stands, uncropped and unreframed.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Nora: STANDING, x=50%.
 
 
 
@@ -559,6 +578,12 @@ The camera tilts up off the standing girl and finds the ceiling: written corner 
 CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO, MID-MOVEMENT
 THE VIDEO ATTACHED TO THIS GENERATION is the previous segment of this same continuous shot (10D-1). THIS GENERATION IS ITS DIRECT CONTINUATION: the camera is already moving when this clip begins and it does not stop, restart, ease in or change speed. Read from the attached video the camera's exact speed, direction and height at the moment it hands over, and carry the move on at that same constant speed, on the same line, with no ease-in and no ease-out. Carry over its light level, its grain and its skin rendering unchanged. The join must be invisible: one single move across the two clips.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (10D-1) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The room at mid-glow, both written walls alive in dim ember red, the ceiling still dark, @Nora a dark unmoving shape at x=50%, hand raised on the switch. This exact frame is the start frame of the next generation: it must be usable as it stands, uncropped and unreframed.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Nora: STANDING, x=50%.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
 @RedHouseInterior: One downstairs room of an old cottage, its cracked plaster written over from skirting to a man's height in dense dark red looping cursive; wide worn boards, a written staircase, a small window with black night behind. The strokes form no characters, in no language, nowhere legible. 100% matches the reference.
@@ -604,7 +629,9 @@ MOVEMENT ONE slow even tilt up of 35 degrees between [1.0s] and [5.2s] on a lock
 
 DIALOGUE None. Nobody speaks in this generation.
 
-LAST FRAME The written ceiling filling the frame corner to corner in dim ember red, brightest above the mattress, the stair risers and the inside of the door holding the same red along the bottom.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The written ceiling filling the frame corner to corner in dim ember red, brightest above the mattress, the stair risers and the inside of the door holding the same red along the bottom.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Nora: STANDING, x=50%.
 
 
 
@@ -682,6 +709,12 @@ The face of a fifteen-year-old who has just seen the inside of a whole house lig
 CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO
 THE VIDEO ATTACHED TO THIS GENERATION is the shot that immediately precedes this one (10D-2), in the same place and the same minute. THIS GENERATION IS ITS DIRECT CONTINUATION and must feel like the same take filmed by the same operator seconds later: carry over its exact light level and direction, its grain, its skin rendering, the state the bodies and the props are left in, AND ABOVE ALL THE WAY ITS CAMERA BEHAVES — the same height, the same kind of movement, the same speed, the same breathing weight in the frame. Pick the scene up exactly where the attached video leaves it. Do not restart it, do not reset the room, do not relight it, do not change operator. The new framing is the one the FRAME MAP gives below, but it is reached by the same camera, moving the same way.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (10D-2) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The written ceiling filling the frame corner to corner in dim ember red, brightest above the mattress, the stair risers and the inside of the door holding the same red along the bottom.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Nora: STANDING, x=50%.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
 @RedHouseInterior: One downstairs room of an old cottage, its cracked plaster written over from skirting to a man's height in dense dark red looping cursive; wide worn boards, a written staircase, a small window with black night behind. The strokes form no characters, in no language, nowhere legible. 100% matches the reference.
@@ -729,7 +762,8 @@ MOVEMENT None. Locked off — no dolly, pan, tilt, zoom, push-in or drift. No cu
 
 DIALOGUE None. Nobody speaks in this generation.
 
-LAST FRAME Her face, close, in dim ember red — jaw open, one wet track down the right cheek, smiling, eyes creased, not moving. This exact frame is the start frame of the next generation: it must be usable as it stands, uncropped and unreframed.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: Her face, close, in dim ember red — jaw open, one wet track down the right cheek, smiling, eyes creased, not moving. This exact frame is the start frame of the next generation: it must be usable as it stands, uncropped and unreframed.
 
 
 
@@ -809,6 +843,11 @@ The camera leaves her face, draws back across the glowing room and out through t
 CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO, MID-MOVEMENT
 THE VIDEO ATTACHED TO THIS GENERATION is the previous segment of this same continuous shot (10E). THIS GENERATION IS ITS DIRECT CONTINUATION: the camera is already moving when this clip begins and it does not stop, restart, ease in or change speed. Read from the attached video the camera's exact speed, direction and height at the moment it hands over, and carry the move on at that same constant speed, on the same line, with no ease-in and no ease-out. Carry over its light level, its grain and its skin rendering unchanged. The join must be invisible: one single move across the two clips.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (10E) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: Her face, close, in dim ember red — jaw open, one wet track down the right cheek, smiling, eyes creased, not moving. This exact frame is the start frame of the next generation: it must be usable as it stands, uncropped and unreframed.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
 @RedHouseInterior: One downstairs room of an old cottage, its cracked plaster written over from skirting to a man's height in dense dark red looping cursive; wide worn boards, a written staircase, a small window with black night behind. The strokes form no characters, in no language, nowhere legible. 100% matches the reference.
@@ -855,7 +894,8 @@ MOVEMENT ONE continuous backward dolly at a rigorously constant 1.2 m/s from [0.
 
 DIALOGUE None. Nobody speaks in this generation.
 
-LAST FRAME The open doorway seen from the porch stone, a dim red rectangle in a grey-black street, the girl a small unmoving shape inside it, the red stopping at the threshold.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The open doorway seen from the porch stone, a dim red rectangle in a grey-black street, the girl a small unmoving shape inside it, the red stopping at the threshold.
 
 
 
@@ -935,6 +975,11 @@ The camera keeps going: back down the grey street the girl climbed, the red door
 CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO, MID-MOVEMENT
 THE VIDEO ATTACHED TO THIS GENERATION is the previous segment of this same continuous shot (10F-1). THIS GENERATION IS ITS DIRECT CONTINUATION: the camera is already moving when this clip begins and it does not stop, restart, ease in or change speed. Read from the attached video the camera's exact speed, direction and height at the moment it hands over, and carry the move on at that same constant speed, on the same line, with no ease-in and no ease-out. Carry over its light level, its grain and its skin rendering unchanged. The join must be invisible: one single move across the two clips.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (10F-1) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The open doorway seen from the porch stone, a dim red rectangle in a grey-black street, the girl a small unmoving shape inside it, the red stopping at the threshold.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 ACTIVE REFERENCES
 @RedHouseExterior: The last house of a poor terraced street, wooden-fronted, deep dark red gone chalky, neighbours grey and blank, wet black road. THE ONLY RED IN THE WORLD OUTSIDE. 100% matches the reference.
 
@@ -977,7 +1022,8 @@ MOVEMENT ONE continuous backward move at a constant 4 m/s with a constant 1.6 m/
 
 DIALOGUE None. Nobody speaks in this generation.
 
-LAST FRAME Roof slates and chimney stacks across the lower half of frame, the black channel of the street between them, the red doorway a dim point far below at x=50%.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: Roof slates and chimney stacks across the lower half of frame, the black channel of the street between them, the red doorway a dim point far below at x=50%.
 
 
 
@@ -1056,6 +1102,11 @@ The camera leaves the street behind and rises straight up until the town is noth
 CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO, MID-MOVEMENT
 THE VIDEO ATTACHED TO THIS GENERATION is the previous segment of this same continuous shot (10F-2). THIS GENERATION IS ITS DIRECT CONTINUATION: the camera is already moving when this clip begins and it does not stop, restart, ease in or change speed. Read from the attached video the camera's exact speed, direction and height at the moment it hands over, and carry the move on at that same constant speed, on the same line, with no ease-in and no ease-out. Carry over its light level, its grain and its skin rendering unchanged. The join must be invisible: one single move across the two clips.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (10F-2) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: Roof slates and chimney stacks across the lower half of frame, the black channel of the street between them, the red doorway a dim point far below at x=50%.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 LOCATION MAP
 Framing 1 [0.0-5.0s] — camera: begins on the exact last frame of the previous generation and climbs straight up at a constant 9 m/s, tilting down 20 degrees evenly across the segment so the town opens beneath; no pan, no roll, no zoom.
 Every distance, height and frame position given above is literal and is held exactly; nothing drifts toward a more flattering angle.
@@ -1095,7 +1146,8 @@ MOVEMENT ONE continuous vertical climb at a constant 9 m/s from [0.0s] to [5.0s]
 
 DIALOGUE None. Nobody speaks in this generation.
 
-LAST FRAME The town small and even and very far below: slate roofs, black streets, sodium grains, the sky a lighter black with no stars.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The town small and even and very far below: slate roofs, black streets, sodium grains, the sky a lighter black with no stars.
 
 
 
@@ -1174,6 +1226,11 @@ Kilometres away from the red house, the camera comes down out of the air and set
 CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO, MID-MOVEMENT
 THE VIDEO ATTACHED TO THIS GENERATION is the previous segment of this same continuous shot (10F-3). THIS GENERATION IS ITS DIRECT CONTINUATION: the camera is already moving when this clip begins and it does not stop, restart, ease in or change speed. Read from the attached video the camera's exact speed, direction and height at the moment it hands over, and carry the move on at that same constant speed, on the same line, with no ease-in and no ease-out. Carry over its light level, its grain and its skin rendering unchanged. The join must be invisible: one single move across the two clips.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (10F-3) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The town small and even and very far below: slate roofs, black streets, sodium grains, the sky a lighter black with no stars.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 ACTIVE REFERENCES
 @SamSDF: The vagrant — Sam in disguise, and playing him well. Slower, stiller, older in the joints; the cold has genuinely got into him. He does not perform kindness: he asks for something small, receives it, gives back more than he took, and states it flatly. He never watches anyone walk away while they can still see him. 100% matches the reference.
 @BusShelter: The bus shelter at the end of the world, a single sodium cone in the dark, wet ground, no legible signage. 100% matches the reference.
@@ -1219,7 +1276,8 @@ MOVEMENT ONE continuous descent at a constant 11 m/s from [0.0s] to [4.2s], with
 
 DIALOGUE None. Nobody speaks in this generation.
 
-LAST FRAME The shelter at rest in its sodium cone, the seated man a dark shape on the bench with his head down, the blank light box lit beside him, black road and black country all around.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The shelter at rest in its sodium cone, the seated man a dark shape on the bench with his head down, the blank light box lit beside him, black road and black country all around.
 
 
 
@@ -1374,6 +1432,11 @@ A homeless man alone under sodium puts down a half-eaten sandwich, pushes his be
 CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO
 THE VIDEO ATTACHED TO THIS GENERATION is the shot that immediately precedes this one (10F-4), in the same place and the same minute. THIS GENERATION IS ITS DIRECT CONTINUATION and must feel like the same take filmed by the same operator seconds later: carry over its exact light level and direction, its grain, its skin rendering, the state the bodies and the props are left in, AND ABOVE ALL THE WAY ITS CAMERA BEHAVES — the same height, the same kind of movement, the same speed, the same breathing weight in the frame. Pick the scene up exactly where the attached video leaves it. Do not restart it, do not reset the room, do not relight it, do not change operator. The new framing is the one the FRAME MAP gives below, but it is reached by the same camera, moving the same way.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (10F-4) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The shelter at rest in its sodium cone, the seated man a dark shape on the bench with his head down, the blank light box lit beside him, black road and black country all around.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 ACTIVE REFERENCES
 @SamSDF: The vagrant — Sam in disguise, and playing him well. Slower, stiller, older in the joints; the cold has genuinely got into him. He does not perform kindness: he asks for something small, receives it, gives back more than he took, and states it flatly. He never watches anyone walk away while they can still see him. 100% matches the reference.
 @Sam: Sam two years later, a month of badly trimmed beard, ten kilos heavier, grey under the eyes. Two years without speaking — not sullen, emptied. He moves through his own house like a guest, shoulders forward, eyes down and to the side. Every gesture is finished; none is explained. 100% matches the reference.
@@ -1433,7 +1496,8 @@ LIGHT One source only: that sodium lamp, a hard cone falling down and a little f
 
 DIALOGUE None. Nobody speaks in this generation. He does not speak, does not sigh theatrically, does not sob.
 
-LAST FRAME The bearded man alone on the bench under the sodium cone, head fully lifted, pale grey-blue eyes wide open in the orange light, looking up the black road past the lens; his hands open on the blankets, fingers stained brown-black to the second knuckle, the pale-grey packet against his left thigh.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The bearded man alone on the bench under the sodium cone, head fully lifted, pale grey-blue eyes wide open in the orange light, looking up the black road past the lens; his hands open on the blankets, fingers stained brown-black to the second knuckle, the pale-grey packet against his left thigh.
 
 
 
@@ -1514,6 +1578,11 @@ Four moments in one house, cut hard together. A father stands one metre from his
 CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
 THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (10H), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (10H) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The bearded man alone on the bench under the sodium cone, head fully lifted, pale grey-blue eyes wide open in the orange light, looking up the black road past the lens; his hands open on the blankets, fingers stained brown-black to the second knuckle, the pale-grey packet against his left thigh.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 ACTIVE REFERENCES
 @Sam: Sam two years later, a month of badly trimmed beard, ten kilos heavier, grey under the eyes. Two years without speaking — not sullen, emptied. He moves through his own house like a guest, shoulders forward, eyes down and to the side. Every gesture is finished; none is explained. 100% matches the reference.
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
@@ -1588,7 +1657,9 @@ LIGHT Shot 1: one source, the warm sodium-orange band escaping the door gap; it 
 
 DIALOGUE None. Nobody speaks in this generation, at any moment, in any shot. No whisper, no call, no name.
 
-LAST FRAME The empty near-black hallway seen from the bedroom end, the far corner at x=24% with one thin thread of sodium orange on the wall, the unseen stairs dropping beyond it — nobody in frame, nothing moving.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The empty near-black hallway seen from the bedroom end, the far corner at x=24% with one thin thread of sodium orange on the wall, the unseen stairs dropping beyond it — nobody in frame, nothing moving.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Sam: STANDING, x=58%, filling 74% of frame height.
 
 
 
@@ -1670,6 +1741,12 @@ A man lays the first stroke of dark red on a bare wall and steps back to measure
 
 CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
 THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (10I), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
+
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (10I) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The empty near-black hallway seen from the bedroom end, the far corner at x=24% with one thin thread of sodium orange on the wall, the unseen stairs dropping beyond it — nobody in frame, nothing moving.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Sam: STANDING, x=58%, filling 74% of frame height.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
 
 ACTIVE REFERENCES
 @Sam: Sam two years later, a month of badly trimmed beard, ten kilos heavier, grey under the eyes. Two years without speaking — not sullen, emptied. He moves through his own house like a guest, shoulders forward, eyes down and to the side. Every gesture is finished; none is explained. 100% matches the reference.
@@ -1759,7 +1836,9 @@ LIGHT Shot 1: the naked bulb alone, small and hard, lighting the plaster flat an
 
 DIALOGUE None audible. Sam's jaw works in shots 3 and 4 and the women answer only with their heads; NOT ONE SOUND OF SPEECH IS GENERATED — no voice, no whisper, no murmur, from anyone, at any moment.
 
-LAST FRAME The library service corridor, the grey window at its far end: a tired heavy man in a plain grey jacket, three-quarter back to camera, walking away down the parquet with a tight dark bundle under his left arm, shoulders down; the trolley beside him, nothing legible anywhere, nobody else in frame.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The library service corridor, the grey window at its far end: a tired heavy man in a plain grey jacket, three-quarter back to camera, walking away down the parquet with a tight dark bundle under his left arm, shoulders down; the trolley beside him, nothing legible anywhere, nobody else in frame.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Sam: STANDING, x=20%, filling 66% of frame height. @Anna: SEATED, x=66%, filling 62% of frame height. @Mei: x=48%. @Fatiha: x=62%. @Asha: x=76%.
 
 
 
@@ -1899,7 +1978,9 @@ LOCATION The @HospitalCorridor side of a closed hospital room door with a wired-
 
 LIGHT Corridor side: cold green fluorescent tubes overhead behind the camera, even and shadowless, their reflections lying across the wired glass and sliding faintly. Room side, through the glass: the small bed lamp behind and left of the two figures throws a low amber that models her face from the side, catches the wet on his cheek and warms the muted crimson of the scarf. The glass holds the two temperatures apart — the cold in front, the last warmth of the act behind it, out of reach.
 
-LAST FRAME ⚠ ABSOLUTE REFERENCE FRAME — through the wired glass, her two hands holding his face with the thumbs on his cheekbones, her eyes on his, his cheek wet in the lamp's warmth, the crimson scarf muted on her shoulders, the green reflections lying across the pane. Nothing moving.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: ⚠ ABSOLUTE REFERENCE FRAME — through the wired glass, her two hands holding his face with the thumbs on his cheekbones, her eyes on his, his cheek wet in the lamp's warmth, the crimson scarf muted on her shoulders, the green reflections lying across the pane. Nothing moving.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @MaeveIll: x=54%, filling 46% of frame height. @SamBefore: SEATED, x=62%.
 
 
 
@@ -1982,6 +2063,11 @@ A heavy homeless man alone on a bus shelter bench under sodium, his face already
 CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO
 THE VIDEO ATTACHED TO THIS GENERATION is the shot that immediately precedes this one (10H), in the same place and the same minute. THIS GENERATION IS ITS DIRECT CONTINUATION and must feel like the same take filmed by the same operator seconds later: carry over its exact light level and direction, its grain, its skin rendering, the state the bodies and the props are left in, AND ABOVE ALL THE WAY ITS CAMERA BEHAVES — the same height, the same kind of movement, the same speed, the same breathing weight in the frame. Pick the scene up exactly where the attached video leaves it. Do not restart it, do not reset the room, do not relight it, do not change operator. The new framing is the one the FRAME MAP gives below, but it is reached by the same camera, moving the same way.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (10H) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The bearded man alone on the bench under the sodium cone, head fully lifted, pale grey-blue eyes wide open in the orange light, looking up the black road past the lens; his hands open on the blankets, fingers stained brown-black to the second knuckle, the pale-grey packet against his left thigh.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 ACTIVE REFERENCES
 @SamSDF: The vagrant — Sam in disguise, and playing him well. Slower, stiller, older in the joints; the cold has genuinely got into him. He does not perform kindness: he asks for something small, receives it, gives back more than he took, and states it flatly. He never watches anyone walk away while they can still see him. 100% matches the reference.
 @Sam: Sam two years later, a month of badly trimmed beard, ten kilos heavier, grey under the eyes. Two years without speaking — not sullen, emptied. He moves through his own house like a guest, shoulders forward, eyes down and to the side. Every gesture is finished; none is explained. 100% matches the reference.
@@ -2031,7 +2117,8 @@ LIGHT One source only: the single sodium lamp, mounted SLIGHTLY IN FRONT OF THE 
 
 DIALOGUE None. Nobody speaks; he does not sob aloud, does not whisper, does not say a name.
 
-LAST FRAME The bearded man alone on the bench under the sodium cone, bare-headed, the beanie shut in his left fist on his knee, his face wiped in lighter streaks — his head lifted well above level and his pale grey-blue eyes wide open on the night sky out of frame, the corners of his mouth up and staying up, and one single line of water down the wiped cheek, not wiped away.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The bearded man alone on the bench under the sodium cone, bare-headed, the beanie shut in his left fist on his knee, his face wiped in lighter streaks — his head lifted well above level and his pale grey-blue eyes wide open on the night sky out of frame, the corners of his mouth up and staying up, and one single line of water down the wiped cheek, not wiped away.
 
 
 

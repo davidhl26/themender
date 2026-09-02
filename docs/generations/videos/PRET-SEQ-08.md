@@ -46,6 +46,12 @@ A girl alone in an emptied school library hears pages turning with no reader, li
 CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
 THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (7B), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (7B) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The back of her head and her nape above the dark quilt, absolutely still but breathing, her face away from camera, the skewed sodium rectangle out of focus behind her, the room black around it.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Nora: LYING, x=52%, filling 60% of frame height.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
 @Mender: The coat only — a long dark coat covered edge to edge in dense handwriting worn to texture. NEVER a face, never eyes, never identifiable. Seen from behind or passing through frame. 100% matches the reference.
@@ -109,7 +115,9 @@ LIGHT One source only: the window at the far end of the corridor, throwing flat 
 
 DIALOGUE None. Nobody speaks in this generation. The riffle of pages is the only voice this scene has.
 
-LAST FRAME The empty side aisle beyond the corner, running away between two tall shelf faces, dust settling in the weak grey spill — and at the near frame edge, from behind, @Nora swung in around the shelf upright, her left hand gripping it, shoulders heaving, looking down the emptiness at nothing.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The empty side aisle beyond the corner, running away between two tall shelf faces, dust settling in the weak grey spill — and at the near frame edge, from behind, @Nora swung in around the shelf upright, her left hand gripping it, shoulders heaving, looking down the emptiness at nothing.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Nora: SEATED, x=46%, filling 55% of frame height.
 
 
 
@@ -245,7 +253,8 @@ LIGHT One source only: the window at the far end of the corridor, throwing flat 
 
 DIALOGUE None. Nobody speaks in this generation.
 
-LAST FRAME The empty corridor of shelves seen straight down its length, the bright grey-white window rectangle at its far end, dust turning slowly in the shaft, the parquet holding one long dull gleam up its centre — nobody in it, nothing moving, nothing left anywhere.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The empty corridor of shelves seen straight down its length, the bright grey-white window rectangle at its far end, dust turning slowly in the shaft, the parquet holding one long dull gleam up its centre — nobody in it, nothing moving, nothing left anywhere.
 
 
 
@@ -327,6 +336,12 @@ Night. A girl comes out of her bedroom onto the dark landing with an empty glass
 CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
 THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (8A), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (8A) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The empty side aisle beyond the corner, running away between two tall shelf faces, dust settling in the weak grey spill — and at the near frame edge, from behind, @Nora swung in around the shelf upright, her left hand gripping it, shoulders heaving, looking down the emptiness at nothing.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Nora: SEATED, x=46%, filling 55% of frame height.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
 @Mender: The coat only — a long dark coat covered edge to edge in dense handwriting worn to texture. NEVER a face, never eyes, never identifiable. Seen from behind or passing through frame. 100% matches the reference.
@@ -382,7 +397,9 @@ LIGHT Two sources only, both weak. The blade of cold light escaping the bedroom 
 
 DIALOGUE None. Nobody speaks. Her breathing and the house are the only voices.
 
-LAST FRAME @Nora alone at the dark corner of the landing, seen from behind, chest-up, looking down into the black stairwell, the empty glass hanging at her side, one hand on the rail post, the thread of sodium grazing her shoulder; the hallway empty behind her, her bedroom door ajar at the far frame edge.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: @Nora alone at the dark corner of the landing, seen from behind, chest-up, looking down into the black stairwell, the empty glass hanging at her side, one hand on the rail post, the thread of sodium grazing her shoulder; the hallway empty behind her, her bedroom door ajar at the far frame edge.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Nora: STANDING, x=62%, filling 62% of frame height.
 
 
 
@@ -512,7 +529,8 @@ LIGHT One source only, and it is weak: one thin thread of sodium orange from a s
 
 DIALOGUE None. Nobody speaks in this generation.
 
-LAST FRAME The empty far corner of the dark landing, the stair rail's top post catching one dull edge of sodium, the black drop of the unseen stairwell opening away beyond it, the thread of sodium lying along the wall — nothing in the frame, nothing moving.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The empty far corner of the dark landing, the stair rail's top post catching one dull edge of sodium, the black drop of the unseen stairwell opening away beyond it, the thread of sodium lying along the wall — nothing in the frame, nothing moving.
 
 
 
@@ -595,6 +613,12 @@ A girl steps out of the shower, the towel half-raised, and lifts her eyes to the
 CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
 THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (8B), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (8B) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: @Nora alone at the dark corner of the landing, seen from behind, chest-up, looking down into the black stairwell, the empty glass hanging at her side, one hand on the rail post, the thread of sodium grazing her shoulder; the hallway empty behind her, her bedroom door ajar at the far frame edge.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Nora: STANDING, x=62%, filling 62% of frame height.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
 @Bathroom: A small bathroom, tiled, a mirror over the basin. 100% matches the reference.
@@ -655,7 +679,9 @@ LIGHT One source: the single wall light above the mirror, diffused by the vapour
 
 DIALOGUE None. Nobody speaks in this generation. Her breath is the only voice.
 
-LAST FRAME The steam-filled bathroom: the fogged mirror screen-left with the three clear abstract soap bands standing whole in the fog, @Nora screen-right chest-up with her shoulder blades against the door, her right arm out and two fingertips resting on the glass a hand's width beside the bands, the two beads just beginning to run at the far tip of the lower band, steam drifting through the wall light.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The steam-filled bathroom: the fogged mirror screen-left with the three clear abstract soap bands standing whole in the fog, @Nora screen-right chest-up with her shoulder blades against the door, her right arm out and two fingertips resting on the glass a hand's width beside the bands, the two beads just beginning to run at the far tip of the lower band, steam drifting through the wall light.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Nora: STANDING, x=62%.
 
 
 
@@ -807,7 +833,8 @@ LIGHT One source: the single wall light above the mirror, diffused by the vapour
 
 DIALOGUE None. Nobody speaks in this generation. Nobody is in it.
 
-LAST FRAME The fogged mirror filling the frame, the three clear abstract soap bands standing whole and sharp in the fog in its central third, the two beads stalled halfway down at the far tip of the lower band, steam drifting slowly across the glass in the wall light — no person, no reflection, nothing else.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The fogged mirror filling the frame, the three clear abstract soap bands standing whole and sharp in the fog in its central third, the two beads stalled halfway down at the far tip of the lower band, steam drifting slowly across the glass in the wall light — no person, no reflection, nothing else.
 
 
 
@@ -892,6 +919,12 @@ Dressed to leave, a girl opens a small worn box, looks once at her mother's ring
 CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
 THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (8C), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (8C) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The steam-filled bathroom: the fogged mirror screen-left with the three clear abstract soap bands standing whole in the fog, @Nora screen-right chest-up with her shoulder blades against the door, her right arm out and two fingertips resting on the glass a hand's width beside the bands, the two beads just beginning to run at the far tip of the lower band, steam drifting through the wall light.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Nora: STANDING, x=62%.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
 @NoraBedroom: Nora's bedroom and the landing outside it, grey and underexposed, one narrow sodium band under the door. 100% matches the reference.
@@ -945,7 +978,9 @@ LIGHT Two sources only, and they never mix. The cheap clip-on lamp above the des
 
 DIALOGUE None. Nobody speaks in this generation. The hands say it.
 
-LAST FRAME The desk in sodium orange only, the clip lamp dark, the small worn velvet box open and empty with its velvet bed dented where the ring sat, the closed laptop a dull shape at the far edge, @Nora a dark unmoving mass at the frame edge with one breath lifting her shoulders.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The desk in sodium orange only, the clip lamp dark, the small worn velvet box open and empty with its velvet bed dented where the ring sat, the closed laptop a dull shape at the far edge, @Nora a dark unmoving mass at the frame edge with one breath lifting her shoulders.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Nora: STANDING, x=52%, filling 66% of frame height.
 
 
 
@@ -1043,6 +1078,12 @@ A girl rides a night bus alone, forehead against the glass, a whole untouched sa
 CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
 THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (8D), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
+HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
+These are NOT new positions to invent. This is the frame the previous shot (8D) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The desk in sodium orange only, the clip lamp dark, the small worn velvet box open and empty with its velvet bed dented where the ring sat, the closed laptop a dull shape at the far edge, @Nora a dark unmoving mass at the frame edge with one breath lifting her shoulders.
+WHERE THIS SHOT LEAVES EACH BODY, to the number — these are the positions the next shot inherits, whether or not the body is still inside this last frame: @Nora: STANDING, x=52%, filling 66% of frame height.
+Nothing in this list may be re-placed, re-lit or improved. Whatever the FRAME MAP below asks for happens AFTER this state, never instead of it.
+
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
 @NightBus: The night bus — neon inside, sodium outside, no red, no legible destination display. 100% matches the reference.
@@ -1109,7 +1150,8 @@ LIGHT Cold white ceiling strip light inside, one diffuser panel yellowed and fra
 
 DIALOGUE None. Nobody speaks in this generation. The chime counts for her.
 
-LAST FRAME @Nora standing at the closed doors, three-quarter back to camera, her right hand on the cloudy chrome pole, the crumpled paper packet pushed into her parka's right side pocket and bulging there, her reflection doubled in the dark door glass, the empty aisle and seats behind her, the bus still slowing, the night outside absolute.
+LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
+WHAT IS IN THE FRAME AT THE LAST INSTANT: @Nora standing at the closed doors, three-quarter back to camera, her right hand on the cloudy chrome pole, the crumpled paper packet pushed into her parka's right side pocket and bulging there, her reflection doubled in the dark door glass, the empty aisle and seats behind her, the bus still slowing, the night outside absolute.
 
 
 
