@@ -34,7 +34,9 @@
 | **`start_image`** | LIEU-15 IMAGE 1 puis IMAGE 2 |
 | **`video_references`** | *aucune — c'est une tête de chaîne* |
 
-*Le texte à coller commence sous cette ligne.*
+> ⛔ **NE COLLE PAS CE TABLEAU.** Il est pour toi, pas pour le modèle : c'est ce que tu règles
+> dans l'interface avant de coller. **Tu ne copies QUE le texte entre les triples backticks
+> ci-dessous**, et rien d'autre — pas le titre, pas ce tableau, pas cette ligne.
 
 
 ```
@@ -163,7 +165,9 @@ a paraffin flame, a flickering flame, candlelight, knocking, a doorbell, a secon
 | **`start_image`** | IMAGE A v2 |
 | **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
 
-*Le texte à coller commence sous cette ligne.*
+> ⛔ **NE COLLE PAS CE TABLEAU.** Il est pour toi, pas pour le modèle : c'est ce que tu règles
+> dans l'interface avant de coller. **Tu ne copies QUE le texte entre les triples backticks
+> ci-dessous**, et rien d'autre — pas le titre, pas ce tableau, pas cette ligne.
 
 
 ```
@@ -286,7 +290,9 @@ paint pots absent, brushes absent, ladder absent, mattress absent, a clean room,
 | **`start_image`** | shot 1 : IMAGE B v2 ; shot 2 : aucun |
 | **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
 
-*Le texte à coller commence sous cette ligne.*
+> ⛔ **NE COLLE PAS CE TABLEAU.** Il est pour toi, pas pour le modèle : c'est ce que tu règles
+> dans l'interface avant de coller. **Tu ne copies QUE le texte entre les triples backticks
+> ci-dessous**, et rien d'autre — pas le titre, pas ce tableau, pas cette ligne.
 
 
 ```
@@ -417,7 +423,9 @@ a drawing on the plaster, a dragon, an animal, a creature, any figure on the wal
 | **`start_image`** | AUCUN, le bloc s'ouvre sur du noir plein |
 | **`video_references`** | *aucune — c'est une tête de chaîne* |
 
-*Le texte à coller commence sous cette ligne.*
+> ⛔ **NE COLLE PAS CE TABLEAU.** Il est pour toi, pas pour le modèle : c'est ce que tu règles
+> dans l'interface avant de coller. **Tu ne copies QUE le texte entre les triples backticks
+> ci-dessous**, et rien d'autre — pas le titre, pas ce tableau, pas cette ligne.
 
 
 ```
@@ -539,7 +547,9 @@ letters appearing one by one, writing that draws itself, strokes crawling, a lig
 | **vidéo à prolonger** | le segment précédent |
 | ⚠ | **Un seul mouvement découpé — le raccord doit être invisible.** À défaut de `video_extension` : `start_image` = la dernière frame exacte du segment précédent. |
 
-*Le texte à coller commence sous cette ligne.*
+> ⛔ **NE COLLE PAS CE TABLEAU.** Il est pour toi, pas pour le modèle : c'est ce que tu règles
+> dans l'interface avant de coller. **Tu ne copies QUE le texte entre les triples backticks
+> ci-dessous**, et rien d'autre — pas le titre, pas ce tableau, pas cette ligne.
 
 
 ```
@@ -660,7 +670,9 @@ letters appearing one by one, writing that draws itself, strokes crawling, a lig
 | **`start_image`** | AUCUN, écart déclaré |
 | **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
 
-*Le texte à coller commence sous cette ligne.*
+> ⛔ **NE COLLE PAS CE TABLEAU.** Il est pour toi, pas pour le modèle : c'est ce que tu règles
+> dans l'interface avant de coller. **Tu ne copies QUE le texte entre les triples backticks
+> ci-dessous**, et rien d'autre — pas le titre, pas ce tableau, pas cette ligne.
 
 
 ```
@@ -785,7 +797,9 @@ letters appearing one by one, writing that draws itself, strokes crawling, a lig
 | **vidéo à prolonger** | le segment précédent |
 | ⚠ | **Un seul mouvement découpé — le raccord doit être invisible.** À défaut de `video_extension` : `start_image` = la dernière frame exacte du segment précédent. |
 
-*Le texte à coller commence sous cette ligne.*
+> ⛔ **NE COLLE PAS CE TABLEAU.** Il est pour toi, pas pour le modèle : c'est ce que tu règles
+> dans l'interface avant de coller. **Tu ne copies QUE le texte entre les triples backticks
+> ci-dessous**, et rien d'autre — pas le titre, pas ce tableau, pas cette ligne.
 
 
 ```
@@ -909,7 +923,9 @@ letters appearing one by one, writing that draws itself, strokes crawling, a lig
 | **vidéo à prolonger** | le segment précédent |
 | ⚠ | **Un seul mouvement découpé — le raccord doit être invisible.** À défaut de `video_extension` : `start_image` = la dernière frame exacte du segment précédent. |
 
-*Le texte à coller commence sous cette ligne.*
+> ⛔ **NE COLLE PAS CE TABLEAU.** Il est pour toi, pas pour le modèle : c'est ce que tu règles
+> dans l'interface avant de coller. **Tu ne copies QUE le texte entre les triples backticks
+> ci-dessous**, et rien d'autre — pas le titre, pas ce tableau, pas cette ligne.
 
 
 ```
@@ -1028,7 +1044,9 @@ people in the street, a girl, a man, a car moving, red on the road, red on the w
 | **vidéo à prolonger** | le segment précédent |
 | ⚠ | **Un seul mouvement découpé — le raccord doit être invisible.** À défaut de `video_extension` : `start_image` = la dernière frame exacte du segment précédent. |
 
-*Le texte à coller commence sous cette ligne.*
+> ⛔ **NE COLLE PAS CE TABLEAU.** Il est pour toi, pas pour le modèle : c'est ce que tu règles
+> dans l'interface avant de coller. **Tu ne copies QUE le texte entre les triples backticks
+> ci-dessous**, et rien d'autre — pas le titre, pas ce tableau, pas cette ligne.
 
 
 ```
@@ -1144,7 +1162,9 @@ red anywhere, a red roof, a red light, city lights bright enough to read, a lit 
 | **vidéo à prolonger** | le segment précédent |
 | ⚠ | **Un seul mouvement découpé — le raccord doit être invisible.** À défaut de `video_extension` : `start_image` = la dernière frame exacte du segment précédent. |
 
-*Le texte à coller commence sous cette ligne.*
+> ⛔ **NE COLLE PAS CE TABLEAU.** Il est pour toi, pas pour le modèle : c'est ce que tu règles
+> dans l'interface avant de coller. **Tu ne copies QUE le texte entre les triples backticks
+> ci-dessous**, et rien d'autre — pas le titre, pas ce tableau, pas cette ligne.
 
 
 ```
@@ -1342,7 +1362,9 @@ inutilisable, l'artwork unique ne pourra plus s'y caler.
 | **`start_image`** | aucune — ce plan démarre sans image de départ |
 | **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
 
-*Le texte à coller commence sous cette ligne.*
+> ⛔ **NE COLLE PAS CE TABLEAU.** Il est pour toi, pas pour le modèle : c'est ce que tu règles
+> dans l'interface avant de coller. **Tu ne copies QUE le texte entre les triples backticks
+> ci-dessous**, et rien d'autre — pas le titre, pas ce tableau, pas cette ligne.
 
 
 ```
@@ -1480,7 +1502,9 @@ plus** (les doigts passent AVANT le visage ; à 1,5 s l'insert devient une expli
 | **`start_image`** | du shot 1 : **LA LAST FRAME DE LA GÉNÉRATION 4A** — LIEU-08 IMAGE 2, « LE CADRE DU PÈRE » |
 | **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
 
-*Le texte à coller commence sous cette ligne.*
+> ⛔ **NE COLLE PAS CE TABLEAU.** Il est pour toi, pas pour le modèle : c'est ce que tu règles
+> dans l'interface avant de coller. **Tu ne copies QUE le texte entre les triples backticks
+> ci-dessous**, et rien d'autre — pas le titre, pas ce tableau, pas cette ligne.
 
 
 ```
@@ -1635,7 +1659,9 @@ refaire. ⚠ Son jeté au mix : le montage 10.9 est muet sous la musique pleine.
 | **`start_image`** | **IMAGE E v2** (sh.1 |
 | **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
 
-*Le texte à coller commence sous cette ligne.*
+> ⛔ **NE COLLE PAS CE TABLEAU.** Il est pour toi, pas pour le modèle : c'est ce que tu règles
+> dans l'interface avant de coller. **Tu ne copies QUE le texte entre les triples backticks
+> ci-dessous**, et rien d'autre — pas le titre, pas ce tableau, pas cette ligne.
 
 
 ```
@@ -1805,7 +1831,9 @@ la surface est reprise en **[POST]**.*
 | **`start_image`** | LIEU-05 IMAGE 3 |
 | **`video_references`** | *aucune — c'est une tête de chaîne* |
 
-*Le texte à coller commence sous cette ligne.*
+> ⛔ **NE COLLE PAS CE TABLEAU.** Il est pour toi, pas pour le modèle : c'est ce que tu règles
+> dans l'interface avant de coller. **Tu ne copies QUE le texte entre les triples backticks
+> ci-dessous**, et rien d'autre — pas le titre, pas ce tableau, pas cette ligne.
 
 
 ```
@@ -1942,7 +1970,9 @@ regénérer une version « sonore » séparée** : deux fichiers différents tue
 | **`start_image`** | aucune — ce plan démarre sans image de départ |
 | **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
 
-*Le texte à coller commence sous cette ligne.*
+> ⛔ **NE COLLE PAS CE TABLEAU.** Il est pour toi, pas pour le modèle : c'est ce que tu règles
+> dans l'interface avant de coller. **Tu ne copies QUE le texte entre les triples backticks
+> ci-dessous**, et rien d'autre — pas le titre, pas ce tableau, pas cette ligne.
 
 
 ```

@@ -34,7 +34,9 @@
 | **`start_image`** | aucune |
 | **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
 
-*Le texte à coller commence sous cette ligne.*
+> ⛔ **NE COLLE PAS CE TABLEAU.** Il est pour toi, pas pour le modèle : c'est ce que tu règles
+> dans l'interface avant de coller. **Tu ne copies QUE le texte entre les triples backticks
+> ci-dessous**, et rien d'autre — pas le titre, pas ce tableau, pas cette ligne.
 
 
 ```
@@ -172,7 +174,9 @@ dans le film il reste interdit. Si le modèle abuse de la rampe : resserrer `[2.
 | **`start_image`** | LIEU-05 IMAGE 2 |
 | **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
 
-*Le texte à coller commence sous cette ligne.*
+> ⛔ **NE COLLE PAS CE TABLEAU.** Il est pour toi, pas pour le modèle : c'est ce que tu règles
+> dans l'interface avant de coller. **Tu ne copies QUE le texte entre les triples backticks
+> ci-dessous**, et rien d'autre — pas le titre, pas ce tableau, pas cette ligne.
 
 
 ```
@@ -304,7 +308,9 @@ médecin en pleine phrase attirent l'œil sur une bouche muette et le spectateur
 | **`start_image`** | LIEU-04 IMAGE 2 |
 | **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
 
-*Le texte à coller commence sous cette ligne.*
+> ⛔ **NE COLLE PAS CE TABLEAU.** Il est pour toi, pas pour le modèle : c'est ce que tu règles
+> dans l'interface avant de coller. **Tu ne copies QUE le texte entre les triples backticks
+> ci-dessous**, et rien d'autre — pas le titre, pas ce tableau, pas cette ligne.
 
 
 ```
@@ -435,7 +441,9 @@ modèle une fin de plan à jouer, et pour la réserve si le raccord vers 3D para
 | **`start_image`** | LIEU-04 IMAGE 2 — shots 2 et 3 après hard cut interne, sans start frame |
 | **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
 
-*Le texte à coller commence sous cette ligne.*
+> ⛔ **NE COLLE PAS CE TABLEAU.** Il est pour toi, pas pour le modèle : c'est ce que tu règles
+> dans l'interface avant de coller. **Tu ne copies QUE le texte entre les triples backticks
+> ci-dessous**, et rien d'autre — pas le titre, pas ce tableau, pas cette ligne.
 
 
 ```
@@ -586,7 +594,9 @@ avant la parole doit être dans le plan, sinon la bouche s'ouvre sans raison.*
 | **`start_image`** | LIEU-05 IMAGE 3 |
 | **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
 
-*Le texte à coller commence sous cette ligne.*
+> ⛔ **NE COLLE PAS CE TABLEAU.** Il est pour toi, pas pour le modèle : c'est ce que tu règles
+> dans l'interface avant de coller. **Tu ne copies QUE le texte entre les triples backticks
+> ci-dessous**, et rien d'autre — pas le titre, pas ce tableau, pas cette ligne.
 
 
 ```
@@ -724,7 +734,9 @@ ailleurs. **Le fichier doit rester intact et non réencodé entre les deux usage
 | **`start_image`** | LIEU-05 IMAGE 4 pour le shot 1 — shot 2 après hard cut interne, sans start frame |
 | **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
 
-*Le texte à coller commence sous cette ligne.*
+> ⛔ **NE COLLE PAS CE TABLEAU.** Il est pour toi, pas pour le modèle : c'est ce que tu règles
+> dans l'interface avant de coller. **Tu ne copies QUE le texte entre les triples backticks
+> ci-dessous**, et rien d'autre — pas le titre, pas ce tableau, pas cette ligne.
 
 
 ```

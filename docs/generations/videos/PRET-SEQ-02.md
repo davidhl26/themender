@@ -34,7 +34,9 @@
 | **`start_image`** | LIEU-02 IMAGE 1 |
 | **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
 
-*Le texte à coller commence sous cette ligne.*
+> ⛔ **NE COLLE PAS CE TABLEAU.** Il est pour toi, pas pour le modèle : c'est ce que tu règles
+> dans l'interface avant de coller. **Tu ne copies QUE le texte entre les triples backticks
+> ci-dessous**, et rien d'autre — pas le titre, pas ce tableau, pas cette ligne.
 
 
 ```
@@ -179,7 +181,9 @@ le billet, le sourire, le dos qui se redresse. Le shot 1 est une réserve d'éta
 | **`start_image`** | LIEU-02 IMAGE 3 |
 | **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
 
-*Le texte à coller commence sous cette ligne.*
+> ⛔ **NE COLLE PAS CE TABLEAU.** Il est pour toi, pas pour le modèle : c'est ce que tu règles
+> dans l'interface avant de coller. **Tu ne copies QUE le texte entre les triples backticks
+> ci-dessous**, et rien d'autre — pas le titre, pas ce tableau, pas cette ligne.
 
 
 ```
@@ -334,7 +338,9 @@ la réserve d'entrée de 2C — 1,5 s dans `[11.6-13.1s]` si le passage à l'int
 | **`start_image`** | LIEU-07 IMAGE 2 |
 | **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
 
-*Le texte à coller commence sous cette ligne.*
+> ⛔ **NE COLLE PAS CE TABLEAU.** Il est pour toi, pas pour le modèle : c'est ce que tu règles
+> dans l'interface avant de coller. **Tu ne copies QUE le texte entre les triples backticks
+> ci-dessous**, et rien d'autre — pas le titre, pas ce tableau, pas cette ligne.
 
 
 ```
@@ -474,7 +480,9 @@ de la pose des assiettes** — le rythme des quatre est ce qui paie en 5.1.*
 | **`start_image`** | LIEU-07 IMAGE 2, état « later » |
 | **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
 
-*Le texte à coller commence sous cette ligne.*
+> ⛔ **NE COLLE PAS CE TABLEAU.** Il est pour toi, pas pour le modèle : c'est ce que tu règles
+> dans l'interface avant de coller. **Tu ne copies QUE le texte entre les triples backticks
+> ci-dessous**, et rien d'autre — pas le titre, pas ce tableau, pas cette ligne.
 
 
 ```

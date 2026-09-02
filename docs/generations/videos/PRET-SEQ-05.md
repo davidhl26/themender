@@ -34,7 +34,9 @@
 | **`start_image`** | LIEU-07 IMAGE 2 |
 | **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
 
-*Le texte à coller commence sous cette ligne.*
+> ⛔ **NE COLLE PAS CE TABLEAU.** Il est pour toi, pas pour le modèle : c'est ce que tu règles
+> dans l'interface avant de coller. **Tu ne copies QUE le texte entre les triples backticks
+> ci-dessous**, et rien d'autre — pas le titre, pas ce tableau, pas cette ligne.
 
 
 ```
@@ -192,7 +194,9 @@ vérifier le raccord de jeu de Mei — même geste, deux vies.*
 | **`start_image`** | LIEU-07 IMAGE 4 — L'AXE UNIQUE DE 5.2 |
 | **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
 
-*Le texte à coller commence sous cette ligne.*
+> ⛔ **NE COLLE PAS CE TABLEAU.** Il est pour toi, pas pour le modèle : c'est ce que tu règles
+> dans l'interface avant de coller. **Tu ne copies QUE le texte entre les triples backticks
+> ci-dessous**, et rien d'autre — pas le titre, pas ce tableau, pas cette ligne.
 
 
 ```
@@ -336,7 +340,9 @@ invisible. **Sauvegarder le DERNIER FRAME de 5B-1 : il est la start frame de 5B-
 | **`start_image`** | LE DERNIER FRAME DE 5B-1 — repli : LIEU-07 IMAGE 4 |
 | **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
 
-*Le texte à coller commence sous cette ligne.*
+> ⛔ **NE COLLE PAS CE TABLEAU.** Il est pour toi, pas pour le modèle : c'est ce que tu règles
+> dans l'interface avant de coller. **Tu ne copies QUE le texte entre les triples backticks
+> ci-dessous**, et rien d'autre — pas le titre, pas ce tableau, pas cette ligne.
 
 
 ```
@@ -484,7 +490,9 @@ femmes juste à temps pour « More tea? ». **Aucune parole n'est perdue** — l
 | **`start_image`** | — l'insert est décrit au prompt |
 | **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
 
-*Le texte à coller commence sous cette ligne.*
+> ⛔ **NE COLLE PAS CE TABLEAU.** Il est pour toi, pas pour le modèle : c'est ce que tu règles
+> dans l'interface avant de coller. **Tu ne copies QUE le texte entre les triples backticks
+> ci-dessous**, et rien d'autre — pas le titre, pas ce tableau, pas cette ligne.
 
 
 ```
@@ -616,7 +624,9 @@ visage dans la tasse, **la prise est à jeter.***
 | **`start_image`** | LIEU-07 IMAGE 2 |
 | **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
 
-*Le texte à coller commence sous cette ligne.*
+> ⛔ **NE COLLE PAS CE TABLEAU.** Il est pour toi, pas pour le modèle : c'est ce que tu règles
+> dans l'interface avant de coller. **Tu ne copies QUE le texte entre les triples backticks
+> ci-dessous**, et rien d'autre — pas le titre, pas ce tableau, pas cette ligne.
 
 
 ```
@@ -774,7 +784,9 @@ Milo et le trajet du script ne se joue pas.*
 | **`start_image`** | aucune — cadre décrit au prompt |
 | **`video_references`** | *aucune — c'est une tête de chaîne* |
 
-*Le texte à coller commence sous cette ligne.*
+> ⛔ **NE COLLE PAS CE TABLEAU.** Il est pour toi, pas pour le modèle : c'est ce que tu règles
+> dans l'interface avant de coller. **Tu ne copies QUE le texte entre les triples backticks
+> ci-dessous**, et rien d'autre — pas le titre, pas ce tableau, pas cette ligne.
 
 
 ```

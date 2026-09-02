@@ -34,7 +34,9 @@
 | **`start_image`** | aucune |
 | **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
 
-*Le texte à coller commence sous cette ligne.*
+> ⛔ **NE COLLE PAS CE TABLEAU.** Il est pour toi, pas pour le modèle : c'est ce que tu règles
+> dans l'interface avant de coller. **Tu ne copies QUE le texte entre les triples backticks
+> ci-dessous**, et rien d'autre — pas le titre, pas ce tableau, pas cette ligne.
 
 
 ```
@@ -181,7 +183,9 @@ visible camera rigs, cartoonish colors, blurred focus on her, on-screen text, su
 | **`start_image`** | aucune |
 | **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
 
-*Le texte à coller commence sous cette ligne.*
+> ⛔ **NE COLLE PAS CE TABLEAU.** Il est pour toi, pas pour le modèle : c'est ce que tu règles
+> dans l'interface avant de coller. **Tu ne copies QUE le texte entre les triples backticks
+> ci-dessous**, et rien d'autre — pas le titre, pas ce tableau, pas cette ligne.
 
 
 ```
