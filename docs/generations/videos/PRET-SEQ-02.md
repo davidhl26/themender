@@ -1,9 +1,13 @@
 # SÉQUENCE 2 — LE RESTAURANT HEUREUX · VIDÉOS À COPIER-COLLER *(monde clair · 4 générations obligatoires · 48 s de rushes → 21 s au montage)*
 
-> **BLOCS PRÊTS À COLLER.** Tout est dedans : chaîne, pellicule, monde, références, contraintes.
-> **Tu copies UN bloc entier, tu le colles, tu génères. Rien à ajouter.**
+> **UN BLOC = TOUT.** Tu copies **un seul bloc**, tu le colles dans Higgsfield, tu génères.
+> **Rien à ouvrir à côté, rien à ajouter.** Les cartes de `00-CARTES-A-COLLER.md` sont
+> désormais *dans* chaque bloc : chaîne, monde, tempérament des personnages au cadre,
+> pellicule, registre caméra, anti-dérive, contraintes.
+>
+> Registre caméra de cette séquence : **ALIVE**.
 > Modèle **Seedance 2.5** · 21:9 · 1080p · bitrate **high** · sound off.
-> Source des blocs : `VIDEO-SEQ-02.md` — ce document en est la version assemblée.
+> Source : `VIDEO-SEQ-02.md`.
 
 ## VIDÉO 2A — plan 2.1 « Le quai, et le gobelet » *(12 s de rushes → 4 s au montage · Elements : @SamBefore + @Maeve + @NoraBefore + @MiloBefore + @Quay · start frame : LIEU-02 IMAGE 1)*
 
@@ -21,12 +25,17 @@ ACTIVE REFERENCES
 @MiloBefore: Milo at six, made of momentum. He arrives at speed, collides with legs, is picked up, is off again. He does not listen to whole sentences. 100% matches the reference.
 @Quay: The fishing quay at golden hour, worn timber, wet stone, open water behind. 100% matches the reference.
 
+TEMPERAMENT, SAM BEFORE A man who talks. He performs small things for his family — burns the toast and turns it into a story, narrates his own failures while they are happening. Loose in the shoulders, quick to laugh at himself, hands always doing something. He touches people as he passes them. Nothing about him is guarded. This is the man his two years of silence will be measured against, so the ease has to be real here.
+TEMPERAMENT, MAEVE Dry, fast, affectionate and entirely unsentimental — even dying. She does not soften her voice for anyone. What she wants she asks for plainly, and once. Her tenderness arrives as instruction, never as comfort.
+TEMPERAMENT, NORA BEFORE Thirteen and entirely unguarded. She interrupts, she leans on people, she laughs at her father's jokes before he has finished them. Her happiness is loud, physical, and costs her nothing.
+TEMPERAMENT, MILO BEFORE Six, and made of momentum. He arrives at speed, collides with legs, is picked up, and is off again. He does not listen to whole sentences. Everything about him is noise and warmth.
+
 LOCATION MAP
-Framing 1 [0.0-6.0s] — camera: CAMERA: wide, eye level about 160 cm, static, locked off, looking along the quay into the low sun — exactly the axis of the reference master.
-Framing 2 [6.0-12.0s] — camera: CAMERA: medium, eye level about 150 cm, static, locked off, on the seated man against the brick wall.
+Framing 1 [0.0-6.0s] — camera: CAMERA: wide, eye level about 160 cm, operated and breathing, carried rather than nailed down, looking along the quay into the low sun — exactly the axis of the reference master.
+Framing 2 [6.0-12.0s] — camera: CAMERA: medium, eye level about 150 cm, operated and breathing, carried rather than nailed down, on the seated man against the brick wall.
 Every distance, height and frame position given above is literal and is held exactly; nothing drifts toward a more flattering angle.
 
-FIRST FRAME AND SPATIAL BLOCKING The generation opens on this exact frame: CAMERA: wide, eye level about 160 cm, static, locked off, looking along the quay into the low sun — exactly the axis of the reference master. Frame contents, nobody moving through it yet: the quay in low golden sunset, stacked traps lower right, the brick wall along the left, masts in backlight across the upper half. Far right at x=84%, filling 18% of frame height, THE SEATED MAN sits motionless against the brick, blanket over his legs, the beige cup upright at his left knee, his calm face toward camera, taken full by the low sun. This is the frame the first video frame must already be, before anything moves: nothing is settling into place, nothing fades up, nothing is mid-transition.
+FIRST FRAME AND SPATIAL BLOCKING The generation opens on this exact frame: CAMERA: wide, eye level about 160 cm, operated and breathing, carried rather than nailed down, looking along the quay into the low sun — exactly the axis of the reference master. Frame contents, nobody moving through it yet: the quay in low golden sunset, stacked traps lower right, the brick wall along the left, masts in backlight across the upper half. Far right at x=84%, filling 18% of frame height, THE SEATED MAN sits motionless against the brick, blanket over his legs, the beige cup upright at his left knee, his calm face toward camera, taken full by the low sun. This is the frame the first video frame must already be, before anything moves: nothing is settling into place, nothing fades up, nothing is mid-transition.
 
 FORMAT MODE
 One take of 12 seconds at real-time speed, containing exactly 2 successive framings joined by 1 hard cut, placed at the moments the FRAME MAP gives and nowhere else. Each framing is held completely still between its cuts. No other cut, no montage, no dissolve, no speed ramp, no slow motion.
@@ -40,13 +49,13 @@ PROP LAYOUT — FIXED The plain beige cardboard cup, no printing anywhere, its r
 
 FRAME MAP & CHOREOGRAPHY — SECOND BY SECOND
 
-SHOT 1 [0.0-6.0s] — CAMERA: wide, eye level about 160 cm, static, locked off, looking along the quay into the low sun — exactly the axis of the reference master.
+SHOT 1 [0.0-6.0s] — CAMERA: wide, eye level about 160 cm, operated and breathing, carried rather than nailed down, looking along the quay into the low sun — exactly the axis of the reference master.
 [0.0-1.2s] Frame contents, nobody moving through it yet: the quay in low golden sunset, stacked traps lower right, the brick wall along the left, masts in backlight across the upper half. Far right at x=84%, filling 18% of frame height, THE SEATED MAN sits motionless against the brick, blanket over his legs, the beige cup upright at his left knee, his calm face toward camera, taken full by the low sun.
 [1.2-6.0s] MOVEMENT: the family enters at the left frame edge and walks screen-left to screen-right, unhurried, mid-ground, filling 45% of frame height — @SamBefore first, @MiloBefore on his shoulders, their stacked silhouette breaking the skyline, the boy's fists in his father's hair, babbling with no intelligible word; behind them @Maeve, the crimson scarf lifting in the wind; @NoraBefore in step at her side. Nobody speaks. By [6.0s]: @SamBefore x=60%, @Maeve x=48%, @NoraBefore x=40%. The seated man has not moved.
 
 HARD CUT
 
-SHOT 2 [6.0-12.0s] — CAMERA: medium, eye level about 150 cm, static, locked off, on the seated man against the brick wall.
+SHOT 2 [6.0-12.0s] — CAMERA: medium, eye level about 150 cm, operated and breathing, carried rather than nailed down, on the seated man against the brick wall.
 [6.0s] Starting positions, held until described otherwise: THE SEATED MAN screen-left at x=30%, SEATED, back against the brick, filling 45% of frame height, blanket over his legs, both hands at rest on it, the cup upright by his left knee, his face fully visible in the warm low light. He asks nothing. @Maeve has just stopped in front of him at x=55%, STANDING, facing him, three-quarter from behind-left, the scarf a clean line of red. Soft at x=72%, the other three walk on toward the right edge.
 [6.0-7.0s] Nobody speaks. She looks down at him; he looks up at her into the low sun. The others' steps fade right; @NoraBefore slows at x=80%, half-turning.
 [7.0-9.0s] MOVEMENT: @Maeve reaches into her coat pocket and turns the pocket out over the cup — coins drop in one by one, then one folded bill. Her head tilts slightly. The cup does not move.
@@ -63,7 +72,10 @@ SUBJECT LOCK, MILOBEFORE The exact child of @MiloBefore — six, small and sligh
 
 SUBJECT LOCK, THE SEATED MAN (no Element — a single appearance) A stranger in his seventies, slight, narrow-shouldered, gaunt, CLEAN-SHAVEN, hollow-cheeked, his calm face FULLY VISIBLE, facing camera, in full warm sunset light in every frame. He asks nothing, says nothing, reaches for nothing. Nothing about him resembles a tall broad bearded man — clearly older, thinner and narrower than the father. He never looks at the lens.
 
-CROSS-FRAME RULES @Quay is the same quay of the reference Element in both shots, same low sunset. The family walks in one direction, screen-left to screen-right, the full runtime. The only five people ever in frame are the four family members and the seated man, each face exact to its reference; the seated man is full-face, in full light, and only he is seated. The crimson scarf is the ONLY red in any frame. Nobody looks at the lens. NO INVENTED ACTION: If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written above; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only). CONTINUITY LOCK above and the POSITIVE CONSTRAINTS below apply in full.
+CROSS-FRAME RULES @Quay is the same quay of the reference Element in both shots, same low sunset. The family walks in one direction, screen-left to screen-right, the full runtime. The only five people ever in frame are the four family members and the seated man, each face exact to its reference; the seated man is full-face, in full light, and only he is seated. The crimson scarf is the ONLY red in any frame. Nobody looks at the lens. NO INVENTED ACTION: If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written above; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only). CONTINUITY LOCK above and the CONTINUITY — WHAT MUST NOT DRIFT
+Wardrobe, hair, dirt, damage and wear are exactly as the references define them and do not improve, clean themselves up or change between shots. Nobody is better groomed, better lit, better dressed or better rested than in the shot before. Props stay where the prop layout puts them. Weather, time of day and light level do not move inside a sequence. Nobody looks at the lens at any point.
+
+POSITIVE CONSTRAINTS below apply in full.
 
 LOCATION @Quay — the working North Atlantic fishing quay of the reference Element: patched concrete walkway scuffed by decades of rope and crate, dark tide-stains at its edge; stacked lobster traps; coiled rope stiff with salt; iron bollards under layers of chipped paint over rusted metal; a corroded chain bleeding brown streaks down the kerb; the low warehouse wall of weathered brick, spalled and patched; trawler masts beyond; flat water holding the sunset in long streaks. No red anywhere on the location itself. Nothing readable anywhere: no names on hulls, no signs, no lettering.
 
@@ -89,6 +101,9 @@ Naturalistic available-light cinematography. One motivated source only — morni
 FILM EMULATION — THE SAME STOCK FROM THE FIRST FRAME TO THE LAST
 Shot on Kodak Vision3 500T 5219 tungsten colour negative, one stock, one lab, for the entire film, rated at box speed and printed flat. Cool naturalistic colour science; shadows falling slightly blue-green and holding real separation and texture inside them; skin tones understated, never warmed up, never rosy. Gentle contrast, soft highlight roll-off, highlights restrained and never blown, a faint halation ring blooming around every practical source. Moderate fine grain that grows in the underexposed areas and breathes with the exposure. Not glossy, not digital, not warm. Daylight scenes are the same stock corrected with an 85 filter, never a different look.
 
+CAMERA REGISTER — ALIVE
+The camera is carried by a body, not mounted on one. It breathes with whoever holds it, drifts a centimetre or two and corrects, and reframes by small amounts as people move instead of waiting for them to arrive. It follows them. Never a shake, never a jolt, never a whip pan: this is the movement of somebody standing in the room with this family, watching them, close enough to be one of them. THE FRAME SETTLES AND COMES FULLY TO REST BEFORE THE LAST SECOND, so the final frame is clean and carries no motion blur.
+
 CAMERA — OPERATED, NOT SIMULATED
 One anamorphic lens set throughout: slight barrel distortion at the frame edges, oval out-of-focus highlights, mild edge softness, faint vignetting, vintage lens character. Focus is pulled by a human hand — it arrives a few frames late, occasionally overshoots by a hair and settles back, and breathes with the operator's pace. Every held frame keeps a residual human weight in it, a drift of a few millimetres: never a locked robotic stillness, never a shake. No digital sharpening, no edge halos, no noise-reduction smear, no beauty retouching, no plastic skin, no CGI gloss.
 
@@ -108,6 +123,7 @@ One continuous uncut take at real-time speed, for the exact duration requested. 
 AVOID
 any red other than the crimson wool scarf on @Maeve, red buoys, red hulls, red traps, a beard on the seated man, a broad or heavy build on the seated man, his face hidden or in shadow, the seated man standing, begging, reaching or speaking, ink stains on any finger, lettering on the cup, readable signage, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, subjects looking at camera, visible camera rigs, camera movement, dolly, pan, zoom, handheld shake, slow motion, morphing objects, extra people in frame, extra gestures, improvised actions, repositioned props, appearing or disappearing objects, theatrical acting, overacting, generated music, uncanny smoothness, plastic skin, beauty filter, CGI look, video-game lighting, underexposed frame, crushed blacks, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness.
 ```
+
 
 
 *⚠ **COUPE — 4 s sur 12 s.** Garder **`[7.0s]` → `[11.0s]`** du shot 2 : la poche qui se retourne, les pièces,
@@ -133,12 +149,17 @@ ACTIVE REFERENCES
 @MiloBefore: Milo at six, made of momentum. He arrives at speed, collides with legs, is picked up, is off again. He does not listen to whole sentences. 100% matches the reference.
 @Quay: The fishing quay at golden hour, worn timber, wet stone, open water behind. 100% matches the reference.
 
+TEMPERAMENT, SAM BEFORE A man who talks. He performs small things for his family — burns the toast and turns it into a story, narrates his own failures while they are happening. Loose in the shoulders, quick to laugh at himself, hands always doing something. He touches people as he passes them. Nothing about him is guarded. This is the man his two years of silence will be measured against, so the ease has to be real here.
+TEMPERAMENT, MAEVE Dry, fast, affectionate and entirely unsentimental — even dying. She does not soften her voice for anyone. What she wants she asks for plainly, and once. Her tenderness arrives as instruction, never as comfort.
+TEMPERAMENT, NORA BEFORE Thirteen and entirely unguarded. She interrupts, she leans on people, she laughs at her father's jokes before he has finished them. Her happiness is loud, physical, and costs her nothing.
+TEMPERAMENT, MILO BEFORE Six, and made of momentum. He arrives at speed, collides with legs, is picked up, and is off again. He does not listen to whole sentences. Everything about him is noise and warmth.
+
 LOCATION MAP
-Framing 1 [0.0-10.8s] — camera: CAMERA: medium-close two-shot, eye level about 155 cm, static, locked off, placed ahead of them on the walkway with the low sun directly behind the lens; they walk toward camera at stroll pace for the whole shot. One continuous take, no cut inside it.
-Framing 2 [10.8-14.0s] — camera: CAMERA: wide, eye level about 160 cm, static, locked off: the quay's end in blue dusk.
+Framing 1 [0.0-10.8s] — camera: CAMERA: medium-close two-shot, eye level about 155 cm, operated and breathing, carried rather than nailed down, placed ahead of them on the walkway with the low sun directly behind the lens; they walk toward camera at stroll pace for the whole shot. One continuous take, no cut inside it.
+Framing 2 [10.8-14.0s] — camera: CAMERA: wide, eye level about 160 cm, operated and breathing, carried rather than nailed down: the quay's end in blue dusk.
 Every distance, height and frame position given above is literal and is held exactly; nothing drifts toward a more flattering angle.
 
-FIRST FRAME AND SPATIAL BLOCKING The generation opens on this exact frame: CAMERA: medium-close two-shot, eye level about 155 cm, static, locked off, placed ahead of them on the walkway with the low sun directly behind the lens; they walk toward camera at stroll pace for the whole shot. One continuous take, no cut inside it. Starting positions, held until described otherwise: @Maeve at x=44% and @NoraBefore at x=58%, chest-up, filling 45% of frame height, mid-ground, side by side, WALKING toward camera; the quay runs away behind them, masts black against the gold; deep behind them, tiny and soft at x=18%, the seated man against the wall, unmoved. The scarf lifts in the wind. This is the frame the first video frame must already be, before anything moves: nothing is settling into place, nothing fades up, nothing is mid-transition.
+FIRST FRAME AND SPATIAL BLOCKING The generation opens on this exact frame: CAMERA: medium-close two-shot, eye level about 155 cm, operated and breathing, carried rather than nailed down, placed ahead of them on the walkway with the low sun directly behind the lens; they walk toward camera at stroll pace for the whole shot. One continuous take, no cut inside it. Starting positions, held until described otherwise: @Maeve at x=44% and @NoraBefore at x=58%, chest-up, filling 45% of frame height, mid-ground, side by side, WALKING toward camera; the quay runs away behind them, masts black against the gold; deep behind them, tiny and soft at x=18%, the seated man against the wall, unmoved. The scarf lifts in the wind. This is the frame the first video frame must already be, before anything moves: nothing is settling into place, nothing fades up, nothing is mid-transition.
 
 FORMAT MODE
 One take of 14 seconds at real-time speed, containing exactly 2 successive framings joined by 1 hard cut, placed at the moments the FRAME MAP gives and nowhere else. Each framing is held completely still between its cuts. No other cut, no montage, no dissolve, no speed ramp, no slow motion.
@@ -152,7 +173,7 @@ PROP LAYOUT — FIXED @Maeve's crimson scarf stays wound over her shoulders in e
 
 FRAME MAP & CHOREOGRAPHY — SECOND BY SECOND
 
-SHOT 1 [0.0-10.8s] — CAMERA: medium-close two-shot, eye level about 155 cm, static, locked off, placed ahead of them on the walkway with the low sun directly behind the lens; they walk toward camera at stroll pace for the whole shot. One continuous take, no cut inside it.
+SHOT 1 [0.0-10.8s] — CAMERA: medium-close two-shot, eye level about 155 cm, operated and breathing, carried rather than nailed down, placed ahead of them on the walkway with the low sun directly behind the lens; they walk toward camera at stroll pace for the whole shot. One continuous take, no cut inside it.
 [0.0s] Starting positions, held until described otherwise: @Maeve at x=44% and @NoraBefore at x=58%, chest-up, filling 45% of frame height, mid-ground, side by side, WALKING toward camera; the quay runs away behind them, masts black against the gold; deep behind them, tiny and soft at x=18%, the seated man against the wall, unmoved. The scarf lifts in the wind.
 [0.0-1.0s] Nobody speaks. @SamBefore, @MiloBefore on his shoulders, enters the near foreground soft at the left edge, crossing toward the right edge ahead of the women.
 [1.0-2.0s] MOVEMENT: mid-pass, @SamBefore drops both hands from the boy's shins for half a second — a mock release, the boy dipping — and catches them again; @MiloBefore shrieks with laughter and grabs the hair with both fists. Both women watch them go, both smiling.
@@ -169,7 +190,7 @@ SHOT 1 [0.0-10.8s] — CAMERA: medium-close two-shot, eye level about 155 cm, st
 
 HARD CUT
 
-SHOT 2 [10.8-14.0s] — CAMERA: wide, eye level about 160 cm, static, locked off: the quay's end in blue dusk.
+SHOT 2 [10.8-14.0s] — CAMERA: wide, eye level about 160 cm, operated and breathing, carried rather than nailed down: the quay's end in blue dusk.
 [10.8s] Frame contents: the sunset gone, sky and wet concrete settled into an even luminous blue; the small restaurant shopfront screen-right at x=70%, DARK, its blind half up; the family small at x=45%, filling 25% of frame height, walking toward it, backs three-quarter to camera — @SamBefore with @MiloBefore up top, @Maeve, @NoraBefore — the crimson scarf one small line of red in all that blue.
 [11.6-12.2s] MOVEMENT: the shopfront window flickers and comes alight — a warm amber halo spilling through the waved glass onto the wet concrete in a soft apron. No readable sign anywhere, no letters.
 [12.2-14.0s] The family crosses toward the light, unhurried, held to the end: they are almost at the door and NOBODY HAS ENTERED — the amber, the blue, and the one line of red.
@@ -184,7 +205,10 @@ SUBJECT LOCK, MILOBEFORE The exact child of @MiloBefore — six, small and sligh
 
 SUBJECT LOCK, THE SEATED MAN (background only, no Element) The same stranger in his seventies as the previous generation — slight, narrow-shouldered, gaunt, CLEAN-SHAVEN — a tiny soft shape deep in the background of shot 1, seated, unmoving, his cup at his knee. He never stands, never speaks, never comes closer, never appears in shot 2.
 
-CROSS-FRAME RULES Direct continuation of generation 2A: same four people, exact faces of their references, same wardrobe, same quay of the reference Element, the same dying sunset — by shot 2 the sun is gone and the dusk is blue. They walk in one single direction the whole generation. The only five people ever in frame are the four family members and, in the deep background of shot 1 only, the unmoved seated man. The crimson scarf is the ONLY red in any frame. Shot 1 is one continuous take with no cut inside it. Nobody looks at the lens. NO INVENTED ACTION: If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written above; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only). CONTINUITY LOCK above and the POSITIVE CONSTRAINTS below apply in full.
+CROSS-FRAME RULES Direct continuation of generation 2A: same four people, exact faces of their references, same wardrobe, same quay of the reference Element, the same dying sunset — by shot 2 the sun is gone and the dusk is blue. They walk in one single direction the whole generation. The only five people ever in frame are the four family members and, in the deep background of shot 1 only, the unmoved seated man. The crimson scarf is the ONLY red in any frame. Shot 1 is one continuous take with no cut inside it. Nobody looks at the lens. NO INVENTED ACTION: If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written above; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only). CONTINUITY LOCK above and the CONTINUITY — WHAT MUST NOT DRIFT
+Wardrobe, hair, dirt, damage and wear are exactly as the references define them and do not improve, clean themselves up or change between shots. Nobody is better groomed, better lit, better dressed or better rested than in the shot before. Props stay where the prop layout puts them. Weather, time of day and light level do not move inside a sequence. Nobody looks at the lens at any point.
+
+POSITIVE CONSTRAINTS below apply in full.
 
 LOCATION @Quay — the same working fishing quay of the reference Element, walked to its end: the same patched rope-scuffed concrete, salt-bleached traps, chipped-paint bollards and spalled brick. At the end, a small old family-run restaurant shopfront: wood-framed window with blistered paint and faintly waved old glass, sun-faded canvas blind half up, warm amber light coming on inside, a brass handle polished by decades of hands, a hanging sign reduced to a soft amber halo. No red anywhere on the location. Nothing readable anywhere — no letters, no signage with words, no logos.
 
@@ -210,6 +234,9 @@ Naturalistic available-light cinematography. One motivated source only — morni
 FILM EMULATION — THE SAME STOCK FROM THE FIRST FRAME TO THE LAST
 Shot on Kodak Vision3 500T 5219 tungsten colour negative, one stock, one lab, for the entire film, rated at box speed and printed flat. Cool naturalistic colour science; shadows falling slightly blue-green and holding real separation and texture inside them; skin tones understated, never warmed up, never rosy. Gentle contrast, soft highlight roll-off, highlights restrained and never blown, a faint halation ring blooming around every practical source. Moderate fine grain that grows in the underexposed areas and breathes with the exposure. Not glossy, not digital, not warm. Daylight scenes are the same stock corrected with an 85 filter, never a different look.
 
+CAMERA REGISTER — ALIVE
+The camera is carried by a body, not mounted on one. It breathes with whoever holds it, drifts a centimetre or two and corrects, and reframes by small amounts as people move instead of waiting for them to arrive. It follows them. Never a shake, never a jolt, never a whip pan: this is the movement of somebody standing in the room with this family, watching them, close enough to be one of them. THE FRAME SETTLES AND COMES FULLY TO REST BEFORE THE LAST SECOND, so the final frame is clean and carries no motion blur.
+
 CAMERA — OPERATED, NOT SIMULATED
 One anamorphic lens set throughout: slight barrel distortion at the frame edges, oval out-of-focus highlights, mild edge softness, faint vignetting, vintage lens character. Focus is pulled by a human hand — it arrives a few frames late, occasionally overshoots by a hair and settles back, and breathes with the operator's pace. Every held frame keeps a residual human weight in it, a drift of a few millimetres: never a locked robotic stillness, never a shake. No digital sharpening, no edge halos, no noise-reduction smear, no beauty retouching, no plastic skin, no CGI gloss.
 
@@ -229,6 +256,7 @@ One continuous uncut take at real-time speed, for the exact duration requested. 
 AVOID
 any red other than the crimson wool scarf on @Maeve, red buoys, red hulls, a red shopfront, a readable sign, letters on the shopfront, readable signage, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, the seated man standing or approaching, the seated man in shot 2, anyone entering the restaurant, a door opening, the girl sulking or shouting, the mother lecturing, hurried dialogue, overlapping dialogue, added lines, subjects looking at camera, visible camera rigs, camera movement, dolly, pan, zoom, handheld shake, slow motion, morphing objects, extra people in frame, extra gestures, improvised actions, repositioned props, appearing or disappearing objects, ink stains on any finger, theatrical acting, overacting, generated music, uncanny smoothness, plastic skin, beauty filter, CGI look, video-game lighting, underexposed frame, crushed blacks, night look, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness.
 ```
+
 
 
 *⚠ **COUPE — 6 s sur 14 s, la plus serrée de la séquence.** Garder **`[3.4s]` → `[10.3s]`** du shot 1 (les
@@ -256,11 +284,17 @@ ACTIVE REFERENCES
 @Mei: Mei, fifty-eight, who runs the restaurant — brisk, busy, entirely unmystified, and still running it while this happens. What she passes on she passes on the way she would pass on a phone number: practical, low, half over her shoulder, already moving. Dark green apron stained at the hip. 100% matches the reference.
 @Restaurant: Mei's restaurant — amber lanterns, green tablecloths, a green fish tank. No red anywhere, no legible signage. 100% matches the reference.
 
+TEMPERAMENT, SAM BEFORE A man who talks. He performs small things for his family — burns the toast and turns it into a story, narrates his own failures while they are happening. Loose in the shoulders, quick to laugh at himself, hands always doing something. He touches people as he passes them. Nothing about him is guarded. This is the man his two years of silence will be measured against, so the ease has to be real here.
+TEMPERAMENT, MAEVE Dry, fast, affectionate and entirely unsentimental — even dying. She does not soften her voice for anyone. What she wants she asks for plainly, and once. Her tenderness arrives as instruction, never as comfort.
+TEMPERAMENT, NORA BEFORE Thirteen and entirely unguarded. She interrupts, she leans on people, she laughs at her father's jokes before he has finished them. Her happiness is loud, physical, and costs her nothing.
+TEMPERAMENT, MILO BEFORE Six, and made of momentum. He arrives at speed, collides with legs, is picked up, and is off again. He does not listen to whole sentences. Everything about him is noise and warmth.
+TEMPERAMENT, MEI Brisk, busy, entirely unmystified. She runs a restaurant and she is still running it while this is happening. What she passes on, she passes on the way she would pass on a phone number: practical, low, half over her shoulder, already moving to the next thing.
+
 LOCATION MAP
-Framing 1 [0.0-8.0s] — camera: CAMERA: medium on the table from the back of the room, eye level about 150 cm, static, locked off, exactly the axis of the reference image. One single shot, no cut, no camera move of any kind.
+Framing 1 [0.0-8.0s] — camera: CAMERA: medium on the table from the back of the room, eye level about 150 cm, operated and breathing, carried rather than nailed down, exactly the axis of the reference image. One single shot, no cut, no camera move of any kind.
 Every distance, height and frame position given above is literal and is held exactly; nothing drifts toward a more flattering angle.
 
-FIRST FRAME AND SPATIAL BLOCKING The generation opens on this exact frame: CAMERA: medium on the table from the back of the room, eye level about 150 cm, static, locked off, exactly the axis of the reference image. One single shot, no cut, no camera move of any kind. Starting positions, held until described otherwise: the table by the half-fogged window, the blue night behind the glass across the upper half of frame. @SamBefore SEATED screen-left at x=26%, three-quarter back to camera, filling 50% of frame height; @Maeve SEATED facing camera at x=44%; @MiloBefore SEATED facing camera at x=60%, chin just above the table line; @NoraBefore SEATED screen-right at x=76%, three-quarter, her face readable in left profile. Coats and the crimson scarf are OFF and out of frame — nothing red anywhere. The four lean in, mid low conversation, no intelligible word. @Mei, STANDING, is entering from the beaded curtain at the screen-left frame edge carrying the four green-rimmed plates. This is the frame the first video frame must already be, before anything moves: nothing is settling into place, nothing fades up, nothing is mid-transition.
+FIRST FRAME AND SPATIAL BLOCKING The generation opens on this exact frame: CAMERA: medium on the table from the back of the room, eye level about 150 cm, operated and breathing, carried rather than nailed down, exactly the axis of the reference image. One single shot, no cut, no camera move of any kind. Starting positions, held until described otherwise: the table by the half-fogged window, the blue night behind the glass across the upper half of frame. @SamBefore SEATED screen-left at x=26%, three-quarter back to camera, filling 50% of frame height; @Maeve SEATED facing camera at x=44%; @MiloBefore SEATED facing camera at x=60%, chin just above the table line; @NoraBefore SEATED screen-right at x=76%, three-quarter, her face readable in left profile. Coats and the crimson scarf are OFF and out of frame — nothing red anywhere. The four lean in, mid low conversation, no intelligible word. @Mei, STANDING, is entering from the beaded curtain at the screen-left frame edge carrying the four green-rimmed plates. This is the frame the first video frame must already be, before anything moves: nothing is settling into place, nothing fades up, nothing is mid-transition.
 
 FORMAT MODE
 One single continuous uncut take, 8 seconds long, at real-time speed. No cut, no montage, no dissolve, no speed ramp, no slow motion.
@@ -274,7 +308,7 @@ PROP LAYOUT — FIXED The family table by the half-fogged window: over the dark 
 
 FRAME MAP & CHOREOGRAPHY — SECOND BY SECOND
 
-SHOT 1 [0.0-8.0s] — CAMERA: medium on the table from the back of the room, eye level about 150 cm, static, locked off, exactly the axis of the reference image. One single shot, no cut, no camera move of any kind.
+SHOT 1 [0.0-8.0s] — CAMERA: medium on the table from the back of the room, eye level about 150 cm, operated and breathing, carried rather than nailed down, exactly the axis of the reference image. One single shot, no cut, no camera move of any kind.
 [0.0s] Starting positions, held until described otherwise: the table by the half-fogged window, the blue night behind the glass across the upper half of frame. @SamBefore SEATED screen-left at x=26%, three-quarter back to camera, filling 50% of frame height; @Maeve SEATED facing camera at x=44%; @MiloBefore SEATED facing camera at x=60%, chin just above the table line; @NoraBefore SEATED screen-right at x=76%, three-quarter, her face readable in left profile. Coats and the crimson scarf are OFF and out of frame — nothing red anywhere. The four lean in, mid low conversation, no intelligible word. @Mei, STANDING, is entering from the beaded curtain at the screen-left frame edge carrying the four green-rimmed plates.
 [0.6-4.4s] MOVEMENT: @Mei crosses to the table and leans in over it, and sets the FOUR plates one — two — three — four, one to each person, in a single sure unbroken rhythm, the gesture of someone who has done it for years and was not asked. The plates land with four separate small sounds. The family barely pauses; @Maeve looks up at her.
 [4.4-6.0s] @Mei smiles at the family and trades two silent words with @Maeve — lips moving, nothing audible — then straightens, one hand flat on the edge of the table for a moment.
@@ -291,7 +325,10 @@ SUBJECT LOCK, NORABEFORE The exact girl of @NoraBefore — thirteen, radiantly h
 
 SUBJECT LOCK, MILOBEFORE The exact child of @MiloBefore — six, small and slight; round face; thick dark brown hair, cowlick at the crown; pale grey-blue eyes, long lashes; faint freckles; one lower front tooth missing. The green-and-navy striped top, coat off. Awake, chin just above the table line. He never looks at the lens.
 
-CROSS-FRAME RULES @Restaurant is the room of the reference Element throughout: same dark green cloths under the same white paper top, same amber-and-brass paper lanterns, same green-lit fish tank, same half-fogged window onto the blue night. The four plates are the four plates of the @GreenBandPlate reference and there are never more or fewer than four. The only five people ever in frame are the four family members and @Mei; the rest of the room stays soft and unpeopled — no other diner, no second server. Every face exact to its reference. Nobody looks at the lens. NO INVENTED ACTION: If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written above; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only). CONTINUITY LOCK above and the POSITIVE CONSTRAINTS below apply in full.
+CROSS-FRAME RULES @Restaurant is the room of the reference Element throughout: same dark green cloths under the same white paper top, same amber-and-brass paper lanterns, same green-lit fish tank, same half-fogged window onto the blue night. The four plates are the four plates of the @GreenBandPlate reference and there are never more or fewer than four. The only five people ever in frame are the four family members and @Mei; the rest of the room stays soft and unpeopled — no other diner, no second server. Every face exact to its reference. Nobody looks at the lens. NO INVENTED ACTION: If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written above; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only). CONTINUITY LOCK above and the CONTINUITY — WHAT MUST NOT DRIFT
+Wardrobe, hair, dirt, damage and wear are exactly as the references define them and do not improve, clean themselves up or change between shots. Nobody is better groomed, better lit, better dressed or better rested than in the shot before. Props stay where the prop layout puts them. Weather, time of day and light level do not move inside a sequence. Nobody looks at the lens at any point.
+
+POSITIVE CONSTRAINTS below apply in full.
 
 LOCATION @Restaurant — the small old family-run restaurant of the reference Element: formica tables with dark green cotton cloths laundered thin, wooden chairs with re-glued rungs and seat edges worn pale; the lacquered service counter rubbed matte at the corner where hands rest; the green-lit fish tank, algae at the glass corners, slow bubbles rising; the beaded curtain to the kitchen, its strands uneven with age; paper lanterns in amber and brass, their paper aged to cream, a rib's shadow readable through the glow; the window onto the wet street with its half-drawn faded blind, the pane fogged in a soft oval; the floor's path worn dull from door to counter. No red anywhere: no red lanterns, no red cloths, no red menus, no red packaging, no red aquarium decor. Nothing readable anywhere.
 
@@ -317,6 +354,9 @@ Naturalistic available-light cinematography. One motivated source only — morni
 FILM EMULATION — THE SAME STOCK FROM THE FIRST FRAME TO THE LAST
 Shot on Kodak Vision3 500T 5219 tungsten colour negative, one stock, one lab, for the entire film, rated at box speed and printed flat. Cool naturalistic colour science; shadows falling slightly blue-green and holding real separation and texture inside them; skin tones understated, never warmed up, never rosy. Gentle contrast, soft highlight roll-off, highlights restrained and never blown, a faint halation ring blooming around every practical source. Moderate fine grain that grows in the underexposed areas and breathes with the exposure. Not glossy, not digital, not warm. Daylight scenes are the same stock corrected with an 85 filter, never a different look.
 
+CAMERA REGISTER — ALIVE
+The camera is carried by a body, not mounted on one. It breathes with whoever holds it, drifts a centimetre or two and corrects, and reframes by small amounts as people move instead of waiting for them to arrive. It follows them. Never a shake, never a jolt, never a whip pan: this is the movement of somebody standing in the room with this family, watching them, close enough to be one of them. THE FRAME SETTLES AND COMES FULLY TO REST BEFORE THE LAST SECOND, so the final frame is clean and carries no motion blur.
+
 CAMERA — OPERATED, NOT SIMULATED
 One anamorphic lens set throughout: slight barrel distortion at the frame edges, oval out-of-focus highlights, mild edge softness, faint vignetting, vintage lens character. Focus is pulled by a human hand — it arrives a few frames late, occasionally overshoots by a hair and settles back, and breathes with the operator's pace. Every held frame keeps a residual human weight in it, a drift of a few millimetres: never a locked robotic stillness, never a shake. No digital sharpening, no edge halos, no noise-reduction smear, no beauty retouching, no plastic skin, no CGI gloss.
 
@@ -336,6 +376,7 @@ One continuous uncut take at real-time speed, for the exact duration requested. 
 AVOID
 three plates, five plates, duplicated plates, a plate moved after it is set, anyone reaching for a plate, anyone eating, food on the plates, a menu, a readable menu, readable signage, any red anywhere, red lanterns, red cloths, a red scarf, red aquarium decor, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, other diners in frame, a second server, characters standing up, the family leaving, subjects looking at camera, visible camera rigs, camera movement, dolly, pan, zoom, handheld shake, slow motion, morphing objects, extra people in frame, extra gestures, improvised actions, wandering hands, repositioned props, appearing or disappearing objects, ink stains on any finger, audible speech, posed smiles, sitcom lighting, theatrical acting, overacting, generated music, uncanny smoothness, plastic skin, beauty filter, CGI look, video-game lighting, underexposed frame, crushed blacks, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness.
 ```
+
 
 
 *⚠ **COUPE — 4 s sur 8 s.** Garder **`[1.2s]` → `[5.2s]`** : les quatre assiettes qui descendent l'une après
@@ -360,6 +401,11 @@ ACTIVE REFERENCES
 @NoraBefore: Nora at thirteen, entirely unguarded. She interrupts, she leans on people, she laughs at her father's jokes before he finishes them. Her happiness is loud, physical, and costs her nothing. 100% matches the reference.
 @MiloBefore: Milo at six, made of momentum. He arrives at speed, collides with legs, is picked up, is off again. He does not listen to whole sentences. 100% matches the reference.
 @Restaurant: Mei's restaurant — amber lanterns, green tablecloths, a green fish tank. No red anywhere, no legible signage. 100% matches the reference.
+
+TEMPERAMENT, SAM BEFORE A man who talks. He performs small things for his family — burns the toast and turns it into a story, narrates his own failures while they are happening. Loose in the shoulders, quick to laugh at himself, hands always doing something. He touches people as he passes them. Nothing about him is guarded. This is the man his two years of silence will be measured against, so the ease has to be real here.
+TEMPERAMENT, MAEVE Dry, fast, affectionate and entirely unsentimental — even dying. She does not soften her voice for anyone. What she wants she asks for plainly, and once. Her tenderness arrives as instruction, never as comfort.
+TEMPERAMENT, NORA BEFORE Thirteen and entirely unguarded. She interrupts, she leans on people, she laughs at her father's jokes before he has finished them. Her happiness is loud, physical, and costs her nothing.
+TEMPERAMENT, MILO BEFORE Six, and made of momentum. He arrives at speed, collides with legs, is picked up, and is off again. He does not listen to whole sentences. Everything about him is noise and warmth.
 
 LOCATION MAP
 Framing 1 [0.0-14.0s] — camera: CAMERA: one single continuous take, no cut. A medium three-quarter across the table, lens about 60 cm above the tabletop and 1.2 m back from the paper, on the axis of the reference image. LOCKED OFF from [0.0s] to [9.8s]. From [9.8s] to [13.4s] the camera withdraws ONCE — a single slow straight dolly back of about 1.2 m along the same axis, decelerating to a full stop by [13.4s] — then locked again to the end. No pan, no tilt, no zoom, no push in, no handheld shake, no second move.
@@ -398,7 +444,10 @@ SUBJECT LOCK, MAEVE The exact woman of @Maeve — shoulder-length dark auburn ha
 
 SUBJECT LOCK, MILOBEFORE The exact child of @MiloBefore — six, small and slight; round face; thick dark brown hair, cowlick at the crown; pale grey-blue eyes, long lashes; faint freckles; one lower front tooth missing. The green-and-navy striped top, coat off. ASLEEP against his mother's shoulder for the whole generation, mouth slightly open, slow sleeping breath lifting his back; he never wakes, never speaks, never opens his eyes. He never looks at the lens.
 
-CROSS-FRAME RULES @Restaurant is the same room and the same table as the previous generation, later in the evening — same dark green cloth under the same white paper top, same amber-and-brass lanterns with half of them now out, same fish tank, same window now fully fogged. The cleared plates and cups justify the passed time. The four seated people are the only people in frame from first frame to last: @Mei does not appear, no other diner appears, the room behind stays soft and unpeopled. The hand holding the chopstick is the same large clean hand with the thin steel band throughout. The wet traces persist and accumulate for the whole take and never resolve into a picture. Every face exact to its reference. Nobody looks at the lens. NO INVENTED ACTION: If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written above; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only). CONTINUITY LOCK above and the POSITIVE CONSTRAINTS below apply in full.
+CROSS-FRAME RULES @Restaurant is the same room and the same table as the previous generation, later in the evening — same dark green cloth under the same white paper top, same amber-and-brass lanterns with half of them now out, same fish tank, same window now fully fogged. The cleared plates and cups justify the passed time. The four seated people are the only people in frame from first frame to last: @Mei does not appear, no other diner appears, the room behind stays soft and unpeopled. The hand holding the chopstick is the same large clean hand with the thin steel band throughout. The wet traces persist and accumulate for the whole take and never resolve into a picture. Every face exact to its reference. Nobody looks at the lens. NO INVENTED ACTION: If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written above; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only). CONTINUITY LOCK above and the CONTINUITY — WHAT MUST NOT DRIFT
+Wardrobe, hair, dirt, damage and wear are exactly as the references define them and do not improve, clean themselves up or change between shots. Nobody is better groomed, better lit, better dressed or better rested than in the shot before. Props stay where the prop layout puts them. Weather, time of day and light level do not move inside a sequence. Nobody looks at the lens at any point.
+
+POSITIVE CONSTRAINTS below apply in full.
 
 LOCATION @Restaurant — the same small family-run restaurant, the room nearly empty: chairs pushed back at the other formica tables, their green cloths cleared; half the paper lanterns out, their globes gone dark, the lit ones aged cream paper over brass rings; the lacquered counter dim, its worn corner catching a last warm gleam; the beaded curtain to the kitchen hanging still; the fish tank's green at the far frame edge, its bubbles slow; the window fully fogged, the blue-black night behind it; the floor's worn path dull from door to counter. No red anywhere: no red lanterns, no red cloths, no red menus, no red aquarium decor. Nothing readable anywhere.
 
@@ -424,6 +473,9 @@ Naturalistic available-light cinematography. One motivated source only — morni
 FILM EMULATION — THE SAME STOCK FROM THE FIRST FRAME TO THE LAST
 Shot on Kodak Vision3 500T 5219 tungsten colour negative, one stock, one lab, for the entire film, rated at box speed and printed flat. Cool naturalistic colour science; shadows falling slightly blue-green and holding real separation and texture inside them; skin tones understated, never warmed up, never rosy. Gentle contrast, soft highlight roll-off, highlights restrained and never blown, a faint halation ring blooming around every practical source. Moderate fine grain that grows in the underexposed areas and breathes with the exposure. Not glossy, not digital, not warm. Daylight scenes are the same stock corrected with an 85 filter, never a different look.
 
+CAMERA REGISTER — ALIVE
+The camera is carried by a body, not mounted on one. It breathes with whoever holds it, drifts a centimetre or two and corrects, and reframes by small amounts as people move instead of waiting for them to arrive. It follows them. Never a shake, never a jolt, never a whip pan: this is the movement of somebody standing in the room with this family, watching them, close enough to be one of them. THE FRAME SETTLES AND COMES FULLY TO REST BEFORE THE LAST SECOND, so the final frame is clean and carries no motion blur.
+
 CAMERA — OPERATED, NOT SIMULATED
 One anamorphic lens set throughout: slight barrel distortion at the frame edges, oval out-of-focus highlights, mild edge softness, faint vignetting, vintage lens character. Focus is pulled by a human hand — it arrives a few frames late, occasionally overshoots by a hair and settles back, and breathes with the operator's pace. Every held frame keeps a residual human weight in it, a drift of a few millimetres: never a locked robotic stillness, never a shake. No digital sharpening, no edge halos, no noise-reduction smear, no beauty retouching, no plastic skin, no CGI gloss.
 
@@ -443,6 +495,7 @@ One continuous uncut take at real-time speed, for the exact duration requested. 
 AVOID
 a recognizable dragon, a readable drawing, a legible picture on the paper, a finished illustration, letters, legible handwriting, ink, an inkwell, a pen, a pencil, a brush, a second chopstick, ink stains on the fingers, the traces disappearing, the traces drying away, the paper being lifted, the boy waking, the boy speaking, the mother answering, any added line of dialogue, characters standing up, anyone leaving the table, other diners in frame, a server in frame, any red anywhere, red lanterns, red cloths, a red scarf, red aquarium decor, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, readable menus, readable signage, subjects looking at camera, visible camera rigs, a second camera move, pan, tilt, zoom, crash zoom, the camera pushing in, handheld shake, slow motion, morphing objects, extra people in frame, extra gestures, improvised actions, wandering hands, repositioned props, appearing or disappearing objects, posed smiles, sitcom lighting, theatrical acting, overacting, generated music, uncanny smoothness, plastic skin, beauty filter, CGI look, video-game lighting, underexposed frame, crushed blacks, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness.
 ```
+
 
 
 *⚠ **COUPE — 7 s sur 14 s, en UN seul morceau continu.** Garder **`[5.4s]` → `[12.4s]`** : la baguette qui
@@ -478,7 +531,7 @@ IMAGE 3) — 2B-1 = « You don't even know him. » + « Give and you shall recei
 
 **2. 2D — le recul de caméra.** Le seul mouvement de la séquence, et les modèles le confondent volontiers avec
 un zoom, le déclenchent trop tôt, ou l'accélèrent. *Plan B, à froid* : relancer le bloc **en locked-off pur** —
-supprimer la ligne `[9.8-13.4s]`, remplacer la ligne CAMERA par « locked off for the entire take », garder 12 s
+supprimer la ligne `[9.8-13.4s]`, remplacer la ligne CAMERA par « operated and breathing, held on the same frame for the entire take », garder 12 s
 — puis **fabriquer le recul en post** par un reframe progressif dans un master 4K. Le plan tient sans le recul :
 la coupe de secours `[5.4s]` → `[10.4s]` fait 5 s et contient déjà la réplique et le sourire.
 

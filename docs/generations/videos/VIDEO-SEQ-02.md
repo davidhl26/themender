@@ -378,7 +378,7 @@ IMAGE 3) — 2B-1 = « You don't even know him. » + « Give and you shall recei
 
 **2. 2D — le recul de caméra.** Le seul mouvement de la séquence, et les modèles le confondent volontiers avec
 un zoom, le déclenchent trop tôt, ou l'accélèrent. *Plan B, à froid* : relancer le bloc **en locked-off pur** —
-supprimer la ligne `[9.8-13.4s]`, remplacer la ligne CAMERA par « locked off for the entire take », garder 12 s
+supprimer la ligne `[9.8-13.4s]`, remplacer la ligne CAMERA par « operated and breathing, held on the same frame for the entire take », garder 12 s
 — puis **fabriquer le recul en post** par un reframe progressif dans un master 4K. Le plan tient sans le recul :
 la coupe de secours `[5.4s]` → `[10.4s]` fait 5 s et contient déjà la réplique et le sourire.
 
