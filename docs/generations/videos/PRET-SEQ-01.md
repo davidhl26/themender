@@ -8,6 +8,16 @@
 > Registre caméra de cette séquence : **ALIVE**.
 > Modèle **Seedance 2.5** · 21:9 · 1080p · bitrate **high** · sound off.
 > Source : `VIDEO-SEQ-01.md`.
+>
+> ⚠ **DEUX PIÈGES DE L'INTERFACE HIGGSFIELD** *(vérifiés le 02/09 sur un prompt réellement collé)* :
+> 1. **Ne jamais écrire `@Video 1` dans un prompt.** L'éditeur le parse comme une mention d'Élément et
+>    l'AVALE : la ligne se retrouve à commencer par un deux-points orphelin, et le modèle ne sait même
+>    plus qu'une vidéo est attachée. Les blocs disent désormais **THE VIDEO ATTACHED TO THIS
+>    GENERATION**, sans `@`. Si tu réécris un bloc à la main, garde cette formule.
+> 2. **Vérifie quel Élément l'éditeur a accroché.** En collant, il réécrit `@Kitchen` en
+>    `@[kitchen](840a3190…)` — et `840a3190` est le VIEUX kitchen bâti sur un ANGLE, pas sur le master.
+>    Deux plans qui n'appellent pas le même Élément ne sont pas dans le même décor.
+
 
 ## VIDÉO 1A — plan 1.2 « Je crois que j'ai brûlé les toasts » *(10 s de rushes → 9 s au montage · Elements : @SamBefore + @Maeve + @Kitchen · start frame : LIEU-01 IMAGE 2 `abf2d210`, ou la dernière frame de la vidéo des toasts)*
 
