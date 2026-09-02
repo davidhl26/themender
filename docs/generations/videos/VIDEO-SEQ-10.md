@@ -80,7 +80,7 @@ PERFORMANCE PACING Unhurried, naturalistic, lived-in performance throughout. Rea
 
 NATURAL MICRO-MOVEMENT Nobody is ever frozen, not for a single frame. Between and during the written actions, every character carries constant, very slow, very human micro-movement: breath visibly lifting the chest and shoulders, soft weight shifts of a few millimetres, small head drifts of a degree or two, fingers settling and resettling, eyes travelling a few millimetres and returning, blinks at natural intervals. This micro-life never adds gestures, steps, props or expressions — it is simply how a living body holds a position. Always slow and organic, never fidgety, never twitchy; no statue stillness, no freeze-frame, no mannequin pose.
 
-NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written below; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
+NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written in the FRAME MAP above; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
 
 CONTINUITY LOCK House, street, window and curtain identical in both shots. The door is unlatched and opens ONCE, inward, only under her hand. Nothing red exists outside the house.
 
@@ -136,7 +136,7 @@ PERFORMANCE PACING Unhurried, naturalistic, lived-in performance throughout. Rea
 
 NATURAL MICRO-MOVEMENT Nobody is ever frozen, not for a single frame. Between and during the written actions, every character carries constant, very slow, very human micro-movement: breath visibly lifting the chest and shoulders, soft weight shifts of a few millimetres, small head drifts of a degree or two, fingers settling and resettling, eyes travelling a few millimetres and returning, blinks at natural intervals. This micro-life never adds gestures, steps, props or expressions — it is simply how a living body holds a position. Always slow and organic, never fidgety, never twitchy; no statue stillness, no freeze-frame, no mannequin pose.
 
-NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written below; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
+NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written in the FRAME MAP above; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
 
 CONTINUITY LOCK Every object is in frame from [0.0s] and never moves. The bulb burns steadily, never switched, never swung. The writing covers the same band in every frame — skirting to a man's height, never above.
 
@@ -187,7 +187,7 @@ PERFORMANCE PACING Unhurried, naturalistic, lived-in performance throughout. Rea
 
 NATURAL MICRO-MOVEMENT Nobody is ever frozen, not for a single frame. Between and during the written actions, every character carries constant, very slow, very human micro-movement: breath visibly lifting the chest and shoulders, soft weight shifts of a few millimetres, small head drifts of a degree or two, fingers settling and resettling, eyes travelling a few millimetres and returning, blinks at natural intervals. This micro-life never adds gestures, steps, props or expressions — it is simply how a living body holds a position. Always slow and organic, never fidgety, never twitchy; no statue stillness, no freeze-frame, no mannequin pose.
 
-NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written below; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
+NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written in the FRAME MAP above; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
 
 CONTINUITY LOCK THE CLEAR PATCH OF PLASTER STAYS COMPLETELY EMPTY IN EVERY FRAME — no drawing, no figure, no animal, no creature, no mark of any kind is ever on it.
 
@@ -245,7 +245,7 @@ PERFORMANCE PACING Unhurried, naturalistic, lived-in performance throughout. Rea
 
 NATURAL MICRO-MOVEMENT Nobody is ever frozen, not for a single frame. Between and during the written actions, every character carries constant, very slow, very human micro-movement: breath visibly lifting the chest and shoulders, soft weight shifts of a few millimetres, small head drifts of a degree or two, fingers settling and resettling, eyes travelling a few millimetres and returning, blinks at natural intervals. This micro-life never adds gestures, steps, props or expressions — it is simply how a living body holds a position. Always slow and organic, never fidgety, never twitchy; no statue stillness, no freeze-frame, no mannequin pose.
 
-NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written below; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
+NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written in the FRAME MAP above; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
 
 CONTINUITY LOCK The rise is CONTINUOUS AND EVEN from [1.2s] to [6.5s], never reversing, never pulsing, never flickering.
 
@@ -294,7 +294,7 @@ PERFORMANCE PACING Unhurried, naturalistic, lived-in performance throughout. Rea
 
 NATURAL MICRO-MOVEMENT Nobody is ever frozen, not for a single frame. Between and during the written actions, every character carries constant, very slow, very human micro-movement: breath visibly lifting the chest and shoulders, soft weight shifts of a few millimetres, small head drifts of a degree or two, fingers settling and resettling, eyes travelling a few millimetres and returning, blinks at natural intervals. This micro-life never adds gestures, steps, props or expressions — it is simply how a living body holds a position. Always slow and organic, never fidgety, never twitchy; no statue stillness, no freeze-frame, no mannequin pose.
 
-NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written below; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
+NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written in the FRAME MAP above; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
 
 CONTINUITY LOCK Room, props and girl are exactly as the start frame left them and none of them moves.
 
@@ -343,7 +343,7 @@ PERFORMANCE PACING Unhurried, naturalistic, lived-in performance throughout. Rea
 
 NATURAL MICRO-MOVEMENT Nobody is ever frozen, not for a single frame. Between and during the written actions, every character carries constant, very slow, very human micro-movement: breath visibly lifting the chest and shoulders, soft weight shifts of a few millimetres, small head drifts of a degree or two, fingers settling and resettling, eyes travelling a few millimetres and returning, blinks at natural intervals. This micro-life never adds gestures, steps, props or expressions — it is simply how a living body holds a position. Always slow and organic, never fidgety, never twitchy; no statue stillness, no freeze-frame, no mannequin pose.
 
-NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written below; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
+NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written in the FRAME MAP above; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
 
 CONTINUITY LOCK Her jaw, once open at [3.4s], never closes again. ONE tear only, from the right eye; the left stays wet and never spills. The light on her never changes level.
 
@@ -395,7 +395,7 @@ PERFORMANCE PACING Unhurried, naturalistic, lived-in performance throughout. Rea
 
 NATURAL MICRO-MOVEMENT Nobody is ever frozen, not for a single frame. Between and during the written actions, every character carries constant, very slow, very human micro-movement: breath visibly lifting the chest and shoulders, soft weight shifts of a few millimetres, small head drifts of a degree or two, fingers settling and resettling, eyes travelling a few millimetres and returning, blinks at natural intervals. This micro-life never adds gestures, steps, props or expressions — it is simply how a living body holds a position. Always slow and organic, never fidgety, never twitchy; no statue stillness, no freeze-frame, no mannequin pose.
 
-NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written below; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
+NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written in the FRAME MAP above; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
 
 CONTINUITY LOCK Speed is CONSTANT from first frame to last: no ease-in, no ease-out, no acceleration — the cut points depend on it.
 
@@ -446,7 +446,7 @@ PERFORMANCE PACING Unhurried, naturalistic, lived-in performance throughout. Rea
 
 NATURAL MICRO-MOVEMENT Nobody is ever frozen, not for a single frame. Between and during the written actions, every character carries constant, very slow, very human micro-movement: breath visibly lifting the chest and shoulders, soft weight shifts of a few millimetres, small head drifts of a degree or two, fingers settling and resettling, eyes travelling a few millimetres and returning, blinks at natural intervals. This micro-life never adds gestures, steps, props or expressions — it is simply how a living body holds a position. Always slow and organic, never fidgety, never twitchy; no statue stillness, no freeze-frame, no mannequin pose.
 
-NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written below; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
+NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written in the FRAME MAP above; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
 
 CONTINUITY LOCK Speed and rate of climb are CONSTANT from first frame to last — no ease, no acceleration.
 
@@ -495,7 +495,7 @@ PERFORMANCE PACING Unhurried, naturalistic, lived-in performance throughout. Rea
 
 NATURAL MICRO-MOVEMENT Nobody is ever frozen, not for a single frame. Between and during the written actions, every character carries constant, very slow, very human micro-movement: breath visibly lifting the chest and shoulders, soft weight shifts of a few millimetres, small head drifts of a degree or two, fingers settling and resettling, eyes travelling a few millimetres and returning, blinks at natural intervals. This micro-life never adds gestures, steps, props or expressions — it is simply how a living body holds a position. Always slow and organic, never fidgety, never twitchy; no statue stillness, no freeze-frame, no mannequin pose.
 
-NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written below; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
+NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written in the FRAME MAP above; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
 
 CONTINUITY LOCK The climb is CONSTANT from first frame to last — no ease, no acceleration, no hover.
 
@@ -544,7 +544,7 @@ PERFORMANCE PACING Unhurried, naturalistic, lived-in performance throughout. Rea
 
 NATURAL MICRO-MOVEMENT Nobody is ever frozen, not for a single frame. Between and during the written actions, every character carries constant, very slow, very human micro-movement: breath visibly lifting the chest and shoulders, soft weight shifts of a few millimetres, small head drifts of a degree or two, fingers settling and resettling, eyes travelling a few millimetres and returning, blinks at natural intervals. This micro-life never adds gestures, steps, props or expressions — it is simply how a living body holds a position. Always slow and organic, never fidgety, never twitchy; no statue stillness, no freeze-frame, no mannequin pose.
 
-NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written below; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
+NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written in the FRAME MAP above; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
 
 CONTINUITY LOCK The descent is CONSTANT and decelerates only in the last second, stopping completely by the final frame.
 
@@ -675,7 +675,7 @@ PERFORMANCE PACING Unhurried, naturalistic, lived-in performance throughout. Rea
 
 NATURAL MICRO-MOVEMENT Nobody is ever frozen, not for a single frame. Between and during the written actions, every character carries constant, very slow, very human micro-movement: breath visibly lifting the chest and shoulders, soft weight shifts of a few millimetres, small head drifts of a degree or two, fingers settling and resettling, eyes travelling a few millimetres and returning, blinks at natural intervals. This micro-life never adds gestures, steps, props or expressions — it is simply how a living body holds a position. Always slow and organic, never fidgety, never twitchy; no statue stillness, no freeze-frame, no mannequin pose.
 
-NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written below; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
+NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written in the FRAME MAP above; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
 
 CONTINUITY LOCK Every prop named in the layout appears in EVERY shot where its surface is visible, in the same position and state — nothing appears, disappears, multiplies or moves unless the choreography says so. Each character's posture is stated at the top of every shot and never changes off-screen. THE PACKET IS NEVER OPENED, unwrapped or eaten from here.
 
@@ -745,7 +745,7 @@ PERFORMANCE PACING Unhurried, naturalistic, lived-in performance throughout. Rea
 
 NATURAL MICRO-MOVEMENT Nobody is ever frozen, not for a single frame. Between and during the written actions, every character carries constant, very slow, very human micro-movement: breath visibly lifting the chest and shoulders, soft weight shifts of a few millimetres, small head drifts of a degree or two, fingers settling and resettling, eyes travelling a few millimetres and returning, blinks at natural intervals. This micro-life never adds gestures, steps, props or expressions — it is simply how a living body holds a position. Always slow and organic, never fidgety, never twitchy; no statue stillness, no freeze-frame, no mannequin pose.
 
-NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written below; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
+NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written in the FRAME MAP above; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
 
 CONTINUITY LOCK Every prop named in the layout appears in EVERY shot where its surface is visible, in the same position and state — nothing appears, disappears, multiplies or moves unless the choreography says so. Each character's posture is stated at the top of every shot and never changes off-screen. THE COAT IS NEVER AN OBJECT IN THIS HOUSE: a flat worked surface on a table in shot 2, a moving back in shot 4, nowhere else — never on a hook, never folded, never hanging, never in shots 1 or 3.
 
@@ -829,7 +829,7 @@ PERFORMANCE PACING Unhurried, naturalistic, lived-in performance throughout. Rea
 
 NATURAL MICRO-MOVEMENT Nobody is ever frozen, not for a single frame. Between and during the written actions, every character carries constant, very slow, very human micro-movement: breath visibly lifting the chest and shoulders, soft weight shifts of a few millimetres, small head drifts of a degree or two, fingers settling and resettling, eyes travelling a few millimetres and returning, blinks at natural intervals. This micro-life never adds gestures, steps, props or expressions — it is simply how a living body holds a position. Always slow and organic, never fidgety, never twitchy; no statue stillness, no freeze-frame, no mannequin pose.
 
-NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written below; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
+NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written in the FRAME MAP above; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
 
 CONTINUITY LOCK Every prop named in the layout appears in EVERY shot where its surface is visible, in the same position and state — nothing appears, disappears, multiplies or moves unless the choreography says so. Each character's posture is stated at the top of every shot and never changes off-screen. NO SURFACE EVER EMITS LIGHT WHILE THE BULB IS ON: the glow exists only after the switch goes down.
 
@@ -918,7 +918,7 @@ PERFORMANCE PACING Unhurried, naturalistic, lived-in performance throughout. Rea
 
 NATURAL MICRO-MOVEMENT Nobody is ever frozen, not for a single frame. Between and during the written actions, every character carries constant, very slow, very human micro-movement: breath visibly lifting the chest and shoulders, soft weight shifts of a few millimetres, small head drifts of a degree or two, fingers settling and resettling, eyes travelling a few millimetres and returning, blinks at natural intervals. This micro-life never adds gestures, steps, props or expressions — it is simply how a living body holds a position. Always slow and organic, never fidgety, never twitchy; no statue stillness, no freeze-frame, no mannequin pose.
 
-NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written below; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
+NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written in the FRAME MAP above; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
 
 CONTINUITY LOCK Every prop named in the layout keeps the same position and state; nothing appears, disappears, multiplies or moves unless the choreography says so. Each character's posture is stated at the top of the shot and never changes. HER TWO HANDS, ONCE ON HIS FACE AT [1.8s], NEVER LEAVE IT AND NEVER COME DOWN, to the last frame.
 
@@ -989,7 +989,7 @@ PERFORMANCE PACING Unhurried, naturalistic, lived-in performance throughout. Rea
 
 NATURAL MICRO-MOVEMENT Nobody is ever frozen, not for a single frame. Between and during the written actions, every character carries constant, very slow, very human micro-movement: breath visibly lifting the chest and shoulders, soft weight shifts of a few millimetres, small head drifts of a degree or two, fingers settling and resettling, eyes travelling a few millimetres and returning, blinks at natural intervals. This micro-life never adds gestures, steps, props or expressions — it is simply how a living body holds a position. Always slow and organic, never fidgety, never twitchy; no statue stillness, no freeze-frame, no mannequin pose.
 
-NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written below; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
+NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written in the FRAME MAP above; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
 
 CONTINUITY LOCK Every prop named in the layout keeps the same position and state; nothing appears, disappears or moves unless the choreography says so. His posture (SEATED) never changes. THE BEANIE IS NEVER DROPPED, never thrown, never set down: it stays shut in his left fist on his knee from the first frame to the last.
 

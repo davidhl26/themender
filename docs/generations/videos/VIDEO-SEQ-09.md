@@ -71,7 +71,7 @@ NATURAL MICRO-MOVEMENT Nobody is ever frozen, not for a single frame. Between an
 
 MICRO-MOVEMENT ON A HIDDEN FACE Because the vagrant's eyes are never visible, his micro-life must read entirely in what IS visible: the breath lifting the chest and shoulders, the steam of each exhalation, the beard shifting over the jaw below the hood's edge, the lips parting and settling, small drifts of the chin of a degree or two, the fingers settling on the blanket. The camera NEVER rises or pushes in to find his eyes in order to show that he is alive.
 
-NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written below; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
+NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written in the FRAME MAP above; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
 
 CONTINUITY LOCK Every prop named in the layout appears in EVERY shot where its surface is visible, in the same position and state — nothing appears, disappears, multiplies or moves unless the choreography says so. Each character's posture (SEATED or STANDING) is stated at the top of every shot and never changes off-screen. A character holds exactly the object the choreography puts in their hand — no other utensil or object may materialise.
 
@@ -136,7 +136,7 @@ NATURAL MICRO-MOVEMENT Nobody is ever frozen, not for a single frame. Between an
 
 MICRO-MOVEMENT ON A CROPPED FACE Because the vagrant's eyes are never in frame, his micro-life must read entirely in what IS in frame: the breath lifting the chest and shoulders, the steam of each exhalation, the beard shifting over the jaw, the lips parting and settling, small drifts of the chin of a degree or two, the fingers settling on the blanket. The frame NEVER rises to find his eyes in order to show that he is alive.
 
-NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written below; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
+NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written in the FRAME MAP above; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
 
 CONTINUITY LOCK Every prop named in the layout appears in EVERY shot where its surface is visible, in the same position and state — nothing appears, disappears, multiplies or moves unless the choreography says so. Each character's posture (SEATED or STANDING) is stated at the top of every shot and never changes off-screen. A character holds exactly the object the choreography puts in their hand — no other utensil or object may materialise.
 
@@ -223,7 +223,7 @@ NATURAL MICRO-MOVEMENT Nobody is ever frozen, not for a single frame. Between an
 
 MICRO-MOVEMENT ON A CROPPED FACE Because the vagrant's eyes are never in frame, his micro-life must read entirely in what IS in frame: the breath lifting the chest and shoulders, the steam of each exhalation, the beard shifting over the jaw, the lips parting and settling, small drifts of the chin of a degree or two, the fingers settling on the blanket. The frame NEVER rises to find his eyes in order to show that he is alive.
 
-NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written below; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
+NO INVENTED ACTION If a body part is not described as moving, it does not move. No gesture, step, head turn, prop interaction or expression change beyond the choreography written in the FRAME MAP above; between described movements every body holds its last described position naturally (breathing, blinking, micro-sway only).
 
 CONTINUITY LOCK Every prop named in the layout appears in EVERY shot where its surface is visible, in the same position and state — nothing appears, disappears, multiplies or moves unless the choreography says so. Each character's posture (SEATED or STANDING) is stated at the top of every shot and never changes off-screen. A character holds exactly the object the choreography puts in their hand — no other utensil or object may materialise.
 

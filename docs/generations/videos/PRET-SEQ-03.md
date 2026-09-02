@@ -721,7 +721,7 @@ LAST FRAME The empty plastic chair, centred, in the dim green-grey corridor — 
 
 CHARACTER PERFORMANCE
 Nobody performs an emotion here. The feeling is legible only through the exact physical events written in the choreography above, and through nothing else: no added expression, no widened eyes, no trembling lip, no theatrical breath. What is not written does not happen. Between the written events every body simply holds its last position, breathing, blinking and drifting a few millimetres, never frozen and never fidgeting.
-Segment 1: @NoraBefore is STANDING throughout, then walks out of frame — the only walking in the block, written below; her right hand is a closed fist from the first frame to the last and never opens. Segment 2: no person is ever in frame; only the right hand and forearm of @SamBefore enter and leave. Nobody else exists in either segment.
+Segment 1: @NoraBefore is STANDING throughout, then walks out of frame — the only walking in the block, written in the FRAME MAP above; her right hand is a closed fist from the first frame to the last and never opens. Segment 2: no person is ever in frame; only the right hand and forearm of @SamBefore enter and leave. Nobody else exists in either segment.
 
 PHYSICS — WEIGHT, INERTIA, CONTACT
 Everything in frame has mass and obeys it. A body starts and stops with its own weight: it settles into a position rather than snapping into it, and a limb leads while the torso follows a beat later. Feet take the ground with real contact and real friction — on wet stone a step is slightly damped, never sliding, never skating. Clothing lags behind the body that moves it, keeps its own folds and swings back late; hair moves a beat behind the head and comes to rest slowly.
