@@ -91,6 +91,9 @@ PHYSICS — WEIGHT, INERTIA, CONTACT
 Everything in frame has mass and obeys it. A body starts and stops with its own weight: it settles into a position rather than snapping into it, and a limb leads while the torso follows a beat later. Feet take the ground with real contact and real friction — on wet stone a step is slightly damped, never sliding, never skating. Clothing lags behind the body that moves it, keeps its own folds and swings back late; hair moves a beat behind the head and comes to rest slowly.
 Objects have the mass their material implies. A wooden door swings on its hinges at the speed its own weight allows: it starts slowly, gathers a little, and is slowed at the end by its own friction and the resistance of the hinge — it never floats, never snaps open, never accelerates on its own, and it never moves before something moves it. Hands deform what they touch: fingers flatten slightly against a hard surface, fabric compresses under a grip, a held object presses back. Nothing passes through anything. Nothing changes speed without a cause visible in the frame.
 
+WORLD — AFTER
+A grey-blue world, gently underexposed, roughly two thirds of a stop below normal. Sparse motivated sources only — one bulb, one window, one sodium lamp — and deep quiet blacks between them. Colour is drained but not absent: what survives is amber from a flame, sodium orange from a street, sea-green from tile. Never a saturated hue. No red anywhere, flames included.
+
 CINEMATOGRAPHY
 Naturalistic available-light cinematography in the raw realist tradition. One motivated source at a time and no fill — a single bulb, a single window, a distant sodium lamp — with deep quiet blacks between them. Deliberately underexposed, roughly two thirds of a stop below normal, protecting the shadows and keeping real separation and texture inside them. Highlights restrained, never blown, holding texture in the filament and the wet stone. Low gentle contrast. Muted desaturated true-to-life colour: what survives is amber from a flame, sodium orange from a street, sea-green from tile — never a saturated hue, and never red.
 
@@ -119,6 +122,7 @@ One continuous uncut take at real-time speed, for the exact duration requested. 
 AVOID
 readable text on the screen, legible letters, words, digits or interface on the screen, characters of any alphabet on the screen, a cursor, an icon, a photograph, a map, a drawing or an image on the screen, a browser window or menu bar, a notification popup, screen content reflected legibly in her eyes or in the window glass, a second scroll, the screen drifting or reframing, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, a second person, a silhouette in the doorway, a figure in the window, a reflection of anyone else, a long written coat, any coated figure, subjects looking at camera, visible camera rigs, camera movement, dolly, pan, zoom, handheld shake, slow motion, morphing objects, extra people in frame, extra gestures, improvised actions, wandering hands, typing on a keyboard, repositioned props, appearing or disappearing objects, warm lamps, tidy room, any red anywhere, a red charging LED, glamorous styling, posed expression, theatrical acting, overacting, rushed movements, uncanny smoothness, plastic skin, beauty filter, CGI look, video-game lighting, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness, generated music.
 ```
+
 
 
 
@@ -207,6 +211,9 @@ PHYSICS — WEIGHT, INERTIA, CONTACT
 Everything in frame has mass and obeys it. A body starts and stops with its own weight: it settles into a position rather than snapping into it, and a limb leads while the torso follows a beat later. Feet take the ground with real contact and real friction — on wet stone a step is slightly damped, never sliding, never skating. Clothing lags behind the body that moves it, keeps its own folds and swings back late; hair moves a beat behind the head and comes to rest slowly.
 Objects have the mass their material implies. A wooden door swings on its hinges at the speed its own weight allows: it starts slowly, gathers a little, and is slowed at the end by its own friction and the resistance of the hinge — it never floats, never snaps open, never accelerates on its own, and it never moves before something moves it. Hands deform what they touch: fingers flatten slightly against a hard surface, fabric compresses under a grip, a held object presses back. Nothing passes through anything. Nothing changes speed without a cause visible in the frame.
 
+WORLD — AFTER
+A grey-blue world, gently underexposed, roughly two thirds of a stop below normal. Sparse motivated sources only — one bulb, one window, one sodium lamp — and deep quiet blacks between them. Colour is drained but not absent: what survives is amber from a flame, sodium orange from a street, sea-green from tile. Never a saturated hue. No red anywhere, flames included.
+
 CINEMATOGRAPHY
 Naturalistic available-light cinematography in the raw realist tradition. One motivated source at a time and no fill — a single bulb, a single window, a distant sodium lamp — with deep quiet blacks between them. Deliberately underexposed, roughly two thirds of a stop below normal, protecting the shadows and keeping real separation and texture inside them. Highlights restrained, never blown, holding texture in the filament and the wet stone. Low gentle contrast. Muted desaturated true-to-life colour: what survives is amber from a flame, sodium orange from a street, sea-green from tile — never a saturated hue, and never red.
 
@@ -235,6 +242,7 @@ One continuous uncut take at real-time speed, for the exact duration requested. 
 AVOID
 readable text on the screen, legible letters, words, digits or interface on the screen, characters of any alphabet on the screen, a cursor, an icon, a photograph, a map, a drawing or an image on the screen, a browser window or menu bar, a notification popup, a second scroll, the screen drifting or reframing, screen flicker bands, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, a person, a hand, a shoulder, a reflection of anyone, a long written coat, any coated figure, subjects looking at camera, visible camera rigs, camera movement, dolly, pan, zoom, handheld shake, slow motion, morphing objects, extra people in frame, extra gestures, improvised actions, repositioned props, appearing or disappearing objects, warm lamps, any red anywhere, a red charging LED, uncanny smoothness, plastic skin, beauty filter, CGI look, video-game lighting, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness, generated music.
 ```
+
 
 
 
@@ -323,6 +331,9 @@ PHYSICS — WEIGHT, INERTIA, CONTACT
 Everything in frame has mass and obeys it. A body starts and stops with its own weight: it settles into a position rather than snapping into it, and a limb leads while the torso follows a beat later. Feet take the ground with real contact and real friction — on wet stone a step is slightly damped, never sliding, never skating. Clothing lags behind the body that moves it, keeps its own folds and swings back late; hair moves a beat behind the head and comes to rest slowly.
 Objects have the mass their material implies. A wooden door swings on its hinges at the speed its own weight allows: it starts slowly, gathers a little, and is slowed at the end by its own friction and the resistance of the hinge — it never floats, never snaps open, never accelerates on its own, and it never moves before something moves it. Hands deform what they touch: fingers flatten slightly against a hard surface, fabric compresses under a grip, a held object presses back. Nothing passes through anything. Nothing changes speed without a cause visible in the frame.
 
+WORLD — AFTER
+A grey-blue world, gently underexposed, roughly two thirds of a stop below normal. Sparse motivated sources only — one bulb, one window, one sodium lamp — and deep quiet blacks between them. Colour is drained but not absent: what survives is amber from a flame, sodium orange from a street, sea-green from tile. Never a saturated hue. No red anywhere, flames included.
+
 CINEMATOGRAPHY
 Naturalistic available-light cinematography in the raw realist tradition. One motivated source at a time and no fill — a single bulb, a single window, a distant sodium lamp — with deep quiet blacks between them. Deliberately underexposed, roughly two thirds of a stop below normal, protecting the shadows and keeping real separation and texture inside them. Highlights restrained, never blown, holding texture in the filament and the wet stone. Low gentle contrast. Muted desaturated true-to-life colour: what survives is amber from a flame, sodium orange from a street, sea-green from tile — never a saturated hue, and never red.
 
@@ -351,6 +362,7 @@ One continuous uncut take at real-time speed, for the exact duration requested. 
 AVOID
 a second person, a man, any figure or silhouette in any window, doorway or yard, a lit kitchen window framed directly, an insert of a window, a window lighting up or going dark, a curtain moving, a door opening, camera movement, camera tilt, camera pan, push-in toward any window, drift, any red anywhere, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, subjects looking at camera, visible camera rigs, slow motion, rain, thunder, an answering voice, reverb or echo on the voice, an amplified or processed voice, extra people in frame, extra gestures, improvised actions, wandering hands, laundry on the line, warm light on her face, a long written coat, any coated figure, theatrical acting, overacting, screaming, sobbing, rushed movements, uncanny smoothness, plastic skin, beauty filter, CGI look, video-game lighting, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness, generated music.
 ```
+
 
 
 
@@ -436,6 +448,9 @@ PHYSICS — WEIGHT, INERTIA, CONTACT
 Everything in frame has mass and obeys it. A body starts and stops with its own weight: it settles into a position rather than snapping into it, and a limb leads while the torso follows a beat later. Feet take the ground with real contact and real friction — on wet stone a step is slightly damped, never sliding, never skating. Clothing lags behind the body that moves it, keeps its own folds and swings back late; hair moves a beat behind the head and comes to rest slowly.
 Objects have the mass their material implies. A wooden door swings on its hinges at the speed its own weight allows: it starts slowly, gathers a little, and is slowed at the end by its own friction and the resistance of the hinge — it never floats, never snaps open, never accelerates on its own, and it never moves before something moves it. Hands deform what they touch: fingers flatten slightly against a hard surface, fabric compresses under a grip, a held object presses back. Nothing passes through anything. Nothing changes speed without a cause visible in the frame.
 
+WORLD — AFTER
+A grey-blue world, gently underexposed, roughly two thirds of a stop below normal. Sparse motivated sources only — one bulb, one window, one sodium lamp — and deep quiet blacks between them. Colour is drained but not absent: what survives is amber from a flame, sodium orange from a street, sea-green from tile. Never a saturated hue. No red anywhere, flames included.
+
 CINEMATOGRAPHY
 Naturalistic available-light cinematography in the raw realist tradition. One motivated source at a time and no fill — a single bulb, a single window, a distant sodium lamp — with deep quiet blacks between them. Deliberately underexposed, roughly two thirds of a stop below normal, protecting the shadows and keeping real separation and texture inside them. Highlights restrained, never blown, holding texture in the filament and the wet stone. Low gentle contrast. Muted desaturated true-to-life colour: what survives is amber from a flame, sodium orange from a street, sea-green from tile — never a saturated hue, and never red.
 
@@ -464,6 +479,7 @@ One continuous uncut take at real-time speed, for the exact duration requested. 
 AVOID
 a second person, a man, any figure or silhouette anywhere, a window in frame, a door in frame, a lit rectangle of light in frame, a window lighting up or going dark, a curtain moving, camera movement, camera tilt, camera pan, drift, any red anywhere, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, subjects looking at camera, visible camera rigs, slow motion, rain, thunder, an answering voice, reverb or echo on the voice, an amplified or processed voice, extra people in frame, extra gestures, improvised actions, wandering hands, laundry on the line, warm light on her face, a long written coat, any coated figure, theatrical acting, overacting, screaming, sobbing, rushed movements, uncanny smoothness, plastic skin, beauty filter, CGI look, video-game lighting, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness, generated music.
 ```
+
 
 
 
@@ -550,6 +566,9 @@ PHYSICS — WEIGHT, INERTIA, CONTACT
 Everything in frame has mass and obeys it. A body starts and stops with its own weight: it settles into a position rather than snapping into it, and a limb leads while the torso follows a beat later. Feet take the ground with real contact and real friction — on wet stone a step is slightly damped, never sliding, never skating. Clothing lags behind the body that moves it, keeps its own folds and swings back late; hair moves a beat behind the head and comes to rest slowly.
 Objects have the mass their material implies. A wooden door swings on its hinges at the speed its own weight allows: it starts slowly, gathers a little, and is slowed at the end by its own friction and the resistance of the hinge — it never floats, never snaps open, never accelerates on its own, and it never moves before something moves it. Hands deform what they touch: fingers flatten slightly against a hard surface, fabric compresses under a grip, a held object presses back. Nothing passes through anything. Nothing changes speed without a cause visible in the frame.
 
+WORLD — AFTER
+A grey-blue world, gently underexposed, roughly two thirds of a stop below normal. Sparse motivated sources only — one bulb, one window, one sodium lamp — and deep quiet blacks between them. Colour is drained but not absent: what survives is amber from a flame, sodium orange from a street, sea-green from tile. Never a saturated hue. No red anywhere, flames included.
+
 CINEMATOGRAPHY
 Naturalistic available-light cinematography in the raw realist tradition. One motivated source at a time and no fill — a single bulb, a single window, a distant sodium lamp — with deep quiet blacks between them. Deliberately underexposed, roughly two thirds of a stop below normal, protecting the shadows and keeping real separation and texture inside them. Highlights restrained, never blown, holding texture in the filament and the wet stone. Low gentle contrast. Muted desaturated true-to-life colour: what survives is amber from a flame, sodium orange from a street, sea-green from tile — never a saturated hue, and never red.
 
@@ -578,6 +597,7 @@ One continuous uncut take at real-time speed, for the exact duration requested. 
 AVOID
 the man's face visible, the man's eyes, the man's profile lit, any light on the man's face or body, a rim of light on his cheek, a readable expression on the man, the man stepping forward, the man reaching for the door, the man turning away, the man going down the stairs, the door slamming, the door reopening, the girl opening the door wider, the girl leaning out, the girl fully visible, the girl asking a question, the girl saying a name, the girl frowning, a doubtful or suspicious look, a third person, a silhouette on the stairs, a shape at the bottom of the stairwell, a long written coat, any coated figure, a coat on a hook, any red anywhere, a second light source, a lamp switching on, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, subjects looking at camera, visible camera rigs, camera movement, dolly, pan, zoom, handheld shake, slow motion, morphing objects, extra people in frame, extra gestures, improvised actions, wandering hands, repositioned props, appearing or disappearing objects, footsteps walking away, hurried dialogue, characters answering instantly, theatrical acting, overacting, warm lamps, uncanny smoothness, plastic skin, beauty filter, CGI look, video-game lighting, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness, generated music.
 ```
+
 
 
 

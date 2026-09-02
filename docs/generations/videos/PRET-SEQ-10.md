@@ -83,6 +83,9 @@ PHYSICS — WEIGHT, INERTIA, CONTACT
 Everything in frame has mass and obeys it. A body starts and stops with its own weight: it settles into a position rather than snapping into it, and a limb leads while the torso follows a beat later. Feet take the ground with real contact and real friction — on wet stone a step is slightly damped, never sliding, never skating. Clothing lags behind the body that moves it, keeps its own folds and swings back late; hair moves a beat behind the head and comes to rest slowly.
 Objects have the mass their material implies. A wooden door swings on its hinges at the speed its own weight allows: it starts slowly, gathers a little, and is slowed at the end by its own friction and the resistance of the hinge — it never floats, never snaps open, never accelerates on its own, and it never moves before something moves it. Hands deform what they touch: fingers flatten slightly against a hard surface, fabric compresses under a grip, a held object presses back. Nothing passes through anything. Nothing changes speed without a cause visible in the frame.
 
+WORLD — THE RED HOUSE
+The only place in the film where red is allowed, and here it is the whole place. Outside: a red door in a grey street. Inside, once the bulb is out, there is no light source at all — the room is lit by nothing but its own writing, every stroke glowing faintly from within, low and even, the colour of embers under ash, far too dim and too soft for any stroke to be read. Never bright red, never neon, never a magic glow. The writing is real handwriting laid out in straight horizontal lines — word-shaped clusters separated by spaces, gathered into sentences and paragraphs — in an invented cursive alphabet whose characters recur again and again the way a real alphabet's do. Unmistakably a script, but no script that exists on earth, and not one word readable in any language: it reads as writing from across the room and as nothing at all up close. Never random scribble, never a scrawl, never abstract mark-making, never decorative squiggles.
+
 CINEMATOGRAPHY
 Naturalistic available-light cinematography. Outside: one distant sodium lamp and one warm filament bulb behind a curtain, everything else falling into wet black. Inside, once the bulb is out, there is no source at all — the room is lit by nothing but its own writing, every stroke glowing faintly from within, low and even, the colour of embers under ash, far too dim and too soft for any stroke to be read. Deliberately underexposed throughout, protecting the shadows and holding texture inside them. Never bright red, never neon, never a magic glow.
 
@@ -111,6 +114,7 @@ One continuous uncut take at real-time speed, for the exact duration requested. 
 AVOID
 a paraffin flame, a flickering flame, candlelight, knocking, a doorbell, a second person, any red outside the house, red on the girl, the door opening before her hand touches it, readable words, legible handwriting, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, logos, other people, subjects looking at camera, handheld shake, slow motion, appearing or disappearing objects, magical sparkle, particles, HDR glow, overacting, generated music, CGI look, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness
 ```
+
 
 
 
@@ -186,6 +190,9 @@ PHYSICS — WEIGHT, INERTIA, CONTACT
 Everything in frame has mass and obeys it. A body starts and stops with its own weight: it settles into a position rather than snapping into it, and a limb leads while the torso follows a beat later. Feet take the ground with real contact and real friction — on wet stone a step is slightly damped, never sliding, never skating. Clothing lags behind the body that moves it, keeps its own folds and swings back late; hair moves a beat behind the head and comes to rest slowly.
 Objects have the mass their material implies. A wooden door swings on its hinges at the speed its own weight allows: it starts slowly, gathers a little, and is slowed at the end by its own friction and the resistance of the hinge — it never floats, never snaps open, never accelerates on its own, and it never moves before something moves it. Hands deform what they touch: fingers flatten slightly against a hard surface, fabric compresses under a grip, a held object presses back. Nothing passes through anything. Nothing changes speed without a cause visible in the frame.
 
+WORLD — THE RED HOUSE
+The only place in the film where red is allowed, and here it is the whole place. Outside: a red door in a grey street. Inside, once the bulb is out, there is no light source at all — the room is lit by nothing but its own writing, every stroke glowing faintly from within, low and even, the colour of embers under ash, far too dim and too soft for any stroke to be read. Never bright red, never neon, never a magic glow. The writing is real handwriting laid out in straight horizontal lines — word-shaped clusters separated by spaces, gathered into sentences and paragraphs — in an invented cursive alphabet whose characters recur again and again the way a real alphabet's do. Unmistakably a script, but no script that exists on earth, and not one word readable in any language: it reads as writing from across the room and as nothing at all up close. Never random scribble, never a scrawl, never abstract mark-making, never decorative squiggles.
+
 CINEMATOGRAPHY
 Naturalistic available-light cinematography. Outside: one distant sodium lamp and one warm filament bulb behind a curtain, everything else falling into wet black. Inside, once the bulb is out, there is no source at all — the room is lit by nothing but its own writing, every stroke glowing faintly from within, low and even, the colour of embers under ash, far too dim and too soft for any stroke to be read. Deliberately underexposed throughout, protecting the shadows and holding texture inside them. Never bright red, never neon, never a magic glow.
 
@@ -214,6 +221,7 @@ One continuous uncut take at real-time speed, for the exact duration requested. 
 AVOID
 paint pots absent, brushes absent, ladder absent, mattress absent, a clean room, a paraffin lamp, candles, writing above a man's height, writing on the ceiling, glowing walls, the bulb switched off, readable words, legible handwriting, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, logos, other people, subjects looking at camera, handheld shake, slow motion, appearing or disappearing objects, magical sparkle, particles, HDR glow, overacting, generated music, CGI look, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness
 ```
+
 
 
 
@@ -296,6 +304,9 @@ PHYSICS — WEIGHT, INERTIA, CONTACT
 Everything in frame has mass and obeys it. A body starts and stops with its own weight: it settles into a position rather than snapping into it, and a limb leads while the torso follows a beat later. Feet take the ground with real contact and real friction — on wet stone a step is slightly damped, never sliding, never skating. Clothing lags behind the body that moves it, keeps its own folds and swings back late; hair moves a beat behind the head and comes to rest slowly.
 Objects have the mass their material implies. A wooden door swings on its hinges at the speed its own weight allows: it starts slowly, gathers a little, and is slowed at the end by its own friction and the resistance of the hinge — it never floats, never snaps open, never accelerates on its own, and it never moves before something moves it. Hands deform what they touch: fingers flatten slightly against a hard surface, fabric compresses under a grip, a held object presses back. Nothing passes through anything. Nothing changes speed without a cause visible in the frame.
 
+WORLD — THE RED HOUSE
+The only place in the film where red is allowed, and here it is the whole place. Outside: a red door in a grey street. Inside, once the bulb is out, there is no light source at all — the room is lit by nothing but its own writing, every stroke glowing faintly from within, low and even, the colour of embers under ash, far too dim and too soft for any stroke to be read. Never bright red, never neon, never a magic glow. The writing is real handwriting laid out in straight horizontal lines — word-shaped clusters separated by spaces, gathered into sentences and paragraphs — in an invented cursive alphabet whose characters recur again and again the way a real alphabet's do. Unmistakably a script, but no script that exists on earth, and not one word readable in any language: it reads as writing from across the room and as nothing at all up close. Never random scribble, never a scrawl, never abstract mark-making, never decorative squiggles.
+
 CINEMATOGRAPHY
 Naturalistic available-light cinematography. Outside: one distant sodium lamp and one warm filament bulb behind a curtain, everything else falling into wet black. Inside, once the bulb is out, there is no source at all — the room is lit by nothing but its own writing, every stroke glowing faintly from within, low and even, the colour of embers under ash, far too dim and too soft for any stroke to be read. Deliberately underexposed throughout, protecting the shadows and holding texture inside them. Never bright red, never neon, never a magic glow.
 
@@ -324,6 +335,7 @@ One continuous uncut take at real-time speed, for the exact duration requested. 
 AVOID
 a drawing on the plaster, a dragon, an animal, a creature, any figure on the wall, marks on the clear patch, the girl touching the wall, a frown, recognition, the bulb lit after the click, residual glow after the click, readable words, legible handwriting, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, logos, other people, subjects looking at camera, handheld shake, slow motion, appearing or disappearing objects, magical sparkle, particles, HDR glow, overacting, generated music, CGI look, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness
 ```
+
 
 
 
@@ -398,6 +410,9 @@ PHYSICS — WEIGHT, INERTIA, CONTACT
 Everything in frame has mass and obeys it. A body starts and stops with its own weight: it settles into a position rather than snapping into it, and a limb leads while the torso follows a beat later. Feet take the ground with real contact and real friction — on wet stone a step is slightly damped, never sliding, never skating. Clothing lags behind the body that moves it, keeps its own folds and swings back late; hair moves a beat behind the head and comes to rest slowly.
 Objects have the mass their material implies. A wooden door swings on its hinges at the speed its own weight allows: it starts slowly, gathers a little, and is slowed at the end by its own friction and the resistance of the hinge — it never floats, never snaps open, never accelerates on its own, and it never moves before something moves it. Hands deform what they touch: fingers flatten slightly against a hard surface, fabric compresses under a grip, a held object presses back. Nothing passes through anything. Nothing changes speed without a cause visible in the frame.
 
+WORLD — THE RED HOUSE
+The only place in the film where red is allowed, and here it is the whole place. Outside: a red door in a grey street. Inside, once the bulb is out, there is no light source at all — the room is lit by nothing but its own writing, every stroke glowing faintly from within, low and even, the colour of embers under ash, far too dim and too soft for any stroke to be read. Never bright red, never neon, never a magic glow. The writing is real handwriting laid out in straight horizontal lines — word-shaped clusters separated by spaces, gathered into sentences and paragraphs — in an invented cursive alphabet whose characters recur again and again the way a real alphabet's do. Unmistakably a script, but no script that exists on earth, and not one word readable in any language: it reads as writing from across the room and as nothing at all up close. Never random scribble, never a scrawl, never abstract mark-making, never decorative squiggles.
+
 CINEMATOGRAPHY
 Naturalistic available-light cinematography. Outside: one distant sodium lamp and one warm filament bulb behind a curtain, everything else falling into wet black. Inside, once the bulb is out, there is no source at all — the room is lit by nothing but its own writing, every stroke glowing faintly from within, low and even, the colour of embers under ash, far too dim and too soft for any stroke to be read. Deliberately underexposed throughout, protecting the shadows and holding texture inside them. Never bright red, never neon, never a magic glow.
 
@@ -426,6 +441,7 @@ One continuous uncut take at real-time speed, for the exact duration requested. 
 AVOID
 letters appearing one by one, writing that draws itself, strokes crawling, a light source in frame, a lamp, a torch, moonlight, the bulb relighting, bright red, neon red, magic glow, readable words, legible handwriting, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, logos, other people, subjects looking at camera, handheld shake, slow motion, appearing or disappearing objects, magical sparkle, particles, HDR glow, overacting, generated music, CGI look, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness
 ```
+
 
 
 
@@ -499,6 +515,9 @@ PHYSICS — WEIGHT, INERTIA, CONTACT
 Everything in frame has mass and obeys it. A body starts and stops with its own weight: it settles into a position rather than snapping into it, and a limb leads while the torso follows a beat later. Feet take the ground with real contact and real friction — on wet stone a step is slightly damped, never sliding, never skating. Clothing lags behind the body that moves it, keeps its own folds and swings back late; hair moves a beat behind the head and comes to rest slowly.
 Objects have the mass their material implies. A wooden door swings on its hinges at the speed its own weight allows: it starts slowly, gathers a little, and is slowed at the end by its own friction and the resistance of the hinge — it never floats, never snaps open, never accelerates on its own, and it never moves before something moves it. Hands deform what they touch: fingers flatten slightly against a hard surface, fabric compresses under a grip, a held object presses back. Nothing passes through anything. Nothing changes speed without a cause visible in the frame.
 
+WORLD — THE RED HOUSE
+The only place in the film where red is allowed, and here it is the whole place. Outside: a red door in a grey street. Inside, once the bulb is out, there is no light source at all — the room is lit by nothing but its own writing, every stroke glowing faintly from within, low and even, the colour of embers under ash, far too dim and too soft for any stroke to be read. Never bright red, never neon, never a magic glow. The writing is real handwriting laid out in straight horizontal lines — word-shaped clusters separated by spaces, gathered into sentences and paragraphs — in an invented cursive alphabet whose characters recur again and again the way a real alphabet's do. Unmistakably a script, but no script that exists on earth, and not one word readable in any language: it reads as writing from across the room and as nothing at all up close. Never random scribble, never a scrawl, never abstract mark-making, never decorative squiggles.
+
 CINEMATOGRAPHY
 Naturalistic available-light cinematography. Outside: one distant sodium lamp and one warm filament bulb behind a curtain, everything else falling into wet black. Inside, once the bulb is out, there is no source at all — the room is lit by nothing but its own writing, every stroke glowing faintly from within, low and even, the colour of embers under ash, far too dim and too soft for any stroke to be read. Deliberately underexposed throughout, protecting the shadows and holding texture inside them. Never bright red, never neon, never a magic glow.
 
@@ -527,6 +546,7 @@ One continuous uncut take at real-time speed, for the exact duration requested. 
 AVOID
 letters appearing one by one, writing that draws itself, strokes crawling, a light source in frame, a lamp, a torch, moonlight, the bulb relighting, bright red, neon red, magic glow, the ceiling unwritten, the ceiling dark, the tilt accelerating, a pan, a dolly, readable words, legible handwriting, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, logos, other people, subjects looking at camera, handheld shake, slow motion, appearing or disappearing objects, magical sparkle, particles, HDR glow, overacting, generated music, CGI look, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness
 ```
+
 
 
 
@@ -602,6 +622,9 @@ PHYSICS — WEIGHT, INERTIA, CONTACT
 Everything in frame has mass and obeys it. A body starts and stops with its own weight: it settles into a position rather than snapping into it, and a limb leads while the torso follows a beat later. Feet take the ground with real contact and real friction — on wet stone a step is slightly damped, never sliding, never skating. Clothing lags behind the body that moves it, keeps its own folds and swings back late; hair moves a beat behind the head and comes to rest slowly.
 Objects have the mass their material implies. A wooden door swings on its hinges at the speed its own weight allows: it starts slowly, gathers a little, and is slowed at the end by its own friction and the resistance of the hinge — it never floats, never snaps open, never accelerates on its own, and it never moves before something moves it. Hands deform what they touch: fingers flatten slightly against a hard surface, fabric compresses under a grip, a held object presses back. Nothing passes through anything. Nothing changes speed without a cause visible in the frame.
 
+WORLD — THE RED HOUSE
+The only place in the film where red is allowed, and here it is the whole place. Outside: a red door in a grey street. Inside, once the bulb is out, there is no light source at all — the room is lit by nothing but its own writing, every stroke glowing faintly from within, low and even, the colour of embers under ash, far too dim and too soft for any stroke to be read. Never bright red, never neon, never a magic glow. The writing is real handwriting laid out in straight horizontal lines — word-shaped clusters separated by spaces, gathered into sentences and paragraphs — in an invented cursive alphabet whose characters recur again and again the way a real alphabet's do. Unmistakably a script, but no script that exists on earth, and not one word readable in any language: it reads as writing from across the room and as nothing at all up close. Never random scribble, never a scrawl, never abstract mark-making, never decorative squiggles.
+
 CINEMATOGRAPHY
 Naturalistic available-light cinematography. Outside: one distant sodium lamp and one warm filament bulb behind a curtain, everything else falling into wet black. Inside, once the bulb is out, there is no source at all — the room is lit by nothing but its own writing, every stroke glowing faintly from within, low and even, the colour of embers under ash, far too dim and too soft for any stroke to be read. Deliberately underexposed throughout, protecting the shadows and holding texture inside them. Never bright red, never neon, never a magic glow.
 
@@ -630,6 +653,7 @@ One continuous uncut take at real-time speed, for the exact duration requested. 
 AVOID
 letters appearing one by one, writing that draws itself, strokes crawling, a light source in frame, a lamp, a torch, moonlight, the bulb relighting, bright red, neon red, magic glow, sobbing, shaking shoulders, a second tear, tears from both eyes, wiping the face, hands in frame, the mouth closing, a grin, laughter, a light source on her face, readable words, legible handwriting, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, logos, other people, subjects looking at camera, handheld shake, slow motion, appearing or disappearing objects, magical sparkle, particles, HDR glow, overacting, generated music, CGI look, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness
 ```
+
 
 
 
@@ -705,6 +729,9 @@ PHYSICS — WEIGHT, INERTIA, CONTACT
 Everything in frame has mass and obeys it. A body starts and stops with its own weight: it settles into a position rather than snapping into it, and a limb leads while the torso follows a beat later. Feet take the ground with real contact and real friction — on wet stone a step is slightly damped, never sliding, never skating. Clothing lags behind the body that moves it, keeps its own folds and swings back late; hair moves a beat behind the head and comes to rest slowly.
 Objects have the mass their material implies. A wooden door swings on its hinges at the speed its own weight allows: it starts slowly, gathers a little, and is slowed at the end by its own friction and the resistance of the hinge — it never floats, never snaps open, never accelerates on its own, and it never moves before something moves it. Hands deform what they touch: fingers flatten slightly against a hard surface, fabric compresses under a grip, a held object presses back. Nothing passes through anything. Nothing changes speed without a cause visible in the frame.
 
+WORLD — THE RED HOUSE
+The only place in the film where red is allowed, and here it is the whole place. Outside: a red door in a grey street. Inside, once the bulb is out, there is no light source at all — the room is lit by nothing but its own writing, every stroke glowing faintly from within, low and even, the colour of embers under ash, far too dim and too soft for any stroke to be read. Never bright red, never neon, never a magic glow. The writing is real handwriting laid out in straight horizontal lines — word-shaped clusters separated by spaces, gathered into sentences and paragraphs — in an invented cursive alphabet whose characters recur again and again the way a real alphabet's do. Unmistakably a script, but no script that exists on earth, and not one word readable in any language: it reads as writing from across the room and as nothing at all up close. Never random scribble, never a scrawl, never abstract mark-making, never decorative squiggles.
+
 CINEMATOGRAPHY
 Naturalistic available-light cinematography. Outside: one distant sodium lamp and one warm filament bulb behind a curtain, everything else falling into wet black. Inside, once the bulb is out, there is no source at all — the room is lit by nothing but its own writing, every stroke glowing faintly from within, low and even, the colour of embers under ash, far too dim and too soft for any stroke to be read. Deliberately underexposed throughout, protecting the shadows and holding texture inside them. Never bright red, never neon, never a magic glow.
 
@@ -733,6 +760,7 @@ One continuous uncut take at real-time speed, for the exact duration requested. 
 AVOID
 letters appearing one by one, writing that draws itself, strokes crawling, a light source in frame, a lamp, a torch, moonlight, the bulb relighting, bright red, neon red, magic glow, the girl walking, the girl following the camera, the girl turning, red on the street, red on the porch, the camera stopping, the camera accelerating, readable words, legible handwriting, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, logos, other people, subjects looking at camera, handheld shake, slow motion, appearing or disappearing objects, magical sparkle, particles, HDR glow, overacting, generated music, CGI look, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness
 ```
+
 
 
 
@@ -804,6 +832,9 @@ PHYSICS — WEIGHT, INERTIA, CONTACT
 Everything in frame has mass and obeys it. A body starts and stops with its own weight: it settles into a position rather than snapping into it, and a limb leads while the torso follows a beat later. Feet take the ground with real contact and real friction — on wet stone a step is slightly damped, never sliding, never skating. Clothing lags behind the body that moves it, keeps its own folds and swings back late; hair moves a beat behind the head and comes to rest slowly.
 Objects have the mass their material implies. A wooden door swings on its hinges at the speed its own weight allows: it starts slowly, gathers a little, and is slowed at the end by its own friction and the resistance of the hinge — it never floats, never snaps open, never accelerates on its own, and it never moves before something moves it. Hands deform what they touch: fingers flatten slightly against a hard surface, fabric compresses under a grip, a held object presses back. Nothing passes through anything. Nothing changes speed without a cause visible in the frame.
 
+WORLD — THE RED HOUSE
+The only place in the film where red is allowed, and here it is the whole place. Outside: a red door in a grey street. Inside, once the bulb is out, there is no light source at all — the room is lit by nothing but its own writing, every stroke glowing faintly from within, low and even, the colour of embers under ash, far too dim and too soft for any stroke to be read. Never bright red, never neon, never a magic glow. The writing is real handwriting laid out in straight horizontal lines — word-shaped clusters separated by spaces, gathered into sentences and paragraphs — in an invented cursive alphabet whose characters recur again and again the way a real alphabet's do. Unmistakably a script, but no script that exists on earth, and not one word readable in any language: it reads as writing from across the room and as nothing at all up close. Never random scribble, never a scrawl, never abstract mark-making, never decorative squiggles.
+
 CINEMATOGRAPHY
 Naturalistic available-light cinematography. Outside: one distant sodium lamp and one warm filament bulb behind a curtain, everything else falling into wet black. Inside, once the bulb is out, there is no source at all — the room is lit by nothing but its own writing, every stroke glowing faintly from within, low and even, the colour of embers under ash, far too dim and too soft for any stroke to be read. Deliberately underexposed throughout, protecting the shadows and holding texture inside them. Never bright red, never neon, never a magic glow.
 
@@ -832,6 +863,7 @@ One continuous uncut take at real-time speed, for the exact duration requested. 
 AVOID
 people in the street, a girl, a man, a car moving, red on the road, red on the walls, the camera stopping or accelerating, drone propeller sound, readable words, legible handwriting, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, logos, other people, subjects looking at camera, handheld shake, slow motion, appearing or disappearing objects, magical sparkle, particles, HDR glow, overacting, generated music, CGI look, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness
 ```
+
 
 
 
@@ -899,6 +931,9 @@ PHYSICS — WEIGHT, INERTIA, CONTACT
 Everything in frame has mass and obeys it. A body starts and stops with its own weight: it settles into a position rather than snapping into it, and a limb leads while the torso follows a beat later. Feet take the ground with real contact and real friction — on wet stone a step is slightly damped, never sliding, never skating. Clothing lags behind the body that moves it, keeps its own folds and swings back late; hair moves a beat behind the head and comes to rest slowly.
 Objects have the mass their material implies. A wooden door swings on its hinges at the speed its own weight allows: it starts slowly, gathers a little, and is slowed at the end by its own friction and the resistance of the hinge — it never floats, never snaps open, never accelerates on its own, and it never moves before something moves it. Hands deform what they touch: fingers flatten slightly against a hard surface, fabric compresses under a grip, a held object presses back. Nothing passes through anything. Nothing changes speed without a cause visible in the frame.
 
+WORLD — THE RED HOUSE
+The only place in the film where red is allowed, and here it is the whole place. Outside: a red door in a grey street. Inside, once the bulb is out, there is no light source at all — the room is lit by nothing but its own writing, every stroke glowing faintly from within, low and even, the colour of embers under ash, far too dim and too soft for any stroke to be read. Never bright red, never neon, never a magic glow. The writing is real handwriting laid out in straight horizontal lines — word-shaped clusters separated by spaces, gathered into sentences and paragraphs — in an invented cursive alphabet whose characters recur again and again the way a real alphabet's do. Unmistakably a script, but no script that exists on earth, and not one word readable in any language: it reads as writing from across the room and as nothing at all up close. Never random scribble, never a scrawl, never abstract mark-making, never decorative squiggles.
+
 CINEMATOGRAPHY
 Naturalistic available-light cinematography. Outside: one distant sodium lamp and one warm filament bulb behind a curtain, everything else falling into wet black. Inside, once the bulb is out, there is no source at all — the room is lit by nothing but its own writing, every stroke glowing faintly from within, low and even, the colour of embers under ash, far too dim and too soft for any stroke to be read. Deliberately underexposed throughout, protecting the shadows and holding texture inside them. Never bright red, never neon, never a magic glow.
 
@@ -927,6 +962,7 @@ One continuous uncut take at real-time speed, for the exact duration requested. 
 AVOID
 red anywhere, a red roof, a red light, city lights bright enough to read, a lit sign, moon, stars, drone propeller sound, the camera rolling, the camera hovering, people, cars moving, readable words, legible handwriting, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, logos, other people, subjects looking at camera, handheld shake, slow motion, appearing or disappearing objects, magical sparkle, particles, HDR glow, overacting, generated music, CGI look, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness
 ```
+
 
 
 
@@ -1000,6 +1036,9 @@ PHYSICS — WEIGHT, INERTIA, CONTACT
 Everything in frame has mass and obeys it. A body starts and stops with its own weight: it settles into a position rather than snapping into it, and a limb leads while the torso follows a beat later. Feet take the ground with real contact and real friction — on wet stone a step is slightly damped, never sliding, never skating. Clothing lags behind the body that moves it, keeps its own folds and swings back late; hair moves a beat behind the head and comes to rest slowly.
 Objects have the mass their material implies. A wooden door swings on its hinges at the speed its own weight allows: it starts slowly, gathers a little, and is slowed at the end by its own friction and the resistance of the hinge — it never floats, never snaps open, never accelerates on its own, and it never moves before something moves it. Hands deform what they touch: fingers flatten slightly against a hard surface, fabric compresses under a grip, a held object presses back. Nothing passes through anything. Nothing changes speed without a cause visible in the frame.
 
+WORLD — THE RED HOUSE
+The only place in the film where red is allowed, and here it is the whole place. Outside: a red door in a grey street. Inside, once the bulb is out, there is no light source at all — the room is lit by nothing but its own writing, every stroke glowing faintly from within, low and even, the colour of embers under ash, far too dim and too soft for any stroke to be read. Never bright red, never neon, never a magic glow. The writing is real handwriting laid out in straight horizontal lines — word-shaped clusters separated by spaces, gathered into sentences and paragraphs — in an invented cursive alphabet whose characters recur again and again the way a real alphabet's do. Unmistakably a script, but no script that exists on earth, and not one word readable in any language: it reads as writing from across the room and as nothing at all up close. Never random scribble, never a scrawl, never abstract mark-making, never decorative squiggles.
+
 CINEMATOGRAPHY
 Naturalistic available-light cinematography. Outside: one distant sodium lamp and one warm filament bulb behind a curtain, everything else falling into wet black. Inside, once the bulb is out, there is no source at all — the room is lit by nothing but its own writing, every stroke glowing faintly from within, low and even, the colour of embers under ash, far too dim and too soft for any stroke to be read. Deliberately underexposed throughout, protecting the shadows and holding texture inside them. Never bright red, never neon, never a magic glow.
 
@@ -1028,6 +1067,7 @@ One continuous uncut take at real-time speed, for the exact duration requested. 
 AVOID
 the man's face, his eyes, the man looking up, the man standing, a readable face at distance, red anywhere, tail lights, a traffic light, lettering on the light box, a bus, cars, drone propeller sound, readable words, legible handwriting, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, logos, other people, subjects looking at camera, handheld shake, slow motion, appearing or disappearing objects, magical sparkle, particles, HDR glow, overacting, generated music, CGI look, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness
 ```
+
 
 
 
@@ -1192,6 +1232,9 @@ PHYSICS — WEIGHT, INERTIA, CONTACT
 Everything in frame has mass and obeys it. A body starts and stops with its own weight: it settles into a position rather than snapping into it, and a limb leads while the torso follows a beat later. Feet take the ground with real contact and real friction — on wet stone a step is slightly damped, never sliding, never skating. Clothing lags behind the body that moves it, keeps its own folds and swings back late; hair moves a beat behind the head and comes to rest slowly.
 Objects have the mass their material implies. A wooden door swings on its hinges at the speed its own weight allows: it starts slowly, gathers a little, and is slowed at the end by its own friction and the resistance of the hinge — it never floats, never snaps open, never accelerates on its own, and it never moves before something moves it. Hands deform what they touch: fingers flatten slightly against a hard surface, fabric compresses under a grip, a held object presses back. Nothing passes through anything. Nothing changes speed without a cause visible in the frame.
 
+WORLD — THE RED HOUSE
+The only place in the film where red is allowed, and here it is the whole place. Outside: a red door in a grey street. Inside, once the bulb is out, there is no light source at all — the room is lit by nothing but its own writing, every stroke glowing faintly from within, low and even, the colour of embers under ash, far too dim and too soft for any stroke to be read. Never bright red, never neon, never a magic glow. The writing is real handwriting laid out in straight horizontal lines — word-shaped clusters separated by spaces, gathered into sentences and paragraphs — in an invented cursive alphabet whose characters recur again and again the way a real alphabet's do. Unmistakably a script, but no script that exists on earth, and not one word readable in any language: it reads as writing from across the room and as nothing at all up close. Never random scribble, never a scrawl, never abstract mark-making, never decorative squiggles.
+
 CINEMATOGRAPHY
 Naturalistic available-light cinematography. Outside: one distant sodium lamp and one warm filament bulb behind a curtain, everything else falling into wet black. Inside, once the bulb is out, there is no source at all — the room is lit by nothing but its own writing, every stroke glowing faintly from within, low and even, the colour of embers under ash, far too dim and too soft for any stroke to be read. Deliberately underexposed throughout, protecting the shadows and holding texture inside them. Never bright red, never neon, never a magic glow.
 
@@ -1220,6 +1263,7 @@ One continuous uncut take at real-time speed, for the exact duration requested. 
 AVOID
 a false beard, a glued-on beard, a prosthetic beard, a beard being pulled off, a wig, a disguise being removed, any other person in frame, a girl, a vehicle, headlights, red anywhere, red on the hands, wet fresh paint on the hands, the packet being opened, the man eating, tears running, sobbing, theatrical grief, the head lifting twice, the head dropping again, hood back up, golden light, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, subjects looking at camera, visible camera rigs, camera movement, dolly, pan, zoom, handheld shake, slow motion, extra gestures, improvised actions, repositioned props, appearing or disappearing objects, generated music, plastic skin, CGI look, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness.
 ```
+
 
 
 
@@ -1325,6 +1369,9 @@ PHYSICS — WEIGHT, INERTIA, CONTACT
 Everything in frame has mass and obeys it. A body starts and stops with its own weight: it settles into a position rather than snapping into it, and a limb leads while the torso follows a beat later. Feet take the ground with real contact and real friction — on wet stone a step is slightly damped, never sliding, never skating. Clothing lags behind the body that moves it, keeps its own folds and swings back late; hair moves a beat behind the head and comes to rest slowly.
 Objects have the mass their material implies. A wooden door swings on its hinges at the speed its own weight allows: it starts slowly, gathers a little, and is slowed at the end by its own friction and the resistance of the hinge — it never floats, never snaps open, never accelerates on its own, and it never moves before something moves it. Hands deform what they touch: fingers flatten slightly against a hard surface, fabric compresses under a grip, a held object presses back. Nothing passes through anything. Nothing changes speed without a cause visible in the frame.
 
+WORLD — THE RED HOUSE
+The only place in the film where red is allowed, and here it is the whole place. Outside: a red door in a grey street. Inside, once the bulb is out, there is no light source at all — the room is lit by nothing but its own writing, every stroke glowing faintly from within, low and even, the colour of embers under ash, far too dim and too soft for any stroke to be read. Never bright red, never neon, never a magic glow. The writing is real handwriting laid out in straight horizontal lines — word-shaped clusters separated by spaces, gathered into sentences and paragraphs — in an invented cursive alphabet whose characters recur again and again the way a real alphabet's do. Unmistakably a script, but no script that exists on earth, and not one word readable in any language: it reads as writing from across the room and as nothing at all up close. Never random scribble, never a scrawl, never abstract mark-making, never decorative squiggles.
+
 CINEMATOGRAPHY
 Naturalistic available-light cinematography. Outside: one distant sodium lamp and one warm filament bulb behind a curtain, everything else falling into wet black. Inside, once the bulb is out, there is no source at all — the room is lit by nothing but its own writing, every stroke glowing faintly from within, low and even, the colour of embers under ash, far too dim and too soft for any stroke to be read. Deliberately underexposed throughout, protecting the shadows and holding texture inside them. Never bright red, never neon, never a magic glow.
 
@@ -1353,6 +1400,7 @@ One continuous uncut take at real-time speed, for the exact duration requested. 
 AVOID
 the father's face, his face lit, light on his eyes, his eyes, his eyebrows, any part of his face above the upper lip, a second light source in the hallway, the girl turning toward the door, the girl sitting up, the girl seeing anyone, the girl appearing in the last shot, the laptop open, the father touching the door, the father speaking or calling out, the coated figure turning round, looking back or pausing, a face above the coat's collar, a coat on a hook, a coat folded or laid down, ink on his hands in the first shot, legible handwriting on the coat, readable words anywhere, writing appearing on the mirror, visible soap marks, a fogged mirror, steam, his reflected face in frame, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, red anywhere, subjects looking at camera, visible camera rigs, dolly, zoom, handheld shake, a second camera move, slow motion, extra people in frame, extra gestures, improvised actions, repositioned props, appearing or disappearing objects, golden light, theatrical acting, generated music, plastic skin, CGI look, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness.
 ```
+
 
 
 
@@ -1474,6 +1522,9 @@ PHYSICS — WEIGHT, INERTIA, CONTACT
 Everything in frame has mass and obeys it. A body starts and stops with its own weight: it settles into a position rather than snapping into it, and a limb leads while the torso follows a beat later. Feet take the ground with real contact and real friction — on wet stone a step is slightly damped, never sliding, never skating. Clothing lags behind the body that moves it, keeps its own folds and swings back late; hair moves a beat behind the head and comes to rest slowly.
 Objects have the mass their material implies. A wooden door swings on its hinges at the speed its own weight allows: it starts slowly, gathers a little, and is slowed at the end by its own friction and the resistance of the hinge — it never floats, never snaps open, never accelerates on its own, and it never moves before something moves it. Hands deform what they touch: fingers flatten slightly against a hard surface, fabric compresses under a grip, a held object presses back. Nothing passes through anything. Nothing changes speed without a cause visible in the frame.
 
+WORLD — THE RED HOUSE
+The only place in the film where red is allowed, and here it is the whole place. Outside: a red door in a grey street. Inside, once the bulb is out, there is no light source at all — the room is lit by nothing but its own writing, every stroke glowing faintly from within, low and even, the colour of embers under ash, far too dim and too soft for any stroke to be read. Never bright red, never neon, never a magic glow. The writing is real handwriting laid out in straight horizontal lines — word-shaped clusters separated by spaces, gathered into sentences and paragraphs — in an invented cursive alphabet whose characters recur again and again the way a real alphabet's do. Unmistakably a script, but no script that exists on earth, and not one word readable in any language: it reads as writing from across the room and as nothing at all up close. Never random scribble, never a scrawl, never abstract mark-making, never decorative squiggles.
+
 CINEMATOGRAPHY
 Naturalistic available-light cinematography. Outside: one distant sodium lamp and one warm filament bulb behind a curtain, everything else falling into wet black. Inside, once the bulb is out, there is no source at all — the room is lit by nothing but its own writing, every stroke glowing faintly from within, low and even, the colour of embers under ash, far too dim and too soft for any stroke to be read. Deliberately underexposed throughout, protecting the shadows and holding texture inside them. Never bright red, never neon, never a magic glow.
 
@@ -1502,6 +1553,7 @@ One continuous uncut take at real-time speed, for the exact duration requested. 
 AVOID
 the man's face, his profile, his eyes, him turning toward camera, a face above the coat's collar, the coat pausing or turning back, readable handwriting, legible letters on the walls, readable words anywhere, readable menus, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, glowing walls while the bulb is on, a beam of light, a lens flare, neon, fluorescent paint under ultraviolet, magic sparkle, floating light, the women laughing, broad smiles, audible speech, dialogue, murmuring voices, other customers, a fourth woman at the table, half-painted walls, a partly covered room, red anywhere outside the painted room and his fingers, subjects looking at camera, visible camera rigs, camera movement, dolly, pan, zoom, handheld shake, slow motion, extra people in frame, extra gestures, improvised actions, repositioned props, appearing or disappearing objects, golden light, lanterns lit, theatrical acting, generated music, plastic skin, CGI look, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness.
 ```
+
 
 
 
@@ -1592,6 +1644,9 @@ PHYSICS — WEIGHT, INERTIA, CONTACT
 Everything in frame has mass and obeys it. A body starts and stops with its own weight: it settles into a position rather than snapping into it, and a limb leads while the torso follows a beat later. Feet take the ground with real contact and real friction — on wet stone a step is slightly damped, never sliding, never skating. Clothing lags behind the body that moves it, keeps its own folds and swings back late; hair moves a beat behind the head and comes to rest slowly.
 Objects have the mass their material implies. A wooden door swings on its hinges at the speed its own weight allows: it starts slowly, gathers a little, and is slowed at the end by its own friction and the resistance of the hinge — it never floats, never snaps open, never accelerates on its own, and it never moves before something moves it. Hands deform what they touch: fingers flatten slightly against a hard surface, fabric compresses under a grip, a held object presses back. Nothing passes through anything. Nothing changes speed without a cause visible in the frame.
 
+WORLD — THE RED HOUSE
+The only place in the film where red is allowed, and here it is the whole place. Outside: a red door in a grey street. Inside, once the bulb is out, there is no light source at all — the room is lit by nothing but its own writing, every stroke glowing faintly from within, low and even, the colour of embers under ash, far too dim and too soft for any stroke to be read. Never bright red, never neon, never a magic glow. The writing is real handwriting laid out in straight horizontal lines — word-shaped clusters separated by spaces, gathered into sentences and paragraphs — in an invented cursive alphabet whose characters recur again and again the way a real alphabet's do. Unmistakably a script, but no script that exists on earth, and not one word readable in any language: it reads as writing from across the room and as nothing at all up close. Never random scribble, never a scrawl, never abstract mark-making, never decorative squiggles.
+
 CINEMATOGRAPHY
 Naturalistic available-light cinematography. Outside: one distant sodium lamp and one warm filament bulb behind a curtain, everything else falling into wet black. Inside, once the bulb is out, there is no source at all — the room is lit by nothing but its own writing, every stroke glowing faintly from within, low and even, the colour of embers under ash, far too dim and too soft for any stroke to be read. Deliberately underexposed throughout, protecting the shadows and holding texture inside them. Never bright red, never neon, never a magic glow.
 
@@ -1620,6 +1675,7 @@ One continuous uncut take at real-time speed, for the exact duration requested. 
 AVOID
 the man speaking, any male voice, a whisper from him, him wiping his face, his hands rising to hers, her hands leaving his face or coming down, more than two nods, him standing, him turning toward the door, a chair in frame, anyone in the corridor, any other person, sobbing out loud, wailing, theatrical grief, overacting, a monitor beeping, an alarm, any red except the crimson wool scarf on her shoulders, red exit signage, red LEDs, blood, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, subjects looking at camera, visible camera rigs, any camera movement, any cut, a centred composition, slow motion, extra gestures, improvised actions, repositioned props, appearing or disappearing objects, generated music, plastic skin, CGI look, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness.
 ```
+
 
 
 
@@ -1702,6 +1758,9 @@ PHYSICS — WEIGHT, INERTIA, CONTACT
 Everything in frame has mass and obeys it. A body starts and stops with its own weight: it settles into a position rather than snapping into it, and a limb leads while the torso follows a beat later. Feet take the ground with real contact and real friction — on wet stone a step is slightly damped, never sliding, never skating. Clothing lags behind the body that moves it, keeps its own folds and swings back late; hair moves a beat behind the head and comes to rest slowly.
 Objects have the mass their material implies. A wooden door swings on its hinges at the speed its own weight allows: it starts slowly, gathers a little, and is slowed at the end by its own friction and the resistance of the hinge — it never floats, never snaps open, never accelerates on its own, and it never moves before something moves it. Hands deform what they touch: fingers flatten slightly against a hard surface, fabric compresses under a grip, a held object presses back. Nothing passes through anything. Nothing changes speed without a cause visible in the frame.
 
+WORLD — THE RED HOUSE
+The only place in the film where red is allowed, and here it is the whole place. Outside: a red door in a grey street. Inside, once the bulb is out, there is no light source at all — the room is lit by nothing but its own writing, every stroke glowing faintly from within, low and even, the colour of embers under ash, far too dim and too soft for any stroke to be read. Never bright red, never neon, never a magic glow. The writing is real handwriting laid out in straight horizontal lines — word-shaped clusters separated by spaces, gathered into sentences and paragraphs — in an invented cursive alphabet whose characters recur again and again the way a real alphabet's do. Unmistakably a script, but no script that exists on earth, and not one word readable in any language: it reads as writing from across the room and as nothing at all up close. Never random scribble, never a scrawl, never abstract mark-making, never decorative squiggles.
+
 CINEMATOGRAPHY
 Naturalistic available-light cinematography. Outside: one distant sodium lamp and one warm filament bulb behind a curtain, everything else falling into wet black. Inside, once the bulb is out, there is no source at all — the room is lit by nothing but its own writing, every stroke glowing faintly from within, low and even, the colour of embers under ash, far too dim and too soft for any stroke to be read. Deliberately underexposed throughout, protecting the shadows and holding texture inside them. Never bright red, never neon, never a magic glow.
 
@@ -1730,6 +1789,7 @@ One continuous uncut take at real-time speed, for the exact duration requested. 
 AVOID
 a false beard, a glued-on beard, a prosthetic beard, a beard being pulled off, a mask, a wig, a disguise being removed, anything peeling from the face, a glue line, the beanie thrown away or left on the bench, the hood going back up, the head dropping again, a second head lift, eyes rolled back, only whites showing, any other person in frame, a girl, a bus, headlights, red anywhere, sobbing, wailing, hands covering the face, him wiping the tear away, a cut, a dissolve, a reframe, push in, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, subjects looking at camera, visible camera rigs, camera movement, zoom, handheld shake, slow motion, extra gestures, improvised actions, repositioned props, appearing or disappearing objects, golden light, generated music, plastic skin, CGI look, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness.
 ```
+
 
 
 

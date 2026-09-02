@@ -84,6 +84,9 @@ PHYSICS — WEIGHT, INERTIA, CONTACT
 Everything in frame has mass and obeys it. A body starts and stops with its own weight: it settles into a position rather than snapping into it, and a limb leads while the torso follows a beat later. Feet take the ground with real contact and real friction — on wet stone a step is slightly damped, never sliding, never skating. Clothing lags behind the body that moves it, keeps its own folds and swings back late; hair moves a beat behind the head and comes to rest slowly.
 Objects have the mass their material implies. A wooden door swings on its hinges at the speed its own weight allows: it starts slowly, gathers a little, and is slowed at the end by its own friction and the resistance of the hinge — it never floats, never snaps open, never accelerates on its own, and it never moves before something moves it. Hands deform what they touch: fingers flatten slightly against a hard surface, fabric compresses under a grip, a held object presses back. Nothing passes through anything. Nothing changes speed without a cause visible in the frame.
 
+WORLD — BEFORE
+Morning gold through domestic glass. High key, open shadows, warm bounce off walls and skin. Nothing is underexposed, nothing is grey, nothing is cold. There is blood under the skin. This is the light the rest of the film will lose, so it must be genuinely warm here and not merely bright.
+
 CINEMATOGRAPHY
 Naturalistic available-light cinematography. One motivated source only — morning sun through domestic glass — bounced warm off walls and skin, shadows open and full of colour. Exposed normally, never underexposed here: this is the one place in the film where nothing is missing. Highlights restrained and holding texture in the window and the crockery, never blown. Gentle contrast. True-to-life warm colour, never pushed, never golden-graded. There is blood under the skin.
 
@@ -112,6 +115,7 @@ One continuous uncut take at real-time speed, for the exact duration requested. 
 AVOID
 a toaster, any toaster visible anywhere, the man standing up, the man rising from his chair, the woman walking away from the range, a knife or spatula or any utensil in her hands, the toast leaving the pan, toast or bread or a plate on the table, food being served, a third person in the kitchen, a child in frame, a silhouette in the doorway, a red scarf, a scarf of any kind on the woman, any red anywhere, red jam, red crockery, readable labels, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, subjects looking at camera, visible camera rigs, camera movement, dolly, pan, zoom, handheld shake, slow motion, morphing objects, extra people in frame, extra gestures, improvised actions, wandering hands, repositioned props, appearing or disappearing objects, duplicated cups, sarcasm, mockery, an argument, rushed movements, hurried dialogue, characters answering instantly, theatrical acting, overacting, posed smiles, sitcom lighting, grey light, desaturated grade, underexposure, cold colour cast, teal-and-orange colour grade, generated music, uncanny smoothness, plastic skin, beauty filter, CGI look, video-game lighting, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness.
 ```
+
 
 
 
@@ -205,6 +209,9 @@ PHYSICS — WEIGHT, INERTIA, CONTACT
 Everything in frame has mass and obeys it. A body starts and stops with its own weight: it settles into a position rather than snapping into it, and a limb leads while the torso follows a beat later. Feet take the ground with real contact and real friction — on wet stone a step is slightly damped, never sliding, never skating. Clothing lags behind the body that moves it, keeps its own folds and swings back late; hair moves a beat behind the head and comes to rest slowly.
 Objects have the mass their material implies. A wooden door swings on its hinges at the speed its own weight allows: it starts slowly, gathers a little, and is slowed at the end by its own friction and the resistance of the hinge — it never floats, never snaps open, never accelerates on its own, and it never moves before something moves it. Hands deform what they touch: fingers flatten slightly against a hard surface, fabric compresses under a grip, a held object presses back. Nothing passes through anything. Nothing changes speed without a cause visible in the frame.
 
+WORLD — BEFORE
+Morning gold through domestic glass. High key, open shadows, warm bounce off walls and skin. Nothing is underexposed, nothing is grey, nothing is cold. There is blood under the skin. This is the light the rest of the film will lose, so it must be genuinely warm here and not merely bright.
+
 CINEMATOGRAPHY
 Naturalistic available-light cinematography. One motivated source only — morning sun through domestic glass — bounced warm off walls and skin, shadows open and full of colour. Exposed normally, never underexposed here: this is the one place in the film where nothing is missing. Highlights restrained and holding texture in the window and the crockery, never blown. Gentle contrast. True-to-life warm colour, never pushed, never golden-graded. There is blood under the skin.
 
@@ -233,6 +240,7 @@ One continuous uncut take at real-time speed, for the exact duration requested. 
 AVOID
 a kiss, kissing, mouths touching, an open-mouthed kiss, the embrace played long or theatrical, tears, crying, sadness, a toaster, any toaster visible anywhere, a flame under the pan, the toast leaving the pan, a plate being served, anyone sitting down, either character holding any object, a knife or utensil in anyone's hands, a third person in the kitchen, a child in frame, a silhouette in the doorway, a reflection of another person in the window, a red scarf, a scarf of any kind on the woman, any red anywhere, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, subjects looking at camera, visible camera rigs, camera movement, dolly, pan, zoom, handheld shake, slow motion, morphing objects, extra people in frame, extra gestures, improvised actions, wandering hands, repositioned props, appearing or disappearing objects, two black silhouettes with unreadable faces, crushed faces, rushed movements, hurried dialogue, characters answering instantly, theatrical acting, overacting, posed smiles, sitcom lighting, grey light, desaturated grade, underexposure, cold colour cast, teal-and-orange colour grade, generated music, uncanny smoothness, plastic skin, beauty filter, CGI look, video-game lighting, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness.
 ```
+
 
 
 
@@ -328,6 +336,9 @@ PHYSICS — WEIGHT, INERTIA, CONTACT
 Everything in frame has mass and obeys it. A body starts and stops with its own weight: it settles into a position rather than snapping into it, and a limb leads while the torso follows a beat later. Feet take the ground with real contact and real friction — on wet stone a step is slightly damped, never sliding, never skating. Clothing lags behind the body that moves it, keeps its own folds and swings back late; hair moves a beat behind the head and comes to rest slowly.
 Objects have the mass their material implies. A wooden door swings on its hinges at the speed its own weight allows: it starts slowly, gathers a little, and is slowed at the end by its own friction and the resistance of the hinge — it never floats, never snaps open, never accelerates on its own, and it never moves before something moves it. Hands deform what they touch: fingers flatten slightly against a hard surface, fabric compresses under a grip, a held object presses back. Nothing passes through anything. Nothing changes speed without a cause visible in the frame.
 
+WORLD — BEFORE
+Morning gold through domestic glass. High key, open shadows, warm bounce off walls and skin. Nothing is underexposed, nothing is grey, nothing is cold. There is blood under the skin. This is the light the rest of the film will lose, so it must be genuinely warm here and not merely bright.
+
 CINEMATOGRAPHY
 Naturalistic available-light cinematography. One motivated source only — morning sun through domestic glass — bounced warm off walls and skin, shadows open and full of colour. Exposed normally, never underexposed here: this is the one place in the film where nothing is missing. Highlights restrained and holding texture in the window and the crockery, never blown. Gentle contrast. True-to-life warm colour, never pushed, never golden-graded. There is blood under the skin.
 
@@ -356,6 +367,7 @@ One continuous uncut take at real-time speed, for the exact duration requested. 
 AVOID
 anyone speaking, a spoken line, moving lips, a name being called, a toaster, any toaster visible anywhere, anyone sitting down, a chair being pulled out, anyone touching the table, anyone eating, hands reaching for food, the toast plate moving, three bowls, five bowls, more than four bowls, missing bowls, duplicated bowls, a fifth person, another child, an adult in the doorway, a silhouette in the hall, a red scarf, a scarf of any kind on the woman, any red anywhere, red toys, red crockery, children looking at camera, the hug lingering in slow emphasis, sentimental slow motion, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, subjects looking at camera, visible camera rigs, camera movement, dolly, pan, zoom, handheld shake, slow motion, morphing objects, extra people in frame, extra gestures, improvised actions, wandering hands, repositioned props, appearing or disappearing objects, deformed child faces, adult proportions on the children, the boy's tooth growing back, rushed movements, theatrical acting, overacting, posed smiles, sitcom lighting, grey light, desaturated grade, underexposure, cold colour cast, teal-and-orange colour grade, generated music, uncanny smoothness, plastic skin, beauty filter, CGI look, video-game lighting, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness.
 ```
+
 
 
 
@@ -433,6 +445,9 @@ PHYSICS — WEIGHT, INERTIA, CONTACT
 Everything in frame has mass and obeys it. A body starts and stops with its own weight: it settles into a position rather than snapping into it, and a limb leads while the torso follows a beat later. Feet take the ground with real contact and real friction — on wet stone a step is slightly damped, never sliding, never skating. Clothing lags behind the body that moves it, keeps its own folds and swings back late; hair moves a beat behind the head and comes to rest slowly.
 Objects have the mass their material implies. A wooden door swings on its hinges at the speed its own weight allows: it starts slowly, gathers a little, and is slowed at the end by its own friction and the resistance of the hinge — it never floats, never snaps open, never accelerates on its own, and it never moves before something moves it. Hands deform what they touch: fingers flatten slightly against a hard surface, fabric compresses under a grip, a held object presses back. Nothing passes through anything. Nothing changes speed without a cause visible in the frame.
 
+WORLD — BEFORE
+Morning gold through domestic glass. High key, open shadows, warm bounce off walls and skin. Nothing is underexposed, nothing is grey, nothing is cold. There is blood under the skin. This is the light the rest of the film will lose, so it must be genuinely warm here and not merely bright.
+
 CINEMATOGRAPHY
 Naturalistic available-light cinematography. One motivated source only — morning sun through domestic glass — bounced warm off walls and skin, shadows open and full of colour. Exposed normally, never underexposed here: this is the one place in the film where nothing is missing. Highlights restrained and holding texture in the window and the crockery, never blown. Gentle contrast. True-to-life warm colour, never pushed, never golden-graded. There is blood under the skin.
 
@@ -461,6 +476,7 @@ One continuous uncut take at real-time speed, for the exact duration requested. 
 AVOID
 any person in frame, a hand entering frame, an arm reaching in, a head at the frame edge, a shadow of a person across the table, a reflection of a person, chairs moving, objects moving, the marmalade jar moving, the plate moving, three bowls, five bowls, more than four bowls, missing bowls, duplicated bowls, a bowl drifting, the smoke gone, an empty table, food being eaten, a toaster, any toaster visible anywhere, a red scarf, any red anywhere, red jam, red crockery, a readable label on the jar, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, visible camera rigs, camera movement, dolly, pan, zoom, tilt, handheld shake, slow motion, morphing objects, appearing or disappearing objects, intelligible dialogue off screen, grey light, desaturated grade, underexposure, cold colour cast, teal-and-orange colour grade, generated music, CGI look, video-game lighting, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness.
 ```
+
 
 
 
