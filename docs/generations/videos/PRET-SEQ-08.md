@@ -85,8 +85,6 @@ CROSS-FRAME RULES @LibraryCorridor is the same library throughout: same tall dar
 CONTINUITY — WHAT MUST NOT DRIFT
 Wardrobe, hair, dirt, damage and wear are exactly as the references define them and do not improve, clean themselves up or change between shots. Nobody is better groomed, better lit, better dressed or better rested than in the shot before. Props stay where the prop layout puts them. Weather, time of day and light level do not move inside a sequence. Nobody looks at the lens at any point.
 
-POSITIVE CONSTRAINTS below apply in full.
-
 LOCATION @LibraryCorridor — the corridor between tall wooden bookshelves of an old school library, dressed as a study room and emptied after class: dark varnished oak shelving, the outer edges rounded and paled by a century of hands, the shelf lips worn to raw wood where books are dragged out, one high shelf visibly bowed under its load; the books are texture only — cloth and cracked leather spines faded to blankness, some leaning into the gaps, some lying flat on the rows, all under a fine even dust, not one title readable; worn herringbone parquet, the blocks rubbed matte grey along the exact centre line, a few lifted slightly proud, one replaced long ago in a lighter wood, old wax built up yellow against the shelf bases; brass rail lights along the shelf tops switched off, their brass tarnished brown, their small shades dusty; the study table with its chair at the near end, the edge worn round, old ink blots gone pale in the wood; a second study table further along with its chairs pushed in; a run of dull grey dented metal lockers along the near wall, paint chipped to bare metal at the door edges, every number sanded blank; the window at the far end, its old glass faintly wavering. Exit signage green. No red anywhere. No readable text, no lettering, no signage with words, no logos.
 
 LIGHT One source only: the window at the far end of the corridor, throwing flat cold late-afternoon light straight down its length — a grey-white shaft with dust hanging almost motionless in it, the beam's edges feathered, laying a long dull gleam up the centre of the parquet and a bright rectangle on the floor at the end. Flat and cold, no warmth anywhere in it, never golden. The light gives out fast to either side, so the shelf aisles hold deep soft shadow and the near end of the corridor, with the table and the lockers, sits gently underexposed. In shot 2 that window is directly behind the coated figure: he is pure backlight — a dark umber-brown mass with the ivory lines of his back taking a hard rim of it, and no detail of red anywhere in him. In shot 3 the same light reaches the side aisle only as a weak grey spill sliding in around the corner. No other source, no practical, no fill.
@@ -208,8 +206,6 @@ CROSS-FRAME RULES @LibraryCorridor is the same library as its reference Element:
 
 CONTINUITY — WHAT MUST NOT DRIFT
 Wardrobe, hair, dirt, damage and wear are exactly as the references define them and do not improve, clean themselves up or change between shots. Nobody is better groomed, better lit, better dressed or better rested than in the shot before. Props stay where the prop layout puts them. Weather, time of day and light level do not move inside a sequence. Nobody looks at the lens at any point.
-
-POSITIVE CONSTRAINTS below apply in full.
 
 LOCATION @LibraryCorridor — the corridor between tall wooden bookshelves of an old school library, emptied after class: dark varnished oak shelving, the outer edges rounded and paled by a century of hands, the shelf lips worn to raw wood where books are dragged out, one high shelf visibly bowed under its load; the books are texture only — cloth and cracked leather spines faded to blankness, some leaning into the gaps, some lying flat on the rows, all under a fine even dust, not one title readable; worn herringbone parquet, the blocks rubbed matte grey along the exact centre line, a few lifted slightly proud, one replaced long ago in a lighter wood, old wax built up yellow against the shelf bases; brass rail lights along the shelf tops switched off, their brass tarnished brown, their small shades dusty; the window at the far end, its old glass faintly wavering. Exit signage green. No red anywhere. No readable text, no lettering, no signage with words, no logos.
 
@@ -334,8 +330,6 @@ CROSS-FRAME RULES @NoraBedroom's landing is the same landing in both shots: same
 CONTINUITY — WHAT MUST NOT DRIFT
 Wardrobe, hair, dirt, damage and wear are exactly as the references define them and do not improve, clean themselves up or change between shots. Nobody is better groomed, better lit, better dressed or better rested than in the shot before. Props stay where the prop layout puts them. Weather, time of day and light level do not move inside a sequence. Nobody looks at the lens at any point.
 
-POSITIVE CONSTRAINTS below apply in full.
-
 LOCATION @NoraBedroom, the dark upstairs landing outside the bedroom door — bare floorboards cupped and gappy, worn pale along the walk-line, their nail heads dark and slightly proud; a chipped scuffed skirting bruised at ankle height; the stair rail's top post at the far end, its varnish rubbed dull and slightly sticky from decades of hands; the bedroom door with paint thickened by old repaints and chipped around the latch, the handle tarnished, the latch plate scratched bright; the hallway running away to the far corner and the unseen stairs dropping beyond it. Every texture exists only where the sodium thread or the door's blade of light grazes it; everything else stays swallowed in black. Nothing hangs anywhere. No red anywhere. No readable text, no lettering, no signage with words, no logos.
 
 LIGHT Two sources only, both weak. The blade of cold light escaping the bedroom door — hard-edged at the gap, widening and softening as it crosses the boards toward camera, a little dust hanging in it — and, at the far end, one thin thread of sodium orange from a street lamp grazing the wall at the corner. Neither reaches the walls of the landing; the whole frame sits gently underexposed with the blacks truly crushed and the corners gone entirely. The ivory script of the coat catches the sodium thread for its fraction of a second and nothing else — that instant is the only moment the eye is allowed to find it, and it must read. In shot 2 the same sodium thread rims the back of her shoulder and one edge of her jaw from behind, and the stairwell below holds no light at all. No other source, no warm lamp, no moonlight, no fill.
@@ -451,8 +445,6 @@ CROSS-FRAME RULES @NoraBedroom's landing is the same landing as its reference El
 
 CONTINUITY — WHAT MUST NOT DRIFT
 Wardrobe, hair, dirt, damage and wear are exactly as the references define them and do not improve, clean themselves up or change between shots. Nobody is better groomed, better lit, better dressed or better rested than in the shot before. Props stay where the prop layout puts them. Weather, time of day and light level do not move inside a sequence. Nobody looks at the lens at any point.
-
-POSITIVE CONSTRAINTS below apply in full.
 
 LOCATION @NoraBedroom, the far corner of the dark upstairs landing — bare floorboards cupped and gappy, worn pale along the walk-line, their nail heads dark and slightly proud; a chipped scuffed skirting bruised at ankle height; the stair rail's top post at the corner, its varnish rubbed dull and slightly sticky from decades of hands; the unseen stairs dropping away beyond it into pure black. Every texture exists only where the sodium thread grazes it; everything else stays swallowed in black. Nothing hangs anywhere. No red anywhere. No readable text, no lettering, no signage with words, no logos.
 
@@ -582,8 +574,6 @@ CROSS-FRAME RULES @Bathroom is the same bathroom in all three shots: same mirror
 
 CONTINUITY — WHAT MUST NOT DRIFT
 Wardrobe, hair, dirt, damage and wear are exactly as the references define them and do not improve, clean themselves up or change between shots. Nobody is better groomed, better lit, better dressed or better rested than in the shot before. Props stay where the prop layout puts them. Weather, time of day and light level do not move inside a sequence. Nobody looks at the lens at any point.
-
-POSITIVE CONSTRAINTS below apply in full.
 
 LOCATION @Bathroom — the small tiled family bathroom: the plain rectangular mirror above the basin, its silvering going at the lower corners in small black blooms; the basin with the chipped enamel edge and a grey-green limescale shadow under the pitted chrome tap; white square tiles with the grout gone darker along the floor line, one tile hairline-cracked; the shower curtain pushed back on mismatched rings, the tray still dripping; the radiator with grey towels washed thin and stiff, one hanging crooked; the small frosted window beaded with condensation that stays beaded and never runs; the painted door with its chipped edge and a hook screwed crooked into it; everything softened by steam. No red anywhere. No readable text, no lettering, no signage with words, no logos.
 
@@ -723,8 +713,6 @@ CROSS-FRAME RULES @Bathroom is the same bathroom as its reference Element: same 
 CONTINUITY — WHAT MUST NOT DRIFT
 Wardrobe, hair, dirt, damage and wear are exactly as the references define them and do not improve, clean themselves up or change between shots. Nobody is better groomed, better lit, better dressed or better rested than in the shot before. Props stay where the prop layout puts them. Weather, time of day and light level do not move inside a sequence. Nobody looks at the lens at any point.
 
-POSITIVE CONSTRAINTS below apply in full.
-
 LOCATION @Bathroom — the small tiled family bathroom, seen at its mirror only: the plain rectangular mirror above the basin, its silvering going at the lower corners in small black blooms, its frame edge chipped enamel; the top of the basin with its chipped enamel edge and a grey-green limescale shadow under the pitted chrome tap entering the bottom of frame; white square tiles with the grout gone darker along the joints, one tile hairline-cracked, at the frame edges; everything softened by steam. No red anywhere. No readable text, no lettering, no signage with words, no logos.
 
 LIGHT One source: the single wall light above the mirror, diffused by the vapour — the bulb wearing a soft halo in the steam, its throw dying within a metre, laying whites and cold greys across the fogged glass and the tile at the frame edges. The frame sits gently underexposed at its edges. The three clear bands stand out only because the fog around them does not: they are the sharpest thing in a soft image, and no light source ever points at them. No other source. No warm light. No red light.
@@ -848,8 +836,6 @@ CROSS-FRAME RULES @NoraBedroom is the same bedroom in both shots: same desk with
 
 CONTINUITY — WHAT MUST NOT DRIFT
 Wardrobe, hair, dirt, damage and wear are exactly as the references define them and do not improve, clean themselves up or change between shots. Nobody is better groomed, better lit, better dressed or better rested than in the shot before. Props stay where the prop layout puts them. Weather, time of day and light level do not move inside a sequence. Nobody looks at the lens at any point.
-
-POSITIVE CONSTRAINTS below apply in full.
 
 LOCATION @NoraBedroom — the small bedroom at night: the cluttered desk cleared to a working square, its surface carrying its history in old pencil grooves, a pale mug ring and varnish gone matte where forearms rest; the closed laptop pushed to the far edge, its lid clouded with fingerprints and the ghost outlines of peeled-off stickers, its charging cable kinked and mended with a turn of tape; a cheap clip-on lamp clamped to the desk edge, its shade dented, its clamp having bitten a shiny groove into the wood; school books in a leaning pile, dog-eared, covers scuffed to blankness, a cold mug of tea ringed onto the topmost one; the single bed with a rumpled dark quilt half pulled off the mattress, the pillow dented and doubled over; a chair with clothes slung over the back; the window onto the back gallery with condensation beaded along the bottom pane and dust felted on the sill; dust along the skirting, nothing put away. No red anywhere. No readable text, no lettering, no signage with words, no logos.
 
@@ -1000,8 +986,6 @@ CROSS-FRAME RULES @NightBus is the same bus in all four shots: same worn grey-bl
 
 CONTINUITY — WHAT MUST NOT DRIFT
 Wardrobe, hair, dirt, damage and wear are exactly as the references define them and do not improve, clean themselves up or change between shots. Nobody is better groomed, better lit, better dressed or better rested than in the shot before. Props stay where the prop layout puts them. Weather, time of day and light level do not move inside a sequence. Nobody looks at the lens at any point.
-
-POSITIVE CONSTRAINTS below apply in full.
 
 LOCATION @NightBus — the interior of a city bus at night: worn grey-blue moulded seats, their vinyl cracked and crazed at the edges like old moleskin, one seam split a finger's width at an aisle corner, the shells scratched and dulled; chrome poles worn cloudy grey at grip height by years of hands and bright only near the ceiling, ringed with the ghosts of peeled stickers; ribbed rubber floor worn matte and pale along the centre of the aisle, grit and dried footprints in the ribs, grittier at the door well; condensation beading on the windows over the black rubber seals, drops trembling with the engine, faint illegible scratches etched in the glass; the exit doors with their dark glass and worn step; the driver's area a dark silhouette far ahead behind a scratched perspex partition; black night beyond the glass with street lamps and shopfronts sliding past, growing sparser. No red anywhere: no stop-button lights, no red handrails, no red signage through the windows. No readable text, no lettering, no destination display, no logos.
 

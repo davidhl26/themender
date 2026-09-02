@@ -87,8 +87,6 @@ CROSS-FRAME RULES @Quay is the same quay of the reference Element in both shots,
 CONTINUITY — WHAT MUST NOT DRIFT
 Wardrobe, hair, dirt, damage and wear are exactly as the references define them and do not improve, clean themselves up or change between shots. Nobody is better groomed, better lit, better dressed or better rested than in the shot before. Props stay where the prop layout puts them. Weather, time of day and light level do not move inside a sequence. Nobody looks at the lens at any point.
 
-POSITIVE CONSTRAINTS below apply in full.
-
 LOCATION @Quay — the working North Atlantic fishing quay of the reference Element: patched concrete walkway scuffed by decades of rope and crate, dark tide-stains at its edge; stacked lobster traps; coiled rope stiff with salt; iron bollards under layers of chipped paint over rusted metal; a corroded chain bleeding brown streaks down the kerb; the low warehouse wall of weathered brick, spalled and patched; trawler masts beyond; flat water holding the sunset in long streaks. No red anywhere on the location itself. Nothing readable anywhere: no names on hulls, no signs, no lettering.
 
 LIGHT One source only: the sun, a hand's width above the horizon at the far end of the quay, almost horizontal, raking down the walkway. It gilds the wet concrete in long mirror streaks, catches the brick and the traps' wire, rims hair, shoulders and the scarf's wool in gold, and takes the seated man's face and the family's faces full and warm. Shadows long, soft-edged, blue-grey; masts black against the warm sky. Nothing underexposed anywhere.
@@ -231,8 +229,6 @@ CROSS-FRAME RULES Direct continuation of generation 2A: same four people, exact 
 CONTINUITY — WHAT MUST NOT DRIFT
 Wardrobe, hair, dirt, damage and wear are exactly as the references define them and do not improve, clean themselves up or change between shots. Nobody is better groomed, better lit, better dressed or better rested than in the shot before. Props stay where the prop layout puts them. Weather, time of day and light level do not move inside a sequence. Nobody looks at the lens at any point.
 
-POSITIVE CONSTRAINTS below apply in full.
-
 LOCATION @Quay — the same working fishing quay of the reference Element, walked to its end: the same patched rope-scuffed concrete, salt-bleached traps, chipped-paint bollards and spalled brick. At the end, a small old family-run restaurant shopfront: wood-framed window with blistered paint and faintly waved old glass, sun-faded canvas blind half up, warm amber light coming on inside, a brass handle polished by decades of hands, a hanging sign reduced to a soft amber halo. No red anywhere on the location. Nothing readable anywhere — no letters, no signage with words, no logos.
 
 LIGHT Shot 1: one source — the low sun directly behind the camera, its last warm light striking the two walking faces full-front, filling the eyes, warming the scarf's wool; the quay behind them falls away into gold haze, masts black against it, their shadows reaching away from camera. Shot 2: the sun gone, sky and wet concrete an even luminous blue dusk; when the shopfront lights, its amber spills onto the wet concrete in a soft warm apron — the warmest value in frame. Nothing underexposed; the dusk stays luminous, never dark.
@@ -362,8 +358,6 @@ CROSS-FRAME RULES @Restaurant is the room of the reference Element throughout: s
 CONTINUITY — WHAT MUST NOT DRIFT
 Wardrobe, hair, dirt, damage and wear are exactly as the references define them and do not improve, clean themselves up or change between shots. Nobody is better groomed, better lit, better dressed or better rested than in the shot before. Props stay where the prop layout puts them. Weather, time of day and light level do not move inside a sequence. Nobody looks at the lens at any point.
 
-POSITIVE CONSTRAINTS below apply in full.
-
 LOCATION @Restaurant — the small old family-run restaurant of the reference Element: formica tables with dark green cotton cloths laundered thin, wooden chairs with re-glued rungs and seat edges worn pale; the lacquered service counter rubbed matte at the corner where hands rest; the green-lit fish tank, algae at the glass corners, slow bubbles rising; the beaded curtain to the kitchen, its strands uneven with age; paper lanterns in amber and brass, their paper aged to cream, a rib's shadow readable through the glow; the window onto the wet street with its half-drawn faded blind, the pane fogged in a soft oval; the floor's path worn dull from door to counter. No red anywhere: no red lanterns, no red cloths, no red menus, no red packaging, no red aquarium decor. Nothing readable anywhere.
 
 LIGHT Two warm practicals only: the paper lanterns above the table drop soft amber pools straight down — they model every face from above-front, warm the white paper top and set a small hot point in the teapot's glaze; the counter's brass returns a second, lower warmth from screen-left. At the right frame edge the fish tank throws its green sideways in a faint cool rim. Beyond the fogged glass the street is cold and blue, condensation beads catching pin-points of it. Every face is warm, open and readable — nothing underexposed. No red light anywhere.
@@ -491,8 +485,6 @@ CROSS-FRAME RULES @Restaurant is the same room and the same table as the previou
 
 CONTINUITY — WHAT MUST NOT DRIFT
 Wardrobe, hair, dirt, damage and wear are exactly as the references define them and do not improve, clean themselves up or change between shots. Nobody is better groomed, better lit, better dressed or better rested than in the shot before. Props stay where the prop layout puts them. Weather, time of day and light level do not move inside a sequence. Nobody looks at the lens at any point.
-
-POSITIVE CONSTRAINTS below apply in full.
 
 LOCATION @Restaurant — the same small family-run restaurant, the room nearly empty: chairs pushed back at the other formica tables, their green cloths cleared; half the paper lanterns out, their globes gone dark, the lit ones aged cream paper over brass rings; the lacquered counter dim, its worn corner catching a last warm gleam; the beaded curtain to the kitchen hanging still; the fish tank's green at the far frame edge, its bubbles slow; the window fully fogged, the blue-black night behind it; the floor's worn path dull from door to counter. No red anywhere: no red lanterns, no red cloths, no red menus, no red aquarium decor. Nothing readable anywhere.
 

@@ -73,8 +73,6 @@ CROSS-FRAME RULES Same house in both shots; she is the only person in the genera
 CONTINUITY — WHAT MUST NOT DRIFT
 Wardrobe, hair, dirt, damage and wear are exactly as the references define them and do not improve, clean themselves up or change between shots. Nobody is better groomed, better lit, better dressed or better rested than in the shot before. Props stay where the prop layout puts them. Weather, time of day and light level do not move inside a sequence. Nobody looks at the lens at any point.
 
-POSITIVE CONSTRAINTS below apply in full.
-
 LOCATION @RedHouseExterior — the last house of a poor terraced street, wooden-fronted, deep dark red gone chalky, neighbours grey and blank; wet black road.
 
 LIGHT A distant sodium lamp behind camera, and the warm bulb behind the curtain — AN ORDINARY HOT FILAMENT BULB, NOT A FLAME: steady, never flickering.
@@ -185,8 +183,6 @@ CROSS-FRAME RULES Same room in every frame, props in their positions. She is alo
 
 CONTINUITY — WHAT MUST NOT DRIFT
 Wardrobe, hair, dirt, damage and wear are exactly as the references define them and do not improve, clean themselves up or change between shots. Nobody is better groomed, better lit, better dressed or better rested than in the shot before. Props stay where the prop layout puts them. Weather, time of day and light level do not move inside a sequence. Nobody looks at the lens at any point.
-
-POSITIVE CONSTRAINTS below apply in full.
 
 LOCATION @RedHouseInterior — one downstairs room of an old cottage: cracked plaster written over from skirting to a man's height in dense dark red looping cursive strokes; wide worn boards; a written staircase; a small window, black night behind.
 
@@ -306,8 +302,6 @@ CROSS-FRAME RULES Same room, wall and strokes in both shots. She is alone. The w
 CONTINUITY — WHAT MUST NOT DRIFT
 Wardrobe, hair, dirt, damage and wear are exactly as the references define them and do not improve, clean themselves up or change between shots. Nobody is better groomed, better lit, better dressed or better rested than in the shot before. Props stay where the prop layout puts them. Weather, time of day and light level do not move inside a sequence. Nobody looks at the lens at any point.
 
-POSITIVE CONSTRAINTS below apply in full.
-
 LOCATION @RedHouseInterior — one downstairs room of an old cottage: cracked plaster written over from skirting to a man's height in dense dark red looping cursive strokes; wide worn boards; a written staircase; a small window, black night behind.
 
 LIGHT Until [9.0s] one source, the bare bulb off frame: a hard cone raking the strokes, corners black.
@@ -418,8 +412,6 @@ CROSS-FRAME RULES Same room as its reference, props unmoved, bulb dead. She is a
 CONTINUITY — WHAT MUST NOT DRIFT
 Wardrobe, hair, dirt, damage and wear are exactly as the references define them and do not improve, clean themselves up or change between shots. Nobody is better groomed, better lit, better dressed or better rested than in the shot before. Props stay where the prop layout puts them. Weather, time of day and light level do not move inside a sequence. Nobody looks at the lens at any point.
 
-POSITIVE CONSTRAINTS below apply in full.
-
 LOCATION @RedHouseInterior — one downstairs room of an old cottage: cracked plaster written over from skirting to a man's height in dense dark red looping cursive strokes; wide worn boards; a written staircase; a small window, black night behind.
 
 LIGHT No source: the room is lit by nothing but the writing itself, every stroke glowing faintly from within, low and even, the colour of embers under ash, far too dim and too soft for any stroke to be read.
@@ -528,8 +520,6 @@ CROSS-FRAME RULES Same room and glow as the start frame, no stroke moved or adde
 
 CONTINUITY — WHAT MUST NOT DRIFT
 Wardrobe, hair, dirt, damage and wear are exactly as the references define them and do not improve, clean themselves up or change between shots. Nobody is better groomed, better lit, better dressed or better rested than in the shot before. Props stay where the prop layout puts them. Weather, time of day and light level do not move inside a sequence. Nobody looks at the lens at any point.
-
-POSITIVE CONSTRAINTS below apply in full.
 
 LOCATION @RedHouseInterior — one downstairs room of an old cottage: cracked plaster written over from skirting to a man's height in dense dark red looping cursive strokes; wide worn boards; a written staircase; a small window, black night behind.
 
@@ -642,8 +632,6 @@ CROSS-FRAME RULES Same girl, face and wardrobe as her reference; she is alone, n
 CONTINUITY — WHAT MUST NOT DRIFT
 Wardrobe, hair, dirt, damage and wear are exactly as the references define them and do not improve, clean themselves up or change between shots. Nobody is better groomed, better lit, better dressed or better rested than in the shot before. Props stay where the prop layout puts them. Weather, time of day and light level do not move inside a sequence. Nobody looks at the lens at any point.
 
-POSITIVE CONSTRAINTS below apply in full.
-
 LOCATION @RedHouseInterior — one downstairs room of an old cottage: cracked plaster written over from skirting to a man's height in dense dark red looping cursive strokes; wide worn boards; a written staircase; a small window, black night behind.
 
 LIGHT No source at all: the room is lit by nothing but the writing itself, every stroke glowing faintly from within, low and even, the colour of embers under ash, far too dim and too soft for any stroke to be read.
@@ -755,8 +743,6 @@ CROSS-FRAME RULES Same room and glow as the start frame; she is alone. The writi
 CONTINUITY — WHAT MUST NOT DRIFT
 Wardrobe, hair, dirt, damage and wear are exactly as the references define them and do not improve, clean themselves up or change between shots. Nobody is better groomed, better lit, better dressed or better rested than in the shot before. Props stay where the prop layout puts them. Weather, time of day and light level do not move inside a sequence. Nobody looks at the lens at any point.
 
-POSITIVE CONSTRAINTS below apply in full.
-
 LOCATION @RedHouseInterior — one downstairs room of an old cottage: cracked plaster written over from skirting to a man's height in dense dark red looping cursive strokes; wide worn boards; a written staircase; a small window, black night behind.
 
 LIGHT No source at all: the room is lit by nothing but the writing itself, every stroke glowing faintly from within, low and even, the colour of embers under ash, far too dim and too soft for any stroke to be read.
@@ -864,8 +850,6 @@ CROSS-FRAME RULES The same street throughout, receding in one direction only. No
 CONTINUITY — WHAT MUST NOT DRIFT
 Wardrobe, hair, dirt, damage and wear are exactly as the references define them and do not improve, clean themselves up or change between shots. Nobody is better groomed, better lit, better dressed or better rested than in the shot before. Props stay where the prop layout puts them. Weather, time of day and light level do not move inside a sequence. Nobody looks at the lens at any point.
 
-POSITIVE CONSTRAINTS below apply in full.
-
 LOCATION @RedHouseExterior — a poor terraced street, grey rendered fronts, wet black road, dished kerbstones, one sodium lamp, dead cars; the red house at its dead end.
 
 LIGHT Two sources: the sodium lamp on the wet road, and the dim red of the open doorway, shrinking.
@@ -968,8 +952,6 @@ CROSS-FRAME RULES The same town for the whole climb, one continuous viewpoint. N
 
 CONTINUITY — WHAT MUST NOT DRIFT
 Wardrobe, hair, dirt, damage and wear are exactly as the references define them and do not improve, clean themselves up or change between shots. Nobody is better groomed, better lit, better dressed or better rested than in the shot before. Props stay where the prop layout puts them. Weather, time of day and light level do not move inside a sequence. Nobody looks at the lens at any point.
-
-POSITIVE CONSTRAINTS below apply in full.
 
 LOCATION A poor northern town at night from the air, underexposed: slate roofs, black streets, sodium lamps as small orange grains, no landmark, no red anywhere.
 
@@ -1079,8 +1061,6 @@ CROSS-FRAME RULES @BusShelter is the same shelter as its reference. The man is t
 
 CONTINUITY — WHAT MUST NOT DRIFT
 Wardrobe, hair, dirt, damage and wear are exactly as the references define them and do not improve, clean themselves up or change between shots. Nobody is better groomed, better lit, better dressed or better rested than in the shot before. Props stay where the prop layout puts them. Weather, time of day and light level do not move inside a sequence. Nobody looks at the lens at any point.
-
-POSITIVE CONSTRAINTS below apply in full.
 
 LOCATION @BusShelter — a steel and glass shelter at the edge of town under a single sodium lamp, one bench, a blank milky light box with no lettering, a bolted bin, black road, black fields beyond.
 
@@ -1284,8 +1264,6 @@ CROSS-FRAME RULES The same shelter in all three shots; the blankets keep their f
 CONTINUITY — WHAT MUST NOT DRIFT
 Wardrobe, hair, dirt, damage and wear are exactly as the references define them and do not improve, clean themselves up or change between shots. Nobody is better groomed, better lit, better dressed or better rested than in the shot before. Props stay where the prop layout puts them. Weather, time of day and light level do not move inside a sequence. Nobody looks at the lens at any point.
 
-POSITIVE CONSTRAINTS below apply in full.
-
 LOCATION @BusShelter — rusted chipped steel frame, glass clouded with scratches and grime, a bench of worn timber slats, a blank white light box with no image and no lettering, a leaning timetable pole with an empty fogged frame, a wet empty road, a dark warehouse mass behind. No red anywhere. No readable text, no lettering, no signage with words, no logos.
 
 LIGHT One source only: that sodium lamp, a hard cone falling down and a little forward, raking his forehead and wet hair, doubling in the shelter glass and the wet asphalt, dying fast at the bench edge so the road behind is near-black. In shot 2 it falls flat on the backs of his hands and the stain reads dry opaque brown-black, never red. In shot 3 the lifting head brings the eyes INTO the cone: because the lamp stands a little forward the brow does not shadow the sockets and the light finds the wet at the lower lids. No fill, no second source.
@@ -1426,8 +1404,6 @@ CROSS-FRAME RULES The same house across all four shots. Shot 1 begins on the ref
 
 CONTINUITY — WHAT MUST NOT DRIFT
 Wardrobe, hair, dirt, damage and wear are exactly as the references define them and do not improve, clean themselves up or change between shots. Nobody is better groomed, better lit, better dressed or better rested than in the shot before. Props stay where the prop layout puts them. Weather, time of day and light level do not move inside a sequence. Nobody looks at the lens at any point.
-
-POSITIVE CONSTRAINTS below apply in full.
 
 LOCATION Shots 1 and 4, @NoraBedroom's landing — bare boards worn pale along the walk-line, chipped skirting, a many-times-repainted panel door with a tarnished handle, the stair rail post at the far corner. Shot 2, @Kitchen at night as a workbench — a scrubbed wooden table, grey grouting, the window black. Shot 3, @Bathroom in flat daylight — a mirror over a basin, silvering bloomed black at two corners, cracked white tiles, a frosted window. No readable text, no lettering, no labels, no logos.
 
@@ -1586,8 +1562,6 @@ CROSS-FRAME RULES Shots 1 and 2 are THE SAME ROOM at two states months apart —
 CONTINUITY — WHAT MUST NOT DRIFT
 Wardrobe, hair, dirt, damage and wear are exactly as the references define them and do not improve, clean themselves up or change between shots. Nobody is better groomed, better lit, better dressed or better rested than in the shot before. Props stay where the prop layout puts them. Weather, time of day and light level do not move inside a sequence. Nobody looks at the lens at any point.
 
-POSITIVE CONSTRAINTS below apply in full.
-
 LOCATION Shots 1-2, @RedHouseInterior v2 — one downstairs room, cracked and patched plaster, wide old floorboards, a staircase at the back, one naked bulb on a flex. Shot 3, @AnnaKitchen — worn oilcloth on a small table, a cast-iron stove behind its grate, unlit. Shot 4, @Restaurant closed for the afternoon — formica tables with chairs up on all but one, a lacquered counter, a dark fish tank, a beaded curtain, paper lanterns switched off, a roller blind half down. Shot 5, @LibraryCorridor's service corridor — dark varnished shelf ends, worn herringbone parquet, a grey window at the far end. No readable text, no lettering, no menus with words, no logos.
 
 LIGHT Shot 1: the naked bulb alone, small and hard, lighting the plaster flat and pitilessly for two metres and dying fast, the ceiling and far corners near-black. Shot 2: the same bulb until [6.5s], raking the strokes into relief; then it dies and for one beat the only light is the doorway's weak grey; then the painted strokes carry a faint even luminance of their own, dim and matte, ember-red, no beam, no flare, strongest on the ceiling. Shots 3-4: flat grey daylight, shadowless and cold, no lamp on anywhere — nothing is pretty, the warmth is entirely in the faces. Shot 5: the grey window at the corridor's end, flat and cold, the coat in pure backlight so its red is eaten to umber-brown.
@@ -1716,8 +1690,6 @@ CROSS-FRAME RULES One continuous take: framing, camera height and off-centre cro
 CONTINUITY — WHAT MUST NOT DRIFT
 Wardrobe, hair, dirt, damage and wear are exactly as the references define them and do not improve, clean themselves up or change between shots. Nobody is better groomed, better lit, better dressed or better rested than in the shot before. Props stay where the prop layout puts them. Weather, time of day and light level do not move inside a sequence. Nobody looks at the lens at any point.
 
-POSITIVE CONSTRAINTS below apply in full.
-
 LOCATION The @HospitalCorridor side of a closed hospital room door with a wired-glass window — heavy laminate door, chipped paint edge, dulled steel push plate, diamond wire mesh, cleaning smears and edge condensation, the scuffed corridor wall at frame-left; @HospitalRoom beyond the glass — the raised bed, the small warm bed lamp, the voile blind. Signage green. Nothing readable anywhere.
 
 LIGHT Corridor side: cold green fluorescent tubes overhead behind the camera, even and shadowless, their reflections lying across the wired glass and sliding faintly. Room side, through the glass: the small bed lamp behind and left of the two figures throws a low amber that models her face from the side, catches the wet on his cheek and warms the muted crimson of the scarf. The glass holds the two temperatures apart — the cold in front, the last warmth of the act behind it, out of reach.
@@ -1833,8 +1805,6 @@ CROSS-FRAME RULES ONE unbroken take: no cut, no dissolve, no reframe, no change 
 
 CONTINUITY — WHAT MUST NOT DRIFT
 Wardrobe, hair, dirt, damage and wear are exactly as the references define them and do not improve, clean themselves up or change between shots. Nobody is better groomed, better lit, better dressed or better rested than in the shot before. Props stay where the prop layout puts them. Weather, time of day and light level do not move inside a sequence. Nobody looks at the lens at any point.
-
-POSITIVE CONSTRAINTS below apply in full.
 
 LOCATION @BusShelter at night — rusted chipped steel frame, glass clouded with scratches and grime, a bench of worn timber slats, a blank white light box with no image and no lettering, switched off, wet asphalt, a dark warehouse mass behind, ground mist low on the road. No red anywhere. No readable text, no lettering, no signage with words, no logos.
 

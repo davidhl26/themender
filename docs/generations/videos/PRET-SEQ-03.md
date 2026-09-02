@@ -77,8 +77,6 @@ CROSS-FRAME RULES @Kitchen is the same kitchen as the earlier mornings — same 
 CONTINUITY — WHAT MUST NOT DRIFT
 Wardrobe, hair, dirt, damage and wear are exactly as the references define them and do not improve, clean themselves up or change between shots. Nobody is better groomed, better lit, better dressed or better rested than in the shot before. Props stay where the prop layout puts them. Weather, time of day and light level do not move inside a sequence. Nobody looks at the lens at any point.
 
-POSITIVE CONSTRAINTS below apply in full.
-
 LOCATION @Kitchen — the same worn working-class kitchen as the earlier mornings: the counter and enamel sink under the east window; painted tongue-and-groove walls in faded sage, chipped and repainted along their edges; the open shelves of cream and blue crockery slightly crooked on their brackets; the tile floor scuffed, its grout greyed; the small radio playing low at the counter's end; the cold cast-iron pan on the range; the worn wooden table behind, bare, its varnish rubbed through at the four places where a family eats. No toaster exists in this kitchen. Nothing readable anywhere.
 
 LIGHT One source: the single east window, its morning sun filtered through thin high cloud — the gold thinned to pale straw-white. The bar of light enters from screen-left, crosses the counter and just clips the cup, laying a soft white line along the porcelain's shoulder and a pale sheen on the milk; dust drifts visibly inside the bar; the rest of the room falls to deep soft shadow in the corners — still domestic, never murky. No flame under the pan, no lamp lit. The bar is weaker, milkier, cooler than the earlier mornings; the room a shade colder than it has ever been.
@@ -202,8 +200,6 @@ CROSS-FRAME RULES One continuous take: the framing, the camera height and the fo
 CONTINUITY — WHAT MUST NOT DRIFT
 Wardrobe, hair, dirt, damage and wear are exactly as the references define them and do not improve, clean themselves up or change between shots. Nobody is better groomed, better lit, better dressed or better rested than in the shot before. Props stay where the prop layout puts them. Weather, time of day and light level do not move inside a sequence. Nobody looks at the lens at any point.
 
-POSITIVE CONSTRAINTS below apply in full.
-
 LOCATION @HospitalCorridor — the corridor of the reference Element by day: the row of empty moulded plastic chairs against one wall, seats dulled by cleaning; closed laminate doors receding, kick plates scratched; the handrail with its scuffed grey bumper strip; the linen trolley far off, chrome dulled, canvas slack; the polished vinyl floor with faint buffer swirls; blank green exit pictograms with no words; the window at the far end. Nothing readable anywhere.
 
 LIGHT Two sources: the run of overhead fluorescent tubes in their prismatic diffusers, slightly green, laying an even, shadowless wash down the corridor and doubling as long soft streaks in the buffed vinyl; and the far window, blown out to a flat white rectangle that backlights the two men and hazes their edges. The white coat takes the tubes' faint green cast; no shadow is deeper than a half-tone; the whole corridor is pallid, cold and even — drained, bloodless, no warmth anywhere.
@@ -322,8 +318,6 @@ CROSS-FRAME RULES One continuous take: the framing, the camera height and the fo
 
 CONTINUITY — WHAT MUST NOT DRIFT
 Wardrobe, hair, dirt, damage and wear are exactly as the references define them and do not improve, clean themselves up or change between shots. Nobody is better groomed, better lit, better dressed or better rested than in the shot before. Props stay where the prop layout puts them. Weather, time of day and light level do not move inside a sequence. Nobody looks at the lens at any point.
-
-POSITIVE CONSTRAINTS below apply in full.
 
 LOCATION @HospitalRoom — the room of the reference Element: the adjustable bed with chipped enamel rails and white sheets laundered stiff; the bedside monitor with pale sea-green traces, its housing faintly yellowed; the chromed IV stand and its thin clear line; the plastic visitor chair dulled by cleaning, empty and out of this frame; the voiled north window, the voile greyed at its hem; pale green-grey walls scuffed at bed height; a hard welded-vinyl floor hazed with mop swirls. Nothing readable anywhere — no charts, no labels.
 
@@ -462,8 +456,6 @@ CROSS-FRAME RULES All three shots are the same @HospitalRoom of the reference El
 CONTINUITY — WHAT MUST NOT DRIFT
 Wardrobe, hair, dirt, damage and wear are exactly as the references define them and do not improve, clean themselves up or change between shots. Nobody is better groomed, better lit, better dressed or better rested than in the shot before. Props stay where the prop layout puts them. Weather, time of day and light level do not move inside a sequence. Nobody looks at the lens at any point.
 
-POSITIVE CONSTRAINTS below apply in full.
-
 LOCATION @HospitalRoom — the room of the reference Element: the adjustable bed with chipped enamel rails and white sheets laundered stiff; the bedside monitor with pale sea-green traces, its housing faintly yellowed; the chromed IV stand and its thin clear line; the plastic visitor chair dulled by cleaning, empty and out of frame; the voiled north window, the voile greyed at its hem; pale green-grey walls scuffed at bed height, the touch-up rectangles almost matching; a hard welded-vinyl floor hazed with mop swirls. Nothing readable anywhere — no charts, no labels.
 
 LIGHT Two sources in frame: the north window, its daylight diffused twice — by the sky and by the voile — into a broad, directionless pale wash across the bed and the sheet; and the overhead fluorescent, filling what little shadow the window leaves. The sheet holds the highest values in the insert, and the ring takes one small cold highlight off it — the only specular point in the whole block. The faces sit a half-tone below the linen, even and unmodelled. No contrast, no lamp warmth anywhere in frame — the crimson wool absorbs the cold light and stays deep: the only warm value in the image.
@@ -587,8 +579,6 @@ CROSS-FRAME RULES One continuous take: the framing, the camera height and the of
 
 CONTINUITY — WHAT MUST NOT DRIFT
 Wardrobe, hair, dirt, damage and wear are exactly as the references define them and do not improve, clean themselves up or change between shots. Nobody is better groomed, better lit, better dressed or better rested than in the shot before. Props stay where the prop layout puts them. Weather, time of day and light level do not move inside a sequence. Nobody looks at the lens at any point.
-
-POSITIVE CONSTRAINTS below apply in full.
 
 LOCATION The @HospitalCorridor side of a closed hospital room door with a wired-glass window — heavy laminate door, chipped paint edge, dulled steel push plate, scratched kick plate, the diamond wire mesh in the pane, cleaning smears and edge condensation on the glass, the scuffed corridor wall soft at frame-left; @HospitalRoom beyond the glass — the raised bed, the small warm bed lamp, the voile blind. Nothing readable anywhere.
 
@@ -721,8 +711,6 @@ CROSS-FRAME RULES Both segments are the same @HospitalCorridor of the reference 
 
 CONTINUITY — WHAT MUST NOT DRIFT
 Wardrobe, hair, dirt, damage and wear are exactly as the references define them and do not improve, clean themselves up or change between shots. Nobody is better groomed, better lit, better dressed or better rested than in the shot before. Props stay where the prop layout puts them. Weather, time of day and light level do not move inside a sequence. Nobody looks at the lens at any point.
-
-POSITIVE CONSTRAINTS below apply in full.
 
 LOCATION @HospitalCorridor — the corridor of the reference Element: the row of moulded plastic chairs against one wall, seats dulled by years of cleaning; closed laminate doors receding, kick plates scratched; the door with the wired-glass window at the near right of segment 1; the handrail's scuffed grey bumper strip; the polished vinyl floor doubling the tubes in long soft streaks; blank green exit pictograms with no words. Nothing readable anywhere.
 
