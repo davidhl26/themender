@@ -61,6 +61,135 @@ THE SAME NEW ENGLAND widow's kitchen as the reference image, nothing changed —
 ```
 
 ---
+
+# LE PLAN DE MASSE — QUI EST OÙ, ET QUI BOUGE *(ajouté 02/09, demande David)*
+
+> Les images du lieu sont **vides** (règle du projet). Ce plan est le chaînon manquant : il dit où
+> vivent les corps dans cette géométrie, et il vaut pour **toutes** les générations qui s'y jouent.
+> Il n'invente rien — il est **extrait des blocs 4B, 4C, 4D et 10G-1**.
+
+## La pièce, vue de la porte
+
+```
+                       MUR DU FOND — fenêtre + dentelle
+    ┌──────────────────────────────────────────────────────────┐
+    │                                                          │
+    │   ▓▓▓ DRESSER (vaisselle, photos retournées)   ▒▒ POÊLE ▒│  ← MUR DROIT
+    │        · le plat blanc y est posé en 4B ·      grille    │
+    │                                                ambre    │
+    │                    ┌──────────┐                          │
+    │       [ NORA ]     │  TABLE   │      [ ANNA ]            │
+    │      côté PORTE    │ toile    │   côté POÊLE             │
+    │                    │  cirée   │                          │
+    │                    └──────────┘                          │
+    │                    ampoule ↑ au-dessus du centre         │
+    │                                                          │
+    │  ▓ PORTE ▓ ouverte sur le noir du couloir                │
+    └──────────────────────────────────────────────────────────┘
+       MUR GAUCHE
+```
+
+**L'axe, une fois pour toutes :** **la porte est à gauche, le poêle à droite.**
+**Anna s'assied côté poêle. Nora s'assied côté porte.**
+
+Ce n'est pas arbitraire, et ça se voit à l'écran sans qu'on l'explique :
+**Anna a le feu derrière elle — elle reste. Nora a la porte noire derrière elle — elle partira.**
+
+## Où chacune se tient, plan par plan
+
+| Bloc | Plan | @Anna | @Nora |
+|---|---|---|---|
+| **4B** | 1 | **DEBOUT** dans l'embrasure, x=30 %, 62 % de hauteur, 3/4 caméra, une main sur le battant → recule d'un pas à sa gauche | **DEBOUT**, entre par la porte à x=36 %, 74 % de hauteur, 3/4 dos, le plat blanc à plat contre le ventre → traverse vers le dresser à droite, y pose le plat |
+| **4B** | 2 | **ASSISE** de profil, x=26 %, 66 % de hauteur, face écran-droite | **DEBOUT** x=72 %, profil face écran-gauche → **s'assied** à [8,0-9,2 s], les deux avant-bras sur la table |
+| **4B** | 3 | Ses deux mains gonflées entrent par le haut du cadre, x=48 %, autour de sa tasse craquelée | hors champ |
+| **4C** | 2 | **ASSISE**, x=54 %, 78 % de hauteur, les deux mains autour de la tasse, les yeux baissés sur le dessin | hors champ |
+| **4C** | 3 | **ASSISE**, mains autour de la tasse, les yeux descendent de la fille vers le papier | **ASSISE**, x=22 %, **de dos et 3/4 dos, hors foyer**, 62 % de hauteur, sa tasse arrêtée à 10 cm de sa bouche |
+| **4D** | 1 | **ASSISE** de profil, x=26 %, 66 % de hauteur, face écran-droite, les deux mains autour de sa tasse | **ASSISE** de profil, x=72 %, 64 % de hauteur |
+| **4D** | 2 | **absente du cadre, et n'y entre jamais** | **DEBOUT** x=40 % dans l'embrasure, dos caméra, 82 % de hauteur, remonte sa parka sur les épaules → sort à [9,6 s] |
+
+## LA LIGNE DES 180° — la loi de découpage de cette scène
+
+C'est **la** chose qui sépare une couverture de studio d'un montage amateur, et c'est ce qui
+manquait ici. On la pose une fois, elle ne se discute plus.
+
+```
+        [ NORA ]  ●━━━━━━━━━━━━━━━━━━━━━━━━━━━━━●  [ ANNA ]
+                       ↑  LA LIGNE  ↑
+    ═══════════════════════════════════════════════════════════
+     TOUTES LES CAMÉRAS VIVENT DE CE CÔTÉ. AUCUNE NE PASSE AU-DESSUS.
+              ▲ angle B          ▲ angle D          ▲ angle C
+           (sur Anna)         (les deux)         (sur Nora)
+```
+
+**La ligne relie les yeux d'Anna et ceux de Nora.** Tant que toutes les caméras restent du même
+côté, deux conséquences tiennent d'elles-mêmes, et c'est ce qui fait que les plans se collent :
+
+- **Anna regarde toujours vers l'écran-DROITE.** Sans exception, dans tous les plans.
+- **Nora regarde toujours vers l'écran-GAUCHE.** Sans exception.
+
+Deux regards qui se répondent d'un plan à l'autre = deux personnes assises face à face.
+**Un seul plan qui franchit la ligne et elles se retrouvent à regarder du même côté** — le
+spectateur ne saura pas dire pourquoi, mais il sentira que quelque chose cloche. C'est l'erreur
+la plus visible et la plus fréquente du montage dialogué.
+
+*(Vérification : 4C plan 2 met Anna à x=54 % ; 4C plan 3 met Nora à x=22 %. Elles sont chacune du
+côté du cadre qui laisse l'espace du regard devant elles. La ligne tient.)*
+
+## LA COUVERTURE — l'ordre dans lequel un studio filme cette scène
+
+Trois valeurs, trois focales, et la focale se resserre à mesure que la scène se resserre.
+**Ce n'est pas décoratif : c'est le récit qui commande l'objectif.**
+
+| | Valeur | Focale | Hauteur d'œil | Ce que ça dit |
+|---|---|---|---|---|
+| **1** | Plan large — 4B | **50 mm** | 160 cm, debout | On situe. La pièce compte encore autant que les corps. |
+| **2** | Two-shot de profil — 4B pl. 2, 4D pl. 1 | **50 → 85 mm** | **115 cm, assis** | La caméra s'assied avec elles. On est à table, plus à la porte. |
+| **3** | Serrés croisés — 4C, 4D | **85 mm** | **115 cm, assis** | La pièce disparaît derrière le flou. Il ne reste que deux visages. |
+
+**La hauteur d'œil ne bouge plus une fois assis : 115 cm partout.** C'est ce qui permet aux deux
+serrés de se raccorder — deux gros plans pris à des hauteurs différentes ne se regardent pas,
+ils se croisent. *(Neuf plans de la séquence sont déjà écrits à 115 cm : c'est le bon réflexe,
+il faut juste ne jamais en sortir.)*
+
+**La focale ne recule jamais.** 50 → 85, et on ne redescend pas. Un retour au large après un
+gros plan relâche la tension qu'on vient de construire.
+
+## LA DIRECTION D'ÉCRAN — Nora entre et sort par la gauche
+
+La porte est à gauche. Donc :
+
+- Nora **entre** par la gauche *(4B plan 1)*
+- Nora **sort** par la gauche *(4D plan 2)*
+
+Elle repart par où elle est venue, et le cadre le dit sans un mot. **Ne jamais la faire sortir
+par la droite** : le spectateur lirait qu'elle va ailleurs, pas qu'elle rentre chez elle.
+
+## Les trois lois de posture *(elles tiennent tout le raccord)*
+
+1. **Anna est DEBOUT au plan 1 de 4B, ASSISE partout ailleurs.** Le changement se fait **dans la
+   coupe franche** entre les plans 1 et 2 — jamais à l'image, jamais deux fois.
+2. **Anna ne se lève plus jamais.** Elle ne suit pas la fille, ne va pas à la porte, ne se penche
+   pas par-dessus la table, ne tend pas la main vers elle. *(C'est ce qui rend la scène juste :
+   elle donne la raison, elle ne console pas.)*
+3. **Nora est la seule qui se déplace.** Elle entre, elle pose, elle s'assied, elle se lève,
+   elle sort. Anna occupe la même chaise du début à la fin.
+
+## ⚠ UNE CONTRADICTION TROUVÉE EN ÉCRIVANT CE PLAN — À TRANCHER
+
+L'**IMAGE 5** place *« the stove's amber grate a soft glow in the background at **screen-right** »*.
+Mais le bloc **4D plan 1**, dont l'IMAGE 5 est le repère, place **Anna à x=26 %, écran-GAUCHE**.
+Or l'**IMAGE 4** dit *« the stove is behind camera »* quand la caméra est **à la place d'Anna** —
+donc le poêle est **derrière Anna**.
+
+**Les trois ne peuvent pas être vraies ensemble.** Si le poêle est derrière Anna et qu'Anna est
+écran-gauche, alors dans le two-shot de profil le poêle est **écran-GAUCHE**, pas droite.
+
+**Correction proposée : basculer le poêle à écran-gauche dans l'IMAGE 5 seule.**
+C'est le point le moins cher — l'IMAGE 5 n'est *jamais* un premier plan, seulement un repère —
+et c'est le seul choix qui garde l'axe « Anna côté feu / Nora côté porte », qui est ce que le
+plan 4D raconte. **Coût : 14 crédits, une image.** Rien d'autre ne bouge.
+
+---
 **Notes** :
 - **Start frames ↔ générations** : IMAGE 2 → 4B plan 1 (medium wide vers la porte) · IMAGE 3 → 4C-1 plan 1 (l'axe du medium close-up sur Anna, réutilisé en 4C-2 plan 2, 4C-3 plan 3, 4D plan 2) · IMAGE 4 → 4C-3 plan 1 et 4D plan 1 (l'axe du close-up sur Nora, « shot from Anna's side of the table ») · IMAGE 5 = repère du two-shot de profil (4B plan 2, 4C-1 plan 3, et 10G-1 plan 14 en séq. 10) — jamais premier plan d'une génération.
 - **Set dressing vidéo — JAMAIS dans le lieu vide** : le dessin `@AnnaDrawing` posé à plat sur la toile cirée (côté Nora, jamais touché), la théière d'aluminium cabossée, les deux tasses dépareillées, le plat casserole blanc sur le dresser (à partir de 4B), et en 10G-1 les deux verres de thé et la feuille manuscrite (texture, jamais lisible). Tout cela vit dans les PROP LAYOUT des blocs vidéo.
