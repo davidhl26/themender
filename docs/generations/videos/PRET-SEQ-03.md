@@ -24,6 +24,18 @@
 
 
 ## VIDÉO 3A — plan 3.1 « La tasse » *(10 s de rushes → 5 s au montage — LE seul ralenti du film · Elements : @Maeve + @Kitchen · Lens Anamorphic 40 mm f/2.8 · start frame : aucune)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 10 s |
+| **Éléments** | @Maeve + @Kitchen |
+| **`start_image`** | aucune |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -150,6 +162,18 @@ dans le film il reste interdit. Si le modèle abuse de la rampe : resserrer `[2.
 
 
 ## VIDÉO 3B — plan 3.2 « La conversation muette » *(10 s de rushes → 6 s au montage · ⚠ CADRE À VERROUILLER — rejoué au pixel en 4.3b · Elements : @SamBefore + @NoraBefore + @HospitalCorridor · Lens Anamorphic 85 mm f/2 · start frame : LIEU-05 IMAGE 2)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 10 s |
+| **Éléments** | @SamBefore + @NoraBefore + @HospitalCorridor |
+| **`start_image`** | LIEU-05 IMAGE 2 |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -270,6 +294,18 @@ médecin en pleine phrase attirent l'œil sur une bouche muette et le spectateur
 
 
 ## VIDÉO 3C — plan 3.3 « Tu m'écrases » *(8 s de rushes → 5 s au montage · Elements : @MaeveIll + @MiloBefore + @HospitalRoom · Lens Anamorphic 50 mm f/2 · start frame : LIEU-04 IMAGE 2)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 8 s |
+| **Éléments** | @MaeveIll + @MiloBefore + @HospitalRoom |
+| **`start_image`** | LIEU-04 IMAGE 2 |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -389,6 +425,18 @@ modèle une fin de plan à jouer, et pour la réserve si le raccord vers 3D para
 
 
 ## VIDÉO 3D — plan 3.4 « La bague » *(10 s de rushes → 6 s au montage · ⚠ PLAN NEUF — REFONTE DU 31/08 · Elements : @MaeveIll + @NoraBefore + @MotherRing + @HospitalRoom · Lens Anamorphic 50 mm f/2 · start frame : LIEU-04 IMAGE 2 — shots 2 et 3 après hard cut interne, sans start frame)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 10 s |
+| **Éléments** | @MaeveIll + @NoraBefore + @MotherRing + @HospitalRoom |
+| **`start_image`** | LIEU-04 IMAGE 2 — shots 2 et 3 après hard cut interne, sans start frame |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -528,6 +576,18 @@ avant la parole doit être dans le plan, sinon la bouche s'ouvre sans raison.*
 
 
 ## VIDÉO 3E — plan 3.5 « La vitre » — **LA PLAQUE** *(10 s de rushes → 3 s dans 3.5 ET 8 s dans 10.10 · Elements : @MaeveIll + @SamBefore + @HospitalCorridor + @HospitalRoom au-delà de la vitre · Lens Anamorphic 50 mm f/2 · start frame : LIEU-05 IMAGE 3)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 10 s |
+| **Éléments** | @MaeveIll + @SamBefore + @HospitalCorridor + @HospitalRoom |
+| **`start_image`** | LIEU-05 IMAGE 3 |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -654,6 +714,18 @@ ailleurs. **Le fichier doit rester intact et non réencodé entre les deux usage
 
 
 ## VIDÉO 3F — plans 3.5 (contrechamp) + 3.6 « Elle détourne les yeux · le rouge sort » *(10 s de rushes → 3 s dans 3.5 + 3 s en 3.6 · Elements : @NoraBefore + @SamBefore (main seule, seg. 2) + @HospitalCorridor · Lens Anamorphic 85 mm f/2 · start frame : LIEU-05 IMAGE 4 pour le shot 1 — shot 2 après hard cut interne, sans start frame)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 10 s |
+| **Éléments** | @NoraBefore + @SamBefore + @HospitalCorridor |
+| **`start_image`** | LIEU-05 IMAGE 4 pour le shot 1 — shot 2 après hard cut interne, sans start frame |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT

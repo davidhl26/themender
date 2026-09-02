@@ -24,6 +24,18 @@
 
 
 ## VIDÉO 7A — plans 7.1 + 7.2 + 7.3 « Elle cherche encore » *(12 s générées · 7,5 s au montage — trois plans, deux hard cuts, 3 s → 2,5 s → 2 s · Elements : @Nora + @BackGallery + @Kitchen — la boîte aux lettres est décrite dans le bloc, sans Élément · start frame : aucune)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 12 s |
+| **Éléments** | @Nora + @BackGallery + @Kitchen |
+| **`start_image`** | aucune |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -159,6 +171,18 @@ visible camera rigs, cartoonish colors, blurred focus on her, on-screen text, su
 
 
 ## VIDÉO 7B — plans 7.4 + 7.5 « Elle ne regarde plus » *(10 s générées · 3,5 s au montage — deux plans, un hard cut, 1,5 s → 2 s · Elements : @Nora + @BackGallery + @NoraBedroom — la boîte aux lettres est décrite dans le bloc, sans Élément · start frame : aucune)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 10 s |
+| **Éléments** | @Nora + @BackGallery + @NoraBedroom |
+| **`start_image`** | aucune |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT

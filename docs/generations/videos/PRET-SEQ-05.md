@@ -24,6 +24,18 @@
 
 
 ## VIDÉO 5A — plan 5.1 « Les quatre tasses, puis trois » *(12 s de rushes → 5 s au montage · Elements : @Sam + @Nora + @Milo + @Mei + @Restaurant · start frame : LIEU-07 IMAGE 2)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 12 s |
+| **Éléments** | @Sam + @Nora + @Milo + @Mei + @Restaurant |
+| **`start_image`** | LIEU-07 IMAGE 2 |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -170,6 +182,18 @@ vérifier le raccord de jeu de Mei — même geste, deux vies.*
 
 
 ## VIDÉO 5B-1 — plan 5.2, première moitié *(10 s de rushes → 7,2 s au montage · Elements : @Nora + @Mei + @Asha + @Fatiha + @Restaurant · start frame : LIEU-07 IMAGE 4 — L'AXE UNIQUE DE 5.2)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 10 s |
+| **Éléments** | @Nora + @Mei + @Asha + @Fatiha + @Restaurant |
+| **`start_image`** | LIEU-07 IMAGE 4 — L'AXE UNIQUE DE 5.2 |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -302,6 +326,18 @@ invisible. **Sauvegarder le DERNIER FRAME de 5B-1 : il est la start frame de 5B-
 
 
 ## VIDÉO 5B-2 — plan 5.2, seconde moitié, jusqu'à « More tea? » *(8 s de rushes → 5,8 s au montage · Elements : @Nora + @Mei + @Asha + @Fatiha + @Restaurant · start frame : LE DERNIER FRAME DE 5B-1 — repli : LIEU-07 IMAGE 4)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 8 s |
+| **Éléments** | @Nora + @Mei + @Asha + @Fatiha + @Restaurant |
+| **`start_image`** | LE DERNIER FRAME DE 5B-1 — repli : LIEU-07 IMAGE 4 |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -438,6 +474,18 @@ femmes juste à temps pour « More tea? ». **Aucune parole n'est perdue** — l
 
 
 ## VIDÉO 5C — l'insert des mains de Sam *(6 s de rushes → 0,7 s au montage · Elements : @Sam + @Restaurant · aucune start frame — l'insert est décrit au prompt)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 6 s |
+| **Éléments** | @Sam + @Restaurant |
+| **`start_image`** | — l'insert est décrit au prompt |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -558,6 +606,18 @@ visage dans la tasse, **la prise est à jeter.***
 
 
 ## VIDÉO 5D — plan 5.3 « Le père qui coupe, et le trajet du regard » *(12 s de rushes → 6 s au montage · Elements : @Sam + @Nora + @Milo + @Mei + @Asha + @Fatiha + @Restaurant · start frame : LIEU-07 IMAGE 2)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 12 s |
+| **Éléments** | @Sam + @Nora + @Milo + @Mei + @Asha + @Fatiha + @Restaurant |
+| **`start_image`** | LIEU-07 IMAGE 2 |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -704,6 +764,18 @@ Milo et le trajet du script ne se joue pas.*
 
 
 ### VIDÉO 5D-bis — SECOURS du shot 2 de 5D *(6 s · à ne lancer QUE si le serré manque de longueur de focale, ou si le regard part vers la droite · Elements : @Nora + @Restaurant · start frame : aucune — cadre décrit au prompt · Lens Anamorphic **85 mm f/2**)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 6 s |
+| **Éléments** | @Nora + @Restaurant |
+| **`start_image`** | aucune — cadre décrit au prompt |
+| **`video_references`** | *aucune — c'est une tête de chaîne* |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT

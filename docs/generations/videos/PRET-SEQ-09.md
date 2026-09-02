@@ -24,6 +24,18 @@
 
 
 ## VIDÉO 9A — plan 9.1 « C'est elle qui traverse » *(10 s générées → 4,8 s au montage · Elements : @Nora + @SamSDF + @BusShelter · start frame : LIEU-14 IMAGE 2, telle quelle)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 10 s |
+| **Éléments** | @Nora + @SamSDF + @BusShelter |
+| **`start_image`** | LIEU-14 IMAGE 2, telle quelle |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -150,6 +162,18 @@ visible camera rigs, cartoonish colors, blurred focus, on-screen text, subtitles
 
 
 ## VIDÉO 9B — plan 9.2 « Got anything to eat? » *(14 s générées → 8,2 s au montage · Elements : @Nora + @SamSDF + @BusShelter · pas de start frame lieu — cadres serrés)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 14 s |
+| **Éléments** | @Nora + @SamSDF + @BusShelter |
+| **`start_image`** | aucune — ce plan démarre sans image de départ |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -303,6 +327,18 @@ visible camera rigs, cartoonish colors, blurred focus, on-screen text, subtitles
 
 
 ## VIDÉO 9C — plan 9.3 « Quand tu verras du rouge » *(10 s générées → 7,0 s au montage · Elements : @Nora + @SamSDF + @BusShelter · pas de start frame lieu ; LIEU-14 IMAGE 3 telle quelle en seconde référence — cible exacte du shot 8)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 10 s |
+| **Éléments** | @Nora + @SamSDF + @BusShelter |
+| **`start_image`** | aucune — ce plan démarre sans image de départ |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT

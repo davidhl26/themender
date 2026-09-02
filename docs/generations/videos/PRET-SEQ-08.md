@@ -24,6 +24,18 @@
 
 
 ## VIDÉO 8A — plan 8.1 « La bibliothèque » *(10 s de rushes → 5 s au montage · Elements : @Nora + @Mender + @LibraryCorridor · start frame : LIEU-11 IMAGE 2)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 10 s |
+| **Éléments** | @Nora + @Mender + @LibraryCorridor |
+| **`start_image`** | LIEU-11 IMAGE 2 |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -168,6 +180,18 @@ traversée, la prise est à refaire** — sinon 11.1 n'a plus rien à quoi répo
 
 
 ### VIDÉO 8A-bis — SECOURS de 8A *(5 s · à ne lancer QUE si le shot 2 de 8A rate : manteau trop petit, trop sombre, ou lu comme un simple passant · Elements : @Mender + @LibraryCorridor · start frame : LIEU-11 IMAGE 1, le master)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 5 s |
+| **Éléments** | @Mender + @LibraryCorridor |
+| **`start_image`** | LIEU-11 IMAGE 1, le master |
+| **`video_references`** | *aucune — c'est une tête de chaîne* |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -277,6 +301,18 @@ recollent derrière sans retouche.*
 
 
 ## VIDÉO 8B — plan 8.2 « Le couloir de la maison » *(10 s de rushes → 4 s au montage · Elements : @Nora + @Mender + @NoraBedroom · start frame : LIEU-08 IMAGE 4, le palier, porte entrouverte 10 cm)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 10 s |
+| **Éléments** | @Nora + @Mender + @NoraBedroom |
+| **`start_image`** | LIEU-08 IMAGE 4, le palier, porte entrouverte 10 cm |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -407,6 +443,18 @@ casserait le film. Contrôler image par image la fenêtre `[1.9-4.3s]`.*
 
 
 ### VIDÉO 8B-bis — SECOURS de 8B *(4 s · à ne lancer QUE si le manteau ne se lit pas au fond du couloir noir : rien de visible, ou une ombre informe · Elements : @Mender + @NoraBedroom · start frame : aucun — cadre décrit au prompt, à 2 m du coin)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 4 s |
+| **Éléments** | @Mender + @NoraBedroom |
+| **`start_image`** | aucun — cadre décrit au prompt, à 2 m du coin |
+| **`video_references`** | *aucune — c'est une tête de chaîne* |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -517,6 +565,18 @@ dans la bande-son ne trahit la coupe, et la fenêtre `[1.9-4.3s]` de 8B garde sa
 
 
 ## VIDÉO 8C — plan 8.3 « Le miroir » *(10 s de rushes → 5 s au montage · Elements : @Nora + @Bathroom · start frame : LIEU-10 IMAGE 2)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 10 s |
+| **Éléments** | @Nora + @Bathroom |
+| **`start_image`** | LIEU-10 IMAGE 2 |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -677,6 +737,18 @@ toute la durée. Les fragments ①, ③ et ④ ne bougent pas.*
 
 
 ### VIDÉO 8C-bis — SECOURS de 8C *(5 s · à ne lancer QUE si le miroir refuse d'accueillir des bandes horizontales nettes avec Nora dans le cadre · Elements : @Bathroom · start frame : LIEU-10 IMAGE 2)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 5 s |
+| **Éléments** | @Bathroom |
+| **`start_image`** | LIEU-10 IMAGE 2 |
+| **`video_references`** | *aucune — c'est une tête de chaîne* |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -786,6 +858,18 @@ prise est inutilisable telle quelle (règle G) et le POST ne pourra pas s'y cale
 
 
 ## VIDÉO 8D — plan 8.4 « La bague » *(8 s de rushes → 3 s au montage · Elements : @Nora + @NoraBedroom + @MotherRing · start frame : LIEU-08 IMAGE 3)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 8 s |
+| **Éléments** | @Nora + @NoraBedroom + @MotherRing |
+| **`start_image`** | LIEU-08 IMAGE 3 |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -923,6 +1007,18 @@ visible — en 9.2 elle n'existe que comme une forme dure sous le nylon.*
 
 
 ## VIDÉO 8E — plan 8.5 « Le bus de nuit » *(12 s de rushes → 6 s au montage · Elements : @Nora + @NightBus · start frame : LIEU-13 IMAGE 2 ; l'IMAGE 3 est l'axe du shot 4)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 12 s |
+| **Éléments** | @Nora + @NightBus |
+| **`start_image`** | LIEU-13 IMAGE 2 ; l'IMAGE 3 est l'axe du shot 4 |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT

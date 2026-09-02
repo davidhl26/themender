@@ -24,6 +24,18 @@
 
 
 ## VIDÉO 4A — plan 4.1 « Le cadre du père » *(10 s de rushes → 8 s au montage · Elements : @Nora + @NoraBedroom · start frame : LIEU-08 IMAGE 2, composition VERROUILLÉE)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 10 s |
+| **Éléments** | @Nora + @NoraBedroom |
+| **`start_image`** | LIEU-08 IMAGE 2, composition VERROUILLÉE |
+| **`video_references`** | *aucune — c'est une tête de chaîne* |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -137,6 +149,18 @@ a second person, a man in the hallway, a silhouette, a shadow crossing the light
 *⚠ **RÈGLE ZÉRO — LE PLAN LE PLUS DANGEREUX DU DOCUMENT.** Le couloir est vide, il le reste, et **aucune fiche Sam (@Sam, @SamBefore, @SamSDF, @Mender) n'est chargée en Élément dans cette génération.** Contrôles sur le rush : ① aucun corps, aucune manche, aucune épaule à un bord de cadre ; ② aucune ombre portée dans la bande de lumière ; ③ aucun craquement de plancher, aucun souffle qui ne soit pas le sien ; ④ Nora ne tourne jamais la tête vers la porte. Un seul frame où elle a l'air d'entendre quelqu'un derrière le battant, et le film change de sujet.*
 
 ## VIDÉO 4B — plans 4.2 + 4.3 « L'accueil, et l'entrée dans le dessin » *(15 s de rushes → 10 s au montage · Elements : @Nora + @Anna + @AnnaKitchen + @AnnaDrawing · start frame : LIEU-06 IMAGE 2)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 15 s |
+| **Éléments** | @Nora + @Anna + @AnnaKitchen + @AnnaDrawing |
+| **`start_image`** | LIEU-06 IMAGE 2 |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -275,6 +299,18 @@ anyone pouring tea, a kettle being lifted, a cup being filled or carried in, the
 *Sans cet export, ni l'entrée ni la sortie du souvenir n'existent, et les deux transitions se verront comme des effets d'outil.*
 
 ## VIDÉO 4C — plans 4.4 + 4.5 « Kolya, et la raison » *(15 s de rushes → 15 s au montage · Elements : @Nora + @Anna + @AnnaKitchen + @AnnaDrawing · start frame : la DERNIÈRE IMAGE DE LA GÉNÉRATION 4B — les hachures pleine image — réexportée et rechargée telle quelle)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 15 s |
+| **Éléments** | @Nora + @Anna + @AnnaKitchen + @AnnaDrawing |
+| **`start_image`** | la DERNIÈRE IMAGE DE LA GÉNÉRATION 4B — les hachures pleine image — réexportée et rechargée telle quelle |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -414,6 +450,18 @@ flashback imagery, memory superimposition, a child, a hospital, a corridor, a co
 *⚠ **CONTRÔLE DE DÉRIVE DE VISAGE.** C'est la troisième génération d'affilée sur @Anna : comparer le rush au master @Anna sur trois points — les paupières encapuchonnées, les pommettes larges, le chignon bas et plat. Si le visage a dérivé, regénérer 4C plutôt que 4B — le raccord qui compte est celui de 4C vers 4D. **Ne jamais charger @AnnaYoung dans ce bloc** : elle n'appartient qu'au souvenir russe.*
 
 ## VIDÉO 4D — plans 4.6 + 4.7 « He hears you, et trente ans en une image » *(15 s de rushes → 13 s au montage · Elements : @Nora + @Anna + @AnnaKitchen · start frame : LIEU-06 IMAGE 5)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 15 s |
+| **Éléments** | @Nora + @Anna + @AnnaKitchen |
+| **`start_image`** | LIEU-06 IMAGE 5 |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -574,6 +622,18 @@ names beside the pencil marks, words on the door frame, letters, digits, dates, 
 
 
 ## VIDÉO 4E — micro-plans **4.3a + 4.3b + 4.3c** « L'hôpital, du côté d'Anna » *(10 s de rushes → 7 s au montage · Elements : @AnnaYoung + @Kolya11 + @WardDoctor + @RussianHospitalWard + @RussianHospitalCorridor · **Lens Anamorphic 85 mm f/2 — PAS 50 mm, voir la note « LE RACCORD AU PIXEL »** · start frame : LIEU-17 IMAGE 4 ; l'IMAGE 2, ANGLE A, est l'axe des shots 2 et 3)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 10 s |
+| **Éléments** | @AnnaYoung + @Kolya11 + @WardDoctor + @RussianHospitalWard + @RussianHospitalCorridor |
+| **`start_image`** | LIEU-17 IMAGE 4 ; l'IMAGE 2, ANGLE A, est l'axe des shots 2 et 3 |
+| **`video_references`** | *aucune — c'est une tête de chaîne* |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -722,6 +782,18 @@ bright red, saturated red, red cross, red crescent, fire extinguisher, red blank
 *⚠ **L'ENTRÉE DU SOUVENIR NE SE JOUE PAS DANS CE BLOC.** La start frame de 4E est **LIEU-17 IMAGE 4**, pas la dernière image de 4B : ce bloc n'ouvre sur aucune hachure et n'en contient aucune. Le fondu d'entrée (deux tiers de seconde) se pose **au montage**, entre la queue de 4B (les hachures pleine image) et la tête de 4E. Une note antérieure du document envoyait la dernière image de 4B en start frame de 4.3a — c'était faux, et cela contredisait le tableau des start frames de la partie II.*
 
 ## VIDÉO 4F — micro-plans **4.3d + 4.3f + 4.3g** « Le brancard » *(10 s de rushes → 7,5 s au montage · Elements : @YoungMotherHospital + @WardDoctor + @RussianHospitalCorridor · start frame : LIEU-17 IMAGE 1, le master ; l'IMAGE 5, ANGLE D, est l'axe du shot 2)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 10 s |
+| **Éléments** | @YoungMotherHospital + @WardDoctor + @RussianHospitalCorridor |
+| **`start_image`** | LIEU-17 IMAGE 1, le master ; l'IMAGE 5, ANGLE D, est l'axe du shot 2 |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -857,6 +929,18 @@ audible speech, spoken words, whispered dialogue, lip-synced speech, a scream, c
 
 
 ## VIDÉO 4G — micro-plan **4.3e** SEUL « Le rejeu — le même couloir, la même seconde, depuis le brancard » *(6 s de rushes → 3,5 s au montage · Elements : @AnnaYoung + @WardDoctor + @RussianHospitalCorridor — **@YoungMotherHospital N'EST PAS CHARGÉE : la caméra EST son regard** · Lens Anamorphic 40 mm f/2 · start frame : LIEU-17 IMAGE 3, ANGLE B)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 6 s |
+| **Éléments** | @AnnaYoung + @WardDoctor + @RussianHospitalCorridor + @YoungMotherHospital |
+| **`start_image`** | LIEU-17 IMAGE 3, ANGLE B |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -985,6 +1069,18 @@ the kneeling woman standing up, the kneeling woman turning, her face, her profil
 *⚠ **CE QUE CE PLAN DOIT PROUVER, ET LE SEUL CONTRÔLE QUI COMPTE.** Le pan de linoléum vide devant les portes doubles doit être **reconnaissable** comme celui que l'on a vu de dos dans la génération 4E : mêmes raccords collés, mêmes traces de talon. Ce n'est pas le cadre qui raccorde, c'est ce sol-là. Si on ne le reconnaît pas, le spectateur ne comprend pas que c'est le même couloir à la même seconde, et la séquence perd son cœur.*
 
 ## VIDÉO 4H — micro-plans **4.3h + 4.3i** « Les trois coups, et le feu » *(8 s de rushes → 5,5 s au montage · Elements : @AnnaYoung + @Mender + @AnnaKitchenPast · start frame : LIEU-18 IMAGE 2, ANGLE A porte fermée ; l'IMAGE 4, ANGLE B, est l'axe du shot 2)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 8 s |
+| **Éléments** | @AnnaYoung + @Mender + @AnnaKitchenPast |
+| **`start_image`** | LIEU-18 IMAGE 2, ANGLE A porte fermée ; l'IMAGE 4, ANGLE B, est l'axe du shot 2 |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -1112,6 +1208,18 @@ the coated figure's face, any profile of the coated figure, any front view, his 
 
 
 ## VIDÉO 4I — micro-plans **4.3j + 4.3k + 4.3l** « La cour, et le prénom » *(10 s de rushes → 6,5 s au montage · Elements : @AnnaYoung + @Mender + @YoungMother + @Kolya2 + @RussianCourtyard · start frame : LIEU-20 IMAGE 2, ANGLE A ; l'IMAGE 3 donne la valeur des shots 2 et 3)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 10 s |
+| **Éléments** | @AnnaYoung + @Mender + @YoungMother + @Kolya2 + @RussianCourtyard |
+| **`start_image`** | LIEU-20 IMAGE 2, ANGLE A ; l'IMAGE 3 donne la valeur des shots 2 et 3 |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT

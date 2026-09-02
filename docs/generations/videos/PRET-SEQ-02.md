@@ -24,6 +24,18 @@
 
 
 ## VIDÉO 2A — plan 2.1 « Le quai, et le gobelet » *(12 s de rushes → 4 s au montage · Elements : @SamBefore + @Maeve + @NoraBefore + @MiloBefore + @Quay · start frame : LIEU-02 IMAGE 1)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 12 s |
+| **Éléments** | @SamBefore + @Maeve + @NoraBefore + @MiloBefore + @Quay |
+| **`start_image`** | LIEU-02 IMAGE 1 |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -157,6 +169,18 @@ le billet, le sourire, le dos qui se redresse. Le shot 1 est une réserve d'éta
 
 
 ## VIDÉO 2B — plan 2.2 « Donne, et tu recevras » *(14 s de rushes → 6 s au montage · Elements : @SamBefore + @Maeve + @NoraBefore + @MiloBefore + @Quay · start frame : LIEU-02 IMAGE 3)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 14 s |
+| **Éléments** | @SamBefore + @Maeve + @NoraBefore + @MiloBefore + @Quay |
+| **`start_image`** | LIEU-02 IMAGE 3 |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -300,6 +324,18 @@ la réserve d'entrée de 2C — 1,5 s dans `[11.6-13.1s]` si le passage à l'int
 
 
 ## VIDÉO 2C — plan 2.3 « Les quatre assiettes » *(8 s de rushes → 4 s au montage · Elements : @SamBefore + @Maeve + @NoraBefore + @MiloBefore + @Mei + @Restaurant + @GreenBandPlate · start frame : LIEU-07 IMAGE 2)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 8 s |
+| **Éléments** | @SamBefore + @Maeve + @NoraBefore + @MiloBefore + @Mei + @Restaurant + @GreenBandPlate |
+| **`start_image`** | LIEU-07 IMAGE 2 |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -428,6 +464,18 @@ de la pose des assiettes** — le rythme des quatre est ce qui paie en 5.1.*
 
 
 ## VIDÉO 2D — plan 2.4 « Le dragon au thé » *(14 s de rushes → 7 s au montage · Elements : @SamBefore + @Maeve + @NoraBefore + @MiloBefore + @Restaurant + @GreenBandPlate · start frame : LIEU-07 IMAGE 2, état « later »)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 14 s |
+| **Éléments** | @SamBefore + @Maeve + @NoraBefore + @MiloBefore + @Restaurant + @GreenBandPlate |
+| **`start_image`** | LIEU-07 IMAGE 2, état « later » |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT

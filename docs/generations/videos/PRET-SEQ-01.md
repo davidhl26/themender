@@ -24,6 +24,18 @@
 
 
 ## VIDÉO 1A — plan 1.2 « Je crois que j'ai brûlé les toasts » *(10 s de rushes → 9 s au montage · Elements : @SamBefore + @Maeve + @Kitchen · start frame : LIEU-01 IMAGE 2 `abf2d210`, ou la dernière frame de la vidéo des toasts)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 10 s |
+| **Éléments** | @SamBefore + @Maeve + @Kitchen |
+| **`start_image`** | LIEU-01 IMAGE 2 `abf2d210`, ou la dernière frame de la vidéo des toasts |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -150,6 +162,18 @@ torchon, étiquette ? ⑤ un grille-pain a-t-il poussé sur le plan de travail ?
 
 
 ## VIDÉO 1B — plans 1.3 et 1.4 « Il traverse, il l'enlace · front contre front » *(10 s de rushes → 8 s au montage · Elements : @SamBefore + @Maeve + @Kitchen · start frame : LIEU-01 IMAGE 3 `e9dc3786`, ANGLE H)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 10 s |
+| **Éléments** | @SamBefore + @Maeve + @Kitchen |
+| **`start_image`** | LIEU-01 IMAGE 3 `e9dc3786`, ANGLE H |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -282,6 +306,18 @@ aimé : il répond par en dessous, jamais par-dessus.*
 
 
 ## VIDÉO 1C — plan 1.5 « Les enfants arrivent » *(8 s de rushes → 4 s au montage · Elements : @SamBefore + @Maeve + @NoraBefore + @MiloBefore + @Kitchen · start frame : LIEU-01 IMAGE 1 `a3f6c078`, le master)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 8 s |
+| **Éléments** | @SamBefore + @Maeve + @NoraBefore + @MiloBefore + @Kitchen |
+| **`start_image`** | LIEU-01 IMAGE 1 `a3f6c078`, le master |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -414,6 +450,18 @@ est-elle la même du début à la fin ? ④ Personne ne parle : un modèle ajout
 
 
 ## VIDÉO 1D — plan 1.6 « Quatre bols » *(5 s de rushes → 2 s au montage · Elements : @Kitchen seul · start frame : LIEU-01 IMAGE 5 `9ff73e9b`, ANGLE G)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 5 s |
+| **Éléments** | @Kitchen |
+| **`start_image`** | LIEU-01 IMAGE 5 `9ff73e9b`, ANGLE G |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT

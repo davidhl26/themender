@@ -24,6 +24,18 @@
 
 
 ## VIDÉO 6A — plan 6.1 « Le forum » *(12 s de rushes → 7 s au montage · Elements : @Nora + @NoraBedroom · start frame : LIEU-08 IMAGE 3)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 12 s |
+| **Éléments** | @Nora + @NoraBedroom |
+| **`start_image`** | LIEU-08 IMAGE 3 |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -169,6 +181,18 @@ Les huit vignettes sont dessinées en post : **jamais un manteau généré à l'
 
 
 ### VIDÉO 6A-bis — SECOURS de 6A *(6 s · à ne lancer QUE si le shot 2 de 6A sort avec des caractères à l'écran, une icône, un curseur ou une fenêtre de navigateur — c'est-à-dire dès qu'il est incalable en POST · Elements : @NoraBedroom · start frame : LIEU-08 IMAGE 3)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 6 s |
+| **Éléments** | @NoraBedroom |
+| **`start_image`** | LIEU-08 IMAGE 3 |
+| **`video_references`** | *aucune — c'est une tête de chaîne* |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -280,6 +304,18 @@ on passe de son épaule à l'écran seul, ce que le montage fait de toute façon
 
 
 ## VIDÉO 6B — plan 6.2 « Le cri » *(12 s de rushes → 9 s au montage · Elements : @Nora + @BackGallery · start frame : LIEU-09 IMAGE 2 ; l'IMAGE 3 est l'axe du shot 2)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 12 s |
+| **Éléments** | @Nora + @BackGallery |
+| **`start_image`** | LIEU-09 IMAGE 2 ; l'IMAGE 3 est l'axe du shot 2 |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -410,6 +446,18 @@ la voix : le cri doit tomber à plat dans la nuit. Si l'un des trois lâche, la 
 
 
 ### VIDÉO 6B-bis — SECOURS de 6B *(6 s · à ne lancer QUE si le shot 2 de 6B rate : une fenêtre allumée ou une silhouette entre au cadre, une lumière change pendant la réplique, ou la voix sort avec de l'écho · Elements : @Nora + @BackGallery · start frame : LIEU-09 IMAGE 3, au rail)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 6 s |
+| **Éléments** | @Nora + @BackGallery |
+| **`start_image`** | LIEU-09 IMAGE 3, au rail |
+| **`video_references`** | *aucune — c'est une tête de chaîne* |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -525,6 +573,18 @@ l'endroit — c'est le même axe, la même lumière, le même costume.*
 
 
 ## VIDÉO 6C — plan 6.3 « L'escalier » *(8 s de rushes → 5 s au montage · Elements : @Nora + @Sam + @NoraBedroom · start frame : LIEU-08 IMAGE 4, le palier, porte entrouverte 10 cm)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 8 s |
+| **Éléments** | @Nora + @Sam + @NoraBedroom |
+| **`start_image`** | LIEU-08 IMAGE 4, le palier, porte entrouverte 10 cm |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT

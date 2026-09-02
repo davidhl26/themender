@@ -24,6 +24,18 @@
 
 
 ## VIDÉO 10A — plan 10.1 « La maison rouge, et la porte » *(8 s → 4 s · @Nora + @RedHouseExterior · start frames LIEU-15 IMAGE 1 puis IMAGE 2 · 40 mm f/2.8)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 8 s |
+| **Éléments** | @Nora + @RedHouseExterior |
+| **`start_image`** | LIEU-15 IMAGE 1 puis IMAGE 2 |
+| **`video_references`** | *aucune — c'est une tête de chaîne* |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -141,6 +153,18 @@ a paraffin flame, a flickering flame, candlelight, knocking, a doorbell, a secon
 ---
 
 ## VIDÉO 10B — plan 10.2 « Des écritures partout » *(12 s → 7 s · @Nora + @RedHouseInterior v2 · start frame IMAGE A v2 · 28 mm f/1.4)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 12 s |
+| **Éléments** | @Nora + @RedHouseInterior |
+| **`start_image`** | IMAGE A v2 |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -252,6 +276,18 @@ paint pots absent, brushes absent, ladder absent, mattress absent, a clean room,
 ---
 
 ## VIDÉO 10C — plans 10.3 + 10.4 « Le dragon, puis CLIC » *(10 s → 7 s · @Nora + @RedHouseInterior v2 · start frame shot 1 : IMAGE B v2 ; shot 2 : aucun · 28 mm f/1.4)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 10 s |
+| **Éléments** | @Nora + @RedHouseInterior |
+| **`start_image`** | shot 1 : IMAGE B v2 ; shot 2 : aucun |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -371,6 +407,18 @@ a drawing on the plaster, a dragon, an animal, a creature, any figure on the wal
 ---
 
 ## VIDÉO 10D-1 — plan 10.5, segment 1/2 « Le noir s'allume » *(8 s · @Nora + @RedHouseInterior v2 · start frame : AUCUN, le bloc s'ouvre sur du noir plein · 28 mm f/1.4)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 8 s |
+| **Éléments** | @Nora + @RedHouseInterior |
+| **`start_image`** | AUCUN, le bloc s'ouvre sur du noir plein |
+| **`video_references`** | *aucune — c'est une tête de chaîne* |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -480,6 +528,19 @@ letters appearing one by one, writing that draws itself, strokes crawling, a lig
 ---
 
 ## VIDÉO 10D-2 — plan 10.5, segment 2/2 « Le plafond entier » *(8 s · @Nora + @RedHouseInterior v2 · start frame : la LAST FRAME de 10D-1 · 28 mm f/1.4)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 8 s |
+| **Éléments** | @Nora + @RedHouseInterior |
+| **mode** | `video_extension` · `extension_mode: forward` |
+| **vidéo à prolonger** | le segment précédent |
+| ⚠ | **Un seul mouvement découpé — le raccord doit être invisible.** À défaut de `video_extension` : `start_image` = la dernière frame exacte du segment précédent. |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -589,6 +650,18 @@ letters appearing one by one, writing that draws itself, strokes crawling, a lig
 ---
 
 ## VIDÉO 10E — plan 10.6 « Son visage » *(6 s → 5 s · @Nora + @RedHouseInterior v2 · start frame : AUCUN, écart déclaré · 50 mm f/1.4)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 6 s |
+| **Éléments** | @Nora + @RedHouseInterior |
+| **`start_image`** | AUCUN, écart déclaré |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -701,6 +774,19 @@ letters appearing one by one, writing that draws itself, strokes crawling, a lig
 ---
 
 ## VIDÉO 10F-1 — plan 10.7, segment 1/4 « La caméra la quitte » *(5 s · @Nora + @RedHouseInterior v2 · start frame : la LAST FRAME de 10E · 28 mm f/1.4)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 5 s |
+| **Éléments** | @Nora + @RedHouseInterior |
+| **mode** | `video_extension` · `extension_mode: forward` |
+| **vidéo à prolonger** | le segment précédent |
+| ⚠ | **Un seul mouvement découpé — le raccord doit être invisible.** À défaut de `video_extension` : `start_image` = la dernière frame exacte du segment précédent. |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -812,6 +898,19 @@ letters appearing one by one, writing that draws itself, strokes crawling, a lig
 ---
 
 ## VIDÉO 10F-2 — plan 10.7, segment 2/4 « La rue grise » *(5 s · @RedHouseExterior · start frame : la LAST FRAME de 10F-1 · 24 mm f/2.8)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 5 s |
+| **Éléments** | @RedHouseExterior |
+| **mode** | `video_extension` · `extension_mode: forward` |
+| **vidéo à prolonger** | le segment précédent |
+| ⚠ | **Un seul mouvement découpé — le raccord doit être invisible.** À défaut de `video_extension` : `start_image` = la dernière frame exacte du segment précédent. |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -918,6 +1017,19 @@ people in the street, a girl, a man, a car moving, red on the road, red on the w
 ---
 
 ## VIDÉO 10F-3 — plan 10.7, segment 3/4 « La verticale » *(5 s · aucun personnage · start frame : la LAST FRAME de 10F-2 · 24 mm f/2.8)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 5 s |
+| **Éléments** | aucun — ce plan ne charge aucun Élément |
+| **mode** | `video_extension` · `extension_mode: forward` |
+| **vidéo à prolonger** | le segment précédent |
+| ⚠ | **Un seul mouvement découpé — le raccord doit être invisible.** À défaut de `video_extension` : `start_image` = la dernière frame exacte du segment précédent. |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -1021,6 +1133,19 @@ red anywhere, a red roof, a red light, city lights bright enough to read, a lit 
 ---
 
 ## VIDÉO 10F-4 — plan 10.7, segment 4/4 « La redescente sur l'abribus » *(5 s · @SamSDF + @BusShelter · start frame : AUCUN ; cible visuelle : LIEU-14 IMAGE 3 · 24 mm f/2.8)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 5 s |
+| **Éléments** | @SamSDF + @BusShelter |
+| **mode** | `video_extension` · `extension_mode: forward` |
+| **vidéo à prolonger** | le segment précédent |
+| ⚠ | **Un seul mouvement découpé — le raccord doit être invisible.** À défaut de `video_extension` : `start_image` = la dernière frame exacte du segment précédent. |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -1207,6 +1332,18 @@ inutilisable, l'artwork unique ne pourra plus s'y caler.
 
 
 ## VIDÉO 10H — plan 10.8 « Les doigts, et les yeux » *(10 s → 6 s au montage · @SamSDF + @Sam + @BusShelter (LIEU-14) · Genre Drama · Camera Fine Film · 21:9 · 1080p · sound on · 85 mm f/2 · pas de start frame)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 10 s |
+| **Éléments** | @SamSDF + @Sam + @BusShelter |
+| **`start_image`** | aucune — ce plan démarre sans image de départ |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -1333,6 +1470,18 @@ plus** (les doigts passent AVANT le visage ; à 1,5 s l'insert devient une expli
 
 
 ## VIDÉO 10I — montage 10.9, micro-plans **a + b + f + h** « SA PROPRE MAISON » *(14 s de rushes → 7,5 s au montage · @Sam + @Nora + @Mender + @NoraBedroom + @Kitchen + @Bathroom · 50 mm f/2 · start frame du shot 1 : **LA LAST FRAME DE LA GÉNÉRATION 4A** — LIEU-08 IMAGE 2, « LE CADRE DU PÈRE »)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 14 s |
+| **Éléments** | @Sam + @Nora + @Mender + @NoraBedroom + @Kitchen + @Bathroom |
+| **`start_image`** | du shot 1 : **LA LAST FRAME DE LA GÉNÉRATION 4A** — LIEU-08 IMAGE 2, « LE CADRE DU PÈRE » |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -1476,6 +1625,18 @@ refaire. ⚠ Son jeté au mix : le montage 10.9 est muet sous la musique pleine.
 
 
 ## VIDÉO 10J — montage 10.9, micro-plans **c + d + e + g** « DEHORS » *(19 s de rushes → 9,5 s au montage · @Sam + @Anna + @Mei + @Fatiha + @Asha + @Mender + @RedHouseInterior v2 + @AnnaKitchen + @Restaurant + @LibraryCorridor · 28 mm f/1.4 sh.1-2, 50 mm f/2 sh.3-5 · start frames : **IMAGE E v2** (sh.1) · **IMAGE A v2** (sh.2) · LIEU-06 IMAGE 5 (sh.3) · LIEU-07 IMAGE 5 (sh.4) · LIEU-11 IMAGE 3 (sh.5))*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 19 s |
+| **Éléments** | @Sam + @Anna + @Mei + @Fatiha + @Asha + @Mender + @RedHouseInterior + @AnnaKitchen + @Restaurant + @LibraryCorridor |
+| **`start_image`** | **IMAGE E v2** (sh.1 |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -1634,6 +1795,18 @@ la surface est reprise en **[POST]**.*
 
 
 ## VIDÉO 10K — plan 10.10 « L'hôpital, enfin sonore » *(8 s · CADRE RÉFÉRENT ABSOLU · @MaeveIll + @SamBefore + @HospitalCorridor (LIEU-05) + @HospitalRoom (LIEU-04) · 50 mm f/2 · start frame : LIEU-05 IMAGE 3)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 8 s |
+| **Éléments** | @MaeveIll + @SamBefore + @HospitalCorridor + @HospitalRoom |
+| **`start_image`** | LIEU-05 IMAGE 3 |
+| **`video_references`** | *aucune — c'est une tête de chaîne* |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
@@ -1759,6 +1932,18 @@ regénérer une version « sonore » séparée** : deux fichiers différents tue
 
 
 ## VIDÉO 10L — plan 10.11 **LE DERNIER PLAN DU FILM** « Il lève les yeux, et il sourit » *(8 s de rushes → 6 s au montage · @SamSDF + @Sam + @BusShelter · UNE SEULE PRISE, caméra fixe · 85 mm f/2 · pas de start frame)*
+**RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
+
+| | |
+|---|---|
+| **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
+| **durée** | 8 s |
+| **Éléments** | @SamSDF + @Sam + @BusShelter |
+| **`start_image`** | aucune — ce plan démarre sans image de départ |
+| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+
+*Le texte à coller commence sous cette ligne.*
+
 
 ```
 SCENE CONTEXT
