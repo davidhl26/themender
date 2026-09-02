@@ -9,6 +9,10 @@
 > Modèle **Seedance 2.5** · 21:9 · 1080p · bitrate **high** · sound off.
 > Source : `VIDEO-SEQ-10.md`.
 >
+> ➜ **La marche à suivre écran par écran : ** — quel rôle de média
+>    utiliser, et pourquoi attacher la vidéo en *référence* ne produit AUCUNE continuité de cadre.
+> ➜ **La marche à suivre écran par écran : `00-COMMENT-GENERER.md`** — quel rôle de média
+>    utiliser, et pourquoi attacher la vidéo en *référence* ne produit AUCUNE continuité de cadre.
 > ⚠ **DEUX PIÈGES DE L'INTERFACE HIGGSFIELD** *(vérifiés le 02/09 sur un prompt réellement collé)* :
 > 1. **Ne jamais écrire `@Video 1` dans un prompt.** L'éditeur le parse comme une mention d'Élément et
 >    l'AVALE : la ligne se retrouve à commencer par un deux-points orphelin, et le modèle ne sait même
