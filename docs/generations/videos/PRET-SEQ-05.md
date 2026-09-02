@@ -15,8 +15,8 @@
 SCENE CONTEXT
 The owner brings tea to a family of three she has known for years and, out of old habit, sets FOUR cups — freezes — and takes one back. Nobody says a word about it; nobody says a word at all. At the table a heavy, unshaven father cuts his young son's food without ever lifting his eyes. Three shots, two hard cuts. Every second is choreographed below; nothing beyond it may be invented. 12 seconds, in 3 framings joined by 2 hard cuts.
 
-CONTINUITY REFERENCE
-@Video 1: an earlier shot from the same film (4D), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level, its composition or any of its frames: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything is built new, at full quality.
+CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
+THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (4D), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
 ACTIVE REFERENCES
 @Sam: Sam two years later, a month of badly trimmed beard, ten kilos heavier, grey under the eyes. Two years without speaking — not sullen, emptied. He moves through his own house like a guest, shoulders forward, eyes down and to the side. Every gesture is finished; none is explained. 100% matches the reference.
@@ -146,6 +146,7 @@ visible camera rigs, cartoonish colors, blurred focus, on-screen text, subtitles
 
 
 
+
 *⚠ **POINT DE COUPE — 5 s au montage sur 12 s de rushes.** Garder ① **1,6 s** du shot 1, de `[1.9s]` à `[3.5s]`
 — l'entrée de Mei, rien avant ; ② **2,0 s** du shot 2, de `[7.6s]` à `[9.5s]` — la quatrième tasse qui ralentit,
 qui touche la nappe, et la main qui ne lâche pas ; ③ **1,4 s** du shot 3, de `[9.5s]` à `[10.9s]` — le gel vu
@@ -162,8 +163,8 @@ vérifier le raccord de jeu de Mei — même geste, deux vies.*
 SCENE CONTEXT
 At the next table over, three women who have known each other for years are talking fast across each other about somebody everybody knows — not telling a story to anyone, just talking, cutting in, finishing each other's sentences. They are not performing and they are not addressing anybody outside their table. A metre and a half away, in the soft foreground, a teenage girl has stopped eating and is listening, and not one of them notices. ONE single continuous shot, no cut. Every second is choreographed below; nothing beyond it may be invented. 10 seconds, one continuous framing, no cut.
 
-CONTINUITY REFERENCE
-@Video 1: the shot that immediately precedes this one (5A), in the same place and the same minute. Use it ONLY to read where the scene stands — the exact light level and direction, the grain, the skin rendering, the state the bodies and the props are left in, and the camera's speed. Do NOT reuse, copy or extend any of its frames: every frame here is built new from the references below, at full quality. The framing comes solely from the FRAME MAP below and owes nothing to the previous shot's composition.
+CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO
+THE VIDEO ATTACHED TO THIS GENERATION is the shot that immediately precedes this one (5A), in the same place and the same minute. THIS GENERATION IS ITS DIRECT CONTINUATION and must feel like the same take filmed by the same operator seconds later: carry over its exact light level and direction, its grain, its skin rendering, the state the bodies and the props are left in, AND ABOVE ALL THE WAY ITS CAMERA BEHAVES — the same height, the same kind of movement, the same speed, the same breathing weight in the frame. Pick the scene up exactly where the attached video leaves it. Do not restart it, do not reset the room, do not relight it, do not change operator. The new framing is the one the FRAME MAP gives below, but it is reached by the same camera, moving the same way.
 
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
@@ -281,6 +282,7 @@ visible camera rigs, cartoonish colors, blurred focus, on-screen text, subtitles
 
 
 
+
 *⚠ **POINT DE COUPE — 7,2 s au montage sur 10 s de rushes.** Garder `[0.30s]` → `[7.50s]`. **Débit** : 25 mots
 en 6,2 s ≈ **4 mots/s**, avec trois chevauchements de 0,15 à 0,20 s aux joints (Mei sur Fatiha, Fatiha sur Mei,
 Mei sur Asha). Le demi-silence `[6.55-7.05s]` **fait partie du plan** : c'est lui qui rend le chaînage
@@ -295,8 +297,8 @@ invisible. **Sauvegarder le DERNIER FRAME de 5B-1 : il est la start frame de 5B-
 SCENE CONTEXT
 The same three women at the same table, still talking across each other about the same man — and then they run out of it. One of them lays her chopsticks down and says the last thing anybody has to say about him; the table goes quiet by itself for half a second; and then the oldest one asks about tea and it is over. Nothing has happened, for them. A metre and a half away, in the soft foreground, the teenage girl has not moved, and not one of them notices. ONE single continuous shot, no cut. Every second is choreographed below; nothing beyond it may be invented. 8 seconds, one continuous framing, no cut.
 
-CONTINUITY REFERENCE
-@Video 1: the shot that immediately precedes this one (5B-1), in the same place and the same minute. Use it ONLY to read where the scene stands — the exact light level and direction, the grain, the skin rendering, the state the bodies and the props are left in, and the camera's speed. Do NOT reuse, copy or extend any of its frames: every frame here is built new from the references below, at full quality. The framing comes solely from the FRAME MAP below and owes nothing to the previous shot's composition.
+CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO
+THE VIDEO ATTACHED TO THIS GENERATION is the shot that immediately precedes this one (5B-1), in the same place and the same minute. THIS GENERATION IS ITS DIRECT CONTINUATION and must feel like the same take filmed by the same operator seconds later: carry over its exact light level and direction, its grain, its skin rendering, the state the bodies and the props are left in, AND ABOVE ALL THE WAY ITS CAMERA BEHAVES — the same height, the same kind of movement, the same speed, the same breathing weight in the frame. Pick the scene up exactly where the attached video leaves it. Do not restart it, do not reset the room, do not relight it, do not change operator. The new framing is the one the FRAME MAP gives below, but it is reached by the same camera, moving the same way.
 
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
@@ -413,6 +415,7 @@ visible camera rigs, cartoonish colors, blurred focus, on-screen text, subtitles
 
 
 
+
 *⚠ **POINT DE COUPE — 5,8 s au montage sur 8 s de rushes.** Garder `[0.20s]` → `[6.50s]`, soit **6,3 s** dont
 **0,5 s d'insert 5C recouvre l'image** (voir ci-dessous) : **5,8 s de cette génération à l'écran.**
 5B-1 (7,2 s) + 5B-2 (5,8 s) = **13,0 s**, la durée exacte du script.*
@@ -432,8 +435,8 @@ femmes juste à temps pour « More tea? ». **Aucune parole n'est perdue** — l
 SCENE CONTEXT
 Two large workman's hands cut a child's food, slowly and evenly, the way they have all evening. A woman's voice says something across the room, off screen — and the hands stop dead, mid-cut, for half a second. Then they start again at exactly the same rhythm, as if nothing had happened. ONE single continuous shot, no cut. NOTHING ABOVE THE FOREARMS IS EVER IN FRAME: no face, no head, no shoulders, no chin, no eyes, no reflection of a face, at any point. Every second is choreographed below; nothing beyond it may be invented. 6 seconds, one continuous framing, no cut.
 
-CONTINUITY REFERENCE
-@Video 1: the shot that immediately precedes this one (5B-2), in the same place and the same minute. Use it ONLY to read where the scene stands — the exact light level and direction, the grain, the skin rendering, the state the bodies and the props are left in, and the camera's speed. Do NOT reuse, copy or extend any of its frames: every frame here is built new from the references below, at full quality. The framing comes solely from the FRAME MAP below and owes nothing to the previous shot's composition.
+CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO
+THE VIDEO ATTACHED TO THIS GENERATION is the shot that immediately precedes this one (5B-2), in the same place and the same minute. THIS GENERATION IS ITS DIRECT CONTINUATION and must feel like the same take filmed by the same operator seconds later: carry over its exact light level and direction, its grain, its skin rendering, the state the bodies and the props are left in, AND ABOVE ALL THE WAY ITS CAMERA BEHAVES — the same height, the same kind of movement, the same speed, the same breathing weight in the frame. Pick the scene up exactly where the attached video leaves it. Do not restart it, do not reset the room, do not relight it, do not change operator. The new framing is the one the FRAME MAP gives below, but it is reached by the same camera, moving the same way.
 
 ACTIVE REFERENCES
 @Sam: Sam two years later, a month of badly trimmed beard, ten kilos heavier, grey under the eyes. Two years without speaking — not sullen, emptied. He moves through his own house like a guest, shoulders forward, eyes down and to the side. Every gesture is finished; none is explained. 100% matches the reference.
@@ -534,6 +537,7 @@ a face, any face, a head, shoulders, a neck, a chin, eyes, hair, a profile, a re
 
 
 
+
 *⚠ **POINT DE COUPE — 0,7 s au montage sur 6 s de rushes.** Garder `[3.05s]` → `[3.75s]` : 0,15 s de mains qui
 coupent encore, l'arrêt net, la demi-seconde d'immobilité, et on repart. **Le raccord son est déjà écrit** :
 la phrase d'Asha est la même dans 5B-2 et dans 5C — au montage on garde la voix de 5B-2 et on ne prend de 5C
@@ -553,8 +557,8 @@ visage dans la tasse, **la prise est à jeter.***
 SCENE CONTEXT
 First, the family table, wide and silent: a heavy unshaven father cutting his young son's food, eyes down, cutting, cutting — on screen, a busy father and nothing else. Then the camera crosses to the far side of the table and holds close on the teenage girl: her fork still stopped in the air, the mouthful never taken; her eyes come back from the women's table across the room and settle on the empty chair at her own table, and stop there. She puts the fork down without having eaten. She asks nobody anything. Two shots, one hard cut. Every second is choreographed below; nothing beyond it may be invented. 12 seconds, in 2 framings joined by 1 hard cut.
 
-CONTINUITY REFERENCE
-@Video 1: the shot that immediately precedes this one (5C), in the same place and the same minute. Use it ONLY to read where the scene stands — the exact light level and direction, the grain, the skin rendering, the state the bodies and the props are left in, and the camera's speed. Do NOT reuse, copy or extend any of its frames: every frame here is built new from the references below, at full quality. The framing comes solely from the FRAME MAP below and owes nothing to the previous shot's composition.
+CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO
+THE VIDEO ATTACHED TO THIS GENERATION is the shot that immediately precedes this one (5C), in the same place and the same minute. THIS GENERATION IS ITS DIRECT CONTINUATION and must feel like the same take filmed by the same operator seconds later: carry over its exact light level and direction, its grain, its skin rendering, the state the bodies and the props are left in, AND ABOVE ALL THE WAY ITS CAMERA BEHAVES — the same height, the same kind of movement, the same speed, the same breathing weight in the frame. Pick the scene up exactly where the attached video leaves it. Do not restart it, do not reset the room, do not relight it, do not change operator. The new framing is the one the FRAME MAP gives below, but it is reached by the same camera, moving the same way.
 
 ACTIVE REFERENCES
 @Sam: Sam two years later, a month of badly trimmed beard, ten kilos heavier, grey under the eyes. Two years without speaking — not sullen, emptied. He moves through his own house like a guest, shoulders forward, eyes down and to the side. Every gesture is finished; none is explained. 100% matches the reference.
@@ -678,6 +682,7 @@ visible camera rigs, cartoonish colors, blurred focus, on-screen text, subtitles
 
 
 
+
 *⚠ **POINT DE COUPE — 6 s au montage sur 12 s de rushes.** Garder ① **2,2 s** du shot 1, de `[1.5s]` à `[3.7s]`
 — le père qui coupe, rien d'autre ; ② **3,8 s** du shot 2, de `[4.65s]` à `[8.45s]` — l'attente, le trajet du
 regard, la fourchette qui redescend. **Le trajet du regard et la fourchette ne se taillent pas : c'est le plan.***
@@ -700,8 +705,8 @@ Milo et le trajet du script ne se joue pas.*
 SCENE CONTEXT
 A teenage girl alone in the frame at a restaurant table, her fork stopped in the air, the mouthful never taken. Her eyes come back from something far to her left and settle on something near, low and still to her left — a metre from her hand — and stop there. She puts the fork down without having eaten. She says nothing and she asks nobody anything. ONE single continuous shot, no cut, nobody else in frame at any point. Every second is choreographed below; nothing beyond it may be invented. 6 seconds, one continuous framing, no cut.
 
-CONTINUITY REFERENCE
-No previous shot is attached to this generation. This is the first shot of its chain: it sets the light, the grain and the skin rendering that every following shot will be matched to. Build every frame new from the references below, at full quality.
+CONTINUITY REFERENCE — NO VIDEO IS ATTACHED
+No previous clip is attached to this generation. This is the first shot of its chain: it sets the light, the grain and the skin rendering that every following shot will be matched to. Build every frame new from the references below, at full quality.
 
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
@@ -795,6 +800,7 @@ One continuous uncut take at real-time speed, for the exact duration requested. 
 AVOID
 visible camera rigs, cartoonish colors, blurred focus, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, readable menus, readable signage, readable lettering, subjects looking at camera, slow motion, morphing objects, extra people in frame, another person in frame, the father, the boy, a waitress, other diners, a reverse angle on anyone, extra gestures, improvised actions, wandering hands, repositioned props, appearing or disappearing objects, camera movement, dolly, pan, zoom, push in, focus pull, handheld shake, the girl looking toward the right of the frame, the girl's eyes travelling right, the girl looking at any person, the girl frowning, the girl's face carrying a question, a window behind the girl, cold blue night behind the girl, the girl speaking, the girl crying, tears, trembling lips, the girl looking at camera, the girl eating, the fork reaching her mouth, a place setting at the empty place, anyone sitting in the empty chair, a stool at the counter, a bowl on a stool, rushed movements, theatrical acting, overacting, posed smiles, sitcom lighting, warm saturated grade, golden light, the room brightening, any red anywhere, red lanterns, red tablecloths, red menus, red packaging, generated music, uncanny smoothness, plastic skin, beauty filter, CGI look, video-game lighting, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness.
 ```
+
 
 
 

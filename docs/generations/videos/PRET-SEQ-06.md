@@ -15,8 +15,8 @@
 SCENE CONTEXT
 Alone at night in a dark bedroom, a girl reads a page on her laptop, scrolls once, stops on something, and lifts her eyes off the screen toward the black window. Three shots, two hard cuts. Nothing on the screen is ever a word: the page exists as light and blocks only. Every second is choreographed below; nothing beyond it may be invented. 12 seconds, in 3 framings joined by 2 hard cuts.
 
-CONTINUITY REFERENCE
-@Video 1: an earlier shot from the same film (5D), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level, its composition or any of its frames: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything is built new, at full quality.
+CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
+THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (5D), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
@@ -131,6 +131,7 @@ readable text on the screen, legible letters, words, digits or interface on the 
 
 
 
+
 *⚠ **POINT DE COUPE — le plan fait 7 s au montage, la génération en fait 12.** Garder :
 ① **1,2 s** du shot 1, de `[2.6s]` à `[3.8s]` — elle penchée, les yeux qui travaillent : juste assez pour poser
 le visage bleui et la nuit autour ; ② **4,0 s** du shot 2, de `[4.6s]` à `[8.6s]` — **c'est la plaque**, et
@@ -161,8 +162,8 @@ Les huit vignettes sont dessinées en post : **jamais un manteau généré à l'
 SCENE CONTEXT
 A laptop screen alone in a dark empty bedroom, holding a page that is only light and blocks. It sits still, scrolls once, and sits still again. One single shot, no cut, closer than the main version and without anyone in frame, so the surface is clean enough to be composed on. Nobody appears at any point. Every second is choreographed below; nothing beyond it may be invented. 6 seconds, one continuous framing, no cut.
 
-CONTINUITY REFERENCE
-No previous shot is attached to this generation. This is the first shot of its chain: it sets the light, the grain and the skin rendering that every following shot will be matched to. Build every frame new from the references below, at full quality.
+CONTINUITY REFERENCE — NO VIDEO IS ATTACHED
+No previous clip is attached to this generation. This is the first shot of its chain: it sets the light, the grain and the skin rendering that every following shot will be matched to. Build every frame new from the references below, at full quality.
 
 ACTIVE REFERENCES
 @NoraBedroom: Nora's bedroom and the landing outside it, grey and underexposed, one narrow sodium band under the door. 100% matches the reference.
@@ -256,6 +257,7 @@ readable text on the screen, legible letters, words, digits or interface on the 
 
 
 
+
 *⚠ **Réglage de 6A-bis** : Lens Anamorphic **85 mm f/2**, 6 s.
 **Comment se monte 6A-bis** : garder `[0.6-4.6s]` — **4,0 s**, soit 1,8 s d'ÉTAT A, le scroll de `[2.4-3.0s]`
 dedans, puis 1,6 s d'ÉTAT B… **et c'est le piège** : l'ÉTAT B doit tenir 2,2 s. Garder donc `[0.4-4.8s]` =
@@ -273,8 +275,8 @@ on passe de son épaule à l'écran seul, ce que le montage fait de toute façon
 SCENE CONTEXT
 At midnight a girl comes out onto the rear gallery of her building, takes hold of the rail, hesitates, and throws one question out loud at the rooftops. Nothing answers. A dog barks twice, very far away. She lets go and goes back in. Two shots, one hard cut. She is the only living being on screen and nothing in the world responds to her. Every second is choreographed below; nothing beyond it may be invented. 12 seconds, in 2 framings joined by 1 hard cut.
 
-CONTINUITY REFERENCE
-@Video 1: an earlier shot from the same film (6A), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level, its composition or any of its frames: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything is built new, at full quality.
+CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
+THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (6A), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
@@ -381,6 +383,7 @@ a second person, a man, any figure or silhouette in any window, doorway or yard,
 
 
 
+
 *⚠ **POINT DE COUPE — le plan fait 9 s au montage, la génération en fait 12.** Garder :
 ① **3,4 s** du shot 1, de `[1.0s]` à `[4.4s]` — la fin de la galerie vide, sa sortie, sa marche, ses deux mains
 qui se ferment sur le rail ; ② **5,6 s** du shot 2, de `[6.0s]` à `[11.6s]` — la fin de l'hésitation, la
@@ -404,8 +407,8 @@ la voix : le cri doit tomber à plat dans la nuit. Si l'un des trois lâche, la 
 SCENE CONTEXT
 At midnight, at the rail of a rear gallery, a girl hesitates and throws one question out loud at the rooftops. Nothing answers. A dog barks twice, very far away. One single shot, no cut, tighter than the main version so that nothing in the world can enter the frame to answer her. She is the only living being on screen. Every second is choreographed below; nothing beyond it may be invented. 6 seconds, one continuous framing, no cut.
 
-CONTINUITY REFERENCE
-No previous shot is attached to this generation. This is the first shot of its chain: it sets the light, the grain and the skin rendering that every following shot will be matched to. Build every frame new from the references below, at full quality.
+CONTINUITY REFERENCE — NO VIDEO IS ATTACHED
+No previous clip is attached to this generation. This is the first shot of its chain: it sets the light, the grain and the skin rendering that every following shot will be matched to. Build every frame new from the references below, at full quality.
 
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
@@ -503,6 +506,7 @@ a second person, a man, any figure or silhouette anywhere, a window in frame, a 
 
 
 
+
 *⚠ **Réglage de 6B-bis** : Lens Anamorphic **85 mm f/2** (un cran plus serré que 6B), 6 s.
 **Comment se monte 6B-bis** : garder `[0.6-6.0s]` — **5,4 s**, qui remplacent tel quel les 5,6 s du fragment ②
 de 6B. On perd les deux pas du retour : **rattraper les 0,2 s manquantes sur le fragment ① de 6B** (démarrer à
@@ -520,8 +524,8 @@ l'endroit — c'est le même axe, la même lumière, le même costume.*
 SCENE CONTEXT
 A father stands in the dark landing outside his daughter's door, just arrived at the top of the stairs, and asks one quiet question. She answers through the gap without opening it. The door closes. He stays where he is. One single static shot, no cut. Whether he heard anything tonight is never answered — his face is never lit, his expression never readable, and she never asks him anything. Every second is choreographed below; nothing beyond it may be invented. 8 seconds, one continuous framing, no cut.
 
-CONTINUITY REFERENCE
-@Video 1: an earlier shot from the same film (6B), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level, its composition or any of its frames: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything is built new, at full quality.
+CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
+THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (6B), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
@@ -619,6 +623,7 @@ One continuous uncut take at real-time speed, for the exact duration requested. 
 AVOID
 the man's face visible, the man's eyes, the man's profile lit, any light on the man's face or body, a rim of light on his cheek, a readable expression on the man, the man stepping forward, the man reaching for the door, the man turning away, the man going down the stairs, the door slamming, the door reopening, the girl opening the door wider, the girl leaning out, the girl fully visible, the girl asking a question, the girl saying a name, the girl frowning, a doubtful or suspicious look, a third person, a silhouette on the stairs, a shape at the bottom of the stairwell, a long written coat, any coated figure, a coat on a hook, any red anywhere, a second light source, a lamp switching on, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, subjects looking at camera, visible camera rigs, camera movement, dolly, pan, zoom, handheld shake, slow motion, morphing objects, extra people in frame, extra gestures, improvised actions, wandering hands, repositioned props, appearing or disappearing objects, footsteps walking away, hurried dialogue, characters answering instantly, theatrical acting, overacting, warm lamps, uncanny smoothness, plastic skin, beauty filter, CGI look, video-game lighting, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness, generated music.
 ```
+
 
 
 

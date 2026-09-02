@@ -15,8 +15,8 @@
 SCENE CONTEXT
 A girl walks the last metres of a grey street toward the only red house in the world, stops, lays her hand flat on the door — and the door opens under her hand. 8 seconds, in 2 framings joined by 1 hard cut.
 
-CONTINUITY REFERENCE
-No previous shot is attached to this generation. This is the first shot of its chain: it sets the light, the grain and the skin rendering that every following shot will be matched to. Build every frame new from the references below, at full quality.
+CONTINUITY REFERENCE — NO VIDEO IS ATTACHED
+No previous clip is attached to this generation. This is the first shot of its chain: it sets the light, the grain and the skin rendering that every following shot will be matched to. Build every frame new from the references below, at full quality.
 
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
@@ -123,6 +123,7 @@ a paraffin flame, a flickering flame, candlelight, knocking, a doorbell, a secon
 
 
 
+
 *⚠ **COUPE — 4 s** : ① `[2.4-4.6s]` du shot 1 · ② `[6.2-8.0s]` du shot 2, jamais entamé avant `[6.2s]`. **Écart lieu** : ampoule, pas flamme — flamme qui danse au rush = prise à refaire (règle H).*
 
 ---
@@ -133,8 +134,8 @@ a paraffin flame, a flickering flame, candlelight, knocking, a doorbell, a secon
 SCENE CONTEXT
 A girl steps into a room written on for months and turns once on herself, far too slowly for a look. 12 seconds, one continuous framing, no cut.
 
-CONTINUITY REFERENCE
-@Video 1: an earlier shot from the same film (10A), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level, its composition or any of its frames: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything is built new, at full quality.
+CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
+THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (10A), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
@@ -235,6 +236,7 @@ paint pots absent, brushes absent, ladder absent, mattress absent, a clean room,
 
 
 
+
 *⚠ **COUPE — 7 s** : garder `[3.6-10.6s]`. **La révolution ne se coupe JAMAIS en deux.** RÈGLE H : pots, pinceaux, escabeau, matelas escamotés = prise à refaire — sans eux, 10.5 devient un miracle.*
 
 ---
@@ -245,8 +247,8 @@ paint pots absent, brushes absent, ladder absent, mattress absent, a clean room,
 SCENE CONTEXT
 A girl stops dead before one clear empty patch of plaster in the middle of the writing, smiles without knowing why, and walks on; at the door her hand finds the switch out of ordinary politeness and turns it off. 10 seconds, in 2 framings joined by 1 hard cut.
 
-CONTINUITY REFERENCE
-@Video 1: the shot that immediately precedes this one (10B), in the same place and the same minute. Use it ONLY to read where the scene stands — the exact light level and direction, the grain, the skin rendering, the state the bodies and the props are left in, and the camera's speed. Do NOT reuse, copy or extend any of its frames: every frame here is built new from the references below, at full quality. The framing comes solely from the FRAME MAP below and owes nothing to the previous shot's composition.
+CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO
+THE VIDEO ATTACHED TO THIS GENERATION is the shot that immediately precedes this one (10B), in the same place and the same minute. THIS GENERATION IS ITS DIRECT CONTINUATION and must feel like the same take filmed by the same operator seconds later: carry over its exact light level and direction, its grain, its skin rendering, the state the bodies and the props are left in, AND ABOVE ALL THE WAY ITS CAMERA BEHAVES — the same height, the same kind of movement, the same speed, the same breathing weight in the frame. Pick the scene up exactly where the attached video leaves it. Do not restart it, do not reset the room, do not relight it, do not change operator. The new framing is the one the FRAME MAP gives below, but it is reached by the same camera, moving the same way.
 
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
@@ -354,6 +356,7 @@ a drawing on the plaster, a dragon, an animal, a creature, any figure on the wal
 
 
 
+
 *⚠ **COUPE — 7 s** : ① `[0.2-4.4s]` (4,2 s = plan 10.3) · ② `[6.0-9.3s]` (3,3 s = plan 10.4, CLIC + 0,3 s de noir). **Le noir final n'est pas du déchet** : il se soude au noir d'ouverture de 10D-1.*
 *⚠ **[POST]** le dragon est incrusté sur la plage vide (artwork unique de 2.4) ; une image du rush portant une forme = prise inutilisable. **RÈGLE ZÉRO** : contrôler `[1.4-4.4s]` image par image — un sourcil froncé, une bouche qui formule, un regard qui cherche quelqu'un, et la prise est à jeter.*
 
@@ -365,8 +368,8 @@ a drawing on the plaster, a dragon, an animal, a creature, any figure on the wal
 SCENE CONTEXT
 One full second of pure black, then the black lights up: the strokes she has just walked past rise slowly until the room is readable, and the girl in the middle of it stops breathing. 8 seconds, one continuous framing, no cut.
 
-CONTINUITY REFERENCE
-No previous shot is attached to this generation. This is the first shot of its chain: it sets the light, the grain and the skin rendering that every following shot will be matched to. Build every frame new from the references below, at full quality.
+CONTINUITY REFERENCE — NO VIDEO IS ATTACHED
+No previous clip is attached to this generation. This is the first shot of its chain: it sets the light, the grain and the skin rendering that every following shot will be matched to. Build every frame new from the references below, at full quality.
 
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
@@ -465,6 +468,7 @@ letters appearing one by one, writing that draws itself, strokes crawling, a lig
 
 
 
+
 *⚠ **COUPE** : garder `[0.0-6.8s]`. Le noir d'ouverture se soude à la fin de 10C — raccord invisible, les deux plans sont noirs. **La montée ne se coupe jamais.***
 
 ---
@@ -475,8 +479,8 @@ letters appearing one by one, writing that draws itself, strokes crawling, a lig
 SCENE CONTEXT
 The camera tilts up off the standing girl and finds the ceiling: written corner to corner, brightest directly above the mattress, where a man lay for weeks with his arms over his face to finish it. 8 seconds, one continuous framing, no cut.
 
-CONTINUITY REFERENCE
-@Video 1: the previous segment of this same continuous shot (10D-1). Use it ONLY to read where the movement stands — light level, grain, skin rendering, and above all the camera's exact speed and direction at the moment it hands over. Do NOT reuse, copy or extend any of its frames: every frame here is built new from the references below, at full quality. The framing comes solely from the FRAME MAP below, and the movement continues at exactly the same constant speed, with no ease-in and no ease-out.
+CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO, MID-MOVEMENT
+THE VIDEO ATTACHED TO THIS GENERATION is the previous segment of this same continuous shot (10D-1). THIS GENERATION IS ITS DIRECT CONTINUATION: the camera is already moving when this clip begins and it does not stop, restart, ease in or change speed. Read from the attached video the camera's exact speed, direction and height at the moment it hands over, and carry the move on at that same constant speed, on the same line, with no ease-in and no ease-out. Carry over its light level, its grain and its skin rendering unchanged. The join must be invisible: one single move across the two clips.
 
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
@@ -575,6 +579,7 @@ letters appearing one by one, writing that draws itself, strokes crawling, a lig
 
 
 
+
 *⚠ **COUPE — 11 s pour le plan 10.5** : ① `[0.0-6.8s]` de 10D-1 · ② `[0.8-5.0s]` de 10D-2. ② démarre APRÈS la seconde tenue, sinon le raccord bégaie sur une image identique.*
 
 ---
@@ -585,8 +590,8 @@ letters appearing one by one, writing that draws itself, strokes crawling, a lig
 SCENE CONTEXT
 The face of a fifteen-year-old who has just seen the inside of a whole house light up. 6 seconds, one continuous framing, no cut.
 
-CONTINUITY REFERENCE
-@Video 1: the shot that immediately precedes this one (10D-2), in the same place and the same minute. Use it ONLY to read where the scene stands — the exact light level and direction, the grain, the skin rendering, the state the bodies and the props are left in, and the camera's speed. Do NOT reuse, copy or extend any of its frames: every frame here is built new from the references below, at full quality. The framing comes solely from the FRAME MAP below and owes nothing to the previous shot's composition.
+CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO
+THE VIDEO ATTACHED TO THIS GENERATION is the shot that immediately precedes this one (10D-2), in the same place and the same minute. THIS GENERATION IS ITS DIRECT CONTINUATION and must feel like the same take filmed by the same operator seconds later: carry over its exact light level and direction, its grain, its skin rendering, the state the bodies and the props are left in, AND ABOVE ALL THE WAY ITS CAMERA BEHAVES — the same height, the same kind of movement, the same speed, the same breathing weight in the frame. Pick the scene up exactly where the attached video leaves it. Do not restart it, do not reset the room, do not relight it, do not change operator. The new framing is the one the FRAME MAP gives below, but it is reached by the same camera, moving the same way.
 
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
@@ -687,6 +692,7 @@ letters appearing one by one, writing that draws itself, strokes crawling, a lig
 
 
 
+
 *⚠ **COUPE — 5 s** : garder `[0.6-5.6s]`. **Ne jamais couper avant la fin du sourire** — c'est la dernière image de Nora dans le film.*
 *⚠ **LE PLAN QUE TOUT LE FILM PRÉPARE.** Rush tiède, sur-joué, ou larme « jolie » → refaire jusqu'à ce qu'il soit juste : il n'y a plus aucun plan d'elle après, rien ne le corrige.*
 
@@ -698,8 +704,8 @@ letters appearing one by one, writing that draws itself, strokes crawling, a lig
 SCENE CONTEXT
 The camera leaves her face, draws back across the glowing room and out through the open door, and she stays where she is — smiling, getting smaller, until the door frame takes her. 5 seconds, one continuous framing, no cut.
 
-CONTINUITY REFERENCE
-@Video 1: the previous segment of this same continuous shot (10E). Use it ONLY to read where the movement stands — light level, grain, skin rendering, and above all the camera's exact speed and direction at the moment it hands over. Do NOT reuse, copy or extend any of its frames: every frame here is built new from the references below, at full quality. The framing comes solely from the FRAME MAP below, and the movement continues at exactly the same constant speed, with no ease-in and no ease-out.
+CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO, MID-MOVEMENT
+THE VIDEO ATTACHED TO THIS GENERATION is the previous segment of this same continuous shot (10E). THIS GENERATION IS ITS DIRECT CONTINUATION: the camera is already moving when this clip begins and it does not stop, restart, ease in or change speed. Read from the attached video the camera's exact speed, direction and height at the moment it hands over, and carry the move on at that same constant speed, on the same line, with no ease-in and no ease-out. Carry over its light level, its grain and its skin rendering unchanged. The join must be invisible: one single move across the two clips.
 
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
@@ -799,6 +805,7 @@ letters appearing one by one, writing that draws itself, strokes crawling, a lig
 
 
 
+
 *⚠ **COUPE** : garder `[1.9-4.4s]` (2,5 s), traversée de la porte comprise. **La vitesse constante est ce qui rend la coupe invisible.***
 *⚠ **RACCORD 1 → 2** : sur le montant de porte, quand les jambages mangent 60 % du cadre — le point le plus sombre du mouvement, là où une erreur de géométrie ne se voit pas.*
 
@@ -810,8 +817,8 @@ letters appearing one by one, writing that draws itself, strokes crawling, a lig
 SCENE CONTEXT
 The camera keeps going: back down the grey street the girl climbed, the red doorway shrinking to a warm point, and the ground begins to fall away. 5 seconds, one continuous framing, no cut.
 
-CONTINUITY REFERENCE
-@Video 1: the previous segment of this same continuous shot (10F-1). Use it ONLY to read where the movement stands — light level, grain, skin rendering, and above all the camera's exact speed and direction at the moment it hands over. Do NOT reuse, copy or extend any of its frames: every frame here is built new from the references below, at full quality. The framing comes solely from the FRAME MAP below, and the movement continues at exactly the same constant speed, with no ease-in and no ease-out.
+CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO, MID-MOVEMENT
+THE VIDEO ATTACHED TO THIS GENERATION is the previous segment of this same continuous shot (10F-1). THIS GENERATION IS ITS DIRECT CONTINUATION: the camera is already moving when this clip begins and it does not stop, restart, ease in or change speed. Read from the attached video the camera's exact speed, direction and height at the moment it hands over, and carry the move on at that same constant speed, on the same line, with no ease-in and no ease-out. Carry over its light level, its grain and its skin rendering unchanged. The join must be invisible: one single move across the two clips.
 
 ACTIVE REFERENCES
 @RedHouseExterior: The last house of a poor terraced street, wooden-fronted, deep dark red gone chalky, neighbours grey and blank, wet black road. THE ONLY RED IN THE WORLD OUTSIDE. 100% matches the reference.
@@ -907,6 +914,7 @@ people in the street, a girl, a man, a car moving, red on the road, red on the w
 
 
 
+
 *⚠ **COUPE** : garder `[0.6-3.1s]` (2,5 s). **RACCORD 2 → 3** : à `[3.1s]`, quand le cadre ne contient plus que des toits et du noir — aucun repère, donc aucune erreur de géométrie visible.*
 
 ---
@@ -917,8 +925,8 @@ people in the street, a girl, a man, a car moving, red on the road, red on the w
 SCENE CONTEXT
 The camera leaves the street behind and rises straight up until the town is nothing but a scatter of orange grains in a black landscape. 5 seconds, one continuous framing, no cut.
 
-CONTINUITY REFERENCE
-@Video 1: the previous segment of this same continuous shot (10F-2). Use it ONLY to read where the movement stands — light level, grain, skin rendering, and above all the camera's exact speed and direction at the moment it hands over. Do NOT reuse, copy or extend any of its frames: every frame here is built new from the references below, at full quality. The framing comes solely from the FRAME MAP below, and the movement continues at exactly the same constant speed, with no ease-in and no ease-out.
+CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO, MID-MOVEMENT
+THE VIDEO ATTACHED TO THIS GENERATION is the previous segment of this same continuous shot (10F-2). THIS GENERATION IS ITS DIRECT CONTINUATION: the camera is already moving when this clip begins and it does not stop, restart, ease in or change speed. Read from the attached video the camera's exact speed, direction and height at the moment it hands over, and carry the move on at that same constant speed, on the same line, with no ease-in and no ease-out. Carry over its light level, its grain and its skin rendering unchanged. The join must be invisible: one single move across the two clips.
 
 LOCATION MAP
 Framing 1 [0.0-5.0s] — camera: begins on the exact last frame of the previous generation and climbs straight up at a constant 9 m/s, tilting down 20 degrees evenly across the segment so the town opens beneath; no pan, no roll, no zoom.
@@ -1011,6 +1019,7 @@ red anywhere, a red roof, a red light, city lights bright enough to read, a lit 
 
 
 
+
 *⚠ **COUPE** : garder `[0.8-3.3s]` (2,5 s). **RACCORD 3 → 4** : à `[3.3s]` le cadre est presque entièrement noir et sans repère — le raccord le plus sûr des quatre, et c'est pour ça qu'il est placé là.*
 
 ---
@@ -1021,8 +1030,8 @@ red anywhere, a red roof, a red light, city lights bright enough to read, a lit 
 SCENE CONTEXT
 Kilometres away from the red house, the camera comes down out of the air and settles on a bus shelter, where a man sits alone on the bench, head down. 5 seconds, one continuous framing, no cut.
 
-CONTINUITY REFERENCE
-@Video 1: the previous segment of this same continuous shot (10F-3). Use it ONLY to read where the movement stands — light level, grain, skin rendering, and above all the camera's exact speed and direction at the moment it hands over. Do NOT reuse, copy or extend any of its frames: every frame here is built new from the references below, at full quality. The framing comes solely from the FRAME MAP below, and the movement continues at exactly the same constant speed, with no ease-in and no ease-out.
+CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO, MID-MOVEMENT
+THE VIDEO ATTACHED TO THIS GENERATION is the previous segment of this same continuous shot (10F-3). THIS GENERATION IS ITS DIRECT CONTINUATION: the camera is already moving when this clip begins and it does not stop, restart, ease in or change speed. Read from the attached video the camera's exact speed, direction and height at the moment it hands over, and carry the move on at that same constant speed, on the same line, with no ease-in and no ease-out. Carry over its light level, its grain and its skin rendering unchanged. The join must be invisible: one single move across the two clips.
 
 ACTIVE REFERENCES
 @SamSDF: The vagrant — Sam in disguise, and playing him well. Slower, stiller, older in the joints; the cold has genuinely got into him. He does not perform kindness: he asks for something small, receives it, gives back more than he took, and states it flatly. He never watches anyone walk away while they can still see him. 100% matches the reference.
@@ -1121,6 +1130,7 @@ the man's face, his eyes, the man looking up, the man standing, a readable face 
 
 
 
+
 *⚠ **COUPE** : garder `[2.5-5.0s]` (2,5 s), l'arrivée et l'arrêt compris. **Total du plan 10.7 = 10,0 s** (2,5 × 4).*
 *⚠ **RÈGLE D encore active** : à cette distance, aucun trait de visage. La révélation appartient au plan 10.8 — si le rush laisse lire ses yeux, la prise est à refaire.*
 
@@ -1208,8 +1218,8 @@ inutilisable, l'artwork unique ne pourra plus s'y caler.
 SCENE CONTEXT
 A homeless man alone under sodium puts down a half-eaten sandwich, pushes his beanie back, wipes one cheek; his hands fill the frame half a second — the fingers stained dark to the second knuckle — and then the head lifts and his eyes come into the light. Three shots, two hard cuts. Every second is choreographed below; nothing beyond it may be invented. 10 seconds, in 3 framings joined by 2 hard cuts.
 
-CONTINUITY REFERENCE
-@Video 1: the shot that immediately precedes this one (10F-4), in the same place and the same minute. Use it ONLY to read where the scene stands — the exact light level and direction, the grain, the skin rendering, the state the bodies and the props are left in, and the camera's speed. Do NOT reuse, copy or extend any of its frames: every frame here is built new from the references below, at full quality. The framing comes solely from the FRAME MAP below and owes nothing to the previous shot's composition.
+CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO
+THE VIDEO ATTACHED TO THIS GENERATION is the shot that immediately precedes this one (10F-4), in the same place and the same minute. THIS GENERATION IS ITS DIRECT CONTINUATION and must feel like the same take filmed by the same operator seconds later: carry over its exact light level and direction, its grain, its skin rendering, the state the bodies and the props are left in, AND ABOVE ALL THE WAY ITS CAMERA BEHAVES — the same height, the same kind of movement, the same speed, the same breathing weight in the frame. Pick the scene up exactly where the attached video leaves it. Do not restart it, do not reset the room, do not relight it, do not change operator. The new framing is the one the FRAME MAP gives below, but it is reached by the same camera, moving the same way.
 
 ACTIVE REFERENCES
 @SamSDF: The vagrant — Sam in disguise, and playing him well. Slower, stiller, older in the joints; the cold has genuinely got into him. He does not perform kindness: he asks for something small, receives it, gives back more than he took, and states it flatly. He never watches anyone walk away while they can still see him. 100% matches the reference.
@@ -1322,6 +1332,7 @@ a false beard, a glued-on beard, a prosthetic beard, a beard being pulled off, a
 
 
 
+
 *⚠ **COUPE — 6 s sur 10 s** : ① `[2.9-4.0s]` du sh.1 · ② **`[4.4-4.9s]` du sh.2, une demi-seconde, pas
 plus** (les doigts passent AVANT le visage ; à 1,5 s l'insert devient une explication) · ③
 `[5.6-10.0s]` en entier. **REFAIRE SI** : orbites noires · postiche · doigts rouges au lieu de brun-noir.*
@@ -1335,8 +1346,8 @@ plus** (les doigts passent AVANT le visage ; à 1,5 s l'insert devient une expli
 SCENE CONTEXT
 Four moments in one house, cut hard together. A father stands one metre from his crying daughter's half-open door and his hand stops short of the wood — a silhouette, no light ever on his face. He inks line after line onto a long dark coat laid flat under a lamp. In daylight he draws a soap-loaded fingertip across a DRY mirror and nothing appears. And at the end, wearing the coat, he walks away down his own hallway while a door claps behind him and bare feet run — and he does not turn around. Four shots, three hard cuts. Every second is choreographed below; nothing beyond it may be invented. 14 seconds, in 4 framings joined by 3 hard cuts.
 
-CONTINUITY REFERENCE
-@Video 1: an earlier shot from the same film (10H), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level, its composition or any of its frames: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything is built new, at full quality.
+CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
+THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (10H), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
 ACTIVE REFERENCES
 @Sam: Sam two years later, a month of badly trimmed beard, ten kilos heavier, grey under the eyes. Two years without speaking — not sullen, emptied. He moves through his own house like a guest, shoulders forward, eyes down and to the side. Every gesture is finished; none is explained. 100% matches the reference.
@@ -1464,6 +1475,7 @@ the father's face, his face lit, light on his eyes, his eyes, his eyebrows, any 
 
 
 
+
 *⚠ **COUPES — 7,5 s sur 14 s.** **a (2,5 s)** `[1.5-4.0s]` : entrer dans le pivot **déjà lancé** (le
 cadre fixe a été vu en 4.1) et sortir sur la main arrêtée. **b (2 s)** `[5.4-7.4s]`. **f (1 s)**
 `[8.7-9.7s]`. **h (2 s)** `[10.9-12.9s]` — **ne jamais commencer h avant `[10.9s]`**, un dos qui
@@ -1479,8 +1491,8 @@ refaire. ⚠ Son jeté au mix : le montage 10.9 est muet sous la musique pleine.
 SCENE CONTEXT
 A man lays the first stroke of dark red on a bare wall and steps back to measure what it will cost. Months later, in the same room, every surface is covered; he comes down the ladder with his fingers red to the second knuckle, pushes the switch OFF — and the strokes rise out of the dark on their own, faint, walls and ceiling together. Then he goes round to the people who will speak for him, an old woman and three women in a closed restaurant, and both times he talks and they nod. And in a library service corridor he drags the coat up over his own head and stands up as nobody. Five shots, four hard cuts. Every second is choreographed below; nothing beyond it may be invented. 19 seconds, in 5 framings joined by 4 hard cuts.
 
-CONTINUITY REFERENCE
-@Video 1: an earlier shot from the same film (10I), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level, its composition or any of its frames: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything is built new, at full quality.
+CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
+THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (10I), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
 ACTIVE REFERENCES
 @Sam: Sam two years later, a month of badly trimmed beard, ten kilos heavier, grey under the eyes. Two years without speaking — not sullen, emptied. He moves through his own house like a guest, shoulders forward, eyes down and to the side. Every gesture is finished; none is explained. 100% matches the reference.
@@ -1622,6 +1634,7 @@ the man's face, his profile, his eyes, him turning toward camera, a face above t
 
 
 
+
 *⚠ **COUPES — 9,5 s sur 19 s.** **c (3 s — les deux plus longs du montage)** : `[1.6-3.1s]` du sh.1
 *(le trait qui court, le pas en arrière)* + `[5.6-7.1s]` du sh.2 *(le bras qui tombe, les doigts
 rouges, le clic, le noir, le début de la montée)*. **d (2 s)** `[10.2-12.0s]` · **e (2 s)**
@@ -1638,8 +1651,8 @@ la surface est reprise en **[POST]**.*
 SCENE CONTEXT
 Through the glass of a hospital room door: a dying woman takes her husband's face in both her hands, will not let go of it, and asks him for something. He opens his mouth and nothing comes out. He cries. He nods. He nods again. One continuous shot, locked frame, no cut, no camera movement of any kind. Every second is choreographed below; nothing beyond it may be invented. 8 seconds, one continuous framing, no cut.
 
-CONTINUITY REFERENCE
-No previous shot is attached to this generation. This is the first shot of its chain: it sets the light, the grain and the skin rendering that every following shot will be matched to. Build every frame new from the references below, at full quality.
+CONTINUITY REFERENCE — NO VIDEO IS ATTACHED
+No previous clip is attached to this generation. This is the first shot of its chain: it sets the light, the grain and the skin rendering that every following shot will be matched to. Build every frame new from the references below, at full quality.
 
 ACTIVE REFERENCES
 @MaeveIll: Maeve in hospital, forty, the illness has taken her body and left the voice and the impatience intact. She spends what is left on being understood, not on being reassuring. Not frightened, and not brave about it either — out of time and aware of it. 100% matches the reference.
@@ -1749,6 +1762,7 @@ the man speaking, any male voice, a whisper from him, him wiping his face, his h
 
 
 
+
 *⚠ **LES DEUX USAGES DU MÊME FICHIER.** **3.5 (6 s)** : garder `[1.0-7.0s]`, **piste chambre coupée au
 mix** — on voit une bouche parler et on n'entend rien. **10.10 (8 s)** : le fichier ENTIER
 `[0.0-8.0s]`, **piste chambre ouverte**. Même image, deux mixages — c'est tout le plan. **Ne jamais
@@ -1764,8 +1778,8 @@ regénérer une version « sonore » séparée** : deux fichiers différents tue
 SCENE CONTEXT
 A heavy homeless man alone on a bus shelter bench under sodium, his face already wiped in lighter streaks. He lifts his head — further than before, past level, until he is looking up at the night sky. A long beat. Then the corners of his mouth go up and do not come down again, and one line of water crosses the wiped cheek, and he does not wipe it. He is smiling and crying at once, and he does not move again. One single take, no cut. Every second is choreographed below; nothing beyond it may be invented. 8 seconds, one continuous framing, no cut.
 
-CONTINUITY REFERENCE
-@Video 1: the shot that immediately precedes this one (10H), in the same place and the same minute. Use it ONLY to read where the scene stands — the exact light level and direction, the grain, the skin rendering, the state the bodies and the props are left in, and the camera's speed. Do NOT reuse, copy or extend any of its frames: every frame here is built new from the references below, at full quality. The framing comes solely from the FRAME MAP below and owes nothing to the previous shot's composition.
+CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO
+THE VIDEO ATTACHED TO THIS GENERATION is the shot that immediately precedes this one (10H), in the same place and the same minute. THIS GENERATION IS ITS DIRECT CONTINUATION and must feel like the same take filmed by the same operator seconds later: carry over its exact light level and direction, its grain, its skin rendering, the state the bodies and the props are left in, AND ABOVE ALL THE WAY ITS CAMERA BEHAVES — the same height, the same kind of movement, the same speed, the same breathing weight in the frame. Pick the scene up exactly where the attached video leaves it. Do not restart it, do not reset the room, do not relight it, do not change operator. The new framing is the one the FRAME MAP gives below, but it is reached by the same camera, moving the same way.
 
 ACTIVE REFERENCES
 @SamSDF: The vagrant — Sam in disguise, and playing him well. Slower, stiller, older in the joints; the cold has genuinely got into him. He does not perform kindness: he asks for something small, receives it, gives back more than he took, and states it flatly. He never watches anyone walk away while they can still see him. 100% matches the reference.
@@ -1861,6 +1875,7 @@ One continuous uncut take at real-time speed, for the exact duration requested. 
 AVOID
 a false beard, a glued-on beard, a prosthetic beard, a beard being pulled off, a mask, a wig, a disguise being removed, anything peeling from the face, a glue line, the beanie thrown away or left on the bench, the hood going back up, the head dropping again, a second head lift, eyes rolled back, only whites showing, any other person in frame, a girl, a bus, headlights, red anywhere, sobbing, wailing, hands covering the face, him wiping the tear away, a cut, a dissolve, a reframe, push in, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, subjects looking at camera, visible camera rigs, camera movement, zoom, handheld shake, slow motion, extra gestures, improvised actions, repositioned props, appearing or disappearing objects, golden light, generated music, plastic skin, CGI look, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness.
 ```
+
 
 
 

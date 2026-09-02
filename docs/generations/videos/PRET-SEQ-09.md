@@ -15,8 +15,8 @@
 SCENE CONTEXT
 A deserted bus stop at the far edge of a port town at night. A vagrant sits motionless on the bench under the lamp; a girl stands ten metres off in the dark on the near side of the road; she is the one who crosses. Two shots, one hard cut. Every second is choreographed below; nothing beyond it may be invented. 10 seconds, in 2 framings joined by 1 hard cut.
 
-CONTINUITY REFERENCE
-@Video 1: an earlier shot from the same film (8E), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level, its composition or any of its frames: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything is built new, at full quality.
+CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
+THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (8E), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
@@ -131,6 +131,7 @@ visible camera rigs, cartoonish colors, blurred focus, on-screen text, subtitles
 
 
 
+
 *Note montage 9A — **point de coupe : entrer à [2.2s], sortir à [7.0s] = 4,8 s exactement.** On garde 0,4 s d'immobilité, le report de poids (2.6-3.4), le départ et 2,6 s de traversée en plan large, puis 1,0 s de travelling derrière elle ; **la coupe tombe alors qu'elle marche encore** — et c'est juste : en 9.2 le SDF parle AVANT qu'elle s'arrête (« Got anything to eat? » … puis « Elle s'arrête à deux pas du banc »). Ses pas s'entendent dans 9B et s'y arrêtent. ⚠ Si David veut voir l'arrêt à l'image, sortir à [9.4s] (7,2 s) et reprendre les 2,4 s sur 9B (voir les fenêtres ci-dessous).*
 
 ---
@@ -142,8 +143,8 @@ visible camera rigs, cartoonish colors, blurred focus, on-screen text, subtitles
 SCENE CONTEXT
 He asks for food without lifting his head. Her hand goes into her pocket, closes into a fist around something small and hard, and lets it go — and comes out with the sandwich instead. She holds it out at arm's length without taking a step. He leans out from the hips and takes it, tears the paper and eats too fast — then stops dead in the middle of the mouthful, folds the paper back over what is left and keeps it shut in his LEFT fist. Four shots, three hard cuts. Every second is choreographed below; nothing beyond it may be invented. 14 seconds, in 4 framings joined by 3 hard cuts.
 
-CONTINUITY REFERENCE
-@Video 1: the shot that immediately precedes this one (9A), in the same place and the same minute. Use it ONLY to read where the scene stands — the exact light level and direction, the grain, the skin rendering, the state the bodies and the props are left in, and the camera's speed. Do NOT reuse, copy or extend any of its frames: every frame here is built new from the references below, at full quality. The framing comes solely from the FRAME MAP below and owes nothing to the previous shot's composition.
+CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO
+THE VIDEO ATTACHED TO THIS GENERATION is the shot that immediately precedes this one (9A), in the same place and the same minute. THIS GENERATION IS ITS DIRECT CONTINUATION and must feel like the same take filmed by the same operator seconds later: carry over its exact light level and direction, its grain, its skin rendering, the state the bodies and the props are left in, AND ABOVE ALL THE WAY ITS CAMERA BEHAVES — the same height, the same kind of movement, the same speed, the same breathing weight in the frame. Pick the scene up exactly where the attached video leaves it. Do not restart it, do not reset the room, do not relight it, do not change operator. The new framing is the one the FRAME MAP gives below, but it is reached by the same camera, moving the same way.
 
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
@@ -281,6 +282,7 @@ visible camera rigs, cartoonish colors, blurred focus, on-screen text, subtitles
 
 
 
+
 *Note montage 9B — **cible script : 7 s. Le contenu écrit mesure 8,2 s en temps réel ; on rend 8,2 s** et on reprend les 1,2 s sur 9A (voir ci-dessus) : la séquence reste à 20,0 s exactement.*
 ***Fenêtres à monter, dans l'ordre :** shot 3 **[1.0-2.8]** = 1,8 s (0,2 s de souffle, puis **toute** la réplique 1.2→2.6 et 0,2 s de silence tenu — ⚠ ne JAMAIS entrer après 1.2, on couperait le mot « Got ») · shot 4 **[5.0-7.5]** = 2,5 s (0,3 s du poing déjà fermé sur la bague → les doigts qui s'ouvrent → le sandwich sorti → le bras tendu et bloqué) · shot 5 **[8.7-10.2]** = 1,5 s (le buste qui se penche et la main qui se referme → le papier arraché → la première morsure) · shot 6 **[11.0-13.4]** = 2,4 s (l'arrêt net → le repli → toute la réplique 12.0→13.2 + 0,2 s). **Total 8,2 s.***
 *⚠ **Si David exige 7,0 s** : passer la fenêtre du shot 4 à [5.4-7.5] (2,1 s) et le shot 5 à [8.9-10.2] (1,3 s) → 7,6 s ; en dessous il faut **supprimer la tenue du poing sur la bague** (entrer le shot 4 à 5.9). C'est le cœur de la scène — à ne faire qu'en tout dernier recours.*
@@ -296,8 +298,8 @@ visible camera rigs, cartoonish colors, blurred focus, on-screen text, subtitles
 SCENE CONTEXT
 Still holding the folded half of the sandwich shut in his left fist, he raises his other arm and points up the black road; he gives her the direction flat, without looking at her. She walks out of the sodium cone into the dark. He does not watch her go. Two shots, one hard cut. Every second is choreographed below; nothing beyond it may be invented. 10 seconds, in 2 framings joined by 1 hard cut.
 
-CONTINUITY REFERENCE
-@Video 1: the shot that immediately precedes this one (9B), in the same place and the same minute. Use it ONLY to read where the scene stands — the exact light level and direction, the grain, the skin rendering, the state the bodies and the props are left in, and the camera's speed. Do NOT reuse, copy or extend any of its frames: every frame here is built new from the references below, at full quality. The framing comes solely from the FRAME MAP below and owes nothing to the previous shot's composition.
+CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO
+THE VIDEO ATTACHED TO THIS GENERATION is the shot that immediately precedes this one (9B), in the same place and the same minute. THIS GENERATION IS ITS DIRECT CONTINUATION and must feel like the same take filmed by the same operator seconds later: carry over its exact light level and direction, its grain, its skin rendering, the state the bodies and the props are left in, AND ABOVE ALL THE WAY ITS CAMERA BEHAVES — the same height, the same kind of movement, the same speed, the same breathing weight in the frame. Pick the scene up exactly where the attached video leaves it. Do not restart it, do not reset the room, do not relight it, do not change operator. The new framing is the one the FRAME MAP gives below, but it is reached by the same camera, moving the same way.
 
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
@@ -408,6 +410,7 @@ One continuous take at real-time speed for the exact duration requested, contain
 AVOID
 visible camera rigs, cartoonish colors, blurred focus, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, subjects looking at camera, slow motion, morphing objects, extra people in frame, passers-by, traffic, extra gestures, improvised actions, repositioned props, appearing or disappearing objects, modern branding, readable signage, the vagrant's eyes or upper face visible, the man's full face in frame, any part of his face above the upper lip, his nose in frame, a face resolving inside the hood in the wide shot, the hood pushed back off his brow, his brow or eye sockets catching light, the frame drifting or tilting upward on him, camera movement, dolly, pan, zoom, handheld shake, camera wobble, Nora's head or face in frame in the medium shot, a false or glued-on beard look, the man lifting his head, the man standing, the man turning his head to follow her, the man watching her go, the man pointing with his left arm, the packet in his right hand, the man opening the packet, the man eating again, the packet leaving his fist, the packet on the bench, any red anywhere — the word "red" is spoken, never shown, a red glow up the road, red brake lights, red signals, any light up the road, a lit window in the distance, the light box lit, lettering or image on the light box, her turning back, her speaking, her crying, a traffic light, a hydrant, rushed movements, hurried dialogue, theatrical acting, generated music, uncanny smoothness, plastic skin, beauty filter, CGI look, video-game lighting, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness.
 ```
+
 
 
 

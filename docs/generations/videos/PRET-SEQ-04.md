@@ -15,8 +15,8 @@
 SCENE CONTEXT
 Night. From a pitch-dark hallway, through a half-open door, a fifteen-year-old girl cries alone, curled on her bed, and breathes one word to nobody. One single locked shot, no cuts. The shot lasts. Nobody comes, nobody passes, nothing moves in the hallway. Every second is choreographed below; nothing beyond it may be invented. 10 seconds, one continuous framing, no cut.
 
-CONTINUITY REFERENCE
-No previous shot is attached to this generation. This is the first shot of its chain: it sets the light, the grain and the skin rendering that every following shot will be matched to. Build every frame new from the references below, at full quality.
+CONTINUITY REFERENCE — NO VIDEO IS ATTACHED
+No previous clip is attached to this generation. This is the first shot of its chain: it sets the light, the grain and the skin rendering that every following shot will be matched to. Build every frame new from the references below, at full quality.
 
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
@@ -115,6 +115,7 @@ a second person, a man in the hallway, a silhouette, a shadow crossing the light
 
 
 
+
 *⚠ **HAUTEUR DE CAMÉRA — VERROUILLÉE À 160 cm, ET IL N'Y A PLUS RIEN À CORRIGER À LA MAIN.** L'ancienne version du bloc portait une hésitation de rédaction dans le shot header (« 115 cm... no: exactly 160 cm ») et une note demandant à David de la réparer avant de coller : les deux sont supprimées. 160 cm est la hauteur de LIEU-08 IMAGE 2 et celle du contrechamp final. **Le bloc se colle tel quel, sans en retirer ni en corriger une ligne** — c'est la règle du document.*
 
 *⚠ **POINT DE COUPE — 8 s au montage sur 10 s générées.** Garder `[0.0-8.0s]` : l'installation, le mot, et deux secondes de rien après. **Ne jamais couper avant `[7.0s]`** — c'est la durée du silence qui dit « personne ne vient », et c'est tout le plan.*
@@ -129,8 +130,8 @@ a second person, a man in the hallway, a silhouette, a shadow crossing the light
 SCENE CONTEXT
 Another night. A fifteen-year-old girl brings an empty dish back to her old neighbour. The old woman opens the door and steps aside; on the table two cups are already poured and still steaming, and an old pencil drawing lies unfolded between them. The old woman does not ask why the girl's eyelids are swollen. She pushes the drawing two centimetres toward her with the backs of her crooked fingers, and begins to speak. Then the camera goes down into the paper until the pencil grain becomes the grain of the image. Every second is choreographed below; nothing beyond it may be invented. 15 seconds, in 3 framings joined by 2 hard cuts.
 
-CONTINUITY REFERENCE
-@Video 1: an earlier shot from the same film (4A), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level, its composition or any of its frames: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything is built new, at full quality.
+CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
+THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (4A), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
@@ -253,6 +254,7 @@ anyone pouring tea, a kettle being lifted, a cup being filled or carried in, the
 
 
 
+
 *⚠ **POINT DE COUPE — 10 s au montage sur 15 s générées, et la somme tombe juste.** Garder ① `[1.5-5.5s]` du shot 1 (**4,0 s** : l'entrée, le plat posé, la porte poussée) ; ② `[6.4-8.4s]` du shot 2 (**2,0 s** : le poussé du dessin déjà en route et le regard de Nora — **ne JAMAIS entamer après `[6.6s]`**, la main doit être encore en mouvement à l'image) ; ③ `[11.0-15.0s]` du shot 3 (**4,0 s** : le pouce sur le grain, la réplique, la descente entière). **① + ② = 6,0 s = le plan 4.2 · ③ = 4,0 s = le plan 4.3 · total 10,0 s**, exactement les durées du script. **La descente ne se coupe pas** : elle doit atteindre les hachures pleine image, sinon le souvenir n'a pas de porte. (L'ancien découpage `[1.4-5.5]` + `[6.6-9.2]` + `[11.2-15.0]` faisait 10,5 s et débordait le bloc.)*
 
 *⚠ **LES DEUX TASSES DÉJÀ SERVIES — le plant le plus discret du film.** Elles sont fumantes AVANT que Nora frappe : Anna savait qu'elle viendrait. **Aucun insert, aucun arrêt de caméra sur les tasses, aucun regard qui les désigne** — elles sont juste là, au centre du cadre, et personne ne les remarque. Ça paie au montage muet de la séq. 10. Si le rush montre quelqu'un en train de verser, la prise est à refaire.*
@@ -268,8 +270,8 @@ anyone pouring tea, a kettle being lifted, a cup being filled or carried in, the
 SCENE CONTEXT
 The camera comes back up out of a pencil drawing onto the table it lies on. An old woman says a boy's name and loses her breath on it, and does not wipe her eyes. Across the table a fifteen-year-old girl stops her cup ten centimetres below her mouth and does not put it down. Then the old woman says the one true thing she has to give. Every second is choreographed below; nothing beyond it may be invented. 15 seconds, in 3 framings joined by 2 hard cuts.
 
-CONTINUITY REFERENCE
-@Video 1: the shot that immediately precedes this one (4B), in the same place and the same minute. Use it ONLY to read where the scene stands — the exact light level and direction, the grain, the skin rendering, the state the bodies and the props are left in, and the camera's speed. Do NOT reuse, copy or extend any of its frames: every frame here is built new from the references below, at full quality. The framing comes solely from the FRAME MAP below and owes nothing to the previous shot's composition.
+CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO
+THE VIDEO ATTACHED TO THIS GENERATION is the shot that immediately precedes this one (4B), in the same place and the same minute. THIS GENERATION IS ITS DIRECT CONTINUATION and must feel like the same take filmed by the same operator seconds later: carry over its exact light level and direction, its grain, its skin rendering, the state the bodies and the props are left in, AND ABOVE ALL THE WAY ITS CAMERA BEHAVES — the same height, the same kind of movement, the same speed, the same breathing weight in the frame. Pick the scene up exactly where the attached video leaves it. Do not restart it, do not reset the room, do not relight it, do not change operator. The new framing is the one the FRAME MAP gives below, but it is reached by the same camera, moving the same way.
 
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
@@ -393,6 +395,7 @@ flashback imagery, memory superimposition, a child, a hospital, a corridor, a co
 
 
 
+
 *⚠ **START FRAME — CORRIGÉE, ET C'EST LE POINT LE PLUS IMPORTANT DU BLOC.** Ce bloc n'a pas de start frame de lieu, et **sa start frame n'est PAS la dernière image du micro-plan 4.3l** : la dernière image de 4.3l est le VISAGE d'Anna sous la lampe au mercure, pas une planche de hachures (voir le LAST FRAME de la génération 4I). **La start frame de 4C est la DERNIÈRE IMAGE DE LA GÉNÉRATION 4B** — les hachures pleine image dans lesquelles la caméra était descendue — réexportée et rechargée telle quelle. C'est la seule planche de hachures réellement générée du document, et c'est ce qui fait que le retrait de 4C shot 1 est **le mouvement exact inverse** de la descente de 4B shot 3 : même axe, même aplomb, même magnification, même grain, même vitesse.*
 *Le **fondu de sortie du souvenir** se joue alors en post, entre la queue de 4I (le visage) et cette tête de 4C (les hachures) : deux tiers de seconde, rien d'autre. La porte du souvenir se referme sur le même objet posé sur la table qui l'avait ouverte (règle H).*
 
@@ -408,8 +411,8 @@ flashback imagery, memory superimposition, a child, a hospital, a corridor, a co
 SCENE CONTEXT
 A fifteen-year-old girl asks an old woman where to find someone, and gets an answer that is not an address. Then she pulls on her coat and goes, and her hand leaves the door frame. The camera stays on the door frame. On it are decades of pencil marks at every child height, and behind it, over the stove, a line of small odd mittens drying. Nobody says anything about either. Every second is choreographed below; nothing beyond it may be invented. 15 seconds, in 2 framings joined by 1 hard cut.
 
-CONTINUITY REFERENCE
-@Video 1: the shot that immediately precedes this one (4C), in the same place and the same minute. Use it ONLY to read where the scene stands — the exact light level and direction, the grain, the skin rendering, the state the bodies and the props are left in, and the camera's speed. Do NOT reuse, copy or extend any of its frames: every frame here is built new from the references below, at full quality. The framing comes solely from the FRAME MAP below and owes nothing to the previous shot's composition.
+CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO
+THE VIDEO ATTACHED TO THIS GENERATION is the shot that immediately precedes this one (4C), in the same place and the same minute. THIS GENERATION IS ITS DIRECT CONTINUATION and must feel like the same take filmed by the same operator seconds later: carry over its exact light level and direction, its grain, its skin rendering, the state the bodies and the props are left in, AND ABOVE ALL THE WAY ITS CAMERA BEHAVES — the same height, the same kind of movement, the same speed, the same breathing weight in the frame. Pick the scene up exactly where the attached video leaves it. Do not restart it, do not reset the room, do not relight it, do not change operator. The new framing is the one the FRAME MAP gives below, but it is reached by the same camera, moving the same way.
 
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
@@ -523,6 +526,7 @@ names beside the pencil marks, words on the door frame, letters, digits, dates, 
 
 
 
+
 *⚠ **POINT DE COUPE — 13 s au montage sur 15 s générées.** Garder ① `[0.6-6.8s]` du shot 1 (la question, le silence d'Anna, la réponse, et le silence après) ; ② `[7.6-15.0s]` du shot 2 en entier. **Ne jamais raccourcir `[9.6-11.6s]`** — les deux secondes où le cadre est vide et où l'on regarde les traits sans qu'on nous les désigne sont exactement le plan. Le noir final se coupe sur l'image, pas sur le son : le ronflement du poêle déborde d'une demi-seconde sur le noir.*
 
 *⚠ **CE QUE CE PLAN RACONTE, ET QU'ON NE DOIT SURTOUT PAS EXPLIQUER.** Trente ans d'enfants réchauffés, et pas une réplique pour le dire. Le poêle rallumé une nuit pour un inconnu ne s'est plus jamais éteint, et c'est le même poêle qui sèche ces moufles. **Nora ne le voit pas. Nous, si.** Contrôles sur le rush : ① **aucune moufle ne va avec une autre** — s'il y a une paire, la prise est à refaire, c'est tout le sens ; ② **le trait isolé, tout en haut, doit être visible et seul** ; ③ **aucun nom, aucune date, aucun chiffre** à côté d'un seul trait (règle G) ; ④ **la lumière ne se réchauffe pas** à la fin — le monde reste gris, c'est ce que le plan montre qui émeut, pas comment il est éclairé.*
@@ -569,8 +573,8 @@ names beside the pencil marks, words on the door frame, letters, digits, dates, 
 SCENE CONTEXT
 A woman of forty-eight sits by her eleven year old son's hospital bed and his fingers loosen out of her hand one by one; in the corridor a doctor comes out of a door ten metres away and takes his cloth cap off without coming any closer; her knees go and she goes down the tiled wall and screams one name. Three shots, two hard cuts. Nobody speaks. Every second is choreographed below; nothing beyond it may be invented. 10 seconds, in 3 framings joined by 2 hard cuts.
 
-CONTINUITY REFERENCE
-No previous shot is attached to this generation. This is the first shot of its chain: it sets the light, the grain and the skin rendering that every following shot will be matched to. Build every frame new from the references below, at full quality.
+CONTINUITY REFERENCE — NO VIDEO IS ATTACHED
+No previous clip is attached to this generation. This is the first shot of its chain: it sets the light, the grain and the skin rendering that every following shot will be matched to. Build every frame new from the references below, at full quality.
 
 ACTIVE REFERENCES
 @AnnaYoung: Anna thirty years earlier, forty-eight — the same woman: practical hands, straight back, no drama offered to anyone. Everything that breaks in her breaks inward and without sound, until the one moment it does not. Never a victim in any frame. 100% matches the reference.
@@ -699,6 +703,7 @@ bright red, saturated red, red cross, red crescent, fire extinguisher, red blank
 
 
 
+
 *⚠ **LE RACCORD AU PIXEL — CE QUI A ÉTÉ CORRIGÉ ICI, ET POURQUOI C'EST LE POINT LE PLUS IMPORTANT DU BLOC.** Le script est impératif sur 4.3b : « **⚠ MÊME CADRAGE QUE 3.2, AU PIXEL — MAIS AUTRE DÉCOR** *(même focale, même hauteur d'œil, même point de fuite)* ». Le plan 3.2 est généré par le bloc **3B de VIDEO-SEQ-03** : **Anamorphic 85 mm f/2**, « Medium-long shot compressed by the long lens, eye level », la nuque floue au **bord GAUCHE, x=12%, 55 % de la hauteur de cadre**, l'homme à **dix mètres, x=46%, 55 % de hauteur**, la fenêtre du fond cramée en blanc. L'ancienne version de ce bloc donnait 50 mm, une caméra à 120 cm, la nuque à x=47% et 70 % de hauteur, et un médecin à x=34% ne remplissant que 22 % : **aucun des quatre paramètres ne correspondait**, et l'écho qui fait tenir toute la séquence 4 était perdu. Le shot 2 ci-dessus reprend les valeurs de 3B une par une.*
 *→ **À REPORTER DANS L'EN-TÊTE DE LA PARTIE II** : la ligne des focales devient **« 50 mm f/2 (4F, 4H, 4I) · 85 mm f/2 (4E) · 40 mm f/2 (4G) »**.*
 *→ **ÉCART DE START FRAME À DÉCLARER** : LIEU-17 IMAGE 4 est un plan large de la chambre ; à 85 mm le shot 1 est plus serré (la tête du lit, l'oreiller, le dos et les deux mains jointes). L'image de lieu donne la chambre, l'axe, la faïence et la matière ; elle ne donne plus la valeur de plan. C'est assumé : à 2,5 s, ce qu'il faut voir c'est la main qui se desserre, pas le mobilier.*
@@ -718,8 +723,8 @@ bright red, saturated red, red cross, red crescent, fire extinguisher, red blank
 SCENE CONTEXT
 The same night, in the same corridor. A heavily pregnant woman is wheeled along it; a doctor's mouth is at her ear and a head says no; her heels press down into the mattress. She looks straight up at a closed ceiling and her lips move without any sound. Her fingers whiten on the gurney rail and then let go all at once. Three shots, two hard cuts. Nobody speaks aloud, nothing is heard of what is said. Every second is choreographed below; nothing beyond it may be invented. 10 seconds, in 3 framings joined by 2 hard cuts.
 
-CONTINUITY REFERENCE
-@Video 1: the shot that immediately precedes this one (4E), in the same place and the same minute. Use it ONLY to read where the scene stands — the exact light level and direction, the grain, the skin rendering, the state the bodies and the props are left in, and the camera's speed. Do NOT reuse, copy or extend any of its frames: every frame here is built new from the references below, at full quality. The framing comes solely from the FRAME MAP below and owes nothing to the previous shot's composition.
+CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO
+THE VIDEO ATTACHED TO THIS GENERATION is the shot that immediately precedes this one (4E), in the same place and the same minute. THIS GENERATION IS ITS DIRECT CONTINUATION and must feel like the same take filmed by the same operator seconds later: carry over its exact light level and direction, its grain, its skin rendering, the state the bodies and the props are left in, AND ABOVE ALL THE WAY ITS CAMERA BEHAVES — the same height, the same kind of movement, the same speed, the same breathing weight in the frame. Pick the scene up exactly where the attached video leaves it. Do not restart it, do not reset the room, do not relight it, do not change operator. The new framing is the one the FRAME MAP gives below, but it is reached by the same camera, moving the same way.
 
 ACTIVE REFERENCES
 @YoungMotherHospital: The same young woman two years earlier, twenty-three and heavily pregnant, on a rolling hospital gurney. 100% matches the reference.
@@ -841,6 +846,7 @@ audible speech, spoken words, whispered dialogue, lip-synced speech, a scream, c
 
 
 
+
 *⚠ **POINTS DE COUPE.** 10 s → 7,5 s. **4.3d** = `[0.9s]`→`[3.4s]` (2,5 s, la bouche à l'oreille dedans, la tête qui fait non, les talons) · **4.3f** = `[4.4s]`→`[6.9s]` (2,5 s ; ne pas franchir la coupe dure de `[7.0s]`) · **4.3g** = `[7.5s]`→`[10.0s]` (2,5 s, le serrage et le lâcher dedans).*
 
 *⚠ **Ce bloc se monte APRÈS 4G**, pas dans son ordre de génération : au montage l'ordre est 4.3d (ici) → 4.3e (4G) → 4.3f (ici) → 4.3g (ici). C'est une seule prise parce que c'est une seule chevauchée : même hauteur, même vitesse, même faïence qui défile — trois générations séparées ne raccorderaient pas en vitesse.*
@@ -854,8 +860,8 @@ audible speech, spoken words, whispered dialogue, lip-synced speech, a scream, c
 SCENE CONTEXT
 A hospital corridor at night, seen from a gurney that is rolling toward a pair of heavy double doors. The ceiling tubes cross overhead one after another; a single head leans in over the top of the frame and goes out again; far ahead, small and oblique, an open door with a man standing in it holding his cap, and lower down against the far wall a dark kneeling shape. A name crosses the corridor and the frame drifts toward the sound, the way a head turns on a pillow. One shot, no cut. Every second is choreographed below; nothing beyond it may be invented. 6 seconds, one continuous framing, no cut.
 
-CONTINUITY REFERENCE
-@Video 1: the shot that immediately precedes this one (4F), in the same place and the same minute. Use it ONLY to read where the scene stands — the exact light level and direction, the grain, the skin rendering, the state the bodies and the props are left in, and the camera's speed. Do NOT reuse, copy or extend any of its frames: every frame here is built new from the references below, at full quality. The framing comes solely from the FRAME MAP below and owes nothing to the previous shot's composition.
+CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO
+THE VIDEO ATTACHED TO THIS GENERATION is the shot that immediately precedes this one (4F), in the same place and the same minute. THIS GENERATION IS ITS DIRECT CONTINUATION and must feel like the same take filmed by the same operator seconds later: carry over its exact light level and direction, its grain, its skin rendering, the state the bodies and the props are left in, AND ABOVE ALL THE WAY ITS CAMERA BEHAVES — the same height, the same kind of movement, the same speed, the same breathing weight in the frame. Pick the scene up exactly where the attached video leaves it. Do not restart it, do not reset the room, do not relight it, do not change operator. The new framing is the one the FRAME MAP gives below, but it is reached by the same camera, moving the same way.
 
 ACTIVE REFERENCES
 @AnnaYoung: Anna thirty years earlier, forty-eight — the same woman: practical hands, straight back, no drama offered to anyone. Everything that breaks in her breaks inward and without sound, until the one moment it does not. Never a victim in any frame. 100% matches the reference.
@@ -965,6 +971,7 @@ the kneeling woman standing up, the kneeling woman turning, her face, her profil
 
 
 
+
 *⚠ **DEUX CORRECTIONS DE FOND PAR RAPPORT À LA VERSION PRÉCÉDENTE — à connaître avant de générer.***
 *① **La tête qui se penche n'est plus un second médecin.** L'ancienne version la décrivait « an adult head in a soft white cloth cap » alors que @WardDoctor est visible dans le MÊME cadre, au fond, casquette à la main : on voyait deux fois le même homme dans une seule image, et le verrou « No third person exists anywhere at any depth » se contredisait quatre sections plus bas. Elle est désormais **un foulard blanc noué sur la nuque** — la personne qui pousse le brancard — coupée à la bouche, sans casquette et sans blouse, et le verrou distingue explicitement les **deux corps du couloir** (le médecin debout, la femme à genoux) de **cette tête au ras de l'objectif**.*
 *② **@YoungMotherHospital n'est plus chargée en Élément.** La caméra EST son regard : son corps n'est jamais au cadre. Charger sa fiche était la meilleure façon d'obtenir un corps dans un plan qui est son point de vue. Les négatifs interdisent maintenant toute partie d'elle à l'image.*
@@ -983,8 +990,8 @@ the kneeling woman standing up, the kneeling woman turning, her face, her profil
 SCENE CONTEXT
 Two years later, at night. Three knocks on a door; a woman opens it and there is a back standing on the black landing, a long dark coat covered in fine ivory lines, and it does not turn round. Then a dead stove, kindling broken by swollen hands, a match that fails and a match that takes, and she carries a burning splinter across the room toward the door, slowly, so as not to put it out. Two shots, one hard cut. Nobody speaks. Every second is choreographed below; nothing beyond it may be invented. 8 seconds, in 2 framings joined by 1 hard cut.
 
-CONTINUITY REFERENCE
-@Video 1: an earlier shot from the same film (4G), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level, its composition or any of its frames: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything is built new, at full quality.
+CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
+THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (4G), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
 ACTIVE REFERENCES
 @AnnaYoung: Anna thirty years earlier, forty-eight — the same woman: practical hands, straight back, no drama offered to anyone. Everything that breaks in her breaks inward and without sound, until the one moment it does not. Never a victim in any frame. 100% matches the reference.
@@ -1096,6 +1103,7 @@ the coated figure's face, any profile of the coated figure, any front view, his 
 
 
 
+
 *⚠ **POINTS DE COUPE.** 8 s → 5,5 s. **4.3h** = `[1.9s]`→`[4.4s]` (2,5 s : la porte qui s'ouvre et le dos qui tient) · **4.3i** = `[5.0s]`→`[8.0s]` (3,0 s : le petit bois, l'allumette ratée, la seconde qui prend, le départ vers la porte).*
 
 *⚠ **LES TROIS COUPS SONT UN ACTIF DU FILM.** Extraire le son de `[0.0s]`→`[0.8s]` et le conserver : c'est **le même son que le tout dernier plan (11.6)**. Les deux doivent être le même enregistrement.*
@@ -1111,8 +1119,8 @@ the coated figure's face, any profile of the coated figure, any front view, his 
 SCENE CONTEXT
 The same night, three streets away. A back in a long written coat stops dead in a courtyard, lifts an arm, points at a porch, and walks out of frame; the old woman is left standing alone in the middle of the snow with her fist shut on her own collar. In the porch mouth a young woman is standing with a two year old boy holding on to her leg, who looks up at the stranger from under his brows. The old woman's mouth asks a question and the young woman's mouth answers, and not one sound of either is heard. Then the old woman alone: her hand goes up to her own mouth and stops there. Three shots, two hard cuts. Nobody is heard. Every second is choreographed below; nothing beyond it may be invented. 10 seconds, in 3 framings joined by 2 hard cuts.
 
-CONTINUITY REFERENCE
-@Video 1: an earlier shot from the same film (4H), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level, its composition or any of its frames: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything is built new, at full quality.
+CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
+THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (4H), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
 ACTIVE REFERENCES
 @AnnaYoung: Anna thirty years earlier, forty-eight — the same woman: practical hands, straight back, no drama offered to anyone. Everything that breaks in her breaks inward and without sound, until the one moment it does not. Never a victim in any frame. 100% matches the reference.
@@ -1232,6 +1240,7 @@ One continuous take at real-time speed for the exact duration requested, contain
 AVOID
 the coated figure's face, any profile, any front view, the figure turning round, the figure looking back, the figure speaking, a readable build, a readable age, the figure in shot 2, the figure in shot 3, the child turning round, the child reacting to a name, the child smiling, the child playing, the child speaking, the young mother in shot 3, the child in shot 3, a second person behind the old woman in the close-up, a shoulder at the edge of the close-up, audible speech, dialogue, whispering, lip-synced speech, bright red, saturated red, red on the swing frame, red on the kerb, a red toy in the sand, red paint, orange rust, warning colour, legible handwriting on the coat, readable words anywhere, Cyrillic characters, block numbers, notices, posters, readable text, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, other people, a neighbour, a passer-by, a second child, a silhouette at a window, subjects looking at camera, visible camera rigs, camera movement, dolly, pan, zoom, handheld shake, slow motion, morphing objects, extra people in frame, extra gestures, improvised actions, wandering hands, repositioned props, appearing or disappearing objects, snow falling heavily, blizzard, fog, mist, dreamlike haze, moonlight, headlights, warm lamps, sunlight glow, golden light, colour grading applied afterwards, sepia filter, theatrical acting, overacting, sobbing performance, tears running, hands clasped in prayer, religious imagery, generated music, uncanny smoothness, plastic skin, beauty filter, CGI look, video-game lighting, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness.
 ```
+
 
 
 

@@ -15,8 +15,8 @@
 SCENE CONTEXT
 A family of four walks a quay toward dinner at sunset; an old man sits on the ground against a wall with a cardboard cup and asks for nothing; the mother stops and empties her pocket into it, smiling at him like someone already known. Two shots, one hard cut. Every second is choreographed below; nothing beyond it may be invented. 12 seconds, in 2 framings joined by 1 hard cut.
 
-CONTINUITY REFERENCE
-@Video 1: an earlier shot from the same film (1D), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level, its composition or any of its frames: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything is built new, at full quality.
+CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
+THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (1D), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
 ACTIVE REFERENCES
 @SamBefore: Sam before, a man in his forties, clean, upright, hands with NO ink on them. A man who talks: he performs small things for his family, narrates his own failures while they happen, laughs at himself, touches people as he passes them. Loose in the shoulders, nothing guarded. 100% matches the reference.
@@ -38,7 +38,7 @@ Every distance, height and frame position given above is literal and is held exa
 FIRST FRAME AND SPATIAL BLOCKING The generation opens on this exact frame: CAMERA: wide, eye level about 160 cm, operated and breathing, carried rather than nailed down, looking along the quay into the low sun — exactly the axis of the reference master. Frame contents, nobody moving through it yet: the quay in low golden sunset, stacked traps lower right, the brick wall along the left, masts in backlight across the upper half. Far right at x=84%, filling 18% of frame height, THE SEATED MAN sits motionless against the brick, blanket over his legs, the beige cup upright at his left knee, his calm face toward camera, taken full by the low sun. This is the frame the first video frame must already be, before anything moves: nothing is settling into place, nothing fades up, nothing is mid-transition.
 
 FORMAT MODE
-One take of 12 seconds at real-time speed, containing exactly 2 successive framings joined by 1 hard cut, placed at the moments the FRAME MAP gives and nowhere else. Each framing is held completely still between its cuts. No other cut, no montage, no dissolve, no speed ramp, no slow motion.
+One take of 12 seconds at real-time speed, containing exactly 2 successive framings joined by 1 hard cut, placed at the moments the FRAME MAP gives and nowhere else. Each framing is held on the operator's own weight between its cuts — breathing, drifting a centimetre and correcting — never nailed down and never drifting into a new composition. No other cut, no montage, no dissolve, no speed ramp, no slow motion.
 
 OPTICS
 Anamorphic 40 mm f/2.8 equivalent. Depth of field wide open at that stop: the plane described in the FRAME MAP is tack sharp and everything behind it falls off progressively. Focus holds on that plane and breathes naturally with the camera's movement — no deliberate rack focus unless the FRAME MAP calls for one.
@@ -136,6 +136,7 @@ any red other than the crimson wool scarf on @Maeve, red buoys, red hulls, red t
 
 
 
+
 *⚠ **COUPE — 4 s sur 12 s.** Garder **`[7.0s]` → `[11.0s]`** du shot 2 : la poche qui se retourne, les pièces,
 le billet, le sourire, le dos qui se redresse. Le shot 1 est une réserve d'établissement (2 s dans
 `[3.0-5.0s]`), à n'utiliser que si le raccord depuis la séq. 1 est trop sec.*
@@ -149,8 +150,8 @@ le billet, le sourire, le dos qui se redresse. Le shot 1 est une réserve d'éta
 SCENE CONTEXT
 Walking on toward dinner, a thirteen-year-old challenges her mother for giving money to a stranger; the mother answers in four unhurried words. At the quay's end the restaurant window comes alight and the family crosses to it. Two shots, one hard cut — the exchange lives inside shot 1, uncut. Every second is choreographed below; nothing beyond it may be invented. 14 seconds, in 2 framings joined by 1 hard cut.
 
-CONTINUITY REFERENCE
-@Video 1: the shot that immediately precedes this one (2A), in the same place and the same minute. Use it ONLY to read where the scene stands — the exact light level and direction, the grain, the skin rendering, the state the bodies and the props are left in, and the camera's speed. Do NOT reuse, copy or extend any of its frames: every frame here is built new from the references below, at full quality. The framing comes solely from the FRAME MAP below and owes nothing to the previous shot's composition.
+CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO
+THE VIDEO ATTACHED TO THIS GENERATION is the shot that immediately precedes this one (2A), in the same place and the same minute. THIS GENERATION IS ITS DIRECT CONTINUATION and must feel like the same take filmed by the same operator seconds later: carry over its exact light level and direction, its grain, its skin rendering, the state the bodies and the props are left in, AND ABOVE ALL THE WAY ITS CAMERA BEHAVES — the same height, the same kind of movement, the same speed, the same breathing weight in the frame. Pick the scene up exactly where the attached video leaves it. Do not restart it, do not reset the room, do not relight it, do not change operator. The new framing is the one the FRAME MAP gives below, but it is reached by the same camera, moving the same way.
 
 ACTIVE REFERENCES
 @SamBefore: Sam before, a man in his forties, clean, upright, hands with NO ink on them. A man who talks: he performs small things for his family, narrates his own failures while they happen, laughs at himself, touches people as he passes them. Loose in the shoulders, nothing guarded. 100% matches the reference.
@@ -172,7 +173,7 @@ Every distance, height and frame position given above is literal and is held exa
 FIRST FRAME AND SPATIAL BLOCKING The generation opens on this exact frame: CAMERA: medium-close two-shot, eye level about 155 cm, operated and breathing, carried rather than nailed down, placed ahead of them on the walkway with the low sun directly behind the lens; they walk toward camera at stroll pace for the whole shot. One continuous take, no cut inside it. Starting positions, held until described otherwise: @Maeve at x=44% and @NoraBefore at x=58%, chest-up, filling 45% of frame height, mid-ground, side by side, WALKING toward camera; the quay runs away behind them, masts black against the gold; deep behind them, tiny and soft at x=18%, the seated man against the wall, unmoved. The scarf lifts in the wind. This is the frame the first video frame must already be, before anything moves: nothing is settling into place, nothing fades up, nothing is mid-transition.
 
 FORMAT MODE
-One take of 14 seconds at real-time speed, containing exactly 2 successive framings joined by 1 hard cut, placed at the moments the FRAME MAP gives and nowhere else. Each framing is held completely still between its cuts. No other cut, no montage, no dissolve, no speed ramp, no slow motion.
+One take of 14 seconds at real-time speed, containing exactly 2 successive framings joined by 1 hard cut, placed at the moments the FRAME MAP gives and nowhere else. Each framing is held on the operator's own weight between its cuts — breathing, drifting a centimetre and correcting — never nailed down and never drifting into a new composition. No other cut, no montage, no dissolve, no speed ramp, no slow motion.
 
 OPTICS
 Anamorphic 40 mm f/2.8 equivalent. Depth of field wide open at that stop: the plane described in the FRAME MAP is tack sharp and everything behind it falls off progressively. Focus holds on that plane and breathes naturally with the camera's movement — no deliberate rack focus unless the FRAME MAP calls for one.
@@ -279,6 +280,7 @@ any red other than the crimson wool scarf on @Maeve, red buoys, red hulls, a red
 
 
 
+
 *⚠ **COUPE — 6 s sur 14 s, la plus serrée de la séquence.** Garder **`[3.4s]` → `[10.3s]`** du shot 1 (les
 quatre répliques), puis rogner les deux battements les plus longs pour tomber à 6 s. **Ne jamais raccourcir
 une réplique** : on coupe dans les silences, jamais dans les mots. Le shot 2 (la devanture qui s'allume) est
@@ -293,8 +295,8 @@ la réserve d'entrée de 2C — 1,5 s dans `[11.6-13.1s]` si le passage à l'int
 SCENE CONTEXT
 The owner of a small harbour restaurant carries four plates to a family's table and sets them down one to each person, without being asked and without a menu — she has known this family for years. She trades two silent words with the mother and withdraws. One single shot, no cut. Every second is choreographed below; nothing beyond it may be invented. 8 seconds, one continuous framing, no cut.
 
-CONTINUITY REFERENCE
-@Video 1: an earlier shot from the same film (2B), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level, its composition or any of its frames: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything is built new, at full quality.
+CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
+THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (2B), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
 ACTIVE REFERENCES
 @SamBefore: Sam before, a man in his forties, clean, upright, hands with NO ink on them. A man who talks: he performs small things for his family, narrates his own failures while they happen, laughs at himself, touches people as he passes them. Loose in the shoulders, nothing guarded. 100% matches the reference.
@@ -409,6 +411,7 @@ three plates, five plates, duplicated plates, a plate moved after it is set, any
 
 
 
+
 *⚠ **COUPE — 4 s sur 8 s.** Garder **`[1.2s]` → `[5.2s]`** : les quatre assiettes qui descendent l'une après
 l'autre et les deux mots muets. Le plan doit se lire comme un compte : quatre. **Ne pas couper à l'intérieur
 de la pose des assiettes** — le rythme des quatre est ce qui paie en 5.1.*
@@ -422,8 +425,8 @@ de la pose des assiettes** — le rythme des quatre est ce qui paie en 5.1.*
 SCENE CONTEXT
 Much later in the evening, the little boy has fallen asleep against his mother; the father dips a wooden chopstick in his tea and draws on the paper tablecloth, slow sure strokes, for his daughter who leans in and watches his hand. She says one sentence to her mother without taking her eyes off it. The mother's face turns a few degrees toward her, a smile arrives, and her look goes on to her husband and stays there. Then the camera withdraws a little and leaves the four of them in the amber. One single continuous take, no cut. Every second is choreographed below; nothing beyond it may be invented. 14 seconds, one continuous framing, no cut.
 
-CONTINUITY REFERENCE
-@Video 1: the shot that immediately precedes this one (2C), in the same place and the same minute. Use it ONLY to read where the scene stands — the exact light level and direction, the grain, the skin rendering, the state the bodies and the props are left in, and the camera's speed. Do NOT reuse, copy or extend any of its frames: every frame here is built new from the references below, at full quality. The framing comes solely from the FRAME MAP below and owes nothing to the previous shot's composition.
+CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO
+THE VIDEO ATTACHED TO THIS GENERATION is the shot that immediately precedes this one (2C), in the same place and the same minute. THIS GENERATION IS ITS DIRECT CONTINUATION and must feel like the same take filmed by the same operator seconds later: carry over its exact light level and direction, its grain, its skin rendering, the state the bodies and the props are left in, AND ABOVE ALL THE WAY ITS CAMERA BEHAVES — the same height, the same kind of movement, the same speed, the same breathing weight in the frame. Pick the scene up exactly where the attached video leaves it. Do not restart it, do not reset the room, do not relight it, do not change operator. The new framing is the one the FRAME MAP gives below, but it is reached by the same camera, moving the same way.
 
 ACTIVE REFERENCES
 @SamBefore: Sam before, a man in his forties, clean, upright, hands with NO ink on them. A man who talks: he performs small things for his family, narrates his own failures while they happen, laughs at himself, touches people as he passes them. Loose in the shoulders, nothing guarded. 100% matches the reference.
@@ -530,6 +533,7 @@ One continuous uncut take at real-time speed, for the exact duration requested. 
 AVOID
 a recognizable dragon, a readable drawing, a legible picture on the paper, a finished illustration, letters, legible handwriting, ink, an inkwell, a pen, a pencil, a brush, a second chopstick, ink stains on the fingers, the traces disappearing, the traces drying away, the paper being lifted, the boy waking, the boy speaking, the mother answering, any added line of dialogue, characters standing up, anyone leaving the table, other diners in frame, a server in frame, any red anywhere, red lanterns, red cloths, a red scarf, red aquarium decor, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, readable menus, readable signage, subjects looking at camera, visible camera rigs, a second camera move, pan, tilt, zoom, crash zoom, the camera pushing in, handheld shake, slow motion, morphing objects, extra people in frame, extra gestures, improvised actions, wandering hands, repositioned props, appearing or disappearing objects, posed smiles, sitcom lighting, theatrical acting, overacting, generated music, uncanny smoothness, plastic skin, beauty filter, CGI look, video-game lighting, underexposed frame, crushed blacks, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness.
 ```
+
 
 
 

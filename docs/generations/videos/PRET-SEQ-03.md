@@ -15,8 +15,8 @@
 SCENE CONTEXT
 A few weeks later, the same kitchen, a paler morning. A white cup slips from the wife's hand — time ramps down in mid-fall, the cup turning, the milk pulling into a spiral — it bursts on the tile in slow motion — and time snaps back to real speed on her face as she looks at her own hand and opens and closes the fingers, twice. She tells no one. Two shots, one hard cut. Every second is choreographed below; nothing beyond it may be invented. 10 seconds, in 2 framings joined by 1 hard cut.
 
-CONTINUITY REFERENCE
-@Video 1: an earlier shot from the same film (2D), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level, its composition or any of its frames: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything is built new, at full quality.
+CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
+THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (2D), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
 ACTIVE REFERENCES
 @Maeve: Maeve, alive — dry, fast, affectionate and entirely unsentimental. She does not soften her voice for anyone; what she wants she asks for plainly, and once. Her tenderness arrives as instruction, never as comfort. 100% matches the reference.
@@ -126,6 +126,7 @@ visible camera rigs, cartoonish colors, blurred focus, on-screen text, subtitles
 
 
 
+
 *⚠ **POINT DE COUPE — 10 s de rushes → 5 s.** Garder `[1.4s]`→`[6.4s]` : la main qui lâche, toute la
 rampe, l'éclatement, et 0,1 s après la coupe pour amorcer le visage. **Ne jamais entamer après `[1.6s]`** :
 le doigt qui se desserre doit être à l'image. **Réserve** : `[7.2-8.0s]` (le premier serrement des doigts),
@@ -142,8 +143,8 @@ dans le film il reste interdit. Si le modèle abuse de la rampe : resserrer `[2.
 SCENE CONTEXT
 A hospital corridor, day. In the extreme foreground, out of focus: the back of a thirteen-year-old girl's head. Ten metres away, compressed by the lens, a doctor speaks to her father in a voice that never reaches us. The doctor stops. The father's head goes down, slowly. The doctor's hand settles on his shoulder — and stays. One single continuous shot, no cut. Nothing said in this corridor is ever audible. Every second is choreographed below; nothing beyond it may be invented. 10 seconds, one continuous framing, no cut.
 
-CONTINUITY REFERENCE
-@Video 1: an earlier shot from the same film (3A), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level, its composition or any of its frames: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything is built new, at full quality.
+CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
+THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (3A), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
 ACTIVE REFERENCES
 @SamBefore: Sam before, a man in his forties, clean, upright, hands with NO ink on them. A man who talks: he performs small things for his family, narrates his own failures while they happen, laughs at himself, touches people as he passes them. Loose in the shoulders, nothing guarded. 100% matches the reference.
@@ -250,6 +251,7 @@ visible camera rigs, cartoonish colors, blurred focus on the two men, on-screen 
 
 
 
+
 *⚠ **POINT DE COUPE — 10 s → 6 s.** Garder `[3.6s]`→`[9.6s]` : la fin de la parole muette, l'arc de la
 tête, la main qui se pose, et 1 s de main posée. **Ne jamais couper avant `[3.6s]`** — les lèvres du
 médecin en pleine phrase attirent l'œil sur une bouche muette et le spectateur essaie de lire.*
@@ -263,8 +265,8 @@ médecin en pleine phrase attirent l'œil sur une bouche muette et le spectateur
 SCENE CONTEXT
 A gravely ill mother holds her small son on a hospital bed. He is squeezing her too hard. She tells him so, dryly, and when he apologises and starts to let go she tells him not to be sorry and to squash her — and he clamps back on harder than before. She lowers her nose into his hair and breathes him in. One single continuous shot, no cut. Every second is choreographed below; nothing beyond it may be invented. 8 seconds, one continuous framing, no cut.
 
-CONTINUITY REFERENCE
-@Video 1: an earlier shot from the same film (3B), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level, its composition or any of its frames: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything is built new, at full quality.
+CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
+THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (3B), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
 ACTIVE REFERENCES
 @MaeveIll: Maeve in hospital, forty, the illness has taken her body and left the voice and the impatience intact. She spends what is left on being understood, not on being reassuring. Not frightened, and not brave about it either — out of time and aware of it. 100% matches the reference.
@@ -370,6 +372,7 @@ visible camera rigs, cartoonish colors, blurred focus, on-screen text, subtitles
 
 
 
+
 *⚠ **POINT DE COUPE — 8 s → 5 s.** Garder `[1.2s]`→`[6.2s]` : la première réplique, le pardon, la
 réponse. **Le clampage final `[6.6-8.0s]` n'entre pas au montage** — il n'existe que pour donner au
 modèle une fin de plan à jouer, et pour la réserve si le raccord vers 3D paraît brutal.*
@@ -383,8 +386,8 @@ modèle une fin de plan à jouer, et pour la réserve si le raccord vers 3D para
 SCENE CONTEXT
 A thirteen-year-old girl comes to her dying mother's bedside and does not know where to put her hands. Her mother takes one of them, puts a small ring into the palm, and closes the girl's fingers over it. Then she opens her mouth to speak — and nothing comes out. She has nothing left. The girl waits for words that never arrive. Three shots, two hard cuts. Nobody speaks at any point in this generation. Every second is choreographed below; nothing beyond it may be invented. 10 seconds, in 3 framings joined by 2 hard cuts.
 
-CONTINUITY REFERENCE
-@Video 1: the shot that immediately precedes this one (3C), in the same place and the same minute. Use it ONLY to read where the scene stands — the exact light level and direction, the grain, the skin rendering, the state the bodies and the props are left in, and the camera's speed. Do NOT reuse, copy or extend any of its frames: every frame here is built new from the references below, at full quality. The framing comes solely from the FRAME MAP below and owes nothing to the previous shot's composition.
+CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO
+THE VIDEO ATTACHED TO THIS GENERATION is the shot that immediately precedes this one (3C), in the same place and the same minute. THIS GENERATION IS ITS DIRECT CONTINUATION and must feel like the same take filmed by the same operator seconds later: carry over its exact light level and direction, its grain, its skin rendering, the state the bodies and the props are left in, AND ABOVE ALL THE WAY ITS CAMERA BEHAVES — the same height, the same kind of movement, the same speed, the same breathing weight in the frame. Pick the scene up exactly where the attached video leaves it. Do not restart it, do not reset the room, do not relight it, do not change operator. The new framing is the one the FRAME MAP gives below, but it is reached by the same camera, moving the same way.
 
 ACTIVE REFERENCES
 @MaeveIll: Maeve in hospital, forty, the illness has taken her body and left the voice and the impatience intact. She spends what is left on being understood, not on being reassuring. Not frightened, and not brave about it either — out of time and aware of it. 100% matches the reference.
@@ -508,6 +511,7 @@ visible camera rigs, cartoonish colors, blurred focus, on-screen text, subtitles
 
 
 
+
 *⚠ **POINTS DE COUPE — 10 s → 6 s, en trois fragments.** ① `[1.6s]`→`[3.6s]` (2,0 s) : les mains qui ne
 savent pas où aller, jusqu'à la coupe. ② `[4.3s]`→`[6.3s]` (2,0 s) : la bague qui tombe dans la paume et
 les doigts qu'on referme dessus — **fragment obligatoire, il arme 8.4 et 9.2.** ③ `[7.9s]`→`[9.9s]` (2,0 s) :
@@ -523,8 +527,8 @@ avant la parole doit être dans le plan, sinon la bouche s'ouvre sans raison.*
 SCENE CONTEXT
 Through the glass of a closed hospital room door, mute: a dying woman takes her husband's face in both her hands and speaks to him at length, without ever letting go. He cries. He nods. He tries to answer and cannot. He nods again. We hear only the corridor. One single continuous shot, locked frame, no cut, no camera movement of any kind. Every second is choreographed below; nothing beyond it may be invented. 10 seconds, one continuous framing, no cut.
 
-CONTINUITY REFERENCE
-@Video 1: an earlier shot from the same film (3D), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level, its composition or any of its frames: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything is built new, at full quality.
+CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
+THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (3D), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
 ACTIVE REFERENCES
 @MaeveIll: Maeve in hospital, forty, the illness has taken her body and left the voice and the impatience intact. She spends what is left on being understood, not on being reassuring. Not frightened, and not brave about it either — out of time and aware of it. 100% matches the reference.
@@ -633,6 +637,7 @@ visible camera rigs, cartoonish colors, blurred focus, on-screen text, subtitles
 
 
 
+
 *⚠ **DEUX FENÊTRES DE MONTAGE SUR LE MÊME FICHIER.**
 · **3.5 (muet)** : `[3.0s]`→`[6.0s]` — les mains déjà posées, la secousse des épaules, le premier
 hochement. **Ne jamais entamer avant `[2.6s]`** : si on voit ses mains monter, le plan devient le début
@@ -650,8 +655,8 @@ ailleurs. **Le fichier doit rester intact et non réencodé entre les deux usage
 SCENE CONTEXT
 A thirteen-year-old girl has just come out of a hospital room. A few paces down the corridor she stops, turns back, and watches something through the glass of the door she has just closed — she sees, she hears nothing, and she is not part of it. Her eyes drop. She turns and walks away without one look back, her right fist closed the whole time. Then, days later: on a corridor chair, a folded red scarf; a man's hand takes it out of frame, and the red leaves the film. Two shots, one hard cut; the cut is a scripted time jump — each segment obeys only its own LIGHT block, nothing needs to match across it. Every second is choreographed below; nothing beyond it may be invented. 10 seconds, in 2 framings joined by 1 hard cut.
 
-CONTINUITY REFERENCE
-@Video 1: an earlier shot from the same film (3E), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level, its composition or any of its frames: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything is built new, at full quality.
+CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
+THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (3E), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
 ACTIVE REFERENCES
 @NoraBefore: Nora at thirteen, entirely unguarded. She interrupts, she leans on people, she laughs at her father's jokes before he finishes them. Her happiness is loud, physical, and costs her nothing. 100% matches the reference.
@@ -758,6 +763,7 @@ One continuous take at real-time speed for the exact duration requested, contain
 AVOID
 visible camera rigs, cartoonish colors, blurred focus, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, subjects looking at camera, slow motion, morphing objects, extra people in frame, a nurse, a doctor, a passer-by, extra gestures, improvised actions, wandering hands, repositioned props, appearing or disappearing objects, her opening her fist, her looking at her hand, her hand in a pocket, tears, a trembling chin, sobbing, her looking back, her running, her going back to the door, her touching the glass, a legible view through the pane, a face in the second segment, any body beyond the hand and forearm in the second segment, ink stains on the fingers, any red anywhere except the folded crimson scarf in the second segment, red exit signage, a fire extinguisher, any blood, audible voices, sound from behind the glass, name badges, readable notice boards, camera movement, dolly, pan, zoom, handheld shake, rushed movements, theatrical acting, overacting, modern branding, readable signage, generated music, uncanny smoothness, plastic skin, beauty filter, CGI look, video-game lighting, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness.
 ```
+
 
 
 

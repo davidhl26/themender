@@ -15,8 +15,8 @@
 SCENE CONTEXT
 Three short shots on three different days. A girl still hunting for a sign — the street from her back gallery, the inside of a mailbox, the window over the kitchen table — and the hunting wearing thin. Nothing ever answers. Three shots, two hard cuts; each hard cut is a scripted jump to another day, another place and another light. Every second is choreographed below; nothing beyond it may be invented. 12 seconds, in 3 framings joined by 2 hard cuts.
 
-CONTINUITY REFERENCE
-@Video 1: an earlier shot from the same film (6C), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level, its composition or any of its frames: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything is built new, at full quality.
+CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
+THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (6C), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
@@ -136,6 +136,7 @@ visible camera rigs, cartoonish colors, blurred focus on her, on-screen text, su
 
 
 
+
 *⚠ **POINTS DE COUPE (à faire au montage, jamais dans le prompt)** — on garde le DÉBUT de chaque plan, la fin est de la protection : plan 7.1 → **[0,0-3,0 s]** (3 s) · plan 7.2 → **[4,0-6,5 s]** (2,5 s) · plan 7.3 → **[8,0-10,0 s]** (2 s). Total retenu **7,5 s**. Chaque plan a été chorégraphié pour que TOUTE son information tombe avant sa coupe ; les 1 à 2 s suivantes ne servent qu'à absorber une accélération du modèle.*
 
 *⚠ **ARBITRAGE RAMBARDE** : le script dit « les mains à plat sur le fer » (7.1), mais la géométrie verrouillée de `LIEU-09-BackGallery` est une **rambarde en BOIS peint**. Le lieu fait foi — le bloc dit « the bare-wood top of the rail ». Ne pas réintroduire de ferronnerie : elle casserait le raccord avec 6.2 et 7.4, qui se jouent sur le même décor.*
@@ -151,8 +152,8 @@ visible camera rigs, cartoonish colors, blurred focus on her, on-screen text, su
 SCENE CONTEXT
 A girl comes home along her back gallery in the evening and walks straight past the mailbox without seeing it. Then, another night, she is asleep, curled with her back to the window, and nothing moves at all. Two shots, one hard cut; the cut is a scripted jump to another night. She has stopped looking. Every second is choreographed below; nothing beyond it may be invented. 10 seconds, in 2 framings joined by 1 hard cut.
 
-CONTINUITY REFERENCE
-@Video 1: an earlier shot from the same film (7A), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level, its composition or any of its frames: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything is built new, at full quality.
+CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
+THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (7A), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
@@ -251,6 +252,7 @@ One continuous take at real-time speed for the exact duration requested, contain
 AVOID
 visible camera rigs, cartoonish colors, blurred focus, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, readable lettering, a name plate on the mailbox, a house number, readable signage, subjects looking at camera, slow motion, time-lapse, speed ramp, fast motion, sped-up footage, morphing objects, extra people in frame, any second person, any figure in a background or a window, any silhouette, any human shadow, any long dark coat, a coat covered in writing, extra gestures, improvised actions, wandering hands, repositioned props, appearing or disappearing objects, mail in the mailbox, an open mailbox door, a letter, a parcel, a phone, a laptop, a lit screen, a glowing device, a bedside lamp, a doorway in the last shot, a half-open door, a door jamb, a dark hallway, a band of light across a floor through a door gap, the camera outside the room, her face turning toward camera, her rolling over, her sitting up, a hand coming out from under the quilt, shoulder shakes, sobbing, crying, tears, a mirrored gallery, the rail on the screen-right side of frame, the flat's door on the screen-left side of frame, her walking screen-right to screen-left, the door of the flat opening, her going inside, her stopping at the mailbox, her slowing down, her glancing at the mailbox, her hood down in the walking shot, rushed movements inside a shot, theatrical acting, overacting, any red anywhere, warm golden light, sunlight, daylight, marmalade or coffee on any surface, washing on the line, modern branding, generated music, uncanny smoothness, plastic skin, beauty filter, CGI look, video-game lighting, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness.
 ```
+
 
 
 

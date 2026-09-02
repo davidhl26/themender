@@ -15,8 +15,8 @@
 SCENE CONTEXT
 A wife has just burned the toast in the golden light of the window above the stove. She turns the gas off, turns around in place to face her husband with the smile already arriving, and confesses; he teases her gently from the table with no edge in it; her two-part answer widens both their smiles; then a warm smiling silence crosses the kitchen and he sets his spoon down. One single shot, no cut. Ordinary, poor, happy. Every second is choreographed below; nothing beyond it may be invented. 10 seconds, one continuous framing, no cut.
 
-CONTINUITY REFERENCE
-@Video 1: the live-action footage that opens the film, shot on a real camera. Use it ONLY to read the light level, the grain, the colour of the room and the state the scene is in. Do NOT reuse, copy or extend any of its frames: every frame here is built new from the references below, at full quality, and the framing comes solely from the FRAME MAP below.
+CONTINUITY REFERENCE — THE FILM'S OPENING FOOTAGE IS ATTACHED
+THE VIDEO ATTACHED TO THIS GENERATION is the live-action footage that opens the film, shot on a real camera. Use it to read the light level, the grain, the colour of the room and the state the scene is in, and match them. Do NOT reuse or extend its frames: the framing comes from the FRAME MAP below.
 
 ACTIVE REFERENCES
 @SamBefore: Sam before, a man in his forties, clean, upright, hands with NO ink on them. A man who talks: he performs small things for his family, narrates his own failures while they happen, laughs at himself, touches people as he passes them. Loose in the shoulders, nothing guarded. 100% matches the reference.
@@ -125,6 +125,7 @@ a toaster, any toaster visible anywhere, the man standing up, the man rising fro
 
 
 
+
 *⚠ **POINT DE COUPE — 9 s au montage, 10 s de génération.** Garder **`[0.0s]` → `[9.0s]`**, d'un bloc, sans
 coupe intérieure : le plan est écrit d'une seule respiration et doit se jouer d'une seule respiration. Le
 raccord amont se fait sur la fin de la vidéo de David (poêle fumante, gaz allumé) ; `[9.0-10.0s]` est de la
@@ -142,8 +143,8 @@ torchon, étiquette ? ⑤ un grille-pain a-t-il poussé sur le plan de travail ?
 SCENE CONTEXT
 A husband crosses his kitchen and plants himself in front of his wife; they hold one smiling beat face to face in the window's gold, and he puts his arms around her and draws her in. Then, forehead resting on forehead in a true silence with only their breathing and the cooling pan in it, two low lines. Two shots, one hard cut. Tender, plain, unhurried — two people who have done this a thousand mornings, never a performance of love. Every second is choreographed below; nothing beyond it may be invented. 10 seconds, in 2 framings joined by 1 hard cut.
 
-CONTINUITY REFERENCE
-@Video 1: the shot that immediately precedes this one (1A), in the same place and the same minute. Use it ONLY to read where the scene stands — the exact light level and direction, the grain, the skin rendering, the state the bodies and the props are left in, and the camera's speed. Do NOT reuse, copy or extend any of its frames: every frame here is built new from the references below, at full quality. The framing comes solely from the FRAME MAP below and owes nothing to the previous shot's composition.
+CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO
+THE VIDEO ATTACHED TO THIS GENERATION is the shot that immediately precedes this one (1A), in the same place and the same minute. THIS GENERATION IS ITS DIRECT CONTINUATION and must feel like the same take filmed by the same operator seconds later: carry over its exact light level and direction, its grain, its skin rendering, the state the bodies and the props are left in, AND ABOVE ALL THE WAY ITS CAMERA BEHAVES — the same height, the same kind of movement, the same speed, the same breathing weight in the frame. Pick the scene up exactly where the attached video leaves it. Do not restart it, do not reset the room, do not relight it, do not change operator. The new framing is the one the FRAME MAP gives below, but it is reached by the same camera, moving the same way.
 
 ACTIVE REFERENCES
 @SamBefore: Sam before, a man in his forties, clean, upright, hands with NO ink on them. A man who talks: he performs small things for his family, narrates his own failures while they happen, laughs at himself, touches people as he passes them. Loose in the shoulders, nothing guarded. 100% matches the reference.
@@ -161,7 +162,7 @@ Every distance, height and frame position given above is literal and is held exa
 FIRST FRAME AND SPATIAL BLOCKING The generation opens on this exact frame: Medium, camera at chest height about 150 cm, two metres west-south-west of the range, facing the range and its window straight on, operated and breathing, carried rather than nailed down: the range and the pan in the lower half of frame, the window glowing gold directly above them, the light streaming toward camera as a soft natural backlight, the counter edge at frame left, the table edge just entering the lower right corner. Starting positions, held until described otherwise: @Maeve STANDING against the range at x=58%, filling 66% of frame height, facing the room, hands resting on the range edge behind her, smiling, half-silhouetted with the gold behind her. The left half of frame is empty and waiting. This is the frame the first video frame must already be, before anything moves: nothing is settling into place, nothing fades up, nothing is mid-transition.
 
 FORMAT MODE
-One take of 10 seconds at real-time speed, containing exactly 2 successive framings joined by 1 hard cut, placed at the moments the FRAME MAP gives and nowhere else. Each framing is held completely still between its cuts. No other cut, no montage, no dissolve, no speed ramp, no slow motion.
+One take of 10 seconds at real-time speed, containing exactly 2 successive framings joined by 1 hard cut, placed at the moments the FRAME MAP gives and nowhere else. Each framing is held on the operator's own weight between its cuts — breathing, drifting a centimetre and correcting — never nailed down and never drifting into a new composition. No other cut, no montage, no dissolve, no speed ramp, no slow motion.
 
 OPTICS
 Anamorphic 50 mm f/2 equivalent. Depth of field wide open at that stop: the plane described in the FRAME MAP is tack sharp and everything behind it falls off progressively. Focus holds on that plane and breathes naturally with the camera's movement — no deliberate rack focus unless the FRAME MAP calls for one.
@@ -256,6 +257,7 @@ a kiss, kissing, mouths touching, an open-mouthed kiss, the embrace played long 
 
 
 
+
 *⚠ **POINT DE COUPE — deux plans du script, 4 s + 4 s, 10 s de génération.** Garder ① **4,0 s** du shot 1,
 `[1.0s]` → `[5.0s]` : la fin de sa traversée, le temps souriant entier, l'enlacement jusqu'à la coupe.
 **Ne jamais entamer avant `[1.0s]`** — il doit entrer au montage **déjà en marche**, alors qu'il finit 1A
@@ -276,7 +278,7 @@ SCENE CONTEXT
 A minute after the embrace, the children arrive and the family folds together without a word being said: a six-year-old boy runs in and throws his arms around his mother's legs; the father turns his head to the doorway and finds his thirteen-year-old daughter standing in it, already smiling; he opens one arm and she crosses and folds into his side. One single shot, no cut. NOBODY SPEAKS in this generation. SCRIPTED ELLIPSIS from the previous generation: a minute has passed and the table is now fully laid for four, the two blackened slices moved onto a plate at the centre of it. Every second is choreographed below; nothing beyond it may be invented. 8 seconds, one continuous framing, no cut.
 
 CONTINUITY REFERENCE
-@Video 1: the shot that immediately precedes this one (1B), in the same place but about a minute later — the table has been re-laid in that minute, so read its light, its grain and its skin rendering, NEVER the position of its props. Use it ONLY to read where the scene stands — the exact light level and direction, the grain, the skin rendering, the state the bodies and the props are left in, and the camera's speed. Do NOT reuse, copy or extend any of its frames: every frame here is built new from the references below, at full quality. The framing comes solely from the FRAME MAP below and owes nothing to the previous shot's composition.
+THE VIDEO ATTACHED TO THIS GENERATION is the shot that immediately precedes this one (1B), in the same place but about a minute later — the table has been re-laid in that minute. THIS GENERATION CONTINUES IT: carry over its exact light level and direction, its grain, its skin rendering, AND THE WAY ITS CAMERA BEHAVES — the same height, the same kind of movement, the same speed, the same breathing weight in the frame. Do NOT carry over the position of the props: the table is re-laid, and the PROP LAYOUT below is the only truth about it. Same operator, same room, one minute later.
 
 ACTIVE REFERENCES
 @SamBefore: Sam before, a man in his forties, clean, upright, hands with NO ink on them. A man who talks: he performs small things for his family, narrates his own failures while they happen, laughs at himself, touches people as he passes them. Loose in the shoulders, nothing guarded. 100% matches the reference.
@@ -389,6 +391,7 @@ anyone speaking, a spoken line, moving lips, a name being called, a toaster, any
 
 
 
+
 *⚠ **POINT DE COUPE — 4 s au montage, 8 s de génération.** Garder **`[0.6s]` → `[4.6s]`** : le début de la
 course de Milo, l'impact, la tête de Sam qui se tourne, le bras qui s'ouvre, la traversée de Nora, le bras qui
 se referme. **La coupe tombe exactement sur le menton qui se pose sur sa tête** — une image plus tard et le
@@ -408,8 +411,8 @@ est-elle la même du début à la fin ? ④ Personne ne parle : un modèle ajout
 SCENE CONTEXT
 One overhead insert, no people at all: the breakfast table laid for four, intact and untouched, the burned toast smoking gently on its plate at the centre, while a family is heard alive in the room off screen. One single shot, no cut. No person, no hand, no shadow of a person ever enters the frame. This is a count: four bowls, four places, four people. It is generated at 5 seconds and cut to two in the edit — generate the full 5. Every element is fixed below; nothing beyond it may be invented. 5 seconds, one continuous framing, no cut.
 
-CONTINUITY REFERENCE
-@Video 1: the shot that immediately precedes this one (1C), in the same place and the same minute. Use it ONLY to read where the scene stands — the exact light level and direction, the grain, the skin rendering, the state the bodies and the props are left in, and the camera's speed. Do NOT reuse, copy or extend any of its frames: every frame here is built new from the references below, at full quality. The framing comes solely from the FRAME MAP below and owes nothing to the previous shot's composition.
+CONTINUITY REFERENCE — THIS SHOT CONTINUES THE ATTACHED VIDEO
+THE VIDEO ATTACHED TO THIS GENERATION is the shot that immediately precedes this one (1C), in the same place and the same minute. THIS GENERATION IS ITS DIRECT CONTINUATION and must feel like the same take filmed by the same operator seconds later: carry over its exact light level and direction, its grain, its skin rendering, the state the bodies and the props are left in, AND ABOVE ALL THE WAY ITS CAMERA BEHAVES — the same height, the same kind of movement, the same speed, the same breathing weight in the frame. Pick the scene up exactly where the attached video leaves it. Do not restart it, do not reset the room, do not relight it, do not change operator. The new framing is the one the FRAME MAP gives below, but it is reached by the same camera, moving the same way.
 
 ACTIVE REFERENCES
 @Kitchen: The family kitchen — warm domestic wood and cream-and-blue crockery, morning light through glass. NO RED anywhere in the room. 100% matches the reference.
@@ -496,6 +499,7 @@ One continuous uncut take at real-time speed, for the exact duration requested. 
 AVOID
 any person in frame, a hand entering frame, an arm reaching in, a head at the frame edge, a shadow of a person across the table, a reflection of a person, chairs moving, objects moving, the marmalade jar moving, the plate moving, three bowls, five bowls, more than four bowls, missing bowls, duplicated bowls, a bowl drifting, the smoke gone, an empty table, food being eaten, a toaster, any toaster visible anywhere, a red scarf, any red anywhere, red jam, red crockery, a readable label on the jar, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, visible camera rigs, camera movement, dolly, pan, zoom, tilt, handheld shake, slow motion, morphing objects, appearing or disappearing objects, intelligible dialogue off screen, grey light, desaturated grade, underexposure, cold colour cast, teal-and-orange colour grade, generated music, CGI look, video-game lighting, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness.
 ```
+
 
 
 

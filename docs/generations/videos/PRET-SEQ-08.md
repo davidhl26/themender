@@ -15,8 +15,8 @@
 SCENE CONTEXT
 A girl alone in an emptied school library hears pages turning with no reader, lifts her eyes from a book she was not reading, and far down the corridor a long written coat — a back, never a face — is already crossing between two shelf ranges and turns the corner. She is up before she decided to stand: the chair goes over backwards and cracks. The aisle beyond the corner is empty end to end. Three shots, two hard cuts. The coated figure's face does not exist on screen, not even in profile. Every second is choreographed below; nothing beyond it may be invented. 10 seconds, in 3 framings joined by 2 hard cuts.
 
-CONTINUITY REFERENCE
-@Video 1: an earlier shot from the same film (7B), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level, its composition or any of its frames: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything is built new, at full quality.
+CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
+THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (7B), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
@@ -133,6 +133,7 @@ the coated figure's face, any profile of the coated figure, any front view of th
 
 
 
+
 *⚠ **POINT DE COUPE — le plan fait 5 s au montage, la génération en fait 10. Le script fixe le découpage :
 « 2 fragments : le dos qui tourne 3 s · le couloir vide 2 s ». On s'y tient exactement.** Garder :
 ① **3,0 s** du shot 2, de `[3.5s]` à `[6.5s]` — le dos DÉJÀ en mouvement et déjà grand, la traversée entière,
@@ -160,8 +161,8 @@ traversée, la prise est à refaire** — sinon 11.1 n'a plus rien à quoi répo
 SCENE CONTEXT
 A tall figure in a long written coat — a back, never a face — is already crossing the corridor of an emptied school library from one shelf range to the next, and turns the corner without ever looking back. Then the corridor holds, empty. One single shot, no cut, wider than the main version so the whole coat fits the frame. The coated figure's face does not exist on screen, not even in profile. Every second is choreographed below; nothing beyond it may be invented. 5 seconds, one continuous framing, no cut.
 
-CONTINUITY REFERENCE
-No previous shot is attached to this generation. This is the first shot of its chain: it sets the light, the grain and the skin rendering that every following shot will be matched to. Build every frame new from the references below, at full quality.
+CONTINUITY REFERENCE — NO VIDEO IS ATTACHED
+No previous clip is attached to this generation. This is the first shot of its chain: it sets the light, the grain and the skin rendering that every following shot will be matched to. Build every frame new from the references below, at full quality.
 
 ACTIVE REFERENCES
 @Mender: The coat only — a long dark coat covered edge to edge in dense handwriting worn to texture. NEVER a face, never eyes, never identifiable. Seen from behind or passing through frame. 100% matches the reference.
@@ -256,6 +257,7 @@ the coated figure's face, any profile of the coated figure, any front view of th
 
 
 
+
 *⚠ **Réglage de 8A-bis** : Lens Anamorphic **40 mm f/2** (un cran plus large que 8A), 5 s.
 **Point de coupe** : garder `[0.0-3.0s]` — la traversée entière plus une demi-seconde de vide. Le fragment
 remplace tel quel les 3,0 s du shot 2 de 8A ; les 2,0 s d'allée vide du shot 3 de 8A restent valables et se
@@ -270,8 +272,8 @@ recollent derrière sans retouche.*
 SCENE CONTEXT
 Night. A girl comes out of her bedroom onto the dark landing with an empty glass in her hand — and for a fraction of a second, at the far end of the hallway, the hem and lower back of a long written coat slide past the corner toward the stairs and are gone. She stops dead, her hand still on the door handle. A floorboard settles somewhere below. She crosses to the corner in two steps and looks down: the stairwell is empty and black. She does not go down. Two shots, one hard cut. The coated figure has no face, no shoulders, no head and no hands on screen — only the bottom of a moving coat. Every second is choreographed below; nothing beyond it may be invented. 10 seconds, in 2 framings joined by 1 hard cut.
 
-CONTINUITY REFERENCE
-@Video 1: an earlier shot from the same film (8A), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level, its composition or any of its frames: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything is built new, at full quality.
+CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
+THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (8A), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
@@ -380,6 +382,7 @@ the figure's face, the figure's profile, the figure's head, the figure's shoulde
 
 
 
+
 *⚠ **POINT DE COUPE — le plan fait 4 s au montage, la génération en fait 10.** Garder :
 ① **2,4 s** du shot 1, de `[1.9s]` à `[4.3s]` — la fin de sa sortie, le passage du manteau, le figement et le
 craquement du plancher. **Le passage du manteau est ramené à ≤ 0,6 s** en resserrant sur `[2.3-2.9s]`.
@@ -401,8 +404,8 @@ casserait le film. Contrôler image par image la fenêtre `[1.9-4.3s]`.*
 SCENE CONTEXT
 At the far corner of a dark upstairs landing, the hem and lower back of a long written coat slide once past the corner toward the unseen stairs and are gone. Then the corner holds, empty and black. One single shot, no cut, closer than the main version so the writing on the coat can be read as writing. The coated figure has no face, no shoulders, no head and no hands on screen — only the bottom of a moving coat. Nobody else is in this generation. Every second is choreographed below; nothing beyond it may be invented. 4 seconds, one continuous framing, no cut.
 
-CONTINUITY REFERENCE
-No previous shot is attached to this generation. This is the first shot of its chain: it sets the light, the grain and the skin rendering that every following shot will be matched to. Build every frame new from the references below, at full quality.
+CONTINUITY REFERENCE — NO VIDEO IS ATTACHED
+No previous clip is attached to this generation. This is the first shot of its chain: it sets the light, the grain and the skin rendering that every following shot will be matched to. Build every frame new from the references below, at full quality.
 
 ACTIVE REFERENCES
 @Mender: The coat only — a long dark coat covered edge to edge in dense handwriting worn to texture. NEVER a face, never eyes, never identifiable. Seen from behind or passing through frame. 100% matches the reference.
@@ -497,6 +500,7 @@ the figure's face, the figure's profile, the figure's head, the figure's shoulde
 
 
 
+
 *⚠ **Réglage de 8B-bis** : Lens Anamorphic **50 mm f/2**, 4 s.
 **Comment ça se monte** : garder `[0.4-1.0s]` — 0,6 s exactement, le passage seul. Ce fragment **remplace au
 montage** les 0,6 s de manteau du plan large de 8B : on coupe du plan large à ce plan serré à `[2.3s]`, et on
@@ -512,8 +516,8 @@ dans la bande-son ne trahit la coupe, et la fenêtre `[1.9-4.3s]` de 8B garde sa
 SCENE CONTEXT
 A girl steps out of the shower, the towel half-raised, and lifts her eyes to the mirror out of habit — and the gesture stops there. The fog is rising up the glass, and behind the rising front three clear bands are standing where the vapour will not take: they were already there. She takes one step back and her shoulder blades hit the door. Then she reaches out and lays two fingertips on the glass beside the bands, without wiping them. Three shots, two hard cuts. Nothing on the mirror is ever legible in the generation — the message is composited in post. Every second is choreographed below; nothing beyond it may be invented. 10 seconds, in 3 framings joined by 2 hard cuts.
 
-CONTINUITY REFERENCE
-@Video 1: an earlier shot from the same film (8B), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level, its composition or any of its frames: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything is built new, at full quality.
+CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
+THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (8B), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
@@ -627,6 +631,7 @@ legible letters, readable words, letterforms in the fog, any writing that reads 
 
 
 
+
 *⚠ **POINT DE COUPE — le plan fait 5 s au montage, la génération en fait 10.**
 **La buée n'est complète qu'à `[4.6s]` : toute fenêtre qui commence avant lui vole du message plein.** Garder :
 ① **1,0 s** du shot 1, de `[2.0s]` à `[3.0s]` — le geste arrêté, les yeux déjà en haut ;
@@ -673,8 +678,8 @@ toute la durée. Les fragments ①, ③ et ④ ne bougent pas.*
 SCENE CONTEXT
 A macro insert on a fogged bathroom mirror, alone: three clear bands of abstract soap streaks stand in the fog, whole, sharp and unmoving, while the steam drifts and two beads begin to run at the far end of the lowest band. Nobody is in this generation — no person, no reflection of a person, no hand. One single shot, no cut. Nothing on the mirror is ever legible — the message is composited in post. Every second is choreographed below; nothing beyond it may be invented. 5 seconds, one continuous framing, no cut.
 
-CONTINUITY REFERENCE
-No previous shot is attached to this generation. This is the first shot of its chain: it sets the light, the grain and the skin rendering that every following shot will be matched to. Build every frame new from the references below, at full quality.
+CONTINUITY REFERENCE — NO VIDEO IS ATTACHED
+No previous clip is attached to this generation. This is the first shot of its chain: it sets the light, the grain and the skin rendering that every following shot will be matched to. Build every frame new from the references below, at full quality.
 
 ACTIVE REFERENCES
 @Bathroom: A small bathroom, tiled, a mirror over the basin. 100% matches the reference.
@@ -766,6 +771,7 @@ legible letters, readable words, letterforms in the fog, any writing that reads 
 
 
 
+
 *⚠ **Comment se monte 8C-bis** : garder `[0.4-2.8s]` — **2,4 s** de message plein, insérés à la place du
 fragment ② de 8C. Le montage devient : shot 1 de 8C (le geste arrêté, 1,0 s) → **insert 8C-bis** (2,4 s) →
 shot 3 de 8C (le recul 0,7 s + les doigts 0,7 s). Total inchangé, 5,0 s.
@@ -783,8 +789,8 @@ prise est inutilisable telle quelle (règle G) et le POST ne pourra pas s'y cale
 SCENE CONTEXT
 Dressed to leave, a girl opens a small worn box, looks once at her mother's ring, closes her fist on it until the knuckles whiten, and puts it into the right-hand pocket of her coat without looking at it. Then she switches off the lamp and the room drops to the street. Two shots, one hard cut. The ring is seen once in this film and never again. Every second is choreographed below; nothing beyond it may be invented. 8 seconds, in 2 framings joined by 1 hard cut.
 
-CONTINUITY REFERENCE
-@Video 1: an earlier shot from the same film (8C), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level, its composition or any of its frames: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything is built new, at full quality.
+CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
+THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (8C), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
@@ -891,6 +897,7 @@ the ring visible after the first shot, the ring visible inside the pocket, the r
 
 
 
+
 *⚠ **POINT DE COUPE — le plan fait 3 s au montage, la génération en fait 8. Trois fragments, et le deuxième
 n'est pas négociable.** Garder :
 ① **1,4 s** du shot 1, de `[2.0s]` à `[3.4s]` — la bague déjà à l'image, les deux doigts qui la lèvent, le poing
@@ -921,8 +928,8 @@ visible — en 9.2 elle n'existe que comme une forme dure sous le nylon.*
 SCENE CONTEXT
 A girl rides a night bus alone, forehead against the glass, a whole untouched sandwich lying in crumpled paper on her lap under her hand — and she never once looks at it. The bus stops and pulls away, stops and pulls away: these are the fifth, the sixth and the seventh stops of her ride. On the third slowing she lifts her head; at the seventh stop she is already standing at the doors before they open, the packet swept into her coat's right pocket in the same movement. Four shots — the first three on the SAME framing, cut hard, only the colour outside changing to carry the passing time. Every second is choreographed below; nothing beyond it may be invented. 12 seconds, in 4 framings joined by 3 hard cuts.
 
-CONTINUITY REFERENCE
-@Video 1: an earlier shot from the same film (8D), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level, its composition or any of its frames: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything is built new, at full quality.
+CONTINUITY REFERENCE — SAME FILM, DIFFERENT PLACE
+THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (8D), in a different place. Use it ONLY to match the physical rendering — the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour, the highlight roll-off. Do NOT take its light, its palette, its exposure level or its composition: this shot's light comes from its own LOCATION and LIGHT paragraphs below, and its framing from its own FRAME MAP. Everything else is built new, at full quality.
 
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
@@ -1035,6 +1042,7 @@ One continuous take at real-time speed for the exact duration requested, contain
 AVOID
 any red anywhere, red brake lights, red traffic lights, red stop-button lights, red handrails, red signage through the windows, a readable destination display, readable signage, legible numerals, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, other passengers, anyone boarding, the driver's face, the driver featured, the sandwich bitten, the sandwich opened, the sandwich unwrapped, the sandwich neatly folded, kitchen string, a tied packet, her looking down at the sandwich, her looking into her pocket, a ring visible, a left-hand pocket, her eating, the doors opening, subjects looking at camera, visible camera rigs, handheld shake, camera movement beyond the bus's own motion, a different framing between the first three shots, time-lapse, speed ramp, fast motion, slow motion, morphing objects, extra people in frame, extra gestures, improvised actions, appearing or disappearing objects, daylight, warm interior light, theatrical acting, generated music, uncanny smoothness, plastic skin, beauty filter, CGI look, video-game lighting, frozen characters, statue-like stillness, mannequin pose, freeze-frame stillness.
 ```
+
 
 
 
