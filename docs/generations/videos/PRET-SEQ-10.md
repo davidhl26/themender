@@ -48,7 +48,7 @@ No previous clip is attached to this generation. This is the first shot of its c
 
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
-@RedHouseExterior: The last house of a poor terraced street, wooden-fronted, deep dark red gone chalky, neighbours grey and blank, wet black road. THE ONLY RED IN THE WORLD OUTSIDE. 100% matches the reference.
+@RedHouseExterior: A small old wooden fisherman's cottage standing ALONE at the dead end of a rough street, deep barn red gone chalky and peeling over bare silvered cedar, a low porch of worn boards with two sagging steps, a sagging picket fence with its gate hanging open, one lit ground-floor window, wet black road. It is NOT one house of a terrace. THE ONLY RED IN THE WORLD OUTSIDE. 100% matches the reference.
 
 TEMPERAMENT, NORA A fifteen-year-old running on empty. Grief has made her polite and absent: she answers, she carries the dish back, she says thank you, and none of it reaches her face. Her body is tired before the day starts. She does not cry in front of people — the swollen eyelids come from somewhere else, earlier. When something does move her, she goes very still first, and only then does it show.
 
@@ -81,7 +81,7 @@ HARD CUT
 SHOT 2 [4.6-8.0s] | CAM: the porch, chest height 140 cm, three-quarter from her right, static, locked off; @Nora x=32% at 80% h, the door from x=55% to the right edge.
 [4.6-5.6s] She stands 3/4 back, looking at the door. No hand has moved.
 [5.6-6.4s] Her right hand rises and lays flat on the board at chest height, fingers spread. NO KNOCK.
-[6.4-7.2s] The door gives and swings inward 40 cm on its own weight; the warm light widens across her cheek and down the porch stone.
+[6.4-7.2s] The door gives and swings inward 40 cm on its own weight; the warm light widens across her cheek and down the porch boards.
 [7.2-8.0s] Held: hand still on the board, light on her face, her breath going in and not coming back out.
 
 SUBJECT LOCK, NORA The exact girl of @Nora — fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Navy parka over charcoal hoodie, dark indigo jeans, scuffed off-white sneakers. NOTHING RED ON HER, no jewellery. She never looks at the lens.
@@ -125,7 +125,7 @@ This place carries at most one character, and only in the framings of the arriva
 — THE WITHDRAWAL FRAMING CARRIES NOBODY: no girl, no man, no silhouette, nobody at any window, nobody in any car — the open doorway alone on the axis at x=50%.
 
 SCREEN DIRECTION LOCK for this scene: the 180 line runs along the front wall of the cottage, through THE LIT GROUND-FLOOR WINDOW and THE RED FRONT DOOR. The camera stays on the street side of that line — the side THE FAR SODIUM LAMP stands on — in every framing. This scene carries one character only, so the lock is on her facing and her travel, and it is not negotiable: @Nora holds screen-left of THE RED FRONT DOOR in every framing and THE RED FRONT DOOR holds screen-right of her; she faces THE RED FRONT DOOR throughout — away from camera into frame depth in the framings taken down the street axis, screen-right in the framings taken on the porch — and she travels from THE FAR SODIUM LAMP end of the street toward the cottage, away from camera, never across the frame from right to left and never past the door to its right. In any framing where she is absent, THE RED FRONT DOOR and its doorway hold the centre of frame at x=50% and the roadway recedes on that same axis toward THE FAR SODIUM LAMP.
-LOCATION @RedHouseExterior — the last house of a poor terraced street, wooden-fronted, deep dark red gone chalky, neighbours grey and blank; wet black road.
+LOCATION @RedHouseExterior — a small old wooden fisherman's cottage standing ALONE at the dead end of a rough street at the edge of a port town, NOT part of a terrace and NOT joined to anything: deep barn red clapboard gone chalky, the paint lifting in stiff curls over bare silvered cedar, a rust streak from every nailhead, a LOW PORCH OF WORN SILVERED BOARDS with two sagging steps, one lit ground-floor window with a thin curtain half drawn, a sagging picket fence with pickets missing and its gate hanging open on the lower hinge; wet black road, the street shut at its end by the cottage itself.
 
 LIGHT A distant sodium lamp behind camera, and the warm bulb behind the curtain — AN ORDINARY HOT FILAMENT BULB, NOT A FLAME: steady, never flickering.
 
@@ -134,7 +134,7 @@ MOVEMENT None. Locked off in both shots — no dolly, pan or zoom. The only cut 
 DIALOGUE None. Nobody speaks in this generation.
 
 LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
-WHAT IS IN THE FRAME AT THE LAST INSTANT: The door 40 cm open, warm light widening across her cheek and the porch stone, her hand still flat on the board, the street black behind her.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The door 40 cm open, warm light widening across her cheek and the porch boards, her hand still flat on the board, the street black behind her.
 WHERE THIS SHOT LEAVES EACH BODY — these are the positions the next shot inherits, whether or not the body is still inside this last frame. READ THE SPATIAL RELATION FIRST AND THE PERCENTAGE SECOND: the percentage only fixes the wording from one shot to the next, what must actually be honoured is where each body stands in relation to the room and to the other bodies: @Nora: left third of frame, STANDING, x=32%.
 
 
@@ -215,7 +215,7 @@ THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (10A
 
 HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
 These are NOT new positions to invent. This is the frame the previous shot (10A) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
-WHAT IS IN THE FRAME AT THE LAST INSTANT: The door 40 cm open, warm light widening across her cheek and the porch stone, her hand still flat on the board, the street black behind her.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The door 40 cm open, warm light widening across her cheek and the porch boards, her hand still flat on the board, the street black behind her.
 WHERE THIS SHOT LEAVES EACH BODY — these are the positions the next shot inherits, whether or not the body is still inside this last frame. READ THE SPATIAL RELATION FIRST AND THE PERCENTAGE SECOND: the percentage only fixes the wording from one shot to the next, what must actually be honoured is where each body stands in relation to the room and to the other bodies: @Nora: left third of frame, STANDING, x=32%.
 Nothing in this list may be re-placed, re-lit or improved. THIS IS AN ACQUIRED STATE, NOT AN ACTION TO PLAY: whatever brought the bodies and the props here has already happened in the attached video and must NOT be performed again. This generation opens with it already true, and everything the FRAME MAP asks for happens AFTER it, never instead of it.
 
@@ -264,7 +264,7 @@ GEO — @RedHouseInterior, THE RED HOUSE
 
 THE ROOM. One single downstairs room of a small old wooden cottage, roughly 4 metres by 5, the ceiling low and of plain painted boards crossed by ONE BEAM, the floor wide worn boards running from the door end toward the far wall, the plaster cracked and patched throughout. No distance beyond those two dimensions is fixed by any source: do not state one.
 
-REFERENCE AXIS, AND WHERE IT STOPS APPLYING. Every screen side given below is given on the reference axis only — camera just inside THE PLANK FRONT DOOR, looking across the room toward the far wall and the foot of THE BOXED STAIRCASE, the whole room in frame (eye level 160 cm in 10B, 155 cm in 10J shot 2). On that axis THE PLANK FRONT DOOR is BEHIND camera and out of frame. Four framings do not use this axis and inherit none of its sides: 10D-1 and 10D-2 stand in the MIDDLE of the room and look back toward the door; 10C shot 1 and 10J shot 1 face a single wall flat on; 10E is a 90 cm close framing; 10F-1 draws straight back and out through the doorway onto the porch stone.
+REFERENCE AXIS, AND WHERE IT STOPS APPLYING. Every screen side given below is given on the reference axis only — camera just inside THE PLANK FRONT DOOR, looking across the room toward the far wall and the foot of THE BOXED STAIRCASE, the whole room in frame (eye level 160 cm in 10B, 155 cm in 10J shot 2). On that axis THE PLANK FRONT DOOR is BEHIND camera and out of frame. Four framings do not use this axis and inherit none of its sides: 10D-1 and 10D-2 stand in the MIDDLE of the room and look back toward the door; 10C shot 1 and 10J shot 1 face a single wall flat on; 10E is a 90 cm close framing; 10F-1 draws straight back and out through the doorway onto the porch boards.
 
 THE BOXED STAIRCASE. Narrow and boxed in, rising along the right-hand wall from its foot in the far corner — frame-right on the reference axis, and only there. Its stringer, its risers and the underside of its handrail carry the same writing as the walls. No plan fixes a percentage for it; the top of the flight is in darkness.
 
@@ -436,7 +436,7 @@ GEO — @RedHouseInterior, THE RED HOUSE
 
 THE ROOM. One single downstairs room of a small old wooden cottage, roughly 4 metres by 5, the ceiling low and of plain painted boards crossed by ONE BEAM, the floor wide worn boards running from the door end toward the far wall, the plaster cracked and patched throughout. No distance beyond those two dimensions is fixed by any source: do not state one.
 
-REFERENCE AXIS, AND WHERE IT STOPS APPLYING. Every screen side given below is given on the reference axis only — camera just inside THE PLANK FRONT DOOR, looking across the room toward the far wall and the foot of THE BOXED STAIRCASE, the whole room in frame (eye level 160 cm in 10B, 155 cm in 10J shot 2). On that axis THE PLANK FRONT DOOR is BEHIND camera and out of frame. Four framings do not use this axis and inherit none of its sides: 10D-1 and 10D-2 stand in the MIDDLE of the room and look back toward the door; 10C shot 1 and 10J shot 1 face a single wall flat on; 10E is a 90 cm close framing; 10F-1 draws straight back and out through the doorway onto the porch stone.
+REFERENCE AXIS, AND WHERE IT STOPS APPLYING. Every screen side given below is given on the reference axis only — camera just inside THE PLANK FRONT DOOR, looking across the room toward the far wall and the foot of THE BOXED STAIRCASE, the whole room in frame (eye level 160 cm in 10B, 155 cm in 10J shot 2). On that axis THE PLANK FRONT DOOR is BEHIND camera and out of frame. Four framings do not use this axis and inherit none of its sides: 10D-1 and 10D-2 stand in the MIDDLE of the room and look back toward the door; 10C shot 1 and 10J shot 1 face a single wall flat on; 10E is a 90 cm close framing; 10F-1 draws straight back and out through the doorway onto the porch boards.
 
 THE BOXED STAIRCASE. Narrow and boxed in, rising along the right-hand wall from its foot in the far corner — frame-right on the reference axis, and only there. Its stringer, its risers and the underside of its handrail carry the same writing as the walls. No plan fixes a percentage for it; the top of the flight is in darkness.
 
@@ -593,7 +593,7 @@ GEO — @RedHouseInterior, THE RED HOUSE
 
 THE ROOM. One single downstairs room of a small old wooden cottage, roughly 4 metres by 5, the ceiling low and of plain painted boards crossed by ONE BEAM, the floor wide worn boards running from the door end toward the far wall, the plaster cracked and patched throughout. No distance beyond those two dimensions is fixed by any source: do not state one.
 
-REFERENCE AXIS, AND WHERE IT STOPS APPLYING. Every screen side given below is given on the reference axis only — camera just inside THE PLANK FRONT DOOR, looking across the room toward the far wall and the foot of THE BOXED STAIRCASE, the whole room in frame (eye level 160 cm in 10B, 155 cm in 10J shot 2). On that axis THE PLANK FRONT DOOR is BEHIND camera and out of frame. Four framings do not use this axis and inherit none of its sides: 10D-1 and 10D-2 stand in the MIDDLE of the room and look back toward the door; 10C shot 1 and 10J shot 1 face a single wall flat on; 10E is a 90 cm close framing; 10F-1 draws straight back and out through the doorway onto the porch stone.
+REFERENCE AXIS, AND WHERE IT STOPS APPLYING. Every screen side given below is given on the reference axis only — camera just inside THE PLANK FRONT DOOR, looking across the room toward the far wall and the foot of THE BOXED STAIRCASE, the whole room in frame (eye level 160 cm in 10B, 155 cm in 10J shot 2). On that axis THE PLANK FRONT DOOR is BEHIND camera and out of frame. Four framings do not use this axis and inherit none of its sides: 10D-1 and 10D-2 stand in the MIDDLE of the room and look back toward the door; 10C shot 1 and 10J shot 1 face a single wall flat on; 10E is a 90 cm close framing; 10F-1 draws straight back and out through the doorway onto the porch boards.
 
 THE BOXED STAIRCASE. Narrow and boxed in, rising along the right-hand wall from its foot in the far corner — frame-right on the reference axis, and only there. Its stringer, its risers and the underside of its handrail carry the same writing as the walls. No plan fixes a percentage for it; the top of the flight is in darkness.
 
@@ -757,7 +757,7 @@ GEO — @RedHouseInterior, THE RED HOUSE
 
 THE ROOM. One single downstairs room of a small old wooden cottage, roughly 4 metres by 5, the ceiling low and of plain painted boards crossed by ONE BEAM, the floor wide worn boards running from the door end toward the far wall, the plaster cracked and patched throughout. No distance beyond those two dimensions is fixed by any source: do not state one.
 
-REFERENCE AXIS, AND WHERE IT STOPS APPLYING. Every screen side given below is given on the reference axis only — camera just inside THE PLANK FRONT DOOR, looking across the room toward the far wall and the foot of THE BOXED STAIRCASE, the whole room in frame (eye level 160 cm in 10B, 155 cm in 10J shot 2). On that axis THE PLANK FRONT DOOR is BEHIND camera and out of frame. Four framings do not use this axis and inherit none of its sides: 10D-1 and 10D-2 stand in the MIDDLE of the room and look back toward the door; 10C shot 1 and 10J shot 1 face a single wall flat on; 10E is a 90 cm close framing; 10F-1 draws straight back and out through the doorway onto the porch stone.
+REFERENCE AXIS, AND WHERE IT STOPS APPLYING. Every screen side given below is given on the reference axis only — camera just inside THE PLANK FRONT DOOR, looking across the room toward the far wall and the foot of THE BOXED STAIRCASE, the whole room in frame (eye level 160 cm in 10B, 155 cm in 10J shot 2). On that axis THE PLANK FRONT DOOR is BEHIND camera and out of frame. Four framings do not use this axis and inherit none of its sides: 10D-1 and 10D-2 stand in the MIDDLE of the room and look back toward the door; 10C shot 1 and 10J shot 1 face a single wall flat on; 10E is a 90 cm close framing; 10F-1 draws straight back and out through the doorway onto the porch boards.
 
 THE BOXED STAIRCASE. Narrow and boxed in, rising along the right-hand wall from its foot in the far corner — frame-right on the reference axis, and only there. Its stringer, its risers and the underside of its handrail carry the same writing as the walls. No plan fixes a percentage for it; the top of the flight is in darkness.
 
@@ -922,7 +922,7 @@ GEO — @RedHouseInterior, THE RED HOUSE
 
 THE ROOM. One single downstairs room of a small old wooden cottage, roughly 4 metres by 5, the ceiling low and of plain painted boards crossed by ONE BEAM, the floor wide worn boards running from the door end toward the far wall, the plaster cracked and patched throughout. No distance beyond those two dimensions is fixed by any source: do not state one.
 
-REFERENCE AXIS, AND WHERE IT STOPS APPLYING. Every screen side given below is given on the reference axis only — camera just inside THE PLANK FRONT DOOR, looking across the room toward the far wall and the foot of THE BOXED STAIRCASE, the whole room in frame (eye level 160 cm in 10B, 155 cm in 10J shot 2). On that axis THE PLANK FRONT DOOR is BEHIND camera and out of frame. Four framings do not use this axis and inherit none of its sides: 10D-1 and 10D-2 stand in the MIDDLE of the room and look back toward the door; 10C shot 1 and 10J shot 1 face a single wall flat on; 10E is a 90 cm close framing; 10F-1 draws straight back and out through the doorway onto the porch stone.
+REFERENCE AXIS, AND WHERE IT STOPS APPLYING. Every screen side given below is given on the reference axis only — camera just inside THE PLANK FRONT DOOR, looking across the room toward the far wall and the foot of THE BOXED STAIRCASE, the whole room in frame (eye level 160 cm in 10B, 155 cm in 10J shot 2). On that axis THE PLANK FRONT DOOR is BEHIND camera and out of frame. Four framings do not use this axis and inherit none of its sides: 10D-1 and 10D-2 stand in the MIDDLE of the room and look back toward the door; 10C shot 1 and 10J shot 1 face a single wall flat on; 10E is a 90 cm close framing; 10F-1 draws straight back and out through the doorway onto the porch boards.
 
 THE BOXED STAIRCASE. Narrow and boxed in, rising along the right-hand wall from its foot in the far corner — frame-right on the reference axis, and only there. Its stringer, its risers and the underside of its handrail carry the same writing as the walls. No plan fixes a percentage for it; the top of the flight is in darkness.
 
@@ -1071,7 +1071,7 @@ SHOT 1 [0.0-5.0s] | CAM: begins on the exact last frame of the previous generati
 [1.2-2.6s] At [2.6s] she is 34% h at x=50%, the whole written room around her, the ceiling alight above, the mattress and the folded ladder crossing the lower frame.
 [2.6-3.6s] She holds at 24% h; the room's far corners pass the edges.
 [3.6-4.4s] The dark door jamb sweeps in from both edges and takes 30% of frame width on each side; she is still visible between them, small, unmoving, still smiling.
-[4.4-5.0s] Outside on the porch stone, still drawing back: the doorway a dim red rectangle with her small shape in it. The red stops dead at the threshold stone and does not reach the street.
+[4.4-5.0s] Outside on the porch boards, still drawing back: the doorway a dim red rectangle with her small shape in it. The red stops dead at the threshold stone and does not reach the street.
 
 SUBJECT LOCK, NORA The exact girl of @Nora — fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Navy parka over charcoal hoodie, dark indigo jeans, scuffed off-white sneakers. NOTHING RED ON HER, no jewellery. She never looks at the lens.
 
@@ -1086,7 +1086,7 @@ GEO — @RedHouseInterior, THE RED HOUSE
 
 THE ROOM. One single downstairs room of a small old wooden cottage, roughly 4 metres by 5, the ceiling low and of plain painted boards crossed by ONE BEAM, the floor wide worn boards running from the door end toward the far wall, the plaster cracked and patched throughout. No distance beyond those two dimensions is fixed by any source: do not state one.
 
-REFERENCE AXIS, AND WHERE IT STOPS APPLYING. Every screen side given below is given on the reference axis only — camera just inside THE PLANK FRONT DOOR, looking across the room toward the far wall and the foot of THE BOXED STAIRCASE, the whole room in frame (eye level 160 cm in 10B, 155 cm in 10J shot 2). On that axis THE PLANK FRONT DOOR is BEHIND camera and out of frame. Four framings do not use this axis and inherit none of its sides: 10D-1 and 10D-2 stand in the MIDDLE of the room and look back toward the door; 10C shot 1 and 10J shot 1 face a single wall flat on; 10E is a 90 cm close framing; 10F-1 draws straight back and out through the doorway onto the porch stone.
+REFERENCE AXIS, AND WHERE IT STOPS APPLYING. Every screen side given below is given on the reference axis only — camera just inside THE PLANK FRONT DOOR, looking across the room toward the far wall and the foot of THE BOXED STAIRCASE, the whole room in frame (eye level 160 cm in 10B, 155 cm in 10J shot 2). On that axis THE PLANK FRONT DOOR is BEHIND camera and out of frame. Four framings do not use this axis and inherit none of its sides: 10D-1 and 10D-2 stand in the MIDDLE of the room and look back toward the door; 10C shot 1 and 10J shot 1 face a single wall flat on; 10E is a 90 cm close framing; 10F-1 draws straight back and out through the doorway onto the porch boards.
 
 THE BOXED STAIRCASE. Narrow and boxed in, rising along the right-hand wall from its foot in the far corner — frame-right on the reference axis, and only there. Its stringer, its risers and the underside of its handrail carry the same writing as the walls. No plan fixes a percentage for it; the top of the flight is in darkness.
 
@@ -1121,7 +1121,7 @@ MOVEMENT ONE continuous backward dolly at a rigorously constant 1.2 m/s from [0.
 DIALOGUE None. Nobody speaks in this generation.
 
 LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
-WHAT IS IN THE FRAME AT THE LAST INSTANT: The open doorway seen from the porch stone, a dim red rectangle in a grey-black street, the girl a small unmoving shape inside it, the red stopping at the threshold.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The open doorway seen from the porch boards, a dim red rectangle in a grey-black street, the girl a small unmoving shape inside it, the red stopping at the threshold.
 
 
 
@@ -1203,11 +1203,11 @@ THE VIDEO ATTACHED TO THIS GENERATION is the previous segment of this same conti
 
 HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
 These are NOT new positions to invent. This is the frame the previous shot (10F-1) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
-WHAT IS IN THE FRAME AT THE LAST INSTANT: The open doorway seen from the porch stone, a dim red rectangle in a grey-black street, the girl a small unmoving shape inside it, the red stopping at the threshold.
+WHAT IS IN THE FRAME AT THE LAST INSTANT: The open doorway seen from the porch boards, a dim red rectangle in a grey-black street, the girl a small unmoving shape inside it, the red stopping at the threshold.
 Nothing in this list may be re-placed, re-lit or improved. THIS IS AN ACQUIRED STATE, NOT AN ACTION TO PLAY: whatever brought the bodies and the props here has already happened in the attached video and must NOT be performed again. This generation opens with it already true, and everything the FRAME MAP asks for happens AFTER it, never instead of it.
 
 ACTIVE REFERENCES
-@RedHouseExterior: The last house of a poor terraced street, wooden-fronted, deep dark red gone chalky, neighbours grey and blank, wet black road. THE ONLY RED IN THE WORLD OUTSIDE. 100% matches the reference.
+@RedHouseExterior: A small old wooden fisherman's cottage standing ALONE at the dead end of a rough street, deep barn red gone chalky and peeling over bare silvered cedar, a low porch of worn boards with two sagging steps, a sagging picket fence with its gate hanging open, one lit ground-floor window, wet black road. It is NOT one house of a terrace. THE ONLY RED IN THE WORLD OUTSIDE. 100% matches the reference.
 
 LOCATION MAP
 Framing 1 [0.0-5.0s] — camera: begins on the exact last frame of the previous generation, the open red doorway at x=50%, and draws straight back down the middle of the road at a constant 4 m/s while climbing at a constant 1.6 m/s; no pan, no zoom.
@@ -1274,7 +1274,7 @@ This place carries at most one character, and only in the framings of the arriva
 — THE WITHDRAWAL FRAMING CARRIES NOBODY: no girl, no man, no silhouette, nobody at any window, nobody in any car — the open doorway alone on the axis at x=50%.
 
 SCREEN DIRECTION LOCK for this scene: the 180 line runs along the front wall of the cottage, through THE LIT GROUND-FLOOR WINDOW and THE RED FRONT DOOR. The camera stays on the street side of that line — the side THE FAR SODIUM LAMP stands on — in every framing. This scene carries one character only, so the lock is on her facing and her travel, and it is not negotiable: @Nora holds screen-left of THE RED FRONT DOOR in every framing and THE RED FRONT DOOR holds screen-right of her; she faces THE RED FRONT DOOR throughout — away from camera into frame depth in the framings taken down the street axis, screen-right in the framings taken on the porch — and she travels from THE FAR SODIUM LAMP end of the street toward the cottage, away from camera, never across the frame from right to left and never past the door to its right. In any framing where she is absent, THE RED FRONT DOOR and its doorway hold the centre of frame at x=50% and the roadway recedes on that same axis toward THE FAR SODIUM LAMP.
-LOCATION @RedHouseExterior — a poor terraced street, grey rendered fronts, wet black road, dished kerbstones, one sodium lamp, dead cars; the red house at its dead end.
+LOCATION @RedHouseExterior — a rough dead-end street at the edge of a port town: wet black road, dished kerbstones, one sodium lamp, two dead cars; and shutting its end, a small old wooden fisherman's cottage standing ALONE at the dead end of a rough street at the edge of a port town, NOT part of a terrace and NOT joined to anything: deep barn red clapboard gone chalky, the paint lifting in stiff curls over bare silvered cedar, a rust streak from every nailhead, a LOW PORCH OF WORN SILVERED BOARDS with two sagging steps, one lit ground-floor window with a thin curtain half drawn, a sagging picket fence with pickets missing and its gate hanging open on the lower hinge.
 
 LIGHT Two sources: the sodium lamp on the wet road, and the dim red of the open doorway, shrinking.
 
@@ -2086,7 +2086,7 @@ GEO — @RedHouseInterior, THE RED HOUSE
 
 THE ROOM. One single downstairs room of a small old wooden cottage, roughly 4 metres by 5, the ceiling low and of plain painted boards crossed by ONE BEAM, the floor wide worn boards running from the door end toward the far wall, the plaster cracked and patched throughout. No distance beyond those two dimensions is fixed by any source: do not state one.
 
-REFERENCE AXIS, AND WHERE IT STOPS APPLYING. Every screen side given below is given on the reference axis only — camera just inside THE PLANK FRONT DOOR, looking across the room toward the far wall and the foot of THE BOXED STAIRCASE, the whole room in frame (eye level 160 cm in 10B, 155 cm in 10J shot 2). On that axis THE PLANK FRONT DOOR is BEHIND camera and out of frame. Four framings do not use this axis and inherit none of its sides: 10D-1 and 10D-2 stand in the MIDDLE of the room and look back toward the door; 10C shot 1 and 10J shot 1 face a single wall flat on; 10E is a 90 cm close framing; 10F-1 draws straight back and out through the doorway onto the porch stone.
+REFERENCE AXIS, AND WHERE IT STOPS APPLYING. Every screen side given below is given on the reference axis only — camera just inside THE PLANK FRONT DOOR, looking across the room toward the far wall and the foot of THE BOXED STAIRCASE, the whole room in frame (eye level 160 cm in 10B, 155 cm in 10J shot 2). On that axis THE PLANK FRONT DOOR is BEHIND camera and out of frame. Four framings do not use this axis and inherit none of its sides: 10D-1 and 10D-2 stand in the MIDDLE of the room and look back toward the door; 10C shot 1 and 10J shot 1 face a single wall flat on; 10E is a 90 cm close framing; 10F-1 draws straight back and out through the doorway onto the porch boards.
 
 THE BOXED STAIRCASE. Narrow and boxed in, rising along the right-hand wall from its foot in the far corner — frame-right on the reference axis, and only there. Its stringer, its risers and the underside of its handrail carry the same writing as the walls. No plan fixes a percentage for it; the top of the flight is in darkness.
 

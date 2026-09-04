@@ -4,11 +4,79 @@
 > aux plans réels. **Les seize blocs ont été corrigés par le vérificateur** — aucun n'est passé du
 > premier coup, ce qui dit assez l'état du corpus.
 
-> Le bloc GEO retenu **tranche** chaque conflit en faveur du document du lieu et des images générées.
-> Il est collé verbatim dans les plans de sa scène et fait autorité sur la géométrie.
+> Le bloc GEO retenu **tranche** chaque conflit — presque toujours en faveur du document du lieu et de
+> l'image générée, deux fois en faveur des plans (la rue de la maison rouge, les casiers de la bibliothèque ;
+> les deux sont remontés en décision ci-dessous). Il est collé verbatim dans les plans de sa scène et fait
+> autorité sur la géométrie.
+
+> **Corrigé dans la foulée, sans attendre** (04/09) : le raccord émis par **1B** et par **8A** transmettait
+> les positions de DÉBUT de plan au lieu des positions de fin — 1B laissait Sam « SEATED x=30 % » alors qu'il
+> finit debout, enlaçant Maeve ; 8A laissait Nora « SEATED x=46 % » alors qu'elle finit debout, agrippée au
+> montant du rayonnage. Les deux sont réécrits, et leurs copies héritées dans 1C et 8B avec. Vérification
+> passée sur les 56 blocs : **c'étaient les deux seuls**. Autres correctifs du même passage : la start frame de
+> 1B (c'est la dernière frame de 1A, **pas** l'IMAGE 3 — l'IMAGE 3 est son cadre d'arrivée, la donner en
+> `start_image` faisait ouvrir la génération sur le two-shot frontal et tuait le raccord), sa durée (14 s,
+> une seule prise continue, plus de coupe interne), l'objectif de 8A-bis (40 mm), l'épaule de 8C plan 2
+> (gauche, pas droite), la poêle de 3A (posée, jamais suspendue), la fenêtre unique de la bibliothèque, et
+> le porche de la maison rouge (**des planches**, jamais de la pierre — 13 occurrences).
 
 > ⚠ **Certains conflits ne sont pas des erreurs d'écriture mais des choix de mise en scène.**
 > Ceux-là sont signalés : ils demandent ta décision, pas la mienne.
+
+---
+
+## ⚑ CE QUI DEMANDE TA DÉCISION — dix points, le reste est tranché
+
+> Tout ce qui suit a été isolé parce que **ce sont des choix de mise en scène ou de génération, pas des fautes d'écriture.**
+> Je ne les tranche pas seul. Les autres conflits sont réglés dans les blocs GEO et n'ont plus besoin de toi.
+
+**1 · La rue de la maison rouge : rangée de maisons, ou hangars ?**
+L'Élément `@RedHouseExterior` (`4931048c`) montre un cottage **isolé** derrière sa clôture, et des **murs de tôle aveugles**
+des deux côtés de la rue. Or 10F-2 recule en montant jusqu'au niveau des toits, et 10F-3 survole « slate, chimney stacks ».
+Une tôle ondulée n'a ni fenêtres d'étage ni souches de cheminée. Le bloc GEO a choisi la rangée de maisons pour sauver les
+deux plans. → **soit** on réécrit 10F-2 et 10F-3 pour monter au-dessus de toits de hangars, **soit** on regénère le master
+avec une rangée de maisons. *Ma reco : réécrire les deux plans* — regénérer le master oblige à refaire 10A et tout ce qui
+en descend.
+
+**2 · 10J appelle une image qui n'existe pas.**
+Sa start frame est « LIEU-16 IMAGE E v2 ». Le §v2 ne définit que A, B, C et D. Et 10J plan 1 n'est pas la même pièce que le
+reste de la séquence 10 : c'est la coquille des mois plus tôt — plâtre **nu**, aucune écriture, un pot fermé, un pinceau neuf.
+→ **écrire et générer l'IMAGE E**, ou retirer la start frame et décrire le cadre au prompt.
+
+**3 · La plage de plâtre nu de 10C est sur quel mur ?**
+10C plan 1 exige une plage nue de la taille de deux mains, qui « stays completely empty in every frame » — c'est là que le
+dragon est incrusté en post. **Aucune source ne dit sur quel mur elle est.** Tant que ce n'est pas fixé, chaque plan la
+réinvente ailleurs. → nomme le mur.
+
+**4 · 3A : même matinée, ou quelques semaines plus tard ?**
+Son SCENE CONTEXT dit « a few weeks later », sa lumière est plus froide et plus pauvre que celle de 1A/1B/1C, sa table est
+nue et sa poêle froide. Le bloc GEO lui a rendu la géométrie de la cuisine (fenêtre + gazinière **frame-right**, évier et
+radio frame-left — 3A les avait tous inversés). → si c'est bien plus tard, sa ligne LIGHT prime sur celle du GEO, et je le
+sors du groupe BEFORE. **Confirme.**
+
+**5 · La lampe à pince de 8D.**
+8D installe une lampe blanc-froid sur le bureau, allumée du début à la fin. 4A (« no bedside lamp ») et 6C (« no warm lamp,
+no fill, no bounce ») l'interdisent, et le lieu ne connaît que deux sources. → écart de dressing assumé comme le laptop
+ouvert/fermé, ou elle disparaît.
+
+**6 · 8B-bis fait sortir le manteau du mauvais côté.**
+En 8B il sort par la **gauche** ; en 8B-bis, qui est censé remplacer ces 0,6 s, il sort par la **droite**. Monté tel quel,
+le manteau change de sens d'un plan à l'autre. → recadrer 8B-bis, ou le retourner au montage.
+
+**7 · Le couloir russe : 4E et 4G se contredisent sur la direction d'écran**, avec deux verrous écrits « absolus ». Et
+**4E plan 1 n'est pas dans ce lieu** : c'est `@RussianHospitalWard` (la chambre de l'enfant), pas le couloir. → il faut
+choisir le sens, et sortir le plan 1 du bloc.
+
+**8 · Le quai (2A/2B).** L'homme assis change de bord entre les deux plans, @Maeve et @NoraBefore permutent, et le sens de
+sortie de 2A plan 2 contredit les trois autres. → un seul sens à fixer.
+
+**9 · La galerie (6B/7A/7B).** La boîte aux lettres est un premier plan fixe en 7B mais absente en 6B ; la porte à x=78 %
+est entrouverte et laissée ouverte en 6B, fermée pour tout le plan en 7B. Les quatre plans ne partagent pas la même heure
+(minuit / crépuscule). → décide si 7B est le même soir.
+
+**10 · Le restaurant : la table ronde des femmes n'est pas dans le master.**
+L'Élément `@Restaurant` ne compte que six tables formica. Les six plans de la séquence 5 exigent la petite table ronde sous
+l'aquarium. → elle est demandée au prompt à chaque fois (ce que fait le GEO), ou on regénère le master avec.
 
 ---
 
@@ -254,7 +322,7 @@
 
 **6 conflits relevés :**
 
-- LES CASIERS (lockers) — 8A invente un decor qui n'existe pas dans le lieu : LOCATION, PROP LAYOUT et le blocking du shot 1 posent « a run of dull grey dented metal lockers along the near wall » et « the lockers a dull grey band along the left frame edge ». Le document du lieu (master + IMAGES 2/3/4) ne contient AUCUN casier — c'est un couloir entre rayonnages avec une table d'etude ; 8A-bis n'en a pas non plus. TRANCHE en faveur du lieu : pas de casiers dans le bloc GEO. Consequence : le mur de gauche du shot 1 est une range de rayonnages, pas une bande de metal gris.
+- LES CASIERS (lockers) — 8A invente un decor qui n'existe pas dans le lieu : LOCATION, PROP LAYOUT et le blocking du shot 1 posent « a run of dull grey dented metal lockers along the near wall » et « the lockers a dull grey band along the left frame edge ». Le document du lieu (master + IMAGES 2/3/4) ne contient AUCUN casier — c'est un couloir entre rayonnages avec une table d'etude ; 8A-bis n'en a pas non plus. ⚠ **LE BLOC GEO A TRANCHÉ DANS L'AUTRE SENS** — il garde les casiers, mais les enferme : « They belong to the study-table end and never appear in a framing taken down the corridor axis or in THE SIDE AISLE. » Ils ne sont donc demandés que dans le cadre de la table d'étude, là où l'Élément n'est de toute façon vu qu'en fond. Tenable, mais c'est du décor ajouté à un lieu qui n'en a pas.
 - LA SECONDE TABLE — 8A ajoute « a second study table further along the corridor with its chairs pushed in » (LOCATION + PROP LAYOUT). Le document du lieu dit « a study table with a chair at the near end », une seule, et l'IMAGE 4 ne montre qu'une table et une chaise ; 8A-bis dit « No table is in frame ». TRANCHE en faveur du lieu : UNE table, UNE chaise, au bout proche. Rien d'autre dans la profondeur du couloir.
 - LA FENETRE — la ligne ACTIVE REFERENCES de @LibraryCorridor, identique dans 8A et 8A-bis, decrit « flat grey afternoon through high windowS » (pluriel, hautes, donc laterales). Le document du lieu n'a qu'UNE fenetre, au FOND du couloir, dans son axe, source unique. Geometries incompatibles : des fenetres hautes laterales donneraient une lumiere de cote et tueraient le contre-jour du shot 2. TRANCHE en faveur du lieu : une seule fenetre, plein axe, au fond.
 - L'OPTIQUE ET L'ECHELLE DU MEME AXE — 8A shot 2 et 8A-bis declarent tous deux « exactly the axis of the reference master » et le meme coin (upright a x=76% dans 8A, x=74% dans 8A-bis), mais la silhouette y remplit 62% de la hauteur d'image dans 8A et 78% dans 8A-bis, et le paragraphe OPTICS colle dans les DEUX blocs dit « Anamorphic 50 mm f/2 » alors que le tableau de reglages de 8A-bis impose 40 mm. Deux valeurs de cadre incompatibles sur un axe declare identique : soit l'objectif change (40 mm, comme le tableau le dit et comme le bloc ne le dit pas), soit la camera avance. A corriger dans le bloc 8A-bis (OPTICS = 40 mm f/2), sinon le modele place la camera ailleurs et le coin se deplace.
@@ -287,7 +355,7 @@
 
 **9 conflits relevés :**
 
-- FLANCS DE RUE — incompatible. LIEU-15 : « grey warehouse wall […] the corrugated walls blank and dark » des deux côtés. 10A : « the last house of a poor terraced street, neighbours grey and blank ». 10F-2 : « grey rendered fronts », caméra « level with the first-floor windows » [2.6-4.0s], LAST FRAME faite de « roof slates and chimney stacks ». Un mur d'entrepôt en tôle n'a ni fenêtres d'étage ni souches de cheminée. TRANCHÉ pour le lieu (murs aveugles) → la fin de 10F-2 et son passage à 10F-3 reposent sur des toits qui n'existent pas dans l'Élément : à réécrire dans le bloc 10F-2, ou à regénérer le master avec des fronts de maisons.
+- FLANCS DE RUE — incompatible. LIEU-15 : « grey warehouse wall […] the corrugated walls blank and dark » des deux côtés. 10A : « the last house of a poor terraced street, neighbours grey and blank ». 10F-2 : « grey rendered fronts », caméra « level with the first-floor windows » [2.6-4.0s], LAST FRAME faite de « roof slates and chimney stacks ». Un mur d'entrepôt en tôle n'a ni fenêtres d'étage ni souches de cheminée. ⚠ **LE BLOC GEO A TRANCHÉ DANS L'AUTRE SENS** — il écrit « Both sides are a POOR TERRACE, not a wall », parce que 10F-2 (la caméra recule et monte) et 10F-3 (le survol) ont besoin de toits pour exister. L'Élément généré, lui, montre des murs de tôle aveugles. **Décision n°1 ci-dessus : à toi.**
 - FORME DE LA MAISON — incompatible. LIEU-15 : cottage de pêcheur ISOLÉ, porche bas à deux marches, clôture de piquets avec portillon ouvert, avant-cour. 10A et 10F-2 : « the last house of a poor terraced street » (maison de rangée mitoyenne, sans avant-cour ni clôture). TRANCHÉ pour le lieu : cottage isolé, porche + clôture + portillon. Le mot « terraced » des deux blocs est à remplacer.
 - MATÉRIAU DU PORCHE ET DU SEUIL — incompatible. LIEU-15 : « the cupped, silvered porch boards », deux marches de BOIS creusées. 10A [6.4-7.2s] : « down the porch stone ». 10F-1 (dont 10F-2 hérite mot à mot) : « seen from the porch stone », « the red stopping at the threshold stone ». Bois contre pierre. TRANCHÉ pour le lieu : planches et marches de cèdre argenté ; garder l'idée « le rouge s'arrête au seuil » mais supprimer le mot « stone ».
 - POSITION DU LAMPADAIRE — ambiguïté du lieu, les deux plans concordent. LIEU-15 : « the far sodium lamp puts one cold-orange edge on the wet asphalt behind » (se lit comme derrière la maison). 10A LIGHT : « A distant sodium lamp behind camera » (donc en amont de la rue, côté opposé au cottage). 10F-2 [1.2-2.6s] : « A sodium lamp passes overhead at [2.0s] » pendant le recul en amont — même position que 10A. TRANCHÉ : en amont de la rue, côté caméra, ≈8 m de la porte (4 m/s × 2 s de recul). Le lieu ne fixe pas la position sur l'axe, il ne contredit donc pas.

@@ -55,7 +55,7 @@ Nothing in this list may be re-placed, re-lit or improved. THIS IS AN ACQUIRED S
 ACTIVE REFERENCES
 @Nora: Nora, fifteen, long dark brown unwashed hair, grey-green eyes, pale olive skin gone colourless, bitten lips, heavy lids over grey hollows, thin build. Running on empty: grief has made her polite and absent — she answers, she says thank you, and none of it reaches her face. She goes very still before anything shows. NOTHING RED ON HER. 100% matches the reference.
 @Mender: The coat only — a long dark coat covered edge to edge in dense handwriting worn to texture. NEVER a face, never eyes, never identifiable. Seen from behind or passing through frame. 100% matches the reference.
-@LibraryCorridor: A school library corridor, flat grey afternoon through high windows, shelving in depth. No legible book title anywhere. 100% matches the reference.
+@LibraryCorridor: A school library corridor, flat grey afternoon through THE ONE WINDOW THAT CLOSES ITS FAR END — no side windows, no second opening — shelving in depth. No legible book title anywhere. 100% matches the reference.
 
 TEMPERAMENT, NORA A fifteen-year-old running on empty. Grief has made her polite and absent: she answers, she carries the dish back, she says thank you, and none of it reaches her face. Her body is tired before the day starts. She does not cry in front of people — the swollen eyelids come from somewhere else, earlier. When something does move her, she goes very still first, and only then does it show.
 
@@ -140,7 +140,7 @@ DIALOGUE None. Nobody speaks in this generation. The riffle of pages is the only
 
 LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
 WHAT IS IN THE FRAME AT THE LAST INSTANT: The empty side aisle beyond the corner, running away between two tall shelf faces, dust settling in the weak grey spill — and at the near frame edge, from behind, @Nora swung in around the shelf upright, her left hand gripping it, shoulders heaving, looking down the emptiness at nothing.
-WHERE THIS SHOT LEAVES EACH BODY — these are the positions the next shot inherits, whether or not the body is still inside this last frame. READ THE SPATIAL RELATION FIRST AND THE PERCENTAGE SECOND: the percentage only fixes the wording from one shot to the next, what must actually be honoured is where each body stands in relation to the room and to the other bodies: @Nora: centre of frame, SEATED, x=46%, filling 55% of frame height.
+WHERE THIS SHOT LEAVES EACH BODY — these are the positions the next shot inherits, whether or not the body is still inside this last frame. READ THE SPATIAL RELATION FIRST AND THE PERCENTAGE SECOND: the percentage only fixes the wording from one shot to the next, what must actually be honoured is where each body stands in relation to the room and to the other bodies: @Nora: hard against the NEAR LEFT frame edge, STANDING — she got up and ran during this shot — swung in around the shelf upright at the mouth of the side aisle, seen from behind and three-quarter back, her left hand gripping the upright, x=16%, filling 80% of frame height. SHE IS NO LONGER AT THE STUDY TABLE AND SHE IS NOT SEATED.
 
 
 
@@ -237,7 +237,7 @@ No previous clip is attached to this generation. This is the first shot of its c
 
 ACTIVE REFERENCES
 @Mender: The coat only — a long dark coat covered edge to edge in dense handwriting worn to texture. NEVER a face, never eyes, never identifiable. Seen from behind or passing through frame. 100% matches the reference.
-@LibraryCorridor: A school library corridor, flat grey afternoon through high windows, shelving in depth. No legible book title anywhere. 100% matches the reference.
+@LibraryCorridor: A school library corridor, flat grey afternoon through THE ONE WINDOW THAT CLOSES ITS FAR END — no side windows, no second opening — shelving in depth. No legible book title anywhere. 100% matches the reference.
 
 LOCATION MAP
 Framing 1 [0.0-5.0s] — camera: Wide straight down the corridor of shelves, eye level about 155 cm, deep focus, static, locked off, one stop wider than the main version — the shelves closing in toward the bright window rectangle at the far end, exactly the axis of the reference master, the whole height of a standing figure held inside the frame with air above the hood.
@@ -249,7 +249,7 @@ FORMAT MODE
 One single continuous uncut take, 5 seconds long, at real-time speed. No cut, no montage, no dissolve, no speed ramp, no slow motion.
 
 OPTICS
-Anamorphic 50 mm f/2 equivalent. Depth of field wide open at that stop: the plane described in the FRAME MAP is tack sharp and everything behind it falls off progressively. Focus holds on that plane and breathes naturally with the camera's movement — no deliberate rack focus unless the FRAME MAP calls for one.
+Anamorphic 40 mm f/2 equivalent, one stop wider than 8A. Depth of field wide open at that stop: the plane described in the FRAME MAP is tack sharp and everything behind it falls off progressively. Focus holds on that plane and breathes naturally with the camera's movement — no deliberate rack focus unless the FRAME MAP calls for one.
 
 CONTINUITY LOCK Every prop named in the layout appears in the frame where its surface is visible, in the same position and state — nothing appears, disappears, multiplies or moves unless the choreography says so. The figure's posture (STANDING and walking away) is stated below and never changes. He carries nothing and touches nothing. NOTHING IS EVER LEFT ANYWHERE: no folded paper, no note, no object is placed, dropped or revealed at any point in this generation.
 
@@ -385,7 +385,7 @@ THE VIDEO ATTACHED TO THIS GENERATION is an earlier shot from the same film (8A)
 HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
 These are NOT new positions to invent. This is the frame the previous shot (8A) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
 WHAT IS IN THE FRAME AT THE LAST INSTANT: The empty side aisle beyond the corner, running away between two tall shelf faces, dust settling in the weak grey spill — and at the near frame edge, from behind, @Nora swung in around the shelf upright, her left hand gripping it, shoulders heaving, looking down the emptiness at nothing.
-WHERE THIS SHOT LEAVES EACH BODY — these are the positions the next shot inherits, whether or not the body is still inside this last frame. READ THE SPATIAL RELATION FIRST AND THE PERCENTAGE SECOND: the percentage only fixes the wording from one shot to the next, what must actually be honoured is where each body stands in relation to the room and to the other bodies: @Nora: centre of frame, SEATED, x=46%, filling 55% of frame height.
+WHERE THIS SHOT LEAVES EACH BODY — these are the positions the next shot inherits, whether or not the body is still inside this last frame. READ THE SPATIAL RELATION FIRST AND THE PERCENTAGE SECOND: the percentage only fixes the wording from one shot to the next, what must actually be honoured is where each body stands in relation to the room and to the other bodies: @Nora: hard against the NEAR LEFT frame edge, STANDING — she got up and ran during this shot — swung in around the shelf upright at the mouth of the side aisle, seen from behind and three-quarter back, her left hand gripping the upright, x=16%, filling 80% of frame height. SHE IS NO LONGER AT THE STUDY TABLE AND SHE IS NOT SEATED.
 Nothing in this list may be re-placed, re-lit or improved. THIS IS AN ACQUIRED STATE, NOT AN ACTION TO PLAY: whatever brought the bodies and the props here has already happened in the attached video and must NOT be performed again. This generation opens with it already true, and everything the FRAME MAP asks for happens AFTER it, never instead of it.
 
 ACTIVE REFERENCES
@@ -745,7 +745,7 @@ TEMPERAMENT, NORA A fifteen-year-old running on empty. Grief has made her polite
 
 LOCATION MAP
 Framing 1 [0.0-3.0s] — camera: Medium chest-up from the doorway, angled toward the mirror and basin, eye level, static, locked off — exactly the axis of the reference angle: the mirror screen-right at x=65%, the basin below it, the shower curtain and the towel radiator at the frame edges. The mirror's reflection shows only tiles and steam, never the camera.
-Framing 2 [3.0-7.0s] — camera: Close over her right shoulder onto the mirror, 85 mm, static, locked off: the fogged glass filling the frame, the edge of her wet shoulder soft in the lower left corner at x=14%, her blurred grey reflection behind the fog.
+Framing 2 [3.0-7.0s] — camera: Close over her LEFT shoulder onto the mirror, 85 mm, static, locked off: the fogged glass filling the frame, the edge of her wet shoulder soft in the lower left corner at x=14%, her blurred grey reflection behind the fog.
 Framing 3 [7.0-10.0s] — camera: Medium from the side of the room, eye level, static, locked off: the mirror screen-left at x=24% with its three clear bands standing distinct in the fog, @Nora screen-right at x=62%, chest-up, 62% of frame height, the bathroom door behind her at the right frame edge.
 Every distance, height and frame position given above is literal and is held exactly; nothing drifts toward a more flattering angle.
 
@@ -771,7 +771,7 @@ SHOT 1 [0.0-3.0s] — Medium chest-up from the doorway, angled toward the mirror
 
 HARD CUT
 
-SHOT 2 [3.0-7.0s] — Close over her right shoulder onto the mirror, 85 mm, static, locked off: the fogged glass filling the frame, the edge of her wet shoulder soft in the lower left corner at x=14%, her blurred grey reflection behind the fog.
+SHOT 2 [3.0-7.0s] — Close over her LEFT shoulder onto the mirror, 85 mm, static, locked off: the fogged glass filling the frame, the edge of her wet shoulder soft in the lower left corner at x=14%, her blurred grey reflection behind the fog.
 [3.0s] Starting positions: the fog now covers the LOWER HALF of the glass; the LOWER of the three clear bands is already standing in it, sharp-edged against the opacity; the UPPER HALF of the mirror is still clear glass and holds nothing but her blurred shape.
 [3.0-4.6s] THE SWEEP: the fog front rises evenly across the full width of the glass, a single soft even wave, and as it passes it UNCOVERS the middle band, then the upper band — the bands are not drawn, not traced, not written: the opacity closes around them and leaves them clear. No letter ever forms; nothing advances stroke by stroke; nothing fades in.
 [4.6-7.0s] The fog is now complete, edge to edge, and the three clear bands stand in it, whole, sharp and still, held wide and steady for the rest of the shot — no change of shape, no growth, no drift, no drop crossing them. Behind them her blurred reflection; her breathing has gone fast and audible. The steam drifts through the wall light.

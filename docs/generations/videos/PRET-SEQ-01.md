@@ -197,7 +197,7 @@ torchon, étiquette ? ⑤ un grille-pain a-t-il poussé sur le plan de travail ?
 ---
 
 
-## VIDÉO 1B — plans 1.3 et 1.4 « Il traverse, il l'enlace · front contre front » *(10 s de rushes → 8 s au montage · Elements : @SamBefore + @Maeve + @Kitchen · start frame : LIEU-01 IMAGE 3 `e9dc3786`, ANGLE H)*
+## VIDÉO 1B — plans 1.3 et 1.4 « Il traverse, il l'enlace · front contre front » *(14 s de rushes → 13 s au montage · Elements : @SamBefore + @Maeve + @Kitchen · start frame : LA DERNIÈRE FRAME DE 1A — pas l'IMAGE 3)*
 **RÉGLAGES — à saisir dans l'interface AVANT de coller le texte**
 
 | | |
@@ -205,8 +205,9 @@ torchon, étiquette ? ⑤ un grille-pain a-t-il poussé sur le plan de travail ?
 | **modèle** | Seedance 2.5 · 21:9 · 1080p · bitrate **high** · **sound off** |
 | **durée** | 14 s |
 | **Éléments** | @SamBefore + @Maeve + @Kitchen |
-| **`start_image`** | LIEU-01 IMAGE 3 `e9dc3786`, ANGLE H |
-| **`video_references`** | le clip précédent — pour le grain, la lumière et la peau. **Jamais sa dernière frame en `start_image`** : le cadrage n'est pas le même |
+| **`start_image`** | **LA DERNIÈRE FRAME DU CLIP 1A**, extraite du rush. 1B ouvre sur le cadre exact où 1A s'arrête — même axe ouest, même hauteur 145 cm, Sam encore assis, les deux paumes à plat. **PAS l'IMAGE 3** : l'IMAGE 3 est le cadre d'ARRIVÉE de 1B, pas son premier frame ; la donner en `start_image` fait ouvrir la génération sur le two-shot frontal et tue le raccord avec 1A. |
+| **`image_references`** | LIEU-01 IMAGE 3 `e9dc3786`, ANGLE H — **référence de composition seulement** : c'est le cadre que la caméra doit atteindre à la fin de son déplacement (two-shot frontal, hauteur de poitrine 150 cm, gazinière et fenêtre plein axe). |
+| **`video_references`** | le clip 1A — pour le grain, la lumière, la peau et la façon dont la caméra respire. |
 
 > ⛔ **NE COLLE PAS CE TABLEAU.** Il est pour toi, pas pour le modèle : c'est ce que tu règles
 > dans l'interface avant de coller. **Tu ne copies QUE le texte entre les triples backticks
@@ -325,7 +326,7 @@ DIALOGUE [6.9-7.8s] @Maeve, whispered, forehead to forehead, eyes closed: "Love 
 
 LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER, because the next shot opens on it
 WHAT IS IN THE FRAME AT THE LAST INSTANT: The two of them chest-up and half-silhouetted in the window's gold, forehead resting against forehead, both pairs of eyes closed, her two hands flat on his chest one slightly higher than the other, his arms wrapped around her waist with the wool of her sweater gathered under his palms, one last thin thread of smoke rising from the cooling pan beside them under the window. The frame is at rest and carries no motion blur.
-WHERE THIS SHOT LEAVES EACH BODY — these are the positions the next shot inherits, whether or not the body is still inside this last frame. READ THE SPATIAL RELATION FIRST AND THE PERCENTAGE SECOND: the percentage only fixes the wording from one shot to the next, what must actually be honoured is where each body stands in relation to the room and to the other bodies: @SamBefore: left third of frame, SEATED, x=30%, filling 48% of frame height. @Maeve: right third of frame, STANDING, x=68%, filling 62% of frame height.
+WHERE THIS SHOT LEAVES EACH BODY — these are the positions the next shot inherits, whether or not the body is still inside this last frame. READ THE SPATIAL RELATION FIRST AND THE PERCENTAGE SECOND: the percentage only fixes the wording from one shot to the next, what must actually be honoured is where each body stands in relation to the room and to the other bodies: @SamBefore: centre-left of frame, STANDING, on his feet and across the room — he rose and crossed during this shot — chest to chest with @Maeve in front of the gas range, his arms wrapped around her waist, x=44%, filling 72% of frame height. @Maeve: centre-right of frame, STANDING at the range with her back to it, her two hands flat on his chest, her forehead against his, x=58%, filling 70% of frame height. NEITHER OF THEM IS AT THE TABLE ANY MORE and NOBODY IS SEATED at the end of this shot.
 
 
 
@@ -377,11 +378,13 @@ a kiss, kissing, mouths touching, an open-mouthed kiss, the embrace played long 
 
 
 
-*⚠ **POINT DE COUPE — deux plans du script, 4 s + 4 s, 10 s de génération.** Garder ① **4,0 s** du shot 1,
-`[1.0s]` → `[5.0s]` : la fin de sa traversée, le temps souriant entier, l'enlacement jusqu'à la coupe.
-**Ne jamais entamer avant `[1.0s]`** — il doit entrer au montage **déjà en marche**, alors qu'il finit 1A
-assis : c'est ce décalage qui fait la coupe. ② **4,0 s** du shot 2, `[5.4s]` → `[9.4s]`. La coupe interne est
-déjà dans la génération (HARD CUT à `[5.0s]`) ; les 0,4 s de chaque côté sont la marge de recalage.*
+*⚠ **POINT DE COUPE — les plans 1.3 et 1.4 du script sont désormais UN SEUL mouvement, 14 s de génération,
+aucune coupe interne.** Garder **`[1.0s]` → `[14.0s]`**, d'un bloc : la levée entière, la traversée, le temps
+souriant, l'enlacement, les deux répliques. **Ne jamais entamer avant `[1.0s]`** — la première seconde ne sert
+qu'à raccorder sur la dernière frame de 1A, et le montage doit le prendre déjà en train de se lever.
+Il n'y a plus de HARD CUT à `[5.0s]` : la coupe interne de l'ancienne version a été supprimée à ta demande
+(« je veux pas trop de cut · qu'on le voie se lever »). Si le montage a besoin de raccourcir, il coupe
+À LA FIN, jamais au milieu de la traversée.*
 *⚠ **CONTRÔLE** : ① un baiser ? La prise reste bonne — couper le shot 1 à `[4.6s]`, avant les lèvres.
 ② les deux respirations sont-elles décalées dans le silence ? C'est ce qui distingue deux corps d'une pose.
 ③ « more » tombe-t-il **plus bas** que « love » ? C'est la seule fois du film où quelqu'un dit à Sam qu'il est
@@ -416,7 +419,7 @@ THE VIDEO ATTACHED TO THIS GENERATION is the shot that immediately precedes this
 HANDOFF — THE EXACT STATE THIS SHOT INHERITS FROM THE ATTACHED VIDEO
 These are NOT new positions to invent. This is the frame the previous shot (1B) ends on, repeated here to the number, and the first frame of this generation must reproduce it exactly before anything moves.
 WHAT IS IN THE FRAME AT THE LAST INSTANT: The two of them chest-up and half-silhouetted in the window's gold, forehead resting against forehead, both pairs of eyes closed, her two hands flat on his chest one slightly higher than the other, his arms wrapped around her waist with the wool of her sweater gathered under his palms, one last thin thread of smoke rising from the cooling pan beside them under the window. The frame is at rest and carries no motion blur.
-WHERE THIS SHOT LEAVES EACH BODY — these are the positions the next shot inherits, whether or not the body is still inside this last frame. READ THE SPATIAL RELATION FIRST AND THE PERCENTAGE SECOND: the percentage only fixes the wording from one shot to the next, what must actually be honoured is where each body stands in relation to the room and to the other bodies: @SamBefore: left third of frame, SEATED, x=30%, filling 48% of frame height. @Maeve: right third of frame, STANDING, x=68%, filling 62% of frame height.
+WHERE THIS SHOT LEAVES EACH BODY — these are the positions the next shot inherits, whether or not the body is still inside this last frame. READ THE SPATIAL RELATION FIRST AND THE PERCENTAGE SECOND: the percentage only fixes the wording from one shot to the next, what must actually be honoured is where each body stands in relation to the room and to the other bodies: @SamBefore: centre-left of frame, STANDING, on his feet and across the room — he rose and crossed during this shot — chest to chest with @Maeve in front of the gas range, his arms wrapped around her waist, x=44%, filling 72% of frame height. @Maeve: centre-right of frame, STANDING at the range with her back to it, her two hands flat on his chest, her forehead against his, x=58%, filling 70% of frame height. NEITHER OF THEM IS AT THE TABLE ANY MORE and NOBODY IS SEATED at the end of this shot.
 Nothing in this list may be re-placed, re-lit or improved. THIS IS AN ACQUIRED STATE, NOT AN ACTION TO PLAY: whatever brought the bodies and the props here has already happened in the attached video and must NOT be performed again. This generation opens with it already true, and everything the FRAME MAP asks for happens AFTER it, never instead of it.
 
 ACTIVE REFERENCES
