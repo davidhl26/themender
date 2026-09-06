@@ -1,5 +1,12 @@
 # 1B — le prompt du test
 
+> **Corrigé le 06/09 après la première génération réussie.** @maeva y avait rejoué
+> « I think I burned the toast » — la réplique de 1A, qui n'est nulle part dans ce prompt.
+> Elle venait de l'**audio de `@video1`** : la ligne ROLES disait quoi ne pas prendre de la vidéo,
+> mais uniquement pour l'image ; le son n'était pas exclu. Et le silence des douze premières
+> secondes n'était pas déclaré — un silence non déclaré est un trou que le modèle comble avec ce
+> qu'il entend. Les deux sont réparés ci-dessous, et propagés aux 62 plans.
+
 > **Toutes les mentions `@` sont regroupées sur les deux premières lignes.**
 > Raison : dans l'éditeur Higgsfield, un `@` collé en texte brut n'est qu'un mot — il ne se lie à
 > rien. Chaque mention doit être **choisie dans le sélecteur** qui s'ouvre quand tu tapes `@`.
@@ -31,7 +38,7 @@
 
 ```
 MATERIALS — @video1 is the shot immediately before this one, same room, same minute. @image1 is the last frame of that shot and IT IS THE FIRST FRAME OF THIS GENERATION. @sambefore is SAM, the husband. @maeva is MAEVE, the wife. @kitchen is the room.
-ROLES — From the attached video take the light level and direction, the grain, the skin rendering and the way the camera behaves; take no framing from it beyond the first instant. From the first-frame image take the opening composition and the exact position, pose and prop state of everything in it; take nothing else from it, no border, no backdrop, no empty-room staging. From SAM, MAEVE and the room reference take identity, wardrobe, architecture and materials exactly; take none of their pose, framing, lighting or staging.
+ROLES — From the attached video take the light level and direction, the grain, the skin rendering and the way the camera behaves. TAKE NO FRAMING FROM IT beyond the first instant, AND TAKE NOTHING OF ITS AUDIO: not its dialogue, not its voices, not one line spoken in it. Every line heard in the attached video belongs to the previous shot and MUST NEVER BE HEARD AGAIN HERE. From the first-frame image take the opening composition and the exact position, pose and prop state of everything in it; take nothing else from it, no border, no backdrop, no empty-room staging. From SAM, MAEVE and the room reference take identity, wardrobe, architecture and materials exactly; take none of their pose, framing, lighting or staging.
 SHOT — A husband gets up from his kitchen table, crosses the room and plants himself in front of his wife. They hold one smiling beat face to face in the window's gold, and he puts his arms around her and draws her in.
 CONTINUITY — ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: this clip opens on the first-frame image exactly, everything in it already true and nothing replayed, and only then does the action begin.
 INHERITED STATE, ALREADY TRUE AT FRAME ONE — SAM: left third of frame, SEATED at the table, both palms flat on its edge, the spoon beside his bowl, x=30%, filling 48% of frame height. MAEVE: right third of frame, STANDING at the range with her back against it and facing the room, both hands on the range edge either side of her hips, x=68%, filling 62% of frame height. THIS IS AN ACQUIRED STATE, NOT AN ACTION TO PLAY.
@@ -40,9 +47,9 @@ ACTION in 4 stages, timings are budgets not edit points, each stage ends on the 
 PERFORMANCE — Nobody performs an emotion here. The feeling is legible only through the exact physical events written in the ACTION stages above: no added expression, no widened eyes, no trembling lip, no theatrical breath. SAM is SEATED at [0.0s] and standing from [3.4s]; the change of posture happens entirely in frame, never across a cut and never off-screen.
 CAMERA — Anamorphic 50 mm f/2 equivalent, wide open, handheld and operated, carried rather than nailed down. One continuous move that follows him and settles; no cut, no zoom, no speed ramp, no slow motion.
 LIGHT — One source only: the single window directly above THE GAS RANGE on the east wall, warm gold morning light toward camera, the two of them half-silhouetted in it by the end. No lamp, no practical, no fill, no second source. Nothing underexposed, no grey, no cold cast.
-SOUND — Spoken dialogue, two lines and no more. [11.6-12.4s] MAEVE, whispered, forehead to forehead, eyes closed, barely voiced: "Love you." [12.9-13.6s] SAM, lower in pitch than she was, certain, just as quietly: "Love you more." Nobody else speaks, neither line is repeated, and no other word is added. Under them, room tone only: two breaths out of step, the faint tick of the cooling pan, wool moving against wool. NO MUSIC of any kind, no score, no drone, no ambient pad.
+SOUND — EXACTLY TWO SPOKEN LINES IN THIS ENTIRE GENERATION, written out here and nothing else. Any other speech, any line carried over from the attached video, any murmur or half-word is an ERROR. FROM [0.0s] TO [11.6s] NOBODY SPEAKS AT ALL: no line, no word, no murmur, no breath shaped like speech — the room is silent while he rises, crosses and takes her in his arms. [11.6-12.4s] MAEVE, whispered, forehead to forehead, eyes closed, barely voiced: "Love you." [12.9-13.6s] SAM, lower in pitch than she was, certain, just as quietly: "Love you more." Nobody else speaks, neither line is repeated, and no other word is added. Under them, room tone only: two breaths out of step, the faint tick of the cooling pan, wool moving against wool. NO MUSIC of any kind, no score, no drone, no ambient pad.
 ENDING FRAME, the state this shot hands over — The two of them chest-up and half-silhouetted in the window's gold, forehead resting against forehead, both pairs of eyes closed, her two hands flat on his chest one slightly higher than the other, his arms wrapped around her waist, one last thin thread of smoke rising from the cooling pan under the window.
-AVOID — a kiss, kissing, mouths touching, an open-mouthed kiss, the embrace played long or theatrical, tears, crying, sadness, music, a score, a cut of any kind, a jump in his position, him standing up off-screen, a toaster, any toaster visible anywhere.
+AVOID — any spoken line other than the two written above, any dialogue carried over from the attached video, the words "toast" or "toaster" spoken or heard, a kiss, kissing, mouths touching, an open-mouthed kiss, the embrace played long or theatrical, tears, crying, sadness, music, a score, a cut of any kind, a jump in his position, him standing up off-screen, a toaster, any toaster visible anywhere.
 ```
 
 ## Les six questions, une fois sorti

@@ -22,7 +22,7 @@
 
 ```
 SHOT — Alone at night in a dark bedroom, @Nora reads a page on her laptop, scrolls once, stops on something, and lifts her eyes off the screen toward the black window.
-CONTINUITY — VIDEO 1 is an earlier shot of the same film (5D), IN A DIFFERENT PLACE: rendering reference only. TAKE its film stock, grain, skin and fabric rendering, focus behaviour, highlight roll-off. DO NOT TAKE its light, palette, exposure, composition or framing.
+CONTINUITY — VIDEO 1 is an earlier shot of the same film (5D), IN A DIFFERENT PLACE: rendering reference only. TAKE its film stock, grain, skin and fabric rendering, focus behaviour, highlight roll-off. DO NOT TAKE its light, palette, exposure, composition, framing, or ANY OF ITS AUDIO — not its dialogue, not its voices, not one line spoken in it.
 INHERITED STATE, ALREADY TRUE AT FRAME ONE — @Sam: centre of frame, SEATED, x=56%, filling 42% of frame height. @Milo: centre of frame, SEATED, x=38%, filling 26% of frame height. @Nora: centre of frame, SEATED, x=50%, filling 70% of frame height. Nothing in this list may be re-placed, re-lit or improved.
 ANCHOR IMAGE — THE ATTACHED IMAGE IS THE FIRST FRAME: opening composition, every body's position and pose, every prop's state, the scene, the camera direction. Take nothing else from it — no border, no backdrop, no empty-room staging.
 OPENING FRAME — Medium from three-quarter behind her left shoulder, seated eye level, camera about 120 cm high and one metre behind the chair, static, locked off — exactly the axis of the reference angle, the desk filling the lower right half of frame, the window a black rectangle screen-right.
@@ -30,7 +30,7 @@ ACTION in 4 stages, timings are budgets not edit points, each stage ends on the 
 PERFORMANCE — Nobody performs an emotion here.
 CAMERA — Anamorphic 85 mm f/2 equivalent.
 LIGHT — motivated sources only, never more than two lit at once, and the two temperatures never mix.
-SOUND — None. Nobody speaks in this generation. She reads. SFX only.
+SOUND — NOBODY SPEAKS IN THIS ENTIRE GENERATION: not one line, not one word, not one murmur, and NO LINE IS CARRIED OVER FROM THE ATTACHED VIDEO. SFX only.
 ENDING FRAME, the state this shot hands over — Her face front-on filling the frame, lit cold blue from below, eyes lifted just past the unseen screen toward the dark window, the sodium rim in her hair, everything behind her blue-black.
 AVOID — readable text on the screen, legible letters, words, digits or interface on the screen, characters of any alphabet on the screen, a cursor, an icon, a photograph, a map, a drawing or an image on the screen.
 ```
@@ -60,7 +60,7 @@ ACTION in 3 stages, timings are budgets not edit points, each stage ends on the 
 PERFORMANCE — Nobody performs an emotion here.
 CAMERA — Anamorphic 85 mm f/2 equivalent.
 LIGHT — motivated sources only, never more than two lit at once, and the two temperatures never mix.
-SOUND — None. Nobody speaks in this generation. The room is empty. SFX only.
+SOUND — NOBODY SPEAKS IN THIS ENTIRE GENERATION: not one line, not one word, not one murmur, and NO LINE IS CARRIED OVER FROM THE ATTACHED VIDEO. SFX only.
 ENDING FRAME, the state this shot hands over — The laptop screen square to the lens, filling the frame, an even cold blue-white field with its motionless pale grey blocks and not one character on it;
 AVOID — readable text on the screen, legible letters, words, digits or interface on the screen, characters of any alphabet on the screen, a cursor, an icon, a photograph, a map, a drawing or an image on the screen.
 ```
@@ -83,7 +83,7 @@ AVOID — readable text on the screen, legible letters, words, digits or interfa
 
 ```
 SHOT — At midnight @Nora comes out onto the rear gallery of her building, takes hold of the rail, hesitates, and throws one question out loud at the rooftops.
-CONTINUITY — VIDEO 1 is an earlier shot of the same film (6A), IN A DIFFERENT PLACE: rendering reference only. TAKE its film stock, grain, skin and fabric rendering, focus behaviour, highlight roll-off. DO NOT TAKE its light, palette, exposure, composition or framing.
+CONTINUITY — VIDEO 1 is an earlier shot of the same film (6A), IN A DIFFERENT PLACE: rendering reference only. TAKE its film stock, grain, skin and fabric rendering, focus behaviour, highlight roll-off. DO NOT TAKE its light, palette, exposure, composition, framing, or ANY OF ITS AUDIO — not its dialogue, not its voices, not one line spoken in it.
 INHERITED STATE, ALREADY TRUE AT FRAME ONE — @Nora: centre of frame, SEATED, x=55%, filling 58% of frame height. Nothing in this list may be re-placed, re-lit or improved. THIS IS AN ACQUIRED STATE, NOT AN ACTION TO PLAY: whatever brought the bodies and the props here has already happened in the attached video and must NOT be performed again.
 ANCHOR IMAGE — THE ATTACHED IMAGE IS THE FIRST FRAME: opening composition, every body's position and pose, every prop's state, the scene, the camera direction. Take nothing else from it — no border, no backdrop, no empty-room staging.
 OPENING FRAME — Wide along the gallery, eye level, camera about 160 cm high on the gallery itself looking down its length, static, locked off — exactly the axis of the reference angle: the empty walkway running away from camera, the rail screen-left, the ajar door in the wall screen-right at x=78%, the cold blue sky, the rooftops and the far harbour cranes beyond, the warm rectangle low across the boards at the bottom frame edge.
@@ -91,7 +91,7 @@ ACTION in 4 stages, timings are budgets not edit points, each stage ends on the 
 PERFORMANCE — Nobody performs an emotion here.
 CAMERA — Anamorphic 50 mm f/2 equivalent.
 LIGHT — One geometry by night and one by day, never mixed.
-SOUND — [6.6-8.4s] @Nora, out loud to the night, thrown at the rooftops, louder than she meant it, the voice cracking on the last word: "Why did my mother die?" SFX only.
+SOUND — EXACTLY 1 SPOKEN LINE IN THIS ENTIRE GENERATION, written out here and nothing else. Any other speech, any line carried over from the attached video, any murmur or half-word is an ERROR. FROM [0.0s] TO [6.6s] NOBODY SPEAKS AT ALL: no line, no word, no murmur, no breath shaped like speech. [6.6-8.4s] @Nora, out loud to the night, thrown at the rooftops, louder than she meant it, the voice cracking on the last word: "Why did my mother die?" SFX only.
 ENDING FRAME, the state this shot hands over — Her back at the gallery rail, already turning away toward the ajar door, both hands off the rail and at her sides, the empty washing line sagging above, the rooftops and the harbour cranes beyond, the warm rectangle unchanged and unremarked at the lower frame edge — nothing in the world has answered.
 AVOID — a second person, a man, any figure or silhouette in any window, doorway or yard, a lit kitchen window framed directly, an insert of a window, a window lighting up or going dark, a curtain moving, a door opening, camera movement.
 ```
@@ -121,7 +121,7 @@ ACTION in 3 stages, timings are budgets not edit points, each stage ends on the 
 PERFORMANCE — Nobody performs an emotion here.
 CAMERA — Anamorphic 85 mm f/2 equivalent.
 LIGHT — One geometry by night and one by day, never mixed.
-SOUND — [1.6-3.4s] @Nora, out loud to the night, thrown at the rooftops, louder than she meant it, the voice cracking on the last word: "Why did my mother die?" SFX only.
+SOUND — EXACTLY 1 SPOKEN LINE IN THIS ENTIRE GENERATION, written out here and nothing else. Any other speech, any line carried over from the attached video, any murmur or half-word is an ERROR. FROM [0.0s] TO [1.6s] NOBODY SPEAKS AT ALL: no line, no word, no murmur, no breath shaped like speech. [1.6-3.4s] @Nora, out loud to the night, thrown at the rooftops, louder than she meant it, the voice cracking on the last word: "Why did my mother die?" SFX only.
 ENDING FRAME, the state this shot hands over — Her three-quarter left profile at the rail, both hands still on the worn bare-wood top, her eyes open again on the dark rooftops, one last cloud of breath in the sodium, the empty washing line sagging above, the night behind her unchanged — nothing has answered.
 AVOID — a second person, a man, any figure or silhouette anywhere, a window in frame, a door in frame, a lit rectangle of light in frame, a window lighting up or going dark, a curtain moving, camera movement, camera tilt.
 ```
@@ -144,7 +144,7 @@ AVOID — a second person, a man, any figure or silhouette anywhere, a window in
 
 ```
 SHOT — A father stands in the dark landing outside his daughter's door, just arrived at the top of the stairs, and asks one quiet question.
-CONTINUITY — VIDEO 1 is an earlier shot of the same film (6B), IN A DIFFERENT PLACE: rendering reference only. TAKE its film stock, grain, skin and fabric rendering, focus behaviour, highlight roll-off. DO NOT TAKE its light, palette, exposure, composition or framing.
+CONTINUITY — VIDEO 1 is an earlier shot of the same film (6B), IN A DIFFERENT PLACE: rendering reference only. TAKE its film stock, grain, skin and fabric rendering, focus behaviour, highlight roll-off. DO NOT TAKE its light, palette, exposure, composition, framing, or ANY OF ITS AUDIO — not its dialogue, not its voices, not one line spoken in it.
 INHERITED STATE, ALREADY TRUE AT FRAME ONE — @Nora: centre of frame, STANDING, x=45%, filling 72% of frame height. Nothing in this list may be re-placed, re-lit or improved. THIS IS AN ACQUIRED STATE, NOT AN ACTION TO PLAY: whatever brought the bodies and the props here has already happened in the attached video and must NOT be performed again.
 ANCHOR IMAGE — THE ATTACHED IMAGE IS THE FIRST FRAME: opening composition, every body's position and pose, every prop's state, the scene, the camera direction. Take nothing else from it — no border, no backdrop, no empty-room staging.
 OPENING FRAME — Single fixed shot down the landing, eye level, camera about 160 cm high at the top of the stairs, static, locked off.
@@ -152,7 +152,7 @@ ACTION in 3 stages, timings are budgets not edit points, each stage ends on the 
 PERFORMANCE — Nobody performs an emotion here.
 CAMERA — Anamorphic 50 mm f/2 equivalent.
 LIGHT — motivated sources only, never more than two lit at once, and the two temperatures never mix.
-SOUND — [1.5-2.4s] @Sam, quiet, low, rusty from disuse, almost swallowed: "You okay?" [3.2-4.8s] @Nora, flat, unhurried, through the gap, with a small pause after the first word: "Nothing.
+SOUND — EXACTLY 2 SPOKEN LINES IN THIS ENTIRE GENERATION, written out here and nothing else. Any other speech, any line carried over from the attached video, any murmur or half-word is an ERROR. FROM [0.0s] TO [1.5s] NOBODY SPEAKS AT ALL: no line, no word, no murmur, no breath shaped like speech. [1.5-2.4s] @Sam, quiet, low, rusty from disuse, almost swallowed: "You okay?" [3.2-4.8s] @Nora, flat, unhurried, through the gap, with a small pause after the first word: "Nothing. I stepped on something." SFX only.
 ENDING FRAME, the state this shot hands over — The near-black landing, the bedroom door shut, the blade of light gone, the father's silhouette motionless at x=32% facing the closed door, arms at his sides, barely separable from the dark, nothing lit anywhere in frame.
 AVOID — the man's face visible, the man's eyes, the man's profile lit, any light on the man's face or body, a rim of light on his cheek, a readable expression on the man, the man stepping forward, the man reaching for the door, the man turning away, the man going down the stairs.
 ```

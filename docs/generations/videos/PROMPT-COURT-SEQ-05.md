@@ -22,7 +22,7 @@
 
 ```
 SHOT — The owner brings tea to a family of three she has known for years and, out of old habit, sets FOUR cups — freezes — and takes one back.
-CONTINUITY — VIDEO 1 is an earlier shot of the same film (4D), IN A DIFFERENT PLACE: rendering reference only. TAKE its film stock, grain, skin and fabric rendering, focus behaviour, highlight roll-off. DO NOT TAKE its light, palette, exposure, composition or framing.
+CONTINUITY — VIDEO 1 is an earlier shot of the same film (4D), IN A DIFFERENT PLACE: rendering reference only. TAKE its film stock, grain, skin and fabric rendering, focus behaviour, highlight roll-off. DO NOT TAKE its light, palette, exposure, composition, framing, or ANY OF ITS AUDIO — not its dialogue, not its voices, not one line spoken in it.
 INHERITED STATE, ALREADY TRUE AT FRAME ONE — @Anna: left third of frame, SEATED, x=26%, filling 66% of frame height. @Nora: centre of frame, STANDING, x=40%, filling 82% of frame height. Nothing in this list may be re-placed, re-lit or improved.
 ANCHOR IMAGE — THE ATTACHED IMAGE IS THE FIRST FRAME: opening composition, every body's position and pose, every prop's state, the scene, the camera direction. Take nothing else from it — no border, no backdrop, no empty-room staging.
 OPENING FRAME — Medium, eye level, static, locked off, from the middle of the room toward the family table, the window behind it at screen-left, the lacquered counter running away deep at the extreme screen-right.
@@ -30,7 +30,7 @@ ACTION in 4 stages, timings are budgets not edit points, each stage ends on the 
 PERFORMANCE — Nobody performs an emotion here.
 CAMERA — Anamorphic 50 mm f/2 equivalent.
 LIGHT — the weak amber paper lanterns above each table, each pool barely a metre wide, dying into shadow between the tables with real falloff, the paper glowing unevenly where it has thinned;
-SOUND — None. Nobody speaks in this generation — the service happens without one word. SFX only.
+SOUND — NOBODY SPEAKS IN THIS ENTIRE GENERATION: not one line, not one word, not one murmur, and NO LINE IS CARRIED OVER FROM THE ATTACHED VIDEO. SFX only.
 ENDING FRAME, the state this shot hands over — The family table with exactly THREE cups steaming, the metal teapot at centre, the bare place bare, the empty chair pushed in;
 AVOID — visible camera rigs, cartoonish colors, blurred focus, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, readable menus, readable signage.
 ```
@@ -53,7 +53,7 @@ AVOID — visible camera rigs, cartoonish colors, blurred focus, on-screen text,
 
 ```
 SHOT — At the next table over, three women who have known each other for years are talking fast across each other about somebody everybody knows — not telling a story to anyone, just talking, cutting in, finishing each other's sentences.
-CONTINUITY — VIDEO 1 is the shot immediately before this one (5A). ITS LAST FRAME IS THIS GENERATION'S BOUNDARY FRAME. ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: open on the INHERITED STATE line below, already true, nothing replayed, then move on. CONNECT NATURALLY, NOT IDENTICALLY. TAKE its light, grain, skin and camera behaviour. DO NOT TAKE its framing.
+CONTINUITY — VIDEO 1 is the shot immediately before this one (5A). ITS LAST FRAME IS THIS GENERATION'S BOUNDARY FRAME. ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: open on the INHERITED STATE line below, already true, nothing replayed, then move on. CONNECT NATURALLY, NOT IDENTICALLY. TAKE its light, grain, skin and camera behaviour. DO NOT TAKE its framing, AND TAKE NOTHING OF ITS AUDIO — not its dialogue, not its voices, not one line spoken in it; every line heard in it belongs to the previous shot and must never be heard again here.
 INHERITED STATE, ALREADY TRUE AT FRAME ONE — @Sam: centre of frame, SEATED, x=58%, filling 45% of frame height. @Milo: centre of frame, SEATED, x=38%, filling 30% of frame height. @Nora: left third of frame, SEATED, x=20%, filling 50% of frame height. @Mei: centre of frame, STANDING, x=52%. Nothing in this list may be re-placed, re-lit or improved.
 ANCHOR IMAGE — THE ATTACHED IMAGE IS THE FIRST FRAME: opening composition, every body's position and pose, every prop's state, the scene, the camera direction. Take nothing else from it — no border, no backdrop, no empty-room staging.
 OPENING FRAME — THE AXIS. Medium three-shot of the round table, eye level, static, locked off, no camera movement of any kind for the whole generation. No cut.
@@ -61,7 +61,7 @@ ACTION in 4 stages, timings are budgets not edit points, each stage ends on the 
 PERFORMANCE — Nobody performs an emotion here.
 CAMERA — Anamorphic 50 mm f/2 equivalent.
 LIGHT — the weak amber paper lanterns above each table, each pool barely a metre wide, dying into shadow between the tables with real falloff, the paper glowing unevenly where it has thinned;
-SOUND — Four voices' worth of talk in one table's worth of time, quick and overlapping at the joins, each line landing on the tail of the one before, about four words a second, nobody projecting, nobody performing.
+SOUND — EXACTLY 6 SPOKEN LINES IN THIS ENTIRE GENERATION, written out here and nothing else. Any other speech, any line carried over from the attached video, any murmur or half-word is an ERROR. Four voices' worth of talk in one table's worth of time, quick and overlapping at the joins, each line landing on the tail of the one before, about four words a second, nobody projecting, nobody performing. [0.35-2.15s] @Fatiha: "…my grandmother swore she saw him. Twice." — [1.95-2.95s] @Mei, cutting across her last word, flat and amused, eyes on her own cup: "Everyone's grandmother saw him." — [2.80-4.20s] @Fatiha, over the tail of that: "Al-Maktoub. That's what we call him." — [4.05-4.60s] @Asha, level, one word: "Msimulizi." — [4.60-5.15s] @Mei, straight after: "Mòyīrén." — a short breath of a laugh — [5.55-6.55s] @Mei: "I thought he was ours." — Nobody else speaks. Not one word is spoken at the family table. None of the three names is ever translated, explained or repeated in English. SFX only.
 ENDING FRAME, the state this shot hands over — The women's round table under the green tank glow, mid-meal and mid-conversation: @Fatiha drawing breath, her hands above the cloth;
 AVOID — visible camera rigs, cartoonish colors, blurred focus, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, readable menus, readable signage.
 ```
@@ -84,7 +84,7 @@ AVOID — visible camera rigs, cartoonish colors, blurred focus, on-screen text,
 
 ```
 SHOT — The same three women at the same table, still talking across each other about the same man — and then they run out of it.
-CONTINUITY — VIDEO 1 is the shot immediately before this one (5B-1). ITS LAST FRAME IS THIS GENERATION'S BOUNDARY FRAME. ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: open on the INHERITED STATE line below, already true, nothing replayed, then move on. CONNECT NATURALLY, NOT IDENTICALLY. TAKE its light, grain, skin and camera behaviour. DO NOT TAKE its framing.
+CONTINUITY — VIDEO 1 is the shot immediately before this one (5B-1). ITS LAST FRAME IS THIS GENERATION'S BOUNDARY FRAME. ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: open on the INHERITED STATE line below, already true, nothing replayed, then move on. CONNECT NATURALLY, NOT IDENTICALLY. TAKE its light, grain, skin and camera behaviour. DO NOT TAKE its framing, AND TAKE NOTHING OF ITS AUDIO — not its dialogue, not its voices, not one line spoken in it; every line heard in it belongs to the previous shot and must never be heard again here.
 INHERITED STATE, ALREADY TRUE AT FRAME ONE — @Asha: left third of frame, SEATED, x=27%. @Mei: centre of frame, SEATED, x=48%, filling 50% of frame height. @Fatiha: right third of frame, SEATED, x=73%, filling 55% of frame height. Nothing in this list may be re-placed, re-lit or improved.
 ANCHOR IMAGE — THE ATTACHED IMAGE IS THE FIRST FRAME: opening composition, every body's position and pose, every prop's state, the scene, the camera direction. Take nothing else from it — no border, no backdrop, no empty-room staging.
 OPENING FRAME — THE SAME AXIS, THE SAME FRAMING, NO CUT. Medium three-shot of the round table, eye level, static, locked off, no camera movement of any kind for the whole generation.
@@ -92,7 +92,7 @@ ACTION in 4 stages, timings are budgets not edit points, each stage ends on the 
 PERFORMANCE — Nobody performs an emotion here.
 CAMERA — Anamorphic 50 mm f/2 equivalent.
 LIGHT — the weak amber paper lanterns above each table, each pool barely a metre wide, dying into shadow between the tables with real falloff, the paper glowing unevenly where it has thinned;
-SOUND — Quick, overlapping at the joins, about four words a second, nobody projecting, nobody performing. [0.20-0.95s] @Asha, level: "He's everybody's." — [0.85-2.65s] @Fatiha, over the tail of that: "He asks for something first.
+SOUND — EXACTLY 6 SPOKEN LINES IN THIS ENTIRE GENERATION, written out here and nothing else. Any other speech, any line carried over from the attached video, any murmur or half-word is an ERROR. Quick, overlapping at the joins, about four words a second, nobody projecting, nobody performing. [0.20-0.95s] @Asha, level: "He's everybody's." — [0.85-2.65s] @Fatiha, over the tail of that: "He asks for something first. Always something small." — [2.50-3.45s] @Mei, cutting in flat, eyes on her own cup: "Never a big one." — [3.70-5.30s] @Asha, unhurried and without weight: "And nobody has ever seen his face." — HALF A SECOND OF SILENCE, [5.30-5.85s], nobody speaking, nobody reacting — [5.85-6.35s] @Fatiha, already elsewhere, to @Mei, completely ordinary: "More tea?" — Nobody else speaks. Not one word is spoken at the family table. SFX only.
 ENDING FRAME, the state this shot hands over — The women's round table under the green tank glow, already onto something else: @Fatiha's right hand closed on the dented metal teapot's handle, the pot still on the cloth;
 AVOID — visible camera rigs, cartoonish colors, blurred focus, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, readable menus, readable signage.
 ```
@@ -115,7 +115,7 @@ AVOID — visible camera rigs, cartoonish colors, blurred focus, on-screen text,
 
 ```
 SHOT — Two large workman's hands cut @Milo's food, slowly and evenly, the way they have all evening.
-CONTINUITY — VIDEO 1 is the shot immediately before this one (5B-2). ITS LAST FRAME IS THIS GENERATION'S BOUNDARY FRAME. ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: open on the INHERITED STATE line below, already true, nothing replayed, then move on. CONNECT NATURALLY, NOT IDENTICALLY. TAKE its light, grain, skin and camera behaviour. DO NOT TAKE its framing.
+CONTINUITY — VIDEO 1 is the shot immediately before this one (5B-2). ITS LAST FRAME IS THIS GENERATION'S BOUNDARY FRAME. ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: open on the INHERITED STATE line below, already true, nothing replayed, then move on. CONNECT NATURALLY, NOT IDENTICALLY. TAKE its light, grain, skin and camera behaviour. DO NOT TAKE its framing, AND TAKE NOTHING OF ITS AUDIO — not its dialogue, not its voices, not one line spoken in it; every line heard in it belongs to the previous shot and must never be heard again here.
 INHERITED STATE, ALREADY TRUE AT FRAME ONE — @Asha: left third of frame, SEATED, x=27%, filling 55% of frame height. @Mei: centre of frame, SEATED, x=48%, filling 50% of frame height. @Fatiha: right third of frame, SEATED, x=73%, filling 55% of frame height. Nothing in this list may be re-placed, re-lit or improved.
 ANCHOR IMAGE — THE ATTACHED IMAGE IS THE FIRST FRAME: opening composition, every body's position and pose, every prop's state, the scene, the camera direction. Take nothing else from it — no border, no backdrop, no empty-room staging.
 OPENING FRAME — Tight insert, high angle, static, locked off, straight down onto the plate. Shallow focus: the plate and the hands sharp, the cloth falling off soft toward the frame edges.
@@ -123,7 +123,7 @@ ACTION in 3 stages, timings are budgets not edit points, each stage ends on the 
 PERFORMANCE — Nobody performs an emotion here.
 CAMERA — Anamorphic 85 mm f/2 equivalent.
 LIGHT — the weak amber paper lanterns above each table, each pool barely a metre wide, dying into shadow between the tables with real falloff, the paper glowing unevenly where it has thinned;
-SOUND — No line is spoken on screen; nobody in frame has a mouth in frame.
+SOUND — EXACTLY 1 SPOKEN LINE IN THIS ENTIRE GENERATION, written out here and nothing else. Any other speech, any line carried over from the attached video, any murmur or half-word is an ERROR. FROM [0.0s] TO [1.6s] NOBODY SPEAKS AT ALL: no line, no word, no murmur, no breath shaped like speech. No line is spoken on screen; nobody in frame has a mouth in frame. OFF SCREEN ONLY, from another table across the room, a woman's level unhurried voice, coming through the murmur of two others: [1.6-3.2s] "And nobody has ever seen his face." Nothing else is intelligible, before or after. SFX only.
 ENDING FRAME, the state this shot hands over — Straight down on the plate of flat noodles on the dark green cloth: the worn-handled knife in the right hand and the fork in the left, mid-cut, the olive-drab canvas sleeves with the torn left cuff entering the top of frame, the thin worn steel wedding band catching a low amber gleam, the fingertips faintly stained dark blue-black.
 AVOID — a face, any face, a head, shoulders, a neck, a chin, eyes, hair, a profile, a reflection of a face in the cup.
 ```
@@ -146,7 +146,7 @@ AVOID — a face, any face, a head, shoulders, a neck, a chin, eyes, hair, a pro
 
 ```
 SHOT — First, the family table, wide and silent: a heavy unshaven father cutting his son's food, eyes down, cutting, cutting — on screen, a busy father and nothing else.
-CONTINUITY — VIDEO 1 is the shot immediately before this one (5C). ITS LAST FRAME IS THIS GENERATION'S BOUNDARY FRAME. ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: open on the INHERITED STATE line below, already true, nothing replayed, then move on. CONNECT NATURALLY, NOT IDENTICALLY. TAKE its light, grain, skin and camera behaviour. DO NOT TAKE its framing.
+CONTINUITY — VIDEO 1 is the shot immediately before this one (5C). ITS LAST FRAME IS THIS GENERATION'S BOUNDARY FRAME. ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: open on the INHERITED STATE line below, already true, nothing replayed, then move on. CONNECT NATURALLY, NOT IDENTICALLY. TAKE its light, grain, skin and camera behaviour. DO NOT TAKE its framing, AND TAKE NOTHING OF ITS AUDIO — not its dialogue, not its voices, not one line spoken in it; every line heard in it belongs to the previous shot and must never be heard again here.
 INHERITED STATE, ALREADY TRUE AT FRAME ONE — @Milo: centre of frame, x=48%. Nothing in this list may be re-placed, re-lit or improved. THIS IS AN ACQUIRED STATE, NOT AN ACTION TO PLAY: whatever brought the bodies and the props here has already happened in the attached video and must NOT be performed again.
 ANCHOR IMAGE — THE ATTACHED IMAGE IS THE FIRST FRAME: opening composition, every body's position and pose, every prop's state, the scene, the camera direction. Take nothing else from it — no border, no backdrop, no empty-room staging.
 OPENING FRAME — Wide, eye level, static, locked off, from the middle of the room onto the family table, seen from BEHIND @Nora, the window behind the table at screen-left. SILENT.
@@ -154,7 +154,7 @@ ACTION in 3 stages, timings are budgets not edit points, each stage ends on the 
 PERFORMANCE — Nobody performs an emotion here.
 CAMERA — Anamorphic 50 mm f/2 equivalent.
 LIGHT — the weak amber paper lanterns above each table, each pool barely a metre wide, dying into shadow between the tables with real falloff, the paper glowing unevenly where it has thinned;
-SOUND — No lines. Nobody speaks anywhere in this generation, on screen or off — the conversation across the room is over and the family table has not said a word all evening.
+SOUND — NOBODY SPEAKS IN THIS ENTIRE GENERATION: not one line, not one word, not one murmur, and NO LINE IS CARRIED OVER FROM THE ATTACHED VIDEO. SFX only.
 ENDING FRAME, the state this shot hands over — @Nora's face in close-up, still; her fork down on the plate rim, the mouthful never taken;
 AVOID — visible camera rigs, cartoonish colors, blurred focus, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, readable menus, readable signage.
 ```
@@ -183,7 +183,7 @@ ACTION in 3 stages, timings are budgets not edit points, each stage ends on the 
 PERFORMANCE — Nobody performs an emotion here.
 CAMERA — Anamorphic 85 mm f/2 equivalent.
 LIGHT — the weak amber paper lanterns above each table, each pool barely a metre wide, dying into shadow between the tables with real falloff, the paper glowing unevenly where it has thinned;
-SOUND — None. Nobody speaks in this generation, on screen or off. SFX only.
+SOUND — NOBODY SPEAKS IN THIS ENTIRE GENERATION: not one line, not one word, not one murmur, and NO LINE IS CARRIED OVER FROM THE ATTACHED VIDEO. SFX only.
 ENDING FRAME, the state this shot hands over — @Nora's face in close-up, still; her fork down on the plate rim, the mouthful never taken;
 AVOID — visible camera rigs, cartoonish colors, blurred focus, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, readable menus, readable signage.
 ```

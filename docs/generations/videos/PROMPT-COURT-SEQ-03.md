@@ -22,14 +22,14 @@
 
 ```
 SHOT — A few weeks later, the same kitchen, a paler morning.
-CONTINUITY — VIDEO 1 is an earlier shot of the same film (2D), IN A DIFFERENT PLACE: rendering reference only. TAKE its film stock, grain, skin and fabric rendering, focus behaviour, highlight roll-off. DO NOT TAKE its light, palette, exposure, composition or framing.
+CONTINUITY — VIDEO 1 is an earlier shot of the same film (2D), IN A DIFFERENT PLACE: rendering reference only. TAKE its film stock, grain, skin and fabric rendering, focus behaviour, highlight roll-off. DO NOT TAKE its light, palette, exposure, composition, framing, or ANY OF ITS AUDIO — not its dialogue, not its voices, not one line spoken in it.
 INHERITED STATE, ALREADY TRUE AT FRAME ONE — @SamBefore: left third of frame, SEATED, x=30%. @Maeve: centre of frame, SEATED, x=54%, filling 45% of frame height. @MiloBefore: centre of frame, x=62%. @NoraBefore: right third of frame, SEATED, x=78%. Nothing in this list may be re-placed, re-lit or improved.
 OPENING FRAME — Insert at counter height, eye level, held, operated, no longer following. No face in frame.
 ACTION in 4 stages, timings are budgets not edit points, each stage ends on the state the next one starts from — [0.0-2.4s] Starting positions, held until described otherwise: the white porcelain cup of milk sits on the counter at x=50%, mid-frame, filling 30% of frame height; [2.4-4.7s] Real time. [4.7-7.1s] Still inside the slow motion: the last shard glides to a stop; [7.1-9.4s] The fingers of the raised hand close slowly into a loose fist… and open again.
 PERFORMANCE — Nobody performs an emotion here.
 CAMERA — Anamorphic 40 mm f/2.8 equivalent.
 LIGHT — one source only, in every shot without exception: the single window directly above THE GAS RANGE on the east wall.
-SOUND — None. She says nothing to anyone, in either shot. SFX only.
+SOUND — NOBODY SPEAKS IN THIS ENTIRE GENERATION: not one line, not one word, not one murmur, and NO LINE IS CARRIED OVER FROM THE ATTACHED VIDEO. SFX only.
 ENDING FRAME, the state this shot hands over — Her face right of centre in three-quarter, flat and closed, eyes down on her own raised right hand, the hand half open at chest height, the pale window light on one side of her face, the kitchen soft behind.
 AVOID — visible camera rigs, cartoonish colors, blurred focus, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, subjects looking at camera, morphing objects.
 ```
@@ -52,7 +52,7 @@ AVOID — visible camera rigs, cartoonish colors, blurred focus, on-screen text,
 
 ```
 SHOT — A hospital corridor, day.
-CONTINUITY — VIDEO 1 is an earlier shot of the same film (3A), IN A DIFFERENT PLACE: rendering reference only. TAKE its film stock, grain, skin and fabric rendering, focus behaviour, highlight roll-off. DO NOT TAKE its light, palette, exposure, composition or framing.
+CONTINUITY — VIDEO 1 is an earlier shot of the same film (3A), IN A DIFFERENT PLACE: rendering reference only. TAKE its film stock, grain, skin and fabric rendering, focus behaviour, highlight roll-off. DO NOT TAKE its light, palette, exposure, composition, framing, or ANY OF ITS AUDIO — not its dialogue, not its voices, not one line spoken in it.
 INHERITED STATE, ALREADY TRUE AT FRAME ONE — @Maeve: centre of frame, STANDING, x=58%, filling 70% of frame height. Nothing in this list may be re-placed, re-lit or improved. THIS IS AN ACQUIRED STATE, NOT AN ACTION TO PLAY: whatever brought the bodies and the props here has already happened in the attached video and must NOT be performed again.
 ANCHOR IMAGE — THE ATTACHED IMAGE IS THE FIRST FRAME: opening composition, every body's position and pose, every prop's state, the scene, the camera direction. Take nothing else from it — no border, no backdrop, no empty-room staging.
 OPENING FRAME — Medium-long shot compressed by the long lens, eye level, held, operated, no longer following. The framing and the focus split (foreground soft, mid-frame sharp) never change.
@@ -60,7 +60,7 @@ ACTION in 3 stages, timings are budgets not edit points, each stage ends on the 
 PERFORMANCE — Nobody performs an emotion here.
 CAMERA — Anamorphic 85 mm f/2 equivalent.
 LIGHT — DAY STATE: the tube run is directly overhead, above and slightly behind the camera: top light, faintly green, even and shadowless, no shadow deeper than a half-tone, doubling as long soft streaks down the buffed vinyl and lying in slow faint reflections across any glazing.
-SOUND — None reaches the microphone at any point. The doctor's lips move at ten metres; his voice is never audible. No voices anywhere in this generation. SFX only.
+SOUND — NOBODY SPEAKS IN THIS ENTIRE GENERATION: not one line, not one word, not one murmur, and NO LINE IS CARRIED OVER FROM THE ATTACHED VIDEO. SFX only.
 ENDING FRAME, the state this shot hands over — The doctor's hand resting on Sam's shoulder, Sam's head down, the doctor's eyes on the floor, both compressed sharp in mid-frame against the blown-out window;
 AVOID — visible camera rigs, cartoonish colors, blurred focus on the two men, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, subjects looking at camera, slow motion.
 ```
@@ -83,7 +83,7 @@ AVOID — visible camera rigs, cartoonish colors, blurred focus on the two men, 
 
 ```
 SHOT — A gravely ill mother holds her small son on a hospital bed.
-CONTINUITY — VIDEO 1 is an earlier shot of the same film (3B), IN A DIFFERENT PLACE: rendering reference only. TAKE its film stock, grain, skin and fabric rendering, focus behaviour, highlight roll-off. DO NOT TAKE its light, palette, exposure, composition or framing.
+CONTINUITY — VIDEO 1 is an earlier shot of the same film (3B), IN A DIFFERENT PLACE: rendering reference only. TAKE its film stock, grain, skin and fabric rendering, focus behaviour, highlight roll-off. DO NOT TAKE its light, palette, exposure, composition, framing, or ANY OF ITS AUDIO — not its dialogue, not its voices, not one line spoken in it.
 INHERITED STATE, ALREADY TRUE AT FRAME ONE — @SamBefore: centre of frame, x=57%. Nothing in this list may be re-placed, re-lit or improved. THIS IS AN ACQUIRED STATE, NOT AN ACTION TO PLAY: whatever brought the bodies and the props here has already happened in the attached video and must NOT be performed again.
 ANCHOR IMAGE — THE ATTACHED IMAGE IS THE FIRST FRAME: opening composition, every body's position and pose, every prop's state, the scene, the camera direction. Take nothing else from it — no border, no backdrop, no empty-room staging.
 OPENING FRAME — Medium close-up from the right side of the bed, camera at eye level about 140 cm high, roughly 1.5 m from the bed, held, operated, no longer following.
@@ -91,7 +91,7 @@ ACTION in 3 stages, timings are budgets not edit points, each stage ends on the 
 PERFORMANCE — Nobody performs an emotion here.
 CAMERA — Anamorphic 50 mm f/2 equivalent.
 LIGHT — inside the room: cold daylight from THE VOILED NORTH WINDOW, diffused twice by the sky and by the voile into a directionless grey wash across the bed, doubled by the overhead fluorescent behind its prismatic diffuser — shadowless, unmodelled, whites, sea-greens and cold greys, no warmth in frame.
-SOUND — [1.4-3.1s] @MaeveIll, dry amusement over a weak voice, unhurried: "Milo. You're squashing me." [3.9-4.7s] @MiloBefore, small voice: "Sorry." [5.3-6.6s] @MaeveIll, warm, slow, serious underneath: "Don't be sorry.
+SOUND — EXACTLY 3 SPOKEN LINES IN THIS ENTIRE GENERATION, written out here and nothing else. Any other speech, any line carried over from the attached video, any murmur or half-word is an ERROR. FROM [0.0s] TO [1.4s] NOBODY SPEAKS AT ALL: no line, no word, no murmur, no breath shaped like speech. [1.4-3.1s] @MaeveIll, dry amusement over a weak voice, unhurried: "Milo. You're squashing me." [3.9-4.7s] @MiloBefore, small voice: "Sorry." [5.3-6.6s] @MaeveIll, warm, slow, serious underneath: "Don't be sorry. Squash me." Nothing else is said by anyone at any point. SFX only.
 ENDING FRAME, the state this shot hands over — The mother propped up in the bed, the crimson scarf across her shoulders, her eyes closed, her nose lowered into @MiloBefore's hair — and @MiloBefore clamped against her chest, both arms locked round her ribs, his eyes shut.
 AVOID — visible camera rigs, cartoonish colors, blurred focus, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, subjects looking at camera, slow motion.
 ```
@@ -114,7 +114,7 @@ AVOID — visible camera rigs, cartoonish colors, blurred focus, on-screen text,
 
 ```
 SHOT — @NoraBefore comes to her dying mother's bedside and does not know where to put her hands.
-CONTINUITY — VIDEO 1 is the shot immediately before this one (3C). ITS LAST FRAME IS THIS GENERATION'S BOUNDARY FRAME. ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: open on the INHERITED STATE line below, already true, nothing replayed, then move on. CONNECT NATURALLY, NOT IDENTICALLY. TAKE its light, grain, skin and camera behaviour. DO NOT TAKE its framing.
+CONTINUITY — VIDEO 1 is the shot immediately before this one (3C). ITS LAST FRAME IS THIS GENERATION'S BOUNDARY FRAME. ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: open on the INHERITED STATE line below, already true, nothing replayed, then move on. CONNECT NATURALLY, NOT IDENTICALLY. TAKE its light, grain, skin and camera behaviour. DO NOT TAKE its framing, AND TAKE NOTHING OF ITS AUDIO — not its dialogue, not its voices, not one line spoken in it; every line heard in it belongs to the previous shot and must never be heard again here.
 INHERITED STATE, ALREADY TRUE AT FRAME ONE — @MaeveIll: centre of frame, x=58%, filling 70% of frame height. @MiloBefore: centre of frame, x=42%. Nothing in this list may be re-placed, re-lit or improved.
 ANCHOR IMAGE — THE ATTACHED IMAGE IS THE FIRST FRAME: opening composition, every body's position and pose, every prop's state, the scene, the camera direction. Take nothing else from it — no border, no backdrop, no empty-room staging.
 OPENING FRAME — Medium two-shot from the right side of the bed, camera at eye level about 140 cm high, roughly 1.8 m from the bed, held, operated, no longer following — the raised head of the bed right of centre, the open floor beside it at screen-left.
@@ -122,7 +122,7 @@ ACTION in 4 stages, timings are budgets not edit points, each stage ends on the 
 PERFORMANCE — Nobody performs an emotion here.
 CAMERA — Anamorphic 50 mm f/2 equivalent.
 LIGHT — inside the room: cold daylight from THE VOILED NORTH WINDOW, diffused twice by the sky and by the voile into a directionless grey wash across the bed, doubled by the overhead fluorescent behind its prismatic diffuser — shadowless, unmodelled, whites, sea-greens and cold greys, no warmth in frame.
-SOUND — None. Nobody speaks in this generation, in any shot.
+SOUND — NOBODY SPEAKS IN THIS ENTIRE GENERATION: not one line, not one word, not one murmur, and NO LINE IS CARRIED OVER FROM THE ATTACHED VIDEO. SFX only.
 ENDING FRAME, the state this shot hands over — The tight two-shot at the bed rail: the mother's face turned up, her mouth just closed on nothing, her eyes open on her daughter — and the daughter looking down at her, still, waiting, her closed right fist out of focus at the bottom of frame.
 AVOID — visible camera rigs, cartoonish colors, blurred focus, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, subjects looking at camera, slow motion.
 ```
@@ -145,7 +145,7 @@ AVOID — visible camera rigs, cartoonish colors, blurred focus, on-screen text,
 
 ```
 SHOT — Through the glass of a closed hospital room door, mute: a dying woman takes her husband's face in both her hands and speaks to him at length, without ever letting go.
-CONTINUITY — VIDEO 1 is an earlier shot of the same film (3D), IN A DIFFERENT PLACE: rendering reference only. TAKE its film stock, grain, skin and fabric rendering, focus behaviour, highlight roll-off. DO NOT TAKE its light, palette, exposure, composition or framing.
+CONTINUITY — VIDEO 1 is an earlier shot of the same film (3D), IN A DIFFERENT PLACE: rendering reference only. TAKE its film stock, grain, skin and fabric rendering, focus behaviour, highlight roll-off. DO NOT TAKE its light, palette, exposure, composition, framing, or ANY OF ITS AUDIO — not its dialogue, not its voices, not one line spoken in it.
 INHERITED STATE, ALREADY TRUE AT FRAME ONE — @MaeveIll: centre of frame, x=62%, filling 55% of frame height. @NoraBefore: left third of frame, STANDING, x=32%, filling 58% of frame height. Nothing in this list may be re-placed, re-lit or improved.
 ANCHOR IMAGE — THE ATTACHED IMAGE IS THE FIRST FRAME: opening composition, every body's position and pose, every prop's state, the scene, the camera direction. Take nothing else from it — no border, no backdrop, no empty-room staging.
 OPENING FRAME — Medium shot through the wired-glass door window, eye level from the corridor, held, operated, no longer following.
@@ -153,7 +153,7 @@ ACTION in 3 stages, timings are budgets not edit points, each stage ends on the 
 PERFORMANCE — Nobody performs an emotion here.
 CAMERA — Anamorphic 50 mm f/2 equivalent.
 LIGHT — inside the room: cold daylight from THE VOILED NORTH WINDOW, diffused twice by the sky and by the voile into a directionless grey wash across the bed, doubled by the overhead fluorescent behind its prismatic diffuser — shadowless, unmodelled, whites, sea-greens and cold greys, no warmth in frame.
-SOUND — None audible. Her lips move continuously behind the reflections for eight seconds; not one sound of the room crosses the glass.
+SOUND — NOBODY SPEAKS IN THIS ENTIRE GENERATION: not one line, not one word, not one murmur, and NO LINE IS CARRIED OVER FROM THE ATTACHED VIDEO. SFX only.
 ENDING FRAME, the state this shot hands over — ⚠ ABSOLUTE REFERENCE FRAME — the exact frame that returns in 10.10: through the wired glass, her two hands holding his face, thumbs on his cheekbones, her lips mid-word, his cheek wet in the lamp's warmth, the crimson scarf muted on her shoulders, the cold green reflections lying across the pane.
 AVOID — visible camera rigs, cartoonish colors, blurred focus, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, subjects looking at camera, slow motion.
 ```
@@ -176,7 +176,7 @@ AVOID — visible camera rigs, cartoonish colors, blurred focus, on-screen text,
 
 ```
 SHOT — @NoraBefore has just come out of a hospital room.
-CONTINUITY — VIDEO 1 is an earlier shot of the same film (3E), IN A DIFFERENT PLACE: rendering reference only. TAKE its film stock, grain, skin and fabric rendering, focus behaviour, highlight roll-off. DO NOT TAKE its light, palette, exposure, composition or framing.
+CONTINUITY — VIDEO 1 is an earlier shot of the same film (3E), IN A DIFFERENT PLACE: rendering reference only. TAKE its film stock, grain, skin and fabric rendering, focus behaviour, highlight roll-off. DO NOT TAKE its light, palette, exposure, composition, framing, or ANY OF ITS AUDIO — not its dialogue, not its voices, not one line spoken in it.
 INHERITED STATE, ALREADY TRUE AT FRAME ONE — @MaeveIll: centre of frame, x=54%. @SamBefore: centre of frame, SEATED, x=62%. Nothing in this list may be re-placed, re-lit or improved. THIS IS AN ACQUIRED STATE, NOT AN ACTION TO PLAY: whatever brought the bodies and the props here has already happened in the attached video and must NOT be performed again.
 ANCHOR IMAGE — THE ATTACHED IMAGE IS THE FIRST FRAME: opening composition, every body's position and pose, every prop's state, the scene, the camera direction. Take nothing else from it — no border, no backdrop, no empty-room staging.
 OPENING FRAME — Medium shot across the corridor, compressed by the long lens, eye level, held, operated, no longer following.
@@ -184,7 +184,7 @@ ACTION in 4 stages, timings are budgets not edit points, each stage ends on the 
 PERFORMANCE — Nobody performs an emotion here.
 CAMERA — Anamorphic 85 mm f/2 equivalent.
 LIGHT — DAY STATE: the tube run is directly overhead, above and slightly behind the camera: top light, faintly green, even and shadowless, no shadow deeper than a half-tone, doubling as long soft streaks down the buffed vinyl and lying in slow faint reflections across any glazing.
-SOUND — None, in either segment. Not a voice anywhere in this generation. SFX only.
+SOUND — NOBODY SPEAKS IN THIS ENTIRE GENERATION: not one line, not one word, not one murmur, and NO LINE IS CARRIED OVER FROM THE ATTACHED VIDEO. SFX only.
 ENDING FRAME, the state this shot hands over — The empty plastic chair, centred, in the dim green-grey corridor — no scarf, no red, no one.
 AVOID — visible camera rigs, cartoonish colors, blurred focus, on-screen text, subtitles, captions, burned-in text, karaoke lyrics, subjects looking at camera, slow motion.
 ```

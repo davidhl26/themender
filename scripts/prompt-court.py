@@ -62,7 +62,8 @@ def court(b, nom):
     if 'live-action footage that opens the film' in cont:
         L.append('CONTINUITY — VIDEO 1 is the live-action footage that opens the film, shot on a real camera. '
                  'TAKE from it the light level, the grain, the colour of the room and the state the scene is in, and '
-                 'match them. DO NOT TAKE its frames or its framing: the framing is the one written below.')
+                 'match them. DO NOT TAKE its frames, its framing, or ANY OF ITS AUDIO — not its dialogue, not its voices, '
+                 'not one line spoken in it. The framing is the one written under OPENING FRAME.')
     elif 'No video is attached' in cont:
         L.append('CONTINUITY — no video attached. This is the head of its chain: it sets the light, grain and skin '
                  'rendering the following shots match. THE ATTACHED IMAGE IS THE FIRST FRAME — it fixes the opening '
@@ -71,18 +72,21 @@ def court(b, nom):
     elif 'IN A DIFFERENT PLACE' in cont:
         L.append('CONTINUITY — VIDEO 1 is an earlier shot of the same film (%s), IN A DIFFERENT PLACE: rendering '
                  'reference only. TAKE its film stock, grain, skin and fabric rendering, focus behaviour, highlight '
-                 'roll-off. DO NOT TAKE its light, palette, exposure, composition or framing.' % prev)
+                 'roll-off. DO NOT TAKE its light, palette, exposure, composition, framing, or ANY OF ITS AUDIO — '
+                 'not its dialogue, not its voices, not one line spoken in it.' % prev)
     elif 'CAMERA IS ALREADY MOVING' in cont:
         L.append('CONTINUITY — VIDEO 1 is the previous segment of this same continuous shot (%s) and THE CAMERA IS '
                  'ALREADY MOVING at its last frame. ALIGN THE BOUNDARY FIRST: start on that motion already underway, '
-                 'same speed, same line, no ease-in, no restart, then carry it on. One single move across both clips.' % prev)
+                 'same speed, same line, no ease-in, no restart, then carry it on. One single move across both clips. '
+                 'TAKE NOTHING OF ITS AUDIO — not its dialogue, not its voices, not one line spoken in it.' % prev)
     elif cont and prev:
         inh0 = sect(b, r'HANDOFF — THE EXACT STATE THIS SHOT INHERITS') or ''
         herite = 'INHERITED STATE line below' if 'WHERE THIS SHOT LEAVES' in inh0 else 'state VIDEO 1 ends on'
         L.append('CONTINUITY — VIDEO 1 is the shot immediately before this one (' + prev + '). ITS LAST FRAME IS THIS '
                  "GENERATION'S BOUNDARY FRAME. ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: open on the " + herite +
                  ', already true, nothing replayed, then move on. CONNECT NATURALLY, NOT IDENTICALLY. '
-                 'TAKE its light, grain, skin and camera behaviour. DO NOT TAKE its framing.')
+                 'TAKE its light, grain, skin and camera behaviour. DO NOT TAKE its framing, AND TAKE NOTHING OF ITS AUDIO — '
+                 'not its dialogue, not its voices, not one line spoken in it; every line heard in it belongs to the previous shot and must never be heard again here.')
 
     inh = sect(b, r'HANDOFF — THE EXACT STATE THIS SHOT INHERITS')
     hand = re.search(r'WHERE THIS SHOT LEAVES EACH BODY.*', inh) if inh else None
@@ -133,8 +137,25 @@ def court(b, nom):
 
     dia = re.search(r'^DIALOGUE ([^\n]+)', b, re.M)
     aud = sect(b, r'\nAUDIO\n')
-    son = (dia.group(1) if dia else '') + ' ' + clip(phrases(aud.replace('AUDIO', '').strip(), 1), 25)
-    L.append('SOUND — ' + clip(son.strip(), 28))
+    ligne = dia.group(1) if dia else ''
+    n_rep = len(re.findall(r'\[[\d.]+-[\d.]+s\]', ligne))
+    queue = clip(phrases(aud.replace('AUDIO', '').strip(), 1), 22)
+    if n_rep:
+        # Un silence non declare est un trou que le modele comble avec ce qu'il entend
+        # dans la video attachee. Constate en vrai sur 1B. On compte les repliques et
+        # on declare le silence qui les precede.
+        garde = ('EXACTLY %d SPOKEN LINE%s IN THIS ENTIRE GENERATION, written out here and nothing else. Any other '
+                 'speech, any line carried over from the attached video, any murmur or half-word is an ERROR. '
+                 % (n_rep, 'S' if n_rep > 1 else ''))
+        debut = re.search(r'\[(\d+\.\d+)-', ligne)
+        if debut and float(debut.group(1)) > 0.4:
+            garde += ('FROM [0.0s] TO [%ss] NOBODY SPEAKS AT ALL: no line, no word, no murmur, no breath shaped '
+                      'like speech. ' % debut.group(1))
+        son = garde + ligne + ' ' + queue
+    else:
+        son = ('NOBODY SPEAKS IN THIS ENTIRE GENERATION: not one line, not one word, not one murmur, and NO LINE IS '
+               'CARRIED OVER FROM THE ATTACHED VIDEO. ') + queue
+    L.append('SOUND — ' + son.strip())
 
     emis = sect(b, r'LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER')
     lf = re.search(r'WHAT IS IN THE FRAME AT THE LAST INSTANT: (.*?)(?= WHERE THIS SHOT LEAVES|$)', emis) if emis else None

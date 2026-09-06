@@ -22,7 +22,7 @@
 
 ```
 SHOT — @Nora alone in an emptied school library hears pages turning with no reader, lifts her eyes from a book she was not reading, and far down the corridor a long written coat — a back, never a face — is already crossing between two shelf ranges and turns the corner.
-CONTINUITY — VIDEO 1 is an earlier shot of the same film (7B), IN A DIFFERENT PLACE: rendering reference only. TAKE its film stock, grain, skin and fabric rendering, focus behaviour, highlight roll-off. DO NOT TAKE its light, palette, exposure, composition or framing.
+CONTINUITY — VIDEO 1 is an earlier shot of the same film (7B), IN A DIFFERENT PLACE: rendering reference only. TAKE its film stock, grain, skin and fabric rendering, focus behaviour, highlight roll-off. DO NOT TAKE its light, palette, exposure, composition, framing, or ANY OF ITS AUDIO — not its dialogue, not its voices, not one line spoken in it.
 INHERITED STATE, ALREADY TRUE AT FRAME ONE — @Nora: centre of frame, LYING, x=52%, filling 60% of frame height. Nothing in this list may be re-placed, re-lit or improved. THIS IS AN ACQUIRED STATE, NOT AN ACTION TO PLAY: whatever brought the bodies and the props here has already happened in the attached video and must NOT be performed again.
 ANCHOR IMAGE — THE ATTACHED IMAGE IS THE FIRST FRAME: opening composition, every body's position and pose, every prop's state, the scene, the camera direction. Take nothing else from it — no border, no backdrop, no empty-room staging.
 OPENING FRAME — Medium across the study table, seated eye level, camera about 115 cm high and 1.5 m from the table at a slight three-quarter angle, static, locked off.
@@ -30,7 +30,7 @@ ACTION in 4 stages, timings are budgets not edit points, each stage ends on the 
 PERFORMANCE — Nobody performs an emotion here.
 CAMERA — Anamorphic 50 mm f/2 equivalent.
 LIGHT — One source only: the window at the far end of the corridor, throwing flat cold late-afternoon light straight down its length — a grey-white shaft with dust hanging almost motionless in it, the beam's edges feathered, laying a long dull gleam up the centre of the parquet and a bright rectangle on the floor at the end.
-SOUND — None. Nobody speaks in this generation. The riffle of pages is the only voice this scene has. SFX only.
+SOUND — NOBODY SPEAKS IN THIS ENTIRE GENERATION: not one line, not one word, not one murmur, and NO LINE IS CARRIED OVER FROM THE ATTACHED VIDEO. SFX only.
 ENDING FRAME, the state this shot hands over — The empty side aisle beyond the corner, running away between two tall shelf faces, dust settling in the weak grey spill — and at the near frame edge, from behind, @Nora swung in around the shelf upright, her left hand gripping it, shoulders heaving, looking down the emptiness at nothing.
 AVOID — the coated figure's face, any profile of the coated figure, any front view of the coated figure, the figure turning around, the figure looking back, the figure's eyes, the figure pausing, bright red, saturated red, the coat reading as red.
 ```
@@ -60,7 +60,7 @@ ACTION in 3 stages, timings are budgets not edit points, each stage ends on the 
 PERFORMANCE — Nobody performs an emotion here.
 CAMERA — Anamorphic 40 mm f/2 equivalent, one stop wider than 8A.
 LIGHT — One source only: the window at the far end of the corridor, throwing flat cold late-afternoon light straight down its length — a grey-white shaft with dust hanging almost motionless in it, the beam's edges feathered, laying a long dull gleam up the centre of the parquet and a bright rectangle on the floor at the end.
-SOUND — None. Nobody speaks in this generation. SFX only.
+SOUND — NOBODY SPEAKS IN THIS ENTIRE GENERATION: not one line, not one word, not one murmur, and NO LINE IS CARRIED OVER FROM THE ATTACHED VIDEO. SFX only.
 ENDING FRAME, the state this shot hands over — The empty corridor of shelves seen straight down its length, the bright grey-white window rectangle at its far end, dust turning slowly in the shaft, the parquet holding one long dull gleam up its centre — nobody in it, nothing moving, nothing left anywhere.
 AVOID — the coated figure's face, any profile of the coated figure, any front view of the coated figure, the figure turning around, the figure looking back, the figure's eyes, the figure pausing, the figure returning into frame, bright red, saturated red.
 ```
@@ -83,7 +83,7 @@ AVOID — the coated figure's face, any profile of the coated figure, any front 
 
 ```
 SHOT — Night.
-CONTINUITY — VIDEO 1 is an earlier shot of the same film (8A), IN A DIFFERENT PLACE: rendering reference only. TAKE its film stock, grain, skin and fabric rendering, focus behaviour, highlight roll-off. DO NOT TAKE its light, palette, exposure, composition or framing.
+CONTINUITY — VIDEO 1 is an earlier shot of the same film (8A), IN A DIFFERENT PLACE: rendering reference only. TAKE its film stock, grain, skin and fabric rendering, focus behaviour, highlight roll-off. DO NOT TAKE its light, palette, exposure, composition, framing, or ANY OF ITS AUDIO — not its dialogue, not its voices, not one line spoken in it.
 INHERITED STATE, ALREADY TRUE AT FRAME ONE — @Nora: hard against the NEAR LEFT frame edge, STANDING — she got up and ran during this shot — swung in around the shelf upright at the mouth of the side aisle, seen from behind and three-quarter back, her left hand gripping the upright, x=16%, filling 80% of frame height.
 ANCHOR IMAGE — THE ATTACHED IMAGE IS THE FIRST FRAME: opening composition, every body's position and pose, every prop's state, the scene, the camera direction. Take nothing else from it — no border, no backdrop, no empty-room staging.
 OPENING FRAME — Static, camera at 160 cm on the landing, looking down the full length of the dark hallway, exactly the axis of the reference angle: her bedroom door screen-right at x=68%, ajar ten centimetres, the blade of cold light from the gap lying across the boards toward camera;
@@ -91,7 +91,7 @@ ACTION in 3 stages, timings are budgets not edit points, each stage ends on the 
 PERFORMANCE — Nobody performs an emotion here.
 CAMERA — Anamorphic 50 mm f/2 equivalent.
 LIGHT — motivated sources only, never more than two lit at once, and the two temperatures never mix.
-SOUND — None. Nobody speaks. Her breathing and the house are the only voices. SFX only.
+SOUND — NOBODY SPEAKS IN THIS ENTIRE GENERATION: not one line, not one word, not one murmur, and NO LINE IS CARRIED OVER FROM THE ATTACHED VIDEO. SFX only.
 ENDING FRAME, the state this shot hands over — @Nora alone at the dark corner of the landing, seen from behind, chest-up, looking down into the black stairwell, the empty glass hanging at her side, one hand on the rail post, the thread of sodium grazing her shoulder;
 AVOID — the figure's face, the figure's profile, the figure's head, the figure's shoulders, the figure's hands, the figure's eyes, the coat above hip height, the coat pausing or turning or coming back, the coat visible longer than one second, the coat hanging on a hook.
 ```
@@ -120,7 +120,7 @@ ACTION in 3 stages, timings are budgets not edit points, each stage ends on the 
 PERFORMANCE — Nobody performs an emotion here.
 CAMERA — Anamorphic 50 mm f/2 equivalent.
 LIGHT — motivated sources only, never more than two lit at once, and the two temperatures never mix.
-SOUND — None. Nobody speaks in this generation. SFX only.
+SOUND — NOBODY SPEAKS IN THIS ENTIRE GENERATION: not one line, not one word, not one murmur, and NO LINE IS CARRIED OVER FROM THE ATTACHED VIDEO. SFX only.
 ENDING FRAME, the state this shot hands over — The empty far corner of the dark landing, the stair rail's top post catching one dull edge of sodium, the black drop of the unseen stairwell opening away beyond it, the thread of sodium lying along the wall — nothing in the frame, nothing moving.
 AVOID — the figure's face, the figure's profile, the figure's head, the figure's shoulders, the figure's hands, the figure's eyes, the coat above hip height, the coat pausing or turning or coming back, the coat visible longer than one second, the coat hanging on a hook.
 ```
@@ -143,7 +143,7 @@ AVOID — the figure's face, the figure's profile, the figure's head, the figure
 
 ```
 SHOT — @Nora steps out of the shower, the towel half-raised, and lifts her eyes to the mirror out of habit — and the gesture stops there.
-CONTINUITY — VIDEO 1 is an earlier shot of the same film (8B), IN A DIFFERENT PLACE: rendering reference only. TAKE its film stock, grain, skin and fabric rendering, focus behaviour, highlight roll-off. DO NOT TAKE its light, palette, exposure, composition or framing.
+CONTINUITY — VIDEO 1 is an earlier shot of the same film (8B), IN A DIFFERENT PLACE: rendering reference only. TAKE its film stock, grain, skin and fabric rendering, focus behaviour, highlight roll-off. DO NOT TAKE its light, palette, exposure, composition, framing, or ANY OF ITS AUDIO — not its dialogue, not its voices, not one line spoken in it.
 INHERITED STATE, ALREADY TRUE AT FRAME ONE — @Nora: centre of frame, STANDING, x=62%, filling 62% of frame height. Nothing in this list may be re-placed, re-lit or improved. THIS IS AN ACQUIRED STATE, NOT AN ACTION TO PLAY: whatever brought the bodies and the props here has already happened in the attached video and must NOT be performed again.
 ANCHOR IMAGE — THE ATTACHED IMAGE IS THE FIRST FRAME: opening composition, every body's position and pose, every prop's state, the scene, the camera direction. Take nothing else from it — no border, no backdrop, no empty-room staging.
 OPENING FRAME — Medium chest-up from the doorway, angled toward the mirror and basin, eye level, static, locked off — exactly the axis of the reference angle: the mirror screen-right at x=65%, the basin below it, the shower curtain and the towel radiator at the frame edges.
@@ -151,7 +151,7 @@ ACTION in 4 stages, timings are budgets not edit points, each stage ends on the 
 PERFORMANCE — Nobody performs an emotion here.
 CAMERA — Anamorphic 85 mm f/2 equivalent.
 LIGHT — one practical: the single wall light above THE MIRROR, diffused by the vapour, the bulb wearing a soft halo in the steam, its throw dying within a metre, laying whites and cold greys on the tiles.
-SOUND — None. Nobody speaks in this generation. Her breath is the only voice. SFX only.
+SOUND — NOBODY SPEAKS IN THIS ENTIRE GENERATION: not one line, not one word, not one murmur, and NO LINE IS CARRIED OVER FROM THE ATTACHED VIDEO. SFX only.
 ENDING FRAME, the state this shot hands over — The steam-filled bathroom: the fogged mirror screen-left with the three clear abstract soap bands standing whole in the fog, @Nora screen-right chest-up with her shoulder blades against the door, her right arm out and two fingertips resting on the glass a hand's width beside the bands, the two beads just beginning to run at the far tip of the lower band, steam drifting through the wall light.
 AVOID — legible letters, readable words, letterforms in the fog, any writing that reads as text, letters appearing one by one, a stroke that draws itself, a line advancing on its own, a fade-in of marks, marks changing shape between shots, a hand wiping the mirror.
 ```
@@ -181,7 +181,7 @@ ACTION in 3 stages, timings are budgets not edit points, each stage ends on the 
 PERFORMANCE — Nobody performs an emotion here.
 CAMERA — Anamorphic 85 mm f/2 equivalent.
 LIGHT — one practical: the single wall light above THE MIRROR, diffused by the vapour, the bulb wearing a soft halo in the steam, its throw dying within a metre, laying whites and cold greys on the tiles.
-SOUND — None. Nobody speaks in this generation. Nobody is in it. SFX only.
+SOUND — NOBODY SPEAKS IN THIS ENTIRE GENERATION: not one line, not one word, not one murmur, and NO LINE IS CARRIED OVER FROM THE ATTACHED VIDEO. SFX only.
 ENDING FRAME, the state this shot hands over — The fogged mirror filling the frame, the three clear abstract soap bands standing whole and sharp in the fog in its central third, the two beads stalled halfway down at the far tip of the lower band, steam drifting slowly across the glass in the wall light — no person, no reflection, nothing else.
 AVOID — legible letters, readable words, letterforms in the fog, any writing that reads as text, letters appearing one by one, a stroke that draws itself, a line advancing on its own, a fade-in of marks, marks changing shape, a hand wiping the mirror.
 ```
@@ -204,7 +204,7 @@ AVOID — legible letters, readable words, letterforms in the fog, any writing t
 
 ```
 SHOT — Dressed to leave, @Nora opens a small worn box, looks once at her mother's ring, closes her fist on it until the knuckles whiten, and puts it into the right-hand pocket of her coat without looking at it.
-CONTINUITY — VIDEO 1 is an earlier shot of the same film (8C), IN A DIFFERENT PLACE: rendering reference only. TAKE its film stock, grain, skin and fabric rendering, focus behaviour, highlight roll-off. DO NOT TAKE its light, palette, exposure, composition or framing.
+CONTINUITY — VIDEO 1 is an earlier shot of the same film (8C), IN A DIFFERENT PLACE: rendering reference only. TAKE its film stock, grain, skin and fabric rendering, focus behaviour, highlight roll-off. DO NOT TAKE its light, palette, exposure, composition, framing, or ANY OF ITS AUDIO — not its dialogue, not its voices, not one line spoken in it.
 INHERITED STATE, ALREADY TRUE AT FRAME ONE — @Nora: centre of frame, STANDING, x=62%. Nothing in this list may be re-placed, re-lit or improved. THIS IS AN ACQUIRED STATE, NOT AN ACTION TO PLAY: whatever brought the bodies and the props here has already happened in the attached video and must NOT be performed again.
 ANCHOR IMAGE — THE ATTACHED IMAGE IS THE FIRST FRAME: opening composition, every body's position and pose, every prop's state, the scene, the camera direction. Take nothing else from it — no border, no backdrop, no empty-room staging.
 OPENING FRAME — Macro on her hands and the box, high angle over the desk, camera about 50 cm above the wood, tilted down at roughly 60 degrees, static, locked off, very shallow focus.
@@ -212,7 +212,7 @@ ACTION in 3 stages, timings are budgets not edit points, each stage ends on the 
 PERFORMANCE — Nobody performs an emotion here.
 CAMERA — Anamorphic 85 mm f/2 equivalent.
 LIGHT — motivated sources only, never more than two lit at once, and the two temperatures never mix.
-SOUND — None. Nobody speaks in this generation. The hands say it. SFX only.
+SOUND — NOBODY SPEAKS IN THIS ENTIRE GENERATION: not one line, not one word, not one murmur, and NO LINE IS CARRIED OVER FROM THE ATTACHED VIDEO. SFX only.
 ENDING FRAME, the state this shot hands over — The desk in sodium orange only, the clip lamp dark, the small worn velvet box open and empty with its velvet bed dented where the ring sat, the closed laptop a dull shape at the far edge, @Nora a dark unmoving mass at the frame edge with one breath lifting her shoulders.
 AVOID — the ring visible after the first shot, the ring visible inside the pocket, the ring worn on a finger, the box reopening, a second look at the ring, jewellery in the final frame, a sandwich, food on the desk, greaseproof paper, kitchen string.
 ```
@@ -235,7 +235,7 @@ AVOID — the ring visible after the first shot, the ring visible inside the poc
 
 ```
 SHOT — @Nora rides a night bus alone, forehead against the glass, a whole untouched sandwich lying in crumpled paper on her lap under her hand — and she never once looks at it.
-CONTINUITY — VIDEO 1 is an earlier shot of the same film (8D), IN A DIFFERENT PLACE: rendering reference only. TAKE its film stock, grain, skin and fabric rendering, focus behaviour, highlight roll-off. DO NOT TAKE its light, palette, exposure, composition or framing.
+CONTINUITY — VIDEO 1 is an earlier shot of the same film (8D), IN A DIFFERENT PLACE: rendering reference only. TAKE its film stock, grain, skin and fabric rendering, focus behaviour, highlight roll-off. DO NOT TAKE its light, palette, exposure, composition, framing, or ANY OF ITS AUDIO — not its dialogue, not its voices, not one line spoken in it.
 INHERITED STATE, ALREADY TRUE AT FRAME ONE — @Nora: centre of frame, STANDING, x=52%, filling 66% of frame height. Nothing in this list may be re-placed, re-lit or improved. THIS IS AN ACQUIRED STATE, NOT AN ACTION TO PLAY: whatever brought the bodies and the props here has already happened in the attached video and must NOT be performed again.
 ANCHOR IMAGE — THE ATTACHED IMAGE IS THE FIRST FRAME: opening composition, every body's position and pose, every prop's state, the scene, the camera direction. Take nothing else from it — no border, no backdrop, no empty-room staging.
 OPENING FRAME — Close-up, right profile, seated eye level about 110 cm, camera locked to the bus a metre from her, static framing, the fogged window filling the frame behind her.
@@ -243,7 +243,7 @@ ACTION in 4 stages, timings are budgets not edit points, each stage ends on the 
 PERFORMANCE — Nobody performs an emotion here.
 CAMERA — Anamorphic 50 mm f/2 equivalent.
 LIGHT — Cold white ceiling strip light inside, one diffuser panel yellowed and fractionally dimmer than the rest, pooling flat and shadowless on the seat backs and the tops of the poles.
-SOUND — None. Nobody speaks in this generation. The chime counts for her. SFX only.
+SOUND — NOBODY SPEAKS IN THIS ENTIRE GENERATION: not one line, not one word, not one murmur, and NO LINE IS CARRIED OVER FROM THE ATTACHED VIDEO. SFX only.
 ENDING FRAME, the state this shot hands over — @Nora standing at the closed doors, three-quarter back to camera, her right hand on the cloudy chrome pole, the crumpled paper packet pushed into her parka's right side pocket and bulging there, her reflection doubled in the dark door glass, the empty aisle and seats behind her, the bus still slowing, the night outside absolute.
 AVOID — any red anywhere, red brake lights, red traffic lights, red stop-button lights, red handrails, red signage through the windows, a readable destination display, readable signage, legible numerals, on-screen text.
 ```
