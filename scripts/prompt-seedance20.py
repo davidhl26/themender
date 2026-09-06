@@ -56,7 +56,13 @@ def clip(txt, mots):
         if pris and n + k > mots * 1.15: break
         pris.append(s); n += k
         if n >= mots: break
-    return ' '.join(pris).strip()
+    out = ' '.join(pris).strip()
+    # Ne jamais rendre la main sur un point-virgule : la moitie de l'etat transmis y tombe.
+    if out.endswith(';') or out.endswith(','):
+        suite = txt[len(out):].lstrip()
+        fin = re.split(r'(?<=[.!?])\s', suite)[0] if suite else ''
+        out = (out + ' ' + fin).strip() if fin else out.rstrip(';, ') + '.'
+    return out
 
 AUDIO_EXCL = ("TAKE NOTHING OF ITS AUDIO: not its dialogue, not its voices, not one line spoken in it. "
               "Every line heard in it belongs to the previous shot and MUST NEVER BE HEARD AGAIN HERE.")
@@ -126,10 +132,23 @@ def construire(b, nom_plan, restreint=None):
     prev = prev.group(1) if prev else ''
     tete_de_chaine = 'No video is attached' in corps or 'NO VIDEO IS ATTACHED' in entete
 
+    # Plusieurs plans interdisent explicitement de reprendre la derniere frame du clip
+    # precedent : le cadrage n'est pas le meme. L'annoncer quand meme, c'est promettre au
+    # modele un raccord faux.
+    vr = re.search(r'\|\s*\*\*`video_references`\*\*\s*\|([^\n|]*)', b)
+    pas_de_derniere = bool(vr and 'Jamais sa dernière frame' in vr.group(1))
+    si_m = re.search(r'\|\s*\*\*`start_image`\*\*\s*\|([^\n|]*)', b)
+    img_master = si_m.group(1).strip() if si_m else ''
+
     mat = []
     if not tete_de_chaine:
         mat.append("@video1 is the shot immediately before this one (%s)." % (prev or 'the previous shot'))
-        mat.append("@image1 is the last frame of that shot and IT IS THE FIRST FRAME OF THIS GENERATION.")
+        if pas_de_derniere:
+            mat.append("@image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached "
+                       "video: this shot is taken from a different angle and its opening composition is the one "
+                       "@image1 gives.")
+        else:
+            mat.append("@image1 is the last frame of that shot and IT IS THE FIRST FRAME OF THIS GENERATION.")
     else:
         mat.append("@image1 IS THE FIRST FRAME OF THIS GENERATION. No previous clip is attached: this shot is the "
                    "head of its chain and sets the light, the grain and the skin rendering the following shots match.")
@@ -181,9 +200,18 @@ def construire(b, nom_plan, restreint=None):
             L.append('CONTINUITY — ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: this clip opens on %s exactly, '
                      'everything in it already true and nothing replayed, and only then does the action begin. '
                      'It must CONNECT NATURALLY, NOT IDENTICALLY.' % ou)
-        if a_herite:
+        # Un insert sans personne ne peut pas heriter de corps : le lui ordonner, c'est
+        # demander de faire entrer des gens dans un cadre ou l'AVOID les interdit.
+        sans_personne = bool(re.search(r'SUBJECT LOCK, NONE|NOBODY IS IN THIS SHOT|no people at all|'
+                                       r'NO PERSON IS IN THIS GENERATION', b, re.I))
+        if a_herite and not sans_personne:
             pos = re.search(r'WHERE THIS SHOT LEAVES EACH BODY.*', herite).group(0).split('other bodies: ')[-1]
             L.append('INHERITED STATE, ALREADY TRUE AT FRAME ONE — ' + clip(pos, 40))
+        elif sans_personne:
+            L.append('INHERITED STATE, ALREADY TRUE AT FRAME ONE — NO PERSON IS IN THIS SHOT AND NONE ENTERS IT. '
+                     'NOBODY IS INHERITED: no body, no hand, no shoulder, no shadow of a person, not at the frame '
+                     'edge and not anywhere. What carries over from the attached video is the room alone — the same '
+                     'light, the same hour, the props exactly where that shot left them, listed under ACTION below.')
 
     ff = sect(b, r'FIRST FRAME AND SPATIAL BLOCKING')
     L.append('OPENING FRAME — ' + clip(ff.replace('FIRST FRAME AND SPATIAL BLOCKING', '')
@@ -199,19 +227,61 @@ def construire(b, nom_plan, restreint=None):
                 lo, hi = fin * i / n, fin * (i + 1) / n
                 pris = [s for s in segs if lo <= float(s[0]) < hi] or ([segs[i]] if i < len(segs) else [])
                 if not pris: continue
+                # Une etape doit porter une ACTION. Les lignes de positions de depart
+                # (« Starting positions… ») n'en sont pas : elles chassaient les vrais
+                # evenements du plan — l'entree en courant, l'etreinte, la traversee.
+                utiles = [s for s in pris if not re.match(r'\s*(Starting positions|Held|Positions)', s[1])]
+                pris = utiles or pris
                 pris = sorted(pris, key=lambda s: len(re.findall(r'\b[A-Z]{3,}\b', s[1])) * 12
-                              + min(len(s[1]), 260) / 10, reverse=True)[:2]
+                              + min(len(s[1]), 320) / 8, reverse=True)[:2]
                 pris.sort(key=lambda s: float(s[0]))
-                tetes = [re.split(r'(?<=[.;])\s', s[1])[0] for s in pris]
-                tetes = [x for x in tetes if len(x.split()) > 3] or tetes[:1]
-                beats.append("[%.1f-%.1fs] %s" % (lo, hi, clip(' '.join(tetes), 18)))
+                tetes = []
+                for s in pris:
+                    # Les repliques appartiennent a SOUND et a lui seul : recopiees ici,
+                    # elles contredisent ses timings et le modele recoit deux ordres.
+                    txt_s = re.sub(r'[:,]?\s*[“"][^”"]*[”"]', '', s[1]).strip()
+                    txt_s = re.split(r'(?<=[.;])\s', txt_s)[0]
+                    if len(txt_s.split()) > 3: tetes.append(txt_s)
+                if not tetes: tetes = [re.split(r'(?<=[.;])\s', pris[0][1])[0]]
+                beats.append("[%.1f-%.1fs] %s" % (lo, hi, clip(' '.join(tetes), 40)))
             L.append('ACTION in %d stages, timings are budgets not edit points, each stage ends on the state the next '
                      'one starts from — %s' % (len(beats), ' '.join(beats)))
 
     perf = sect(b, r'^CHARACTER PERFORMANCE\n').replace('CHARACTER PERFORMANCE', '').strip()
     L.append('PERFORMANCE — ' + clip(phrases(perf, 2), 34))
-    cam = sect(b, r'\nCAMERA\n') or sect(b, r'^OPTICS\n')
-    L.append('CAMERA — ' + clip(cam.replace('CAMERA', '').replace('OPTICS', '').strip(), 30))
+    # « CAMERA » ne matchait ni « CAMERA REGISTER — … » ni « CAMERA — OPERATED, NOT SIMULATED » :
+    # le script retombait donc TOUJOURS sur OPTICS et le mouvement de camera disparaissait
+    # des 64 prompts. On prend l'optique, le registre, et surtout LE DEPLACEMENT.
+    opt = sect(b, r'^OPTICS\n').replace('OPTICS', '').strip()
+    reg = sect(b, r'^CAMERA REGISTER —[^\n]*\n')
+    reg = re.sub(r'^CAMERA REGISTER —[^\n]*', '', reg).strip()
+    # Le mouvement peut vivre dans LOCATION MAP, dans l'en-tete d'un SHOT du frame map,
+    # ou dans FORMAT MODE. On cherche dans les trois, sinon un plan sur cinq perd sa camera.
+    lm = sect(b, r'^LOCATION MAP\n').replace('LOCATION MAP', '').strip()
+    entetes = ' '.join(re.findall(r'^(?:SHOT \d+|ONE SHOT|Framing \d+)[^\n]*', b, re.M))
+    fmt = sect(b, r'^FORMAT MODE\n').replace('FORMAT MODE', '').strip()
+    move, repli = '', ''
+    for ph in re.split(r'(?<=[.!?])\s+', ' '.join([lm, entetes, fmt])):
+        if not re.search(r'\bcamera\b', ph, re.I): continue
+        if re.search(r'\b(drift|drifts|travels?|moves?|walks?|pushes?|pulls?|rises?|descends?|follows?|arriv\w+|'
+                     r'settles?|cranes?|tilts?|pans?|tracks?|withdraw\w*|recedes?|climbs?)\b', ph, re.I):
+            move = ph.strip(); break
+        # une camera « held, operated, no longer following » ne bouge pas mais se decrit :
+        # sans ce repli, onze plans partaient sans un mot sur leur camera.
+        if not repli: repli = ph.strip()
+    fixe = False
+    if not move and repli:
+        fixe, move = True, re.sub(r'^.*?camera:?\s*', '', repli, flags=re.I) or repli
+    elif not move and re.search(r'static|locked off', lm + ' ' + entetes, re.I):
+        fixe = True
+        move = ('static and locked off for the whole take: no pan, no tilt, no push in, no zoom, no reframe — '
+                "only the operator's living micro-movement.")
+    parts = [clip(opt, 20)]
+    if move:
+        parts.append(('CAMERA HOLD, and it is not optional: the camera stays ' if fixe
+                      else 'CAMERA MOVE, and it is not optional: ') + clip(move, 42))
+    if reg:  parts.append(clip(reg, 22))
+    L.append('CAMERA — ' + ' '.join(parts))
     lig = sect(b, r'\nLIGHT ')
     L.append('LIGHT — ' + clip(phrases(re.sub(r'^LIGHT[\s\W]*', '', lig), 1), 18))
 
@@ -279,6 +349,8 @@ for f in sorted(glob.glob(os.path.join(D, 'PRET-SEQ-*.md'))):
             duree = duree_f if duree_f else (float(d.group(1).replace(',', '.')) if d else 10.0)
             if duree > 15: trop_long.append((plan, duree)); duree = 15.0
             si = re.search(r'\|\s*\*\*`start_image`\*\*\s*\|([^\n|]*)', b)
+            vr_t = re.search(r'\|\s*\*\*`video_references`\*\*\s*\|([^\n|]*)', b)
+            pas_dern = bool(vr_t and 'Jamais sa dernière frame' in vr_t.group(1))
             tete = 'No video is attached' in c or 'No previous clip is attached' in c
             if manquants: sans_elt[plan] = [x[0] for x in manquants]
             titre = m.group(2) if not note else (' morceau %s de %s — %s' % (plan.split('-')[-1], plan0, note))
@@ -287,8 +359,8 @@ for f in sorted(glob.glob(os.path.join(D, 'PRET-SEQ-*.md'))):
                     '| **modèle** | **Seedance 2.0** · mode `std` · genre `drama` |',
                     '| **format** | 21:9 · **1080p** · bitrate **high** |',
                     f'| **durée** | **{duree:g} s** · **son ON** |',
-                    ('| **`@image1`** (start image) | ' + (si.group(1).strip() if si else '—') + ' |') if tete
-                    else '| **`@image1`** (start image) | **la dernière frame du clip précédent** |',
+                    '| **`@image1`** (start image) | ' + ((si.group(1).strip() if si else '—') if (tete or pas_dern)
+                        else '**la dernière frame du clip précédent**') + ' |',
                     ('| **`@video1`** | — aucune vidéo, tête de chaîne |') if tete
                     else '| **`@video1`** | le clip précédent |',
                     '| **Éléments** | ' + (' · '.join('`@' + r + '`' for _, r in elts) or '—') + ' |']
