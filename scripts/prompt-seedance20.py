@@ -245,10 +245,14 @@ def construire(b, nom_plan, restreint=None):
     txt = txt.replace('the choreography above', 'the ACTION stages above')
     # dans le corps, les personnages portent leur nom en clair : la mention est deja liee en tete
     tete, reste = txt.split('\nSHOT —', 1)
-    for e, r in elts:
-        reste = re.sub(r'(?<!\w)@' + re.escape(e) + r'\b', affiche(e), reste)
+    # Dans le CORPS, plus une seule mention : la liaison est faite en tete, et un « @ » colle
+    # en texte brut plus bas ne se lie a rien — il ne ferait que semer de faux liens.
+    # On balaie TOUTES les mentions, pas seulement celles de ce plan : le texte extrait du bloc
+    # long en charrie d'autres (repliques, raccord herite, derniere frame).
+    def en_clair(m):
+        return affiche(m.group(1))
+    reste = re.sub(r'(?<!\w)@(\w+)', en_clair, reste)
     for e, r in manquants:
-        reste = re.sub(r'(?<!\w)@' + re.escape(e) + r'\b', affiche(e), reste)
         tete = re.sub(r'(?<!\w)@' + re.escape(e) + r'\b', affiche(e), tete)
     return tete + '\nSHOT —' + reste, elts, manquants
 
