@@ -28,13 +28,32 @@ def phrases(txt, n):
     return ' '.join(out)
 
 def clip(txt, mots):
-    w = txt.split()
-    return ' '.join(w[:mots]) + ('…' if len(w) > mots else '')
+    """Des phrases ENTIERES, jusqu'a remplir le budget de mots.
+
+    Un prompt colle tel quel : une instruction tronquee en plein milieu est une
+    instruction que le modele lit de travers. On empile donc des phrases completes
+    tant qu'on tient dans le budget, et on tolere un debordement sur la derniere
+    (jusqu'a 1,4x) plutot que de la couper — ou de rendre une ligne squelettique.
+    """
+    txt = txt.strip()
+    if len(txt.split()) <= mots:
+        return txt
+    phr = re.split(r'(?<=[.;!?])\s+', txt)
+    pris, n = [], 0
+    for s in phr:
+        k = len(s.split())
+        if pris and n + k > mots * 1.15:
+            break
+        pris.append(s); n += k
+        if n >= mots:
+            break
+    return ' '.join(pris).strip()
+
 
 def court(b, nom):
     L = []
     scene = sect(b, r'SCENE CONTEXT\n')
-    L.append('SHOT — ' + clip(phrases(scene.replace('SCENE CONTEXT', '').strip(), 1), 26))
+    L.append('SHOT — ' + clip(phrases(scene.replace('SCENE CONTEXT', '').strip(), 1), 32))
 
     m = re.search(r'^CONTINUITY REFERENCE[^\n]*\n(.*?)(?=\n\n)', b, re.S | re.M)
     cont = re.sub(r'\s+', ' ', m.group(1)).strip() if m else ''
@@ -58,21 +77,24 @@ def court(b, nom):
                  'ALREADY MOVING at its last frame. ALIGN THE BOUNDARY FIRST: start on that motion already underway, '
                  'same speed, same line, no ease-in, no restart, then carry it on. One single move across both clips.' % prev)
     elif cont and prev:
-        L.append('CONTINUITY — VIDEO 1 is the shot immediately before this one (%s). ITS LAST FRAME IS THIS '
-                 'GENERATION\'S BOUNDARY FRAME. ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: open on the inherited '
-                 'state below, already true, nothing replayed, then move on. It must CONNECT NATURALLY, NOT '
-                 'IDENTICALLY. TAKE its light, grain, skin rendering and camera behaviour. DO NOT TAKE its framing.' % prev)
+        inh0 = sect(b, r'HANDOFF — THE EXACT STATE THIS SHOT INHERITS') or ''
+        herite = 'INHERITED STATE line below' if 'WHERE THIS SHOT LEAVES' in inh0 else 'state VIDEO 1 ends on'
+        L.append('CONTINUITY — VIDEO 1 is the shot immediately before this one (' + prev + '). ITS LAST FRAME IS THIS '
+                 "GENERATION'S BOUNDARY FRAME. ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: open on the " + herite +
+                 ', already true, nothing replayed, then move on. CONNECT NATURALLY, NOT IDENTICALLY. '
+                 'TAKE its light, grain, skin and camera behaviour. DO NOT TAKE its framing.')
+
     inh = sect(b, r'HANDOFF — THE EXACT STATE THIS SHOT INHERITS')
     hand = re.search(r'WHERE THIS SHOT LEAVES EACH BODY.*', inh) if inh else None
     if hand:
         pos = hand.group(0).split('other bodies: ')[-1]
-        L.append('INHERITED STATE, ALREADY TRUE AT FRAME ONE — ' + clip(pos, 26))
+        L.append('INHERITED STATE, ALREADY TRUE AT FRAME ONE — ' + clip(pos, 46))
 
     anc = re.search(r'\|\s*\*\*`start_image`\*\*\s*\|([^\n|]*)', b)
     if anc and 'aucun' not in anc.group(1).lower():
-        L.append("ANCHOR IMAGE — THE ATTACHED IMAGE IS THE FIRST FRAME. It fixes the opening composition, the position "
-                 "and pose of every body, the state of every prop, the scene and the camera direction. Take nothing else "
-                 "from it: no border, no backdrop, no empty-room staging, no reference layout.")
+        L.append("ANCHOR IMAGE — THE ATTACHED IMAGE IS THE FIRST FRAME: opening composition, every body's position "
+                 "and pose, every prop's state, the scene, the camera direction. Take nothing else from it — no border, "
+                 "no backdrop, no empty-room staging.")
     ff = sect(b, r'FIRST FRAME AND SPATIAL BLOCKING')
     L.append('OPENING FRAME — ' + clip(ff.replace('FIRST FRAME AND SPATIAL BLOCKING', '')
              .replace('The generation opens on this exact frame:', '').strip(), 28))
@@ -84,7 +106,7 @@ def court(b, nom):
             # La doc recommande 3-4 ETAPES, chacune avec UN changement d'etat et une fin
             # explicite — pas douze micro-segments, que le modele lit comme une liste.
             fin = float(segs[-1][0]) or 1.0
-            beats, n = [], 3 if len(segs) <= 6 else 4
+            beats, n = [], 3 if len(segs) <= 8 else 4
             for i in range(n):
                 lo, hi = fin * i / n, fin * (i + 1) / n
                 pris = [s for s in segs if lo <= float(s[0]) < hi] or ([segs[i]] if i < len(segs) else [])
@@ -97,14 +119,14 @@ def court(b, nom):
                 pris.sort(key=lambda s: float(s[0]))
                 tetes = [re.split(r'(?<=[.;])\s', s[1])[0] for s in pris]
                 tetes = [x for x in tetes if len(x.split()) > 3] or tetes[:1]
-                beats.append("[%.1f-%.1fs] %s" % (lo, hi, clip(' '.join(tetes), 24)))
+                beats.append("[%.1f-%.1fs] %s" % (lo, hi, clip(' '.join(tetes), 20)))
             L.append('ACTION in ' + str(len(beats)) + ' stages, timings are budgets not edit points, '
                      'each stage ends on the state the next one starts from — ' + ' '.join(beats))
     perf = sect(b, r'CHARACTER PERFORMANCE\n')
-    L.append('PERFORMANCE — ' + clip(phrases(perf.replace('CHARACTER PERFORMANCE', '').strip(), 2), 22))
+    L.append('PERFORMANCE — ' + clip(phrases(perf.replace('CHARACTER PERFORMANCE', '').strip(), 2), 26))
 
     cam = sect(b, r'\nCAMERA\n') or sect(b, r'OPTICS\n')
-    L.append('CAMERA — ' + clip(cam.replace('CAMERA', '').replace('OPTICS', '').strip(), 16))
+    L.append('CAMERA — ' + clip(cam.replace('CAMERA', '').replace('OPTICS', '').strip(), 24))
 
     lig = sect(b, r'\nLIGHT ')
     L.append('LIGHT — ' + clip(phrases(re.sub(r'^LIGHT[\s\W]*', '', lig), 1), 18))
@@ -116,12 +138,18 @@ def court(b, nom):
 
     emis = sect(b, r'LAST FRAME — THE EXACT STATE THIS SHOT HANDS OVER')
     lf = re.search(r'WHAT IS IN THE FRAME AT THE LAST INSTANT: (.*?)(?= WHERE THIS SHOT LEAVES|$)', emis) if emis else None
-    if lf: L.append('ENDING FRAME, the state this shot hands over — ' + clip(lf.group(1), 26))
+    if lf: L.append('ENDING FRAME, the state this shot hands over — ' + clip(lf.group(1), 22))
 
     av = sect(b, r'\nAVOID\n')
     items = [x.strip() for x in re.sub(r'^AVOID\s*', '', av).split(',') if x.strip()][:10]
     L.append('AVOID — ' + ', '.join(items) + '.')
-    return '\n'.join(L)
+    txt = '\n'.join(L)
+    # Les renvois a des sections qui n'existent QUE dans le bloc long doivent pointer
+    # vers la section equivalente du prompt court, sinon le modele cherche une section absente.
+    txt = txt.replace('the FRAME MAP', 'the ACTION stages').replace('FRAME MAP', 'ACTION stages')
+    txt = txt.replace('the choreography above', 'the ACTION stages above')
+    txt = txt.replace('the framing is the one written below', 'the framing is the one written under OPENING FRAME')
+    return txt
 
 d = 'docs/generations/videos'
 tot, tailles = 0, []
