@@ -10,7 +10,9 @@
 
 | | |
 |---|---|
-| Crédits | **39,76.** Un plan 5 s en 1080p en coûte ~45. **Passe en 480p** et lis le coût que l'interface affiche AVANT de confirmer. |
+| Crédits | **39,76.** Un plan 5 s en 1080p en coûte ~45 — mesuré. Je n'ai **aucune mesure** pour le 480p ni le 720p : lis le coût que l'interface affiche AVANT de confirmer. |
+| Résolution | **720p si tu peux recharger, 480p seulement si tu ne peux pas.** Ce n'est pas un choix de qualité, c'est le solde. Et le 480p affaiblit la question 3 (grain et peau) : à cette définition la structure du grain n'existe plus, donc un écart de grain entre 1A et 1B sera invisible ou faussement visible. Les quatre autres questions passent très bien en 480p. **La résolution du test n'a rien à voir avec le rendu final**, qui reste 1080p. |
+| Son | **Mets le son ON pour le test.** Le film a ses vraies voix en post, donc l'audio généré finira à la poubelle — mais le test sert justement à savoir si la bouche forme les répliques écrites. Je ne sais pas si `generate_audio` coûte des crédits en plus : regarde le prix affiché avec et sans avant de confirmer. |
 | Éléments requis | `@SamBefore` · `@Maeve` · `@Kitchen` — ils existent déjà |
 | Image d'ancrage | LIEU-01 **IMAGE 2** `abf2d210` pour 1A · LIEU-01 **IMAGE 3** `e9dc3786` (ANGLE H) pour 1B |
 
@@ -19,7 +21,7 @@
 ## ÉTAPE 1 — générer 1A
 
 1. Higgsfield → **Seedance 2.5**, mode **omni_reference**.
-2. Réglages : **21:9 · 480p · durée 10 s · sound off**.
+2. Réglages : **21:9 · 720p (ou 480p) · durée 10 s · sound ON pour le test**.
 3. Joins les Éléments **@SamBefore + @Maeve + @Kitchen**.
 4. Joins **LIEU-01 IMAGE 2** (`abf2d210`). S'il y a un champ `start_image`, mets-la dedans ;
    s'il n'y en a pas, joins-la en référence ordinaire — la ligne ANCHOR IMAGE lui donne son rôle.
@@ -51,7 +53,7 @@ Si 1A rate déjà, **arrête-toi là et envoie-moi le résultat.** Inutile de pa
 
 ## ÉTAPE 2 — générer 1B, en lui attachant 1A
 
-1. Même modèle, **Seedance 2.5 · omni_reference · 21:9 · 480p · durée 14 s · sound off**.
+1. Même modèle, **Seedance 2.5 · omni_reference · 21:9 · même résolution que 1A · durée 14 s · sound ON**.
 2. Mêmes Éléments : **@SamBefore + @Maeve + @Kitchen**.
 3. **Attache le clip 1A que tu viens de générer** en `video_references`. ← c'est tout le test.
 4. Image d'ancrage : **LIEU-01 IMAGE 3** `e9dc3786` (ANGLE H) — c'est le cadre d'arrivée.
@@ -85,6 +87,7 @@ Mets 1A et 1B bout à bout et réponds à **cinq questions**. C'est tout le test
 | 3 | La lumière et le grain sont-ils **les mêmes** entre les deux clips ? | `video_references` fait son travail |
 | 4 | **Le voit-on se lever et traverser**, sans coupe, sans saut ? | Les 4 étapes sont lues |
 | 5 | Est-ce qu'il rate quelque chose que l'AVOID interdit (baiser, grille-pain, coupe) ? | La liste d'interdits est lue |
+| 6 | **La bouche forme-t-elle les répliques écrites** ? (l'audio généré, lui, part à la poubelle) | Les lignes SOUND pilotent bien le jeu de bouche |
 
 **Envoie-moi les deux clips et tes réponses.** Selon ce qui casse, je sais quoi corriger :
 
