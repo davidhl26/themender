@@ -15,10 +15,10 @@
 | **durée** | **10 s** · **son ON** |
 | **`@image1`** (start image) | LIEU-11 IMAGE 2 |
 | **`@video1`** | le clip précédent |
-| **Éléments** | `@nora` · `@mender` · `@LibraryCorridor` |
+| **Éléments** | `@nora` · `@mender` · `@librarycorridor` |
 
 ```
-MATERIALS — @video1 is the shot immediately before this one (7B). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @nora is NORA. @mender is THE MENDER. @LibraryCorridor is THE PLACE THIS SHOT HAPPENS IN.
+MATERIALS — @video1 is the shot immediately before this one (7B). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @nora is NORA. @mender is THE MENDER. @librarycorridor is THE PLACE THIS SHOT HAPPENS IN.
 ROLES — From the attached video take ONLY the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour and the highlight roll-off. DO NOT TAKE its light, its palette, its exposure, its composition or its framing, and TAKE NOTHING OF ITS AUDIO: not its dialogue, not its voices, not one line spoken in it. Every line heard in it belongs to the previous shot and MUST NEVER BE HEARD AGAIN HERE. From the first-frame image take the opening composition and the exact position, pose and prop state of everything in it; take nothing else from it — no border, no backdrop, no empty-room staging, no reference layout. From NORA, THE MENDER and the place reference take identity, face, build, wardrobe, architecture and materials exactly as the reference gives them; take none of their pose, framing, lighting or staging.
 SHOT — NORA alone in an emptied school library hears pages turning with no reader, lifts her eyes from a book she was not reading, and far down the corridor a long written coat — a back, never a face — is already crossing between two shelf ranges and turns the corner.
 CONTINUITY — ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: this clip opens on the INHERITED STATE line below exactly, everything in it already true and nothing replayed, and only then does the action begin. It must CONNECT NATURALLY, NOT IDENTICALLY.
@@ -42,10 +42,10 @@ AVOID — the coated figure's face, any profile of the coated figure, any front 
 | **durée** | **5 s** · **son ON** |
 | **`@image1`** (start image) | LIEU-11 IMAGE 1, le master |
 | **`@video1`** | — aucune vidéo, tête de chaîne |
-| **Éléments** | `@mender` · `@LibraryCorridor` |
+| **Éléments** | `@mender` · `@librarycorridor` |
 
 ```
-MATERIALS — @image1 IS THE FIRST FRAME OF THIS GENERATION. No previous clip is attached: this shot is the head of its chain and sets the light, the grain and the skin rendering the following shots match. @mender is THE MENDER. @LibraryCorridor is THE PLACE THIS SHOT HAPPENS IN.
+MATERIALS — @image1 IS THE FIRST FRAME OF THIS GENERATION. No previous clip is attached: this shot is the head of its chain and sets the light, the grain and the skin rendering the following shots match. @mender is THE MENDER. @librarycorridor is THE PLACE THIS SHOT HAPPENS IN.
 ROLES — From the first-frame image take the opening composition and the exact position, pose and prop state of everything in it; take nothing else from it — no border, no backdrop, no empty-room staging, no reference layout. From THE MENDER and the place reference take identity, face, build, wardrobe, architecture and materials exactly as the reference gives them; take none of their pose, framing, lighting or staging.
 SHOT — A tall figure in a long written coat — a back, never a face — is already crossing the corridor of an emptied school library from one shelf range to the next, and turns the corner without ever looking back.
 OPENING FRAME — Wide straight down the corridor of shelves, eye level about 155 cm, deep focus, static, locked off, one stop wider than the main version — the shelves closing in toward the bright window rectangle at the far end, exactly the axis of the reference master, the whole height of a standing figure held inside the frame with air above the hood.
@@ -67,10 +67,10 @@ AVOID — the coated figure's face, any profile of the coated figure, any front 
 | **durée** | **10 s** · **son ON** |
 | **`@image1`** (start image) | LIEU-08 IMAGE 4, le palier, porte entrouverte 10 cm |
 | **`@video1`** | le clip précédent |
-| **Éléments** | `@nora` · `@mender` · `@NoraBedroom` |
+| **Éléments** | `@nora` · `@mender` · `@norabedroom` |
 
 ```
-MATERIALS — @video1 is the shot immediately before this one (8A). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @nora is NORA. @mender is THE MENDER. @NoraBedroom is THE PLACE THIS SHOT HAPPENS IN.
+MATERIALS — @video1 is the shot immediately before this one (8A). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @nora is NORA. @mender is THE MENDER. @norabedroom is THE PLACE THIS SHOT HAPPENS IN.
 ROLES — From the attached video take ONLY the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour and the highlight roll-off. DO NOT TAKE its light, its palette, its exposure, its composition or its framing, and TAKE NOTHING OF ITS AUDIO: not its dialogue, not its voices, not one line spoken in it. Every line heard in it belongs to the previous shot and MUST NEVER BE HEARD AGAIN HERE. From the first-frame image take the opening composition and the exact position, pose and prop state of everything in it; take nothing else from it — no border, no backdrop, no empty-room staging, no reference layout. From NORA, THE MENDER and the place reference take identity, face, build, wardrobe, architecture and materials exactly as the reference gives them; take none of their pose, framing, lighting or staging.
 SHOT — Night.
 CONTINUITY — ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: this clip opens on the INHERITED STATE line below exactly, everything in it already true and nothing replayed, and only then does the action begin. It must CONNECT NATURALLY, NOT IDENTICALLY.
@@ -94,10 +94,10 @@ AVOID — the figure's face, the figure's profile, the figure's head, the figure
 | **durée** | **4 s** · **son ON** |
 | **`@image1`** (start image) | aucun — cadre décrit au prompt, à 2 m du coin |
 | **`@video1`** | — aucune vidéo, tête de chaîne |
-| **Éléments** | `@mender` · `@NoraBedroom` |
+| **Éléments** | `@mender` · `@norabedroom` |
 
 ```
-MATERIALS — @image1 IS THE FIRST FRAME OF THIS GENERATION. No previous clip is attached: this shot is the head of its chain and sets the light, the grain and the skin rendering the following shots match. @mender is THE MENDER. @NoraBedroom is THE PLACE THIS SHOT HAPPENS IN.
+MATERIALS — @image1 IS THE FIRST FRAME OF THIS GENERATION. No previous clip is attached: this shot is the head of its chain and sets the light, the grain and the skin rendering the following shots match. @mender is THE MENDER. @norabedroom is THE PLACE THIS SHOT HAPPENS IN.
 ROLES — From the first-frame image take the opening composition and the exact position, pose and prop state of everything in it; take nothing else from it — no border, no backdrop, no empty-room staging, no reference layout. From THE MENDER and the place reference take identity, face, build, wardrobe, architecture and materials exactly as the reference gives them; take none of their pose, framing, lighting or staging.
 SHOT — At the far corner of a dark upstairs landing, the hem and lower back of a long written coat slide once past the corner toward the unseen stairs and are gone.
 OPENING FRAME — Static, camera at 160 cm, two metres from the corner of the landing and square to the corner wall, locked off: the corner and the stair rail's top post filling the right half of frame, the wall running away to the left, the black drop of the unseen stairwell opening beyond the post, near-black everywhere except where the sodium thread grazes the wall.
@@ -119,10 +119,10 @@ AVOID — the figure's face, the figure's profile, the figure's head, the figure
 | **durée** | **10 s** · **son ON** |
 | **`@image1`** (start image) | LIEU-10 IMAGE 2 |
 | **`@video1`** | le clip précédent |
-| **Éléments** | `@nora` · `@Bathroom` |
+| **Éléments** | `@nora` · `@bathroom` |
 
 ```
-MATERIALS — @video1 is the shot immediately before this one (8B). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @nora is NORA. @Bathroom is THE PLACE THIS SHOT HAPPENS IN.
+MATERIALS — @video1 is the shot immediately before this one (8B). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @nora is NORA. @bathroom is THE PLACE THIS SHOT HAPPENS IN.
 ROLES — From the attached video take ONLY the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour and the highlight roll-off. DO NOT TAKE its light, its palette, its exposure, its composition or its framing, and TAKE NOTHING OF ITS AUDIO: not its dialogue, not its voices, not one line spoken in it. Every line heard in it belongs to the previous shot and MUST NEVER BE HEARD AGAIN HERE. From the first-frame image take the opening composition and the exact position, pose and prop state of everything in it; take nothing else from it — no border, no backdrop, no empty-room staging, no reference layout. From NORA and the place reference take identity, face, build, wardrobe, architecture and materials exactly as the reference gives them; take none of their pose, framing, lighting or staging.
 SHOT — NORA steps out of the shower, the towel half-raised, and lifts her eyes to the mirror out of habit — and the gesture stops there.
 CONTINUITY — ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: this clip opens on the INHERITED STATE line below exactly, everything in it already true and nothing replayed, and only then does the action begin. It must CONNECT NATURALLY, NOT IDENTICALLY.
@@ -146,10 +146,10 @@ AVOID — legible letters, readable words, letterforms in the fog, any writing t
 | **durée** | **5 s** · **son ON** |
 | **`@image1`** (start image) | LIEU-10 IMAGE 2 |
 | **`@video1`** | — aucune vidéo, tête de chaîne |
-| **Éléments** | `@Bathroom` |
+| **Éléments** | `@bathroom` |
 
 ```
-MATERIALS — @image1 IS THE FIRST FRAME OF THIS GENERATION. No previous clip is attached: this shot is the head of its chain and sets the light, the grain and the skin rendering the following shots match. @Bathroom is THE PLACE THIS SHOT HAPPENS IN.
+MATERIALS — @image1 IS THE FIRST FRAME OF THIS GENERATION. No previous clip is attached: this shot is the head of its chain and sets the light, the grain and the skin rendering the following shots match. @bathroom is THE PLACE THIS SHOT HAPPENS IN.
 ROLES — From the first-frame image take the opening composition and the exact position, pose and prop state of everything in it; take nothing else from it — no border, no backdrop, no empty-room staging, no reference layout. From the references and the place reference take identity, face, build, wardrobe, architecture and materials exactly as the reference gives them; take none of their pose, framing, lighting or staging.
 SHOT — A macro insert on a fogged bathroom mirror, alone: three clear bands of abstract soap streaks stand in the fog, whole, sharp and unmoving, while the steam drifts and two beads begin to run at the far end of the lowest band.
 OPENING FRAME — Macro insert on the mirror alone, 85 mm, camera square to the glass at about 60 cm, static, locked off: the fogged mirror filling the frame, its chipped enamel edge entering the left and right frame edges, the chipped top of the basin crossing the bottom of frame.
@@ -171,12 +171,12 @@ AVOID — legible letters, readable words, letterforms in the fog, any writing t
 | **durée** | **8 s** · **son ON** |
 | **`@image1`** (start image) | LIEU-08 IMAGE 3 |
 | **`@video1`** | le clip précédent |
-| **Éléments** | `@nora` · `@NoraBedroom` |
+| **Éléments** | `@nora` · `@norabedroom` |
 
 > 🔴 **Élément(s) inexistant(s) sur le compte : @MotherRing.** Ils sont écrits en clair dans le prompt (le modèle les construira depuis la description), mais l'identité ne sera pas verrouillée d'un plan à l'autre tant qu'ils ne sont pas créés.
 
 ```
-MATERIALS — @video1 is the shot immediately before this one (8C). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @nora is NORA. @NoraBedroom is THE PLACE THIS SHOT HAPPENS IN.
+MATERIALS — @video1 is the shot immediately before this one (8C). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @nora is NORA. @norabedroom is THE PLACE THIS SHOT HAPPENS IN.
 ROLES — From the attached video take ONLY the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour and the highlight roll-off. DO NOT TAKE its light, its palette, its exposure, its composition or its framing, and TAKE NOTHING OF ITS AUDIO: not its dialogue, not its voices, not one line spoken in it. Every line heard in it belongs to the previous shot and MUST NEVER BE HEARD AGAIN HERE. From the first-frame image take the opening composition and the exact position, pose and prop state of everything in it; take nothing else from it — no border, no backdrop, no empty-room staging, no reference layout. From NORA and the place reference take identity, face, build, wardrobe, architecture and materials exactly as the reference gives them; take none of their pose, framing, lighting or staging.
 SHOT — Dressed to leave, NORA opens a small worn box, looks once at her mother's ring, closes her fist on it until the knuckles whiten, and puts it into the right-hand pocket of her coat without looking at it.
 CONTINUITY — ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: this clip opens on the INHERITED STATE line below exactly, everything in it already true and nothing replayed, and only then does the action begin. It must CONNECT NATURALLY, NOT IDENTICALLY.
@@ -200,10 +200,10 @@ AVOID — the ring visible after the first shot, the ring visible inside the poc
 | **durée** | **12 s** · **son ON** |
 | **`@image1`** (start image) | LIEU-13 IMAGE 2 ; l'IMAGE 3 est l'axe du shot 4 |
 | **`@video1`** | le clip précédent |
-| **Éléments** | `@nora` · `@NightBus` |
+| **Éléments** | `@nora` · `@nightbus` |
 
 ```
-MATERIALS — @video1 is the shot immediately before this one (8D). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @nora is NORA. @NightBus is THE PLACE THIS SHOT HAPPENS IN.
+MATERIALS — @video1 is the shot immediately before this one (8D). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @nora is NORA. @nightbus is THE PLACE THIS SHOT HAPPENS IN.
 ROLES — From the attached video take ONLY the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour and the highlight roll-off. DO NOT TAKE its light, its palette, its exposure, its composition or its framing, and TAKE NOTHING OF ITS AUDIO: not its dialogue, not its voices, not one line spoken in it. Every line heard in it belongs to the previous shot and MUST NEVER BE HEARD AGAIN HERE. From the first-frame image take the opening composition and the exact position, pose and prop state of everything in it; take nothing else from it — no border, no backdrop, no empty-room staging, no reference layout. From NORA and the place reference take identity, face, build, wardrobe, architecture and materials exactly as the reference gives them; take none of their pose, framing, lighting or staging.
 SHOT — NORA rides a night bus alone, forehead against the glass, a whole untouched sandwich lying in crumpled paper on her lap under her hand — and she never once looks at it.
 CONTINUITY — ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: this clip opens on the INHERITED STATE line below exactly, everything in it already true and nothing replayed, and only then does the action begin. It must CONNECT NATURALLY, NOT IDENTICALLY.

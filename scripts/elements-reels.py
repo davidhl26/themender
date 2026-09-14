@@ -7,34 +7,41 @@ Releve le 06/09 via show_reference_elements. Deux problemes en sortent :
 """
 
 # nom dans le corpus -> nom exact sur le compte (None = n'existe pas encore)
+# Releve sur les captures de l'interface, le 14/09 — apres le nettoyage des doublons.
+# C'est le selecteur qui fait foi, pas l'API : elle listait encore des Elements supprimes.
+# 19 lieux + 11 personnages. Tout est en minuscules SAUF @Quay.
 CARTE = {
-    # personnages
-    'Sam': 'sam', 'SamBefore': 'sambefore', 'SamAfter': 'samafter',
+    # --- personnages presents ---
+    'Sam': 'samafter', 'SamAfter': 'samafter', 'SamBefore': 'sambefore',
     'Maeve': 'maeva',
     'Nora': 'nora', 'NoraBefore': 'norabefore',
     'Milo': 'milo', 'MiloBefore': 'milobefore',
-    'Mender': 'mender', 'Anna': 'anna', 'Mei': 'mei', 'Fatiha': 'fatiha', 'Asha': 'asha',
-    # personnages MANQUANTS
+    'Mender': 'mender', 'Anna': 'anna', 'Fatiha': 'fatiha', 'Asha': 'asha',
+    # @mei n'apparait pas sur les captures mais l'API le listait : la grille etait
+    # peut-etre coupee. A confirmer dans le selecteur avant de generer la sequence 5.
+    'Mei': 'mei',
+    # --- personnages ABSENTS du selecteur ---
     'MaeveIll': None, 'SamSDF': None, 'AnnaYoung': None, 'Kolya11': None, 'Kolya2': None,
     'WardDoctor': None, 'YoungMother': None, 'YoungMotherHospital': None,
-    # lieux
-    'Kitchen': 'Kitchen-1', 'Quay': 'Quay', 'Restaurant': 'Restaurant',
-    'HospitalRoom': 'HospitalRoom', 'HospitalCorridor': 'HospitalCorridor',
-    'AnnaKitchen': 'AnnaKitchen', 'NoraBedroom': 'NoraBedroom', 'BackGallery': 'BackGallery',
-    'Bathroom': 'Bathroom', 'LibraryCorridor': 'LibraryCorridor', 'NightBus': 'NightBus',
-    'BusShelter': 'BusShelter', 'RedHouseExterior': 'RedHouseExterior',
-    'RedHouseInterior': 'redhouseinterior', 'AnnaKitchenPast': 'AnnaKitchenPast',
-    'RussianHospitalCorridor': 'RussianHospitalCorridor', 'RussianNightStreet': 'RussianNightStreet',
-    'RussianCourtyard': 'RussianCourtyard',
+    # --- lieux presents ---
+    'Kitchen': 'kitchen', 'Quay': 'Quay', 'Restaurant': 'restaurant',
+    'HospitalRoom': 'hospitalroom', 'HospitalCorridor': 'hospitalcorridor',
+    'AnnaKitchen': 'annakitchen', 'NoraBedroom': 'norabedroom', 'BackGallery': 'backgallery',
+    'Bathroom': 'bathroom', 'LibraryCorridor': 'librarycorridor', 'NightBus': 'nightbus',
+    'BusShelter': 'busshelter', 'RedHouseExterior': 'redhouseexterior',
+    'RedHouseInterior': 'redhouseinterior', 'AnnaKitchenPast': 'annakitchenpast',
+    'RussianHospitalCorridor': 'russianhospitalcorridor',
+    'RussianNightStreet': 'russiannightstreet', 'RussianCourtyard': 'russiancourtyard',
+    # --- lieux ABSENTS ---
     'RussianHospitalWard': None,
-    # accessoires : jamais des Elements, on les decrit au prompt
+    # --- accessoires : jamais des Elements, on les decrit au prompt ---
     'MotherRing': None, 'Mailbox': None, 'CounterBowl': None, 'FoldedNote': None,
     'GreenBandPlate': None, 'AnnaDrawing': None,
 }
 
 # nom affiche dans le corps du prompt, une fois la mention liee en tete
 NOM = {
-    'sam': 'SAM', 'sambefore': 'SAM', 'samafter': 'SAM',
+    'samafter': 'SAM', 'sambefore': 'SAM',
     'maeva': 'MAEVE', 'nora': 'NORA', 'norabefore': 'NORA',
     'milo': 'MILO', 'milobefore': 'MILO', 'mender': 'THE MENDER',
     'anna': 'ANNA', 'mei': 'MEI', 'fatiha': 'FATIHA', 'asha': 'ASHA',
@@ -42,7 +49,7 @@ NOM = {
 
 # doublons a nettoyer dans l'interface : (a garder, a supprimer)
 DOUBLONS = [
-    ('Kitchen-1', 'kitchen (x2, ce sont des ANGLES, pas le master), kitchen-2'),
+    ('— nettoyage fait le 14/09 par David : 19 lieux + 11 personnages, plus de doublons', ''),
     ('Restaurant', 'restaurant (x2, auto)'),
     ('Quay', 'Quay en double'),
     ('NightBus', 'nightbus'), ('BackGallery', 'backgallery'),

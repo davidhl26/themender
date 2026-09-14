@@ -15,10 +15,10 @@
 | **durée** | **10 s** · **son ON** |
 | **`@image1`** (start image) | LIEU-08 IMAGE 2, composition VERROUILLÉE |
 | **`@video1`** | — aucune vidéo, tête de chaîne |
-| **Éléments** | `@nora` · `@NoraBedroom` |
+| **Éléments** | `@nora` · `@norabedroom` |
 
 ```
-MATERIALS — @image1 IS THE FIRST FRAME OF THIS GENERATION. No previous clip is attached: this shot is the head of its chain and sets the light, the grain and the skin rendering the following shots match. @nora is NORA. @NoraBedroom is THE PLACE THIS SHOT HAPPENS IN.
+MATERIALS — @image1 IS THE FIRST FRAME OF THIS GENERATION. No previous clip is attached: this shot is the head of its chain and sets the light, the grain and the skin rendering the following shots match. @nora is NORA. @norabedroom is THE PLACE THIS SHOT HAPPENS IN.
 ROLES — From the first-frame image take the opening composition and the exact position, pose and prop state of everything in it; take nothing else from it — no border, no backdrop, no empty-room staging, no reference layout. From NORA and the place reference take identity, face, build, wardrobe, architecture and materials exactly as the reference gives them; take none of their pose, framing, lighting or staging.
 SHOT — Night.
 OPENING FRAME — One single locked shot.
@@ -40,12 +40,12 @@ AVOID — a second person, a man in the hallway, a silhouette, a shadow crossing
 | **durée** | **15 s** · **son ON** |
 | **`@image1`** (start image) | LIEU-06 IMAGE 2 |
 | **`@video1`** | le clip précédent |
-| **Éléments** | `@nora` · `@anna` · `@AnnaKitchen` |
+| **Éléments** | `@nora` · `@anna` · `@annakitchen` |
 
 > 🔴 **Élément(s) inexistant(s) sur le compte : @AnnaDrawing.** Ils sont écrits en clair dans le prompt (le modèle les construira depuis la description), mais l'identité ne sera pas verrouillée d'un plan à l'autre tant qu'ils ne sont pas créés.
 
 ```
-MATERIALS — @video1 is the shot immediately before this one (4A). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @nora is NORA. @anna is ANNA. @AnnaKitchen is THE PLACE THIS SHOT HAPPENS IN.
+MATERIALS — @video1 is the shot immediately before this one (4A). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @nora is NORA. @anna is ANNA. @annakitchen is THE PLACE THIS SHOT HAPPENS IN.
 ROLES — From the attached video take ONLY the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour and the highlight roll-off. DO NOT TAKE its light, its palette, its exposure, its composition or its framing, and TAKE NOTHING OF ITS AUDIO: not its dialogue, not its voices, not one line spoken in it. Every line heard in it belongs to the previous shot and MUST NEVER BE HEARD AGAIN HERE. From the first-frame image take the opening composition and the exact position, pose and prop state of everything in it; take nothing else from it — no border, no backdrop, no empty-room staging, no reference layout. From NORA, ANNA and the place reference take identity, face, build, wardrobe, architecture and materials exactly as the reference gives them; take none of their pose, framing, lighting or staging.
 SHOT — Another night.
 CONTINUITY — ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: this clip opens on the INHERITED STATE line below exactly, everything in it already true and nothing replayed, and only then does the action begin. It must CONNECT NATURALLY, NOT IDENTICALLY.
@@ -69,12 +69,12 @@ AVOID — anyone pouring tea, a kettle being lifted, a cup being filled or carri
 | **durée** | **15 s** · **son ON** |
 | **`@image1`** (start image) | la DERNIÈRE IMAGE DE LA GÉNÉRATION 4B — les hachures pleine image — réexportée et rechargée telle quelle |
 | **`@video1`** | le clip précédent |
-| **Éléments** | `@nora` · `@anna` · `@AnnaKitchen` |
+| **Éléments** | `@nora` · `@anna` · `@annakitchen` |
 
 > 🔴 **Élément(s) inexistant(s) sur le compte : @AnnaDrawing.** Ils sont écrits en clair dans le prompt (le modèle les construira depuis la description), mais l'identité ne sera pas verrouillée d'un plan à l'autre tant qu'ils ne sont pas créés.
 
 ```
-MATERIALS — @video1 is the shot immediately before this one (4B). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @nora is NORA. @anna is ANNA. @AnnaKitchen is THE PLACE THIS SHOT HAPPENS IN.
+MATERIALS — @video1 is the shot immediately before this one (4B). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @nora is NORA. @anna is ANNA. @annakitchen is THE PLACE THIS SHOT HAPPENS IN.
 ROLES — From the attached video take the light level and direction, the grain, the skin rendering and the way the camera behaves. TAKE NO FRAMING FROM IT beyond the first instant, and TAKE NOTHING OF ITS AUDIO: not its dialogue, not its voices, not one line spoken in it. Every line heard in it belongs to the previous shot and MUST NEVER BE HEARD AGAIN HERE. From the first-frame image take the opening composition and the exact position, pose and prop state of everything in it; take nothing else from it — no border, no backdrop, no empty-room staging, no reference layout. From NORA, ANNA and the place reference take identity, face, build, wardrobe, architecture and materials exactly as the reference gives them; take none of their pose, framing, lighting or staging.
 SHOT — The camera comes back up out of a pencil drawing onto the table it lies on.
 CONTINUITY — ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: this clip opens on the INHERITED STATE line below exactly, everything in it already true and nothing replayed, and only then does the action begin. It must CONNECT NATURALLY, NOT IDENTICALLY.
@@ -98,10 +98,10 @@ AVOID — flashback imagery, memory superimposition, figure, a hospital, a corri
 | **durée** | **15 s** · **son ON** |
 | **`@image1`** (start image) | LIEU-06 IMAGE 5 |
 | **`@video1`** | le clip précédent |
-| **Éléments** | `@nora` · `@anna` · `@AnnaKitchen` |
+| **Éléments** | `@nora` · `@anna` · `@annakitchen` |
 
 ```
-MATERIALS — @video1 is the shot immediately before this one (4C). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @nora is NORA. @anna is ANNA. @AnnaKitchen is THE PLACE THIS SHOT HAPPENS IN.
+MATERIALS — @video1 is the shot immediately before this one (4C). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @nora is NORA. @anna is ANNA. @annakitchen is THE PLACE THIS SHOT HAPPENS IN.
 ROLES — From the attached video take the light level and direction, the grain, the skin rendering and the way the camera behaves. TAKE NO FRAMING FROM IT beyond the first instant, and TAKE NOTHING OF ITS AUDIO: not its dialogue, not its voices, not one line spoken in it. Every line heard in it belongs to the previous shot and MUST NEVER BE HEARD AGAIN HERE. From the first-frame image take the opening composition and the exact position, pose and prop state of everything in it; take nothing else from it — no border, no backdrop, no empty-room staging, no reference layout. From NORA, ANNA and the place reference take identity, face, build, wardrobe, architecture and materials exactly as the reference gives them; take none of their pose, framing, lighting or staging.
 SHOT — NORA asks an old woman where to find someone, and gets an answer that is not an address.
 CONTINUITY — ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: this clip opens on the INHERITED STATE line below exactly, everything in it already true and nothing replayed, and only then does the action begin. It must CONNECT NATURALLY, NOT IDENTICALLY.
@@ -125,12 +125,12 @@ AVOID — names beside the pencil marks, words on the door frame, letters, digit
 | **durée** | **10 s** · **son ON** |
 | **`@image1`** (start image) | LIEU-17 IMAGE 4 ; l'IMAGE 2, ANGLE A, est l'axe des shots 2 et 3 |
 | **`@video1`** | — aucune vidéo, tête de chaîne |
-| **Éléments** | `@RussianHospitalCorridor` |
+| **Éléments** | `@russianhospitalcorridor` |
 
 > 🔴 **Élément(s) inexistant(s) sur le compte : @AnnaYoung, @Kolya11, @WardDoctor, @RussianHospitalWard.** Ils sont écrits en clair dans le prompt (le modèle les construira depuis la description), mais l'identité ne sera pas verrouillée d'un plan à l'autre tant qu'ils ne sont pas créés.
 
 ```
-MATERIALS — @image1 IS THE FIRST FRAME OF THIS GENERATION. No previous clip is attached: this shot is the head of its chain and sets the light, the grain and the skin rendering the following shots match. @RussianHospitalCorridor is THE PLACE THIS SHOT HAPPENS IN.
+MATERIALS — @image1 IS THE FIRST FRAME OF THIS GENERATION. No previous clip is attached: this shot is the head of its chain and sets the light, the grain and the skin rendering the following shots match. @russianhospitalcorridor is THE PLACE THIS SHOT HAPPENS IN.
 ROLES — From the first-frame image take the opening composition and the exact position, pose and prop state of everything in it; take nothing else from it — no border, no backdrop, no empty-room staging, no reference layout. From the references and the place reference take identity, face, build, wardrobe, architecture and materials exactly as the reference gives them; take none of their pose, framing, lighting or staging.
 SHOT — A woman sits by her son's hospital bed and his fingers loosen out of her hand one by one; in the corridor a doctor comes out of a door ten metres away and takes his cloth cap off without coming any closer; her knees go and she goes down the tiled wall and screams one name.
 OPENING FRAME — Tight medium from the open doorway of KOLYA11's room, compressed flat by the long lens, standing eye level, camera about 155 cm high, static, locked off.
@@ -152,12 +152,12 @@ AVOID — bright red, saturated red, red cross, red crescent, fire extinguisher,
 | **durée** | **10 s** · **son ON** |
 | **`@image1`** (start image) | LIEU-17 IMAGE 1, le master ; l'IMAGE 5, ANGLE D, est l'axe du shot 2 |
 | **`@video1`** | le clip précédent |
-| **Éléments** | `@RussianHospitalCorridor` |
+| **Éléments** | `@russianhospitalcorridor` |
 
 > 🔴 **Élément(s) inexistant(s) sur le compte : @YoungMotherHospital, @WardDoctor.** Ils sont écrits en clair dans le prompt (le modèle les construira depuis la description), mais l'identité ne sera pas verrouillée d'un plan à l'autre tant qu'ils ne sont pas créés.
 
 ```
-MATERIALS — @video1 is the shot immediately before this one (4E). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @RussianHospitalCorridor is THE PLACE THIS SHOT HAPPENS IN.
+MATERIALS — @video1 is the shot immediately before this one (4E). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @russianhospitalcorridor is THE PLACE THIS SHOT HAPPENS IN.
 ROLES — From the attached video take the light level and direction, the grain, the skin rendering and the way the camera behaves. TAKE NO FRAMING FROM IT beyond the first instant, and TAKE NOTHING OF ITS AUDIO: not its dialogue, not its voices, not one line spoken in it. Every line heard in it belongs to the previous shot and MUST NEVER BE HEARD AGAIN HERE. From the first-frame image take the opening composition and the exact position, pose and prop state of everything in it; take nothing else from it — no border, no backdrop, no empty-room staging, no reference layout. From the references and the place reference take identity, face, build, wardrobe, architecture and materials exactly as the reference gives them; take none of their pose, framing, lighting or staging.
 SHOT — The same night, in the same corridor.
 CONTINUITY — ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: this clip opens on the INHERITED STATE line below exactly, everything in it already true and nothing replayed, and only then does the action begin. It must CONNECT NATURALLY, NOT IDENTICALLY.
@@ -181,12 +181,12 @@ AVOID — audible speech, spoken words, whispered dialogue, lip-synced speech, a
 | **durée** | **6 s** · **son ON** |
 | **`@image1`** (start image) | LIEU-17 IMAGE 3, ANGLE B |
 | **`@video1`** | le clip précédent |
-| **Éléments** | `@RussianHospitalCorridor` |
+| **Éléments** | `@russianhospitalcorridor` |
 
 > 🔴 **Élément(s) inexistant(s) sur le compte : @AnnaYoung, @WardDoctor, @YoungMotherHospital.** Ils sont écrits en clair dans le prompt (le modèle les construira depuis la description), mais l'identité ne sera pas verrouillée d'un plan à l'autre tant qu'ils ne sont pas créés.
 
 ```
-MATERIALS — @video1 is the shot immediately before this one (4F). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @RussianHospitalCorridor is THE PLACE THIS SHOT HAPPENS IN.
+MATERIALS — @video1 is the shot immediately before this one (4F). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @russianhospitalcorridor is THE PLACE THIS SHOT HAPPENS IN.
 ROLES — From the attached video take the light level and direction, the grain, the skin rendering and the way the camera behaves. TAKE NO FRAMING FROM IT beyond the first instant, and TAKE NOTHING OF ITS AUDIO: not its dialogue, not its voices, not one line spoken in it. Every line heard in it belongs to the previous shot and MUST NEVER BE HEARD AGAIN HERE. From the first-frame image take the opening composition and the exact position, pose and prop state of everything in it; take nothing else from it — no border, no backdrop, no empty-room staging, no reference layout. From the references and the place reference take identity, face, build, wardrobe, architecture and materials exactly as the reference gives them; take none of their pose, framing, lighting or staging.
 SHOT — A hospital corridor at night, seen from a gurney that is rolling toward a pair of heavy double doors.
 CONTINUITY — ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: this clip opens on the INHERITED STATE line below exactly, everything in it already true and nothing replayed, and only then does the action begin. It must CONNECT NATURALLY, NOT IDENTICALLY.
@@ -210,12 +210,12 @@ AVOID — the kneeling woman standing up, the kneeling woman turning, her face, 
 | **durée** | **8 s** · **son ON** |
 | **`@image1`** (start image) | LIEU-18 IMAGE 2, ANGLE A porte fermée ; l'IMAGE 4, ANGLE B, est l'axe du shot 2 |
 | **`@video1`** | le clip précédent |
-| **Éléments** | `@mender` · `@AnnaKitchenPast` |
+| **Éléments** | `@mender` · `@annakitchenpast` |
 
 > 🔴 **Élément(s) inexistant(s) sur le compte : @AnnaYoung.** Ils sont écrits en clair dans le prompt (le modèle les construira depuis la description), mais l'identité ne sera pas verrouillée d'un plan à l'autre tant qu'ils ne sont pas créés.
 
 ```
-MATERIALS — @video1 is the shot immediately before this one (4G). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @mender is THE MENDER. @AnnaKitchenPast is THE PLACE THIS SHOT HAPPENS IN.
+MATERIALS — @video1 is the shot immediately before this one (4G). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @mender is THE MENDER. @annakitchenpast is THE PLACE THIS SHOT HAPPENS IN.
 ROLES — From the attached video take ONLY the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour and the highlight roll-off. DO NOT TAKE its light, its palette, its exposure, its composition or its framing, and TAKE NOTHING OF ITS AUDIO: not its dialogue, not its voices, not one line spoken in it. Every line heard in it belongs to the previous shot and MUST NEVER BE HEARD AGAIN HERE. From the first-frame image take the opening composition and the exact position, pose and prop state of everything in it; take nothing else from it — no border, no backdrop, no empty-room staging, no reference layout. From THE MENDER and the place reference take identity, face, build, wardrobe, architecture and materials exactly as the reference gives them; take none of their pose, framing, lighting or staging.
 SHOT — Two years later, at night.
 CONTINUITY — ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: this clip opens on the INHERITED STATE line below exactly, everything in it already true and nothing replayed, and only then does the action begin. It must CONNECT NATURALLY, NOT IDENTICALLY.
@@ -239,12 +239,12 @@ AVOID — the coated figure's face, any profile of the coated figure, any front 
 | **durée** | **10 s** · **son ON** |
 | **`@image1`** (start image) | LIEU-20 IMAGE 2, ANGLE A ; l'IMAGE 3 donne la valeur des shots 2 et 3 |
 | **`@video1`** | le clip précédent |
-| **Éléments** | `@mender` · `@RussianCourtyard` |
+| **Éléments** | `@mender` · `@russiancourtyard` |
 
 > 🔴 **Élément(s) inexistant(s) sur le compte : @AnnaYoung, @YoungMother, @Kolya2.** Ils sont écrits en clair dans le prompt (le modèle les construira depuis la description), mais l'identité ne sera pas verrouillée d'un plan à l'autre tant qu'ils ne sont pas créés.
 
 ```
-MATERIALS — @video1 is the shot immediately before this one (4H). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @mender is THE MENDER. @RussianCourtyard is THE PLACE THIS SHOT HAPPENS IN.
+MATERIALS — @video1 is the shot immediately before this one (4H). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @mender is THE MENDER. @russiancourtyard is THE PLACE THIS SHOT HAPPENS IN.
 ROLES — From the attached video take ONLY the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour and the highlight roll-off. DO NOT TAKE its light, its palette, its exposure, its composition or its framing, and TAKE NOTHING OF ITS AUDIO: not its dialogue, not its voices, not one line spoken in it. Every line heard in it belongs to the previous shot and MUST NEVER BE HEARD AGAIN HERE. From the first-frame image take the opening composition and the exact position, pose and prop state of everything in it; take nothing else from it — no border, no backdrop, no empty-room staging, no reference layout. From THE MENDER and the place reference take identity, face, build, wardrobe, architecture and materials exactly as the reference gives them; take none of their pose, framing, lighting or staging.
 SHOT — The same night, three streets away.
 CONTINUITY — ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: this clip opens on the INHERITED STATE line below exactly, everything in it already true and nothing replayed, and only then does the action begin. It must CONNECT NATURALLY, NOT IDENTICALLY.

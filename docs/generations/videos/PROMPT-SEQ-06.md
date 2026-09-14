@@ -15,10 +15,10 @@
 | **durée** | **12 s** · **son ON** |
 | **`@image1`** (start image) | LIEU-08 IMAGE 3 |
 | **`@video1`** | le clip précédent |
-| **Éléments** | `@nora` · `@NoraBedroom` |
+| **Éléments** | `@nora` · `@norabedroom` |
 
 ```
-MATERIALS — @video1 is the shot immediately before this one (5D). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @nora is NORA. @NoraBedroom is THE PLACE THIS SHOT HAPPENS IN.
+MATERIALS — @video1 is the shot immediately before this one (5D). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @nora is NORA. @norabedroom is THE PLACE THIS SHOT HAPPENS IN.
 ROLES — From the attached video take ONLY the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour and the highlight roll-off. DO NOT TAKE its light, its palette, its exposure, its composition or its framing, and TAKE NOTHING OF ITS AUDIO: not its dialogue, not its voices, not one line spoken in it. Every line heard in it belongs to the previous shot and MUST NEVER BE HEARD AGAIN HERE. From the first-frame image take the opening composition and the exact position, pose and prop state of everything in it; take nothing else from it — no border, no backdrop, no empty-room staging, no reference layout. From NORA and the place reference take identity, face, build, wardrobe, architecture and materials exactly as the reference gives them; take none of their pose, framing, lighting or staging.
 SHOT — Alone at night in a dark bedroom, NORA reads a page on her laptop, scrolls once, stops on something, and lifts her eyes off the screen toward the black window.
 CONTINUITY — ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: this clip opens on the INHERITED STATE line below exactly, everything in it already true and nothing replayed, and only then does the action begin. It must CONNECT NATURALLY, NOT IDENTICALLY.
@@ -42,10 +42,10 @@ AVOID — readable text on the screen, legible letters, words, digits or interfa
 | **durée** | **6 s** · **son ON** |
 | **`@image1`** (start image) | LIEU-08 IMAGE 3 |
 | **`@video1`** | — aucune vidéo, tête de chaîne |
-| **Éléments** | `@NoraBedroom` |
+| **Éléments** | `@norabedroom` |
 
 ```
-MATERIALS — @image1 IS THE FIRST FRAME OF THIS GENERATION. No previous clip is attached: this shot is the head of its chain and sets the light, the grain and the skin rendering the following shots match. @NoraBedroom is THE PLACE THIS SHOT HAPPENS IN.
+MATERIALS — @image1 IS THE FIRST FRAME OF THIS GENERATION. No previous clip is attached: this shot is the head of its chain and sets the light, the grain and the skin rendering the following shots match. @norabedroom is THE PLACE THIS SHOT HAPPENS IN.
 ROLES — From the first-frame image take the opening composition and the exact position, pose and prop state of everything in it; take nothing else from it — no border, no backdrop, no empty-room staging, no reference layout. From the references and the place reference take identity, face, build, wardrobe, architecture and materials exactly as the reference gives them; take none of their pose, framing, lighting or staging.
 SHOT — A laptop screen alone in a dark empty bedroom, holding a page that is only light and blocks.
 OPENING FRAME — Static, camera about 105 cm high and 45 cm from the laptop, the screen square to the lens and IN FOCUS, locked off, absolutely no drift.
@@ -67,10 +67,10 @@ AVOID — readable text on the screen, legible letters, words, digits or interfa
 | **durée** | **12 s** · **son ON** |
 | **`@image1`** (start image) | LIEU-09 IMAGE 2 ; l'IMAGE 3 est l'axe du shot 2 |
 | **`@video1`** | le clip précédent |
-| **Éléments** | `@nora` · `@BackGallery` |
+| **Éléments** | `@nora` · `@backgallery` |
 
 ```
-MATERIALS — @video1 is the shot immediately before this one (6A). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @nora is NORA. @BackGallery is THE PLACE THIS SHOT HAPPENS IN.
+MATERIALS — @video1 is the shot immediately before this one (6A). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @nora is NORA. @backgallery is THE PLACE THIS SHOT HAPPENS IN.
 ROLES — From the attached video take ONLY the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour and the highlight roll-off. DO NOT TAKE its light, its palette, its exposure, its composition or its framing, and TAKE NOTHING OF ITS AUDIO: not its dialogue, not its voices, not one line spoken in it. Every line heard in it belongs to the previous shot and MUST NEVER BE HEARD AGAIN HERE. From the first-frame image take the opening composition and the exact position, pose and prop state of everything in it; take nothing else from it — no border, no backdrop, no empty-room staging, no reference layout. From NORA and the place reference take identity, face, build, wardrobe, architecture and materials exactly as the reference gives them; take none of their pose, framing, lighting or staging.
 SHOT — At midnight NORA comes out onto the rear gallery of her building, takes hold of the rail, hesitates, and throws one question out loud at the rooftops.
 CONTINUITY — ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: this clip opens on the INHERITED STATE line below exactly, everything in it already true and nothing replayed, and only then does the action begin. It must CONNECT NATURALLY, NOT IDENTICALLY.
@@ -94,10 +94,10 @@ AVOID — a second person, a man, any figure or silhouette in any window, doorwa
 | **durée** | **6 s** · **son ON** |
 | **`@image1`** (start image) | LIEU-09 IMAGE 3, au rail |
 | **`@video1`** | — aucune vidéo, tête de chaîne |
-| **Éléments** | `@nora` · `@BackGallery` |
+| **Éléments** | `@nora` · `@backgallery` |
 
 ```
-MATERIALS — @image1 IS THE FIRST FRAME OF THIS GENERATION. No previous clip is attached: this shot is the head of its chain and sets the light, the grain and the skin rendering the following shots match. @nora is NORA. @BackGallery is THE PLACE THIS SHOT HAPPENS IN.
+MATERIALS — @image1 IS THE FIRST FRAME OF THIS GENERATION. No previous clip is attached: this shot is the head of its chain and sets the light, the grain and the skin rendering the following shots match. @nora is NORA. @backgallery is THE PLACE THIS SHOT HAPPENS IN.
 ROLES — From the first-frame image take the opening composition and the exact position, pose and prop state of everything in it; take nothing else from it — no border, no backdrop, no empty-room staging, no reference layout. From NORA and the place reference take identity, face, build, wardrobe, architecture and materials exactly as the reference gives them; take none of their pose, framing, lighting or staging.
 SHOT — At midnight, at the rail of a rear gallery, NORA hesitates and throws one question out loud at the rooftops.
 OPENING FRAME — Medium close along the rail, three-quarter left profile, eye level, camera about 160 cm high and 1.2 m from her, static, locked off, one size tighter than the main version so the frame is filled by her, the rail and the night alone.
@@ -119,10 +119,10 @@ AVOID — a second person, a man, any figure or silhouette anywhere, a window in
 | **durée** | **8 s** · **son ON** |
 | **`@image1`** (start image) | LIEU-08 IMAGE 4, le palier, porte entrouverte 10 cm |
 | **`@video1`** | le clip précédent |
-| **Éléments** | `@nora` · `@sam` · `@NoraBedroom` |
+| **Éléments** | `@nora` · `@samafter` · `@norabedroom` |
 
 ```
-MATERIALS — @video1 is the shot immediately before this one (6B). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @nora is NORA. @sam is SAM. @NoraBedroom is THE PLACE THIS SHOT HAPPENS IN.
+MATERIALS — @video1 is the shot immediately before this one (6B). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @nora is NORA. @samafter is SAM. @norabedroom is THE PLACE THIS SHOT HAPPENS IN.
 ROLES — From the attached video take ONLY the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour and the highlight roll-off. DO NOT TAKE its light, its palette, its exposure, its composition or its framing, and TAKE NOTHING OF ITS AUDIO: not its dialogue, not its voices, not one line spoken in it. Every line heard in it belongs to the previous shot and MUST NEVER BE HEARD AGAIN HERE. From the first-frame image take the opening composition and the exact position, pose and prop state of everything in it; take nothing else from it — no border, no backdrop, no empty-room staging, no reference layout. From NORA, SAM and the place reference take identity, face, build, wardrobe, architecture and materials exactly as the reference gives them; take none of their pose, framing, lighting or staging.
 SHOT — A father stands in the dark landing outside his daughter's door, just arrived at the top of the stairs, and asks one quiet question.
 CONTINUITY — ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: this clip opens on the INHERITED STATE line below exactly, everything in it already true and nothing replayed, and only then does the action begin. It must CONNECT NATURALLY, NOT IDENTICALLY.

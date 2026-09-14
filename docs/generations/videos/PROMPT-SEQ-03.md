@@ -15,11 +15,11 @@
 | **durée** | **10 s** · **son ON** |
 | **`@image1`** (start image) | aucune |
 | **`@video1`** | le clip précédent |
-| **Éléments** | `@maeva` · `@Kitchen-1` |
+| **Éléments** | `@maeva` · `@kitchen` |
 
 ```
-MATERIALS — @video1 is the shot immediately before this one (2D). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @maeva is MAEVE. @Kitchen-1 is THE PLACE THIS SHOT HAPPENS IN.
-ROLES — From the attached video take ONLY the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour and the highlight roll-off. DO NOT TAKE its light, its palette, its exposure, its composition or its framing, and TAKE NOTHING OF ITS AUDIO: not its dialogue, not its voices, not one line spoken in it. Every line heard in it belongs to the previous shot and MUST NEVER BE HEARD AGAIN HERE. From the first-frame image take the opening composition and the exact position, pose and prop state of everything in it; take nothing else from it — no border, no backdrop, no empty-room staging, no reference layout. From MAEVE and the place reference take identity, face, build, wardrobe, architecture and materials exactly as the reference gives them; take none of their pose, framing, lighting or staging.
+MATERIALS — @video1 is the shot immediately before this one (2D). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @maeva is MAEVE. @kitchen is KITCHEN.
+ROLES — From the attached video take ONLY the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour and the highlight roll-off. DO NOT TAKE its light, its palette, its exposure, its composition or its framing, and TAKE NOTHING OF ITS AUDIO: not its dialogue, not its voices, not one line spoken in it. Every line heard in it belongs to the previous shot and MUST NEVER BE HEARD AGAIN HERE. From the first-frame image take the opening composition and the exact position, pose and prop state of everything in it; take nothing else from it — no border, no backdrop, no empty-room staging, no reference layout. From MAEVE, KITCHEN and the place reference take identity, face, build, wardrobe, architecture and materials exactly as the reference gives them; take none of their pose, framing, lighting or staging.
 SHOT — A few weeks later, the same kitchen, a paler morning.
 CONTINUITY — ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: this clip opens on the INHERITED STATE line below exactly, everything in it already true and nothing replayed, and only then does the action begin. It must CONNECT NATURALLY, NOT IDENTICALLY.
 INHERITED STATE, ALREADY TRUE AT FRAME ONE — SAM: left third of frame, SEATED, x=30%. MAEVE: centre of frame, SEATED, x=54%, filling 45% of frame height. MILO: centre of frame, x=62%. NORA: right third of frame, SEATED, x=78%. Nothing in this list may be re-placed, re-lit or improved.
@@ -42,10 +42,10 @@ AVOID — visible camera rigs, cartoonish colors, blurred focus, on-screen text,
 | **durée** | **10 s** · **son ON** |
 | **`@image1`** (start image) | LIEU-05 IMAGE 2 |
 | **`@video1`** | le clip précédent |
-| **Éléments** | `@sambefore` · `@norabefore` · `@HospitalCorridor` |
+| **Éléments** | `@sambefore` · `@norabefore` · `@hospitalcorridor` |
 
 ```
-MATERIALS — @video1 is the shot immediately before this one (3A). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @sambefore is SAM. @norabefore is NORA. @HospitalCorridor is THE PLACE THIS SHOT HAPPENS IN.
+MATERIALS — @video1 is the shot immediately before this one (3A). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @sambefore is SAM. @norabefore is NORA. @hospitalcorridor is THE PLACE THIS SHOT HAPPENS IN.
 ROLES — From the attached video take ONLY the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour and the highlight roll-off. DO NOT TAKE its light, its palette, its exposure, its composition or its framing, and TAKE NOTHING OF ITS AUDIO: not its dialogue, not its voices, not one line spoken in it. Every line heard in it belongs to the previous shot and MUST NEVER BE HEARD AGAIN HERE. From the first-frame image take the opening composition and the exact position, pose and prop state of everything in it; take nothing else from it — no border, no backdrop, no empty-room staging, no reference layout. From SAM, NORA and the place reference take identity, face, build, wardrobe, architecture and materials exactly as the reference gives them; take none of their pose, framing, lighting or staging.
 SHOT — A hospital corridor, day.
 CONTINUITY — ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: this clip opens on the INHERITED STATE line below exactly, everything in it already true and nothing replayed, and only then does the action begin. It must CONNECT NATURALLY, NOT IDENTICALLY.
@@ -69,12 +69,12 @@ AVOID — visible camera rigs, cartoonish colors, blurred focus on the two men, 
 | **durée** | **8 s** · **son ON** |
 | **`@image1`** (start image) | LIEU-04 IMAGE 2 |
 | **`@video1`** | le clip précédent |
-| **Éléments** | `@milobefore` · `@HospitalRoom` |
+| **Éléments** | `@milobefore` · `@hospitalroom` |
 
 > 🔴 **Élément(s) inexistant(s) sur le compte : @MaeveIll.** Ils sont écrits en clair dans le prompt (le modèle les construira depuis la description), mais l'identité ne sera pas verrouillée d'un plan à l'autre tant qu'ils ne sont pas créés.
 
 ```
-MATERIALS — @video1 is the shot immediately before this one (3B). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @milobefore is MILO. @HospitalRoom is THE PLACE THIS SHOT HAPPENS IN.
+MATERIALS — @video1 is the shot immediately before this one (3B). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @milobefore is MILO. @hospitalroom is THE PLACE THIS SHOT HAPPENS IN.
 ROLES — From the attached video take ONLY the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour and the highlight roll-off. DO NOT TAKE its light, its palette, its exposure, its composition or its framing, and TAKE NOTHING OF ITS AUDIO: not its dialogue, not its voices, not one line spoken in it. Every line heard in it belongs to the previous shot and MUST NEVER BE HEARD AGAIN HERE. From the first-frame image take the opening composition and the exact position, pose and prop state of everything in it; take nothing else from it — no border, no backdrop, no empty-room staging, no reference layout. From MILO and the place reference take identity, face, build, wardrobe, architecture and materials exactly as the reference gives them; take none of their pose, framing, lighting or staging.
 SHOT — A gravely ill mother holds her small son on a hospital bed.
 CONTINUITY — ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: this clip opens on the INHERITED STATE line below exactly, everything in it already true and nothing replayed, and only then does the action begin. It must CONNECT NATURALLY, NOT IDENTICALLY.
@@ -98,12 +98,12 @@ AVOID — visible camera rigs, cartoonish colors, blurred focus, on-screen text,
 | **durée** | **10 s** · **son ON** |
 | **`@image1`** (start image) | LIEU-04 IMAGE 2 — shots 2 et 3 après hard cut interne, sans start frame |
 | **`@video1`** | le clip précédent |
-| **Éléments** | `@norabefore` · `@HospitalRoom` |
+| **Éléments** | `@norabefore` · `@hospitalroom` |
 
 > 🔴 **Élément(s) inexistant(s) sur le compte : @MaeveIll, @MotherRing.** Ils sont écrits en clair dans le prompt (le modèle les construira depuis la description), mais l'identité ne sera pas verrouillée d'un plan à l'autre tant qu'ils ne sont pas créés.
 
 ```
-MATERIALS — @video1 is the shot immediately before this one (3C). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @norabefore is NORA. @HospitalRoom is THE PLACE THIS SHOT HAPPENS IN.
+MATERIALS — @video1 is the shot immediately before this one (3C). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @norabefore is NORA. @hospitalroom is THE PLACE THIS SHOT HAPPENS IN.
 ROLES — From the attached video take the light level and direction, the grain, the skin rendering and the way the camera behaves. TAKE NO FRAMING FROM IT beyond the first instant, and TAKE NOTHING OF ITS AUDIO: not its dialogue, not its voices, not one line spoken in it. Every line heard in it belongs to the previous shot and MUST NEVER BE HEARD AGAIN HERE. From the first-frame image take the opening composition and the exact position, pose and prop state of everything in it; take nothing else from it — no border, no backdrop, no empty-room staging, no reference layout. From NORA and the place reference take identity, face, build, wardrobe, architecture and materials exactly as the reference gives them; take none of their pose, framing, lighting or staging.
 SHOT — NORA comes to her dying mother's bedside and does not know where to put her hands.
 CONTINUITY — ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: this clip opens on the INHERITED STATE line below exactly, everything in it already true and nothing replayed, and only then does the action begin. It must CONNECT NATURALLY, NOT IDENTICALLY.
@@ -127,12 +127,12 @@ AVOID — visible camera rigs, cartoonish colors, blurred focus, on-screen text,
 | **durée** | **10 s** · **son ON** |
 | **`@image1`** (start image) | LIEU-05 IMAGE 3 |
 | **`@video1`** | le clip précédent |
-| **Éléments** | `@sambefore` · `@HospitalCorridor` · `@HospitalRoom` |
+| **Éléments** | `@sambefore` · `@hospitalcorridor` · `@hospitalroom` |
 
 > 🔴 **Élément(s) inexistant(s) sur le compte : @MaeveIll.** Ils sont écrits en clair dans le prompt (le modèle les construira depuis la description), mais l'identité ne sera pas verrouillée d'un plan à l'autre tant qu'ils ne sont pas créés.
 
 ```
-MATERIALS — @video1 is the shot immediately before this one (3D). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @sambefore is SAM. @HospitalCorridor is HOSPITAL CORRIDOR, one of the places this shot happens in. @HospitalRoom is HOSPITAL ROOM, one of the places this shot happens in.
+MATERIALS — @video1 is the shot immediately before this one (3D). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @sambefore is SAM. @hospitalcorridor is HOSPITAL CORRIDOR, one of the places this shot happens in. @hospitalroom is HOSPITAL ROOM, one of the places this shot happens in.
 ROLES — From the attached video take ONLY the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour and the highlight roll-off. DO NOT TAKE its light, its palette, its exposure, its composition or its framing, and TAKE NOTHING OF ITS AUDIO: not its dialogue, not its voices, not one line spoken in it. Every line heard in it belongs to the previous shot and MUST NEVER BE HEARD AGAIN HERE. From the first-frame image take the opening composition and the exact position, pose and prop state of everything in it; take nothing else from it — no border, no backdrop, no empty-room staging, no reference layout. From SAM and the place reference take identity, face, build, wardrobe, architecture and materials exactly as the reference gives them; take none of their pose, framing, lighting or staging.
 SHOT — Through the glass of a closed hospital room door, mute: a dying woman takes her husband's face in both her hands and speaks to him at length, without ever letting go.
 CONTINUITY — ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: this clip opens on the INHERITED STATE line below exactly, everything in it already true and nothing replayed, and only then does the action begin. It must CONNECT NATURALLY, NOT IDENTICALLY.
@@ -156,10 +156,10 @@ AVOID — visible camera rigs, cartoonish colors, blurred focus, on-screen text,
 | **durée** | **10 s** · **son ON** |
 | **`@image1`** (start image) | LIEU-05 IMAGE 4 pour le shot 1 — shot 2 après hard cut interne, sans start frame |
 | **`@video1`** | le clip précédent |
-| **Éléments** | `@norabefore` · `@sambefore` · `@HospitalCorridor` |
+| **Éléments** | `@norabefore` · `@sambefore` · `@hospitalcorridor` |
 
 ```
-MATERIALS — @video1 is the shot immediately before this one (3E). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @norabefore is NORA. @sambefore is SAM. @HospitalCorridor is THE PLACE THIS SHOT HAPPENS IN.
+MATERIALS — @video1 is the shot immediately before this one (3E). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @norabefore is NORA. @sambefore is SAM. @hospitalcorridor is THE PLACE THIS SHOT HAPPENS IN.
 ROLES — From the attached video take ONLY the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour and the highlight roll-off. DO NOT TAKE its light, its palette, its exposure, its composition or its framing, and TAKE NOTHING OF ITS AUDIO: not its dialogue, not its voices, not one line spoken in it. Every line heard in it belongs to the previous shot and MUST NEVER BE HEARD AGAIN HERE. From the first-frame image take the opening composition and the exact position, pose and prop state of everything in it; take nothing else from it — no border, no backdrop, no empty-room staging, no reference layout. From NORA, SAM and the place reference take identity, face, build, wardrobe, architecture and materials exactly as the reference gives them; take none of their pose, framing, lighting or staging.
 SHOT — NORA has just come out of a hospital room.
 CONTINUITY — ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: this clip opens on the INHERITED STATE line below exactly, everything in it already true and nothing replayed, and only then does the action begin. It must CONNECT NATURALLY, NOT IDENTICALLY.

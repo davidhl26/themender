@@ -68,10 +68,10 @@ AVOID — any red other than the crimson wool scarf on MAEVE, red buoys, red hul
 | **durée** | **8 s** · **son ON** |
 | **`@image1`** (start image) | LIEU-07 IMAGE 2 |
 | **`@video1`** | le clip précédent |
-| **Éléments** | `@sambefore` · `@maeva` · `@norabefore` · `@milobefore` · `@mei` · `@Restaurant` |
+| **Éléments** | `@sambefore` · `@maeva` · `@norabefore` · `@milobefore` · `@mei` · `@restaurant` |
 
 ```
-MATERIALS — @video1 is the shot immediately before this one (2B). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @sambefore is SAM. @maeva is MAEVE. @norabefore is NORA. @milobefore is MILO. @mei is MEI. @Restaurant is THE PLACE THIS SHOT HAPPENS IN.
+MATERIALS — @video1 is the shot immediately before this one (2B). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @sambefore is SAM. @maeva is MAEVE. @norabefore is NORA. @milobefore is MILO. @mei is MEI. @restaurant is THE PLACE THIS SHOT HAPPENS IN.
 ROLES — From the attached video take ONLY the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour and the highlight roll-off. DO NOT TAKE its light, its palette, its exposure, its composition or its framing, and TAKE NOTHING OF ITS AUDIO: not its dialogue, not its voices, not one line spoken in it. Every line heard in it belongs to the previous shot and MUST NEVER BE HEARD AGAIN HERE. From the first-frame image take the opening composition and the exact position, pose and prop state of everything in it; take nothing else from it — no border, no backdrop, no empty-room staging, no reference layout. From SAM, MAEVE, NORA, MILO, MEI and the place reference take identity, face, build, wardrobe, architecture and materials exactly as the reference gives them; take none of their pose, framing, lighting or staging.
 SHOT — The owner of a small harbour restaurant carries four plates to a family's table and sets them down one to each person, without being asked and without a menu — she has known this family for years.
 CONTINUITY — ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: this clip opens on the INHERITED STATE line below exactly, everything in it already true and nothing replayed, and only then does the action begin. It must CONNECT NATURALLY, NOT IDENTICALLY.
@@ -95,10 +95,10 @@ AVOID — three plates, five plates, duplicated plates, a plate moved after it i
 | **durée** | **14 s** · **son ON** |
 | **`@image1`** (start image) | LIEU-07 IMAGE 2, état « later » |
 | **`@video1`** | le clip précédent |
-| **Éléments** | `@sambefore` · `@maeva` · `@norabefore` · `@milobefore` · `@Restaurant` |
+| **Éléments** | `@sambefore` · `@maeva` · `@norabefore` · `@milobefore` · `@restaurant` |
 
 ```
-MATERIALS — @video1 is the shot immediately before this one (2C). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @sambefore is SAM. @maeva is MAEVE. @norabefore is NORA. @milobefore is MILO. @Restaurant is THE PLACE THIS SHOT HAPPENS IN.
+MATERIALS — @video1 is the shot immediately before this one (2C). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @sambefore is SAM. @maeva is MAEVE. @norabefore is NORA. @milobefore is MILO. @restaurant is THE PLACE THIS SHOT HAPPENS IN.
 ROLES — From the attached video take the light level and direction, the grain, the skin rendering and the way the camera behaves. TAKE NO FRAMING FROM IT beyond the first instant, and TAKE NOTHING OF ITS AUDIO: not its dialogue, not its voices, not one line spoken in it. Every line heard in it belongs to the previous shot and MUST NEVER BE HEARD AGAIN HERE. From the first-frame image take the opening composition and the exact position, pose and prop state of everything in it; take nothing else from it — no border, no backdrop, no empty-room staging, no reference layout. From SAM, MAEVE, NORA, MILO and the place reference take identity, face, build, wardrobe, architecture and materials exactly as the reference gives them; take none of their pose, framing, lighting or staging.
 SHOT — Much later in the evening, the little MILO has fallen asleep against his mother; the father dips a wooden chopstick in his tea and draws on the paper tablecloth, slow sure strokes, for his daughter who leans in and watches his hand.
 CONTINUITY — ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: this clip opens on the INHERITED STATE line below exactly, everything in it already true and nothing replayed, and only then does the action begin. It must CONNECT NATURALLY, NOT IDENTICALLY.

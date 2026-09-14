@@ -15,12 +15,12 @@
 | **durée** | **10 s** · **son ON** |
 | **`@image1`** (start image) | LIEU-14 IMAGE 2, telle quelle |
 | **`@video1`** | le clip précédent |
-| **Éléments** | `@nora` · `@BusShelter` |
+| **Éléments** | `@nora` · `@busshelter` |
 
 > 🔴 **Élément(s) inexistant(s) sur le compte : @SamSDF.** Ils sont écrits en clair dans le prompt (le modèle les construira depuis la description), mais l'identité ne sera pas verrouillée d'un plan à l'autre tant qu'ils ne sont pas créés.
 
 ```
-MATERIALS — @video1 is the shot immediately before this one (8E). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @nora is NORA. @BusShelter is THE PLACE THIS SHOT HAPPENS IN.
+MATERIALS — @video1 is the shot immediately before this one (8E). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @nora is NORA. @busshelter is THE PLACE THIS SHOT HAPPENS IN.
 ROLES — From the attached video take ONLY the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour and the highlight roll-off. DO NOT TAKE its light, its palette, its exposure, its composition or its framing, and TAKE NOTHING OF ITS AUDIO: not its dialogue, not its voices, not one line spoken in it. Every line heard in it belongs to the previous shot and MUST NEVER BE HEARD AGAIN HERE. From the first-frame image take the opening composition and the exact position, pose and prop state of everything in it; take nothing else from it — no border, no backdrop, no empty-room staging, no reference layout. From NORA and the place reference take identity, face, build, wardrobe, architecture and materials exactly as the reference gives them; take none of their pose, framing, lighting or staging.
 SHOT — A deserted bus stop at the far edge of a port town at night.
 CONTINUITY — ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: this clip opens on the first-frame image exactly, everything in it already true and nothing replayed, and only then does the action begin. It must CONNECT NATURALLY, NOT IDENTICALLY.
@@ -43,12 +43,12 @@ AVOID — visible camera rigs, cartoonish colors, blurred focus, on-screen text,
 | **durée** | **14 s** · **son ON** |
 | **`@image1`** (start image) | aucune — ce plan démarre sans image de départ |
 | **`@video1`** | le clip précédent |
-| **Éléments** | `@nora` · `@BusShelter` |
+| **Éléments** | `@nora` · `@busshelter` |
 
 > 🔴 **Élément(s) inexistant(s) sur le compte : @SamSDF.** Ils sont écrits en clair dans le prompt (le modèle les construira depuis la description), mais l'identité ne sera pas verrouillée d'un plan à l'autre tant qu'ils ne sont pas créés.
 
 ```
-MATERIALS — @video1 is the shot immediately before this one (9A). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @nora is NORA. @BusShelter is THE PLACE THIS SHOT HAPPENS IN.
+MATERIALS — @video1 is the shot immediately before this one (9A). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @nora is NORA. @busshelter is THE PLACE THIS SHOT HAPPENS IN.
 ROLES — From the attached video take the light level and direction, the grain, the skin rendering and the way the camera behaves. TAKE NO FRAMING FROM IT beyond the first instant, and TAKE NOTHING OF ITS AUDIO: not its dialogue, not its voices, not one line spoken in it. Every line heard in it belongs to the previous shot and MUST NEVER BE HEARD AGAIN HERE. From the first-frame image take the opening composition and the exact position, pose and prop state of everything in it; take nothing else from it — no border, no backdrop, no empty-room staging, no reference layout. From NORA and the place reference take identity, face, build, wardrobe, architecture and materials exactly as the reference gives them; take none of their pose, framing, lighting or staging.
 SHOT — He asks for food without lifting his head.
 CONTINUITY — ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: this clip opens on the INHERITED STATE line below exactly, everything in it already true and nothing replayed, and only then does the action begin. It must CONNECT NATURALLY, NOT IDENTICALLY.
@@ -72,12 +72,12 @@ AVOID — visible camera rigs, cartoonish colors, blurred focus, on-screen text,
 | **durée** | **10 s** · **son ON** |
 | **`@image1`** (start image) | aucune — ce plan démarre sans image de départ |
 | **`@video1`** | le clip précédent |
-| **Éléments** | `@nora` · `@BusShelter` |
+| **Éléments** | `@nora` · `@busshelter` |
 
 > 🔴 **Élément(s) inexistant(s) sur le compte : @SamSDF.** Ils sont écrits en clair dans le prompt (le modèle les construira depuis la description), mais l'identité ne sera pas verrouillée d'un plan à l'autre tant qu'ils ne sont pas créés.
 
 ```
-MATERIALS — @video1 is the shot immediately before this one (9B). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @nora is NORA. @BusShelter is THE PLACE THIS SHOT HAPPENS IN.
+MATERIALS — @video1 is the shot immediately before this one (9B). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @nora is NORA. @busshelter is THE PLACE THIS SHOT HAPPENS IN.
 ROLES — From the attached video take the light level and direction, the grain, the skin rendering and the way the camera behaves. TAKE NO FRAMING FROM IT beyond the first instant, and TAKE NOTHING OF ITS AUDIO: not its dialogue, not its voices, not one line spoken in it. Every line heard in it belongs to the previous shot and MUST NEVER BE HEARD AGAIN HERE. From the first-frame image take the opening composition and the exact position, pose and prop state of everything in it; take nothing else from it — no border, no backdrop, no empty-room staging, no reference layout. From NORA and the place reference take identity, face, build, wardrobe, architecture and materials exactly as the reference gives them; take none of their pose, framing, lighting or staging.
 SHOT — Still holding the folded half of the sandwich shut in his left fist, he raises his other arm and points up the black road; he gives her the direction flat, without looking at her.
 CONTINUITY — ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: this clip opens on the first-frame image exactly, everything in it already true and nothing replayed, and only then does the action begin. It must CONNECT NATURALLY, NOT IDENTICALLY.

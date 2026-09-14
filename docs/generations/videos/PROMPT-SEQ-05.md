@@ -15,10 +15,10 @@
 | **durée** | **12 s** · **son ON** |
 | **`@image1`** (start image) | LIEU-07 IMAGE 2 |
 | **`@video1`** | le clip précédent |
-| **Éléments** | `@sam` · `@nora` · `@milo` · `@mei` · `@Restaurant` |
+| **Éléments** | `@samafter` · `@nora` · `@milo` · `@mei` · `@restaurant` |
 
 ```
-MATERIALS — @video1 is the shot immediately before this one (4D). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @sam is SAM. @nora is NORA. @milo is MILO. @mei is MEI. @Restaurant is THE PLACE THIS SHOT HAPPENS IN.
+MATERIALS — @video1 is the shot immediately before this one (4D). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @samafter is SAM. @nora is NORA. @milo is MILO. @mei is MEI. @restaurant is THE PLACE THIS SHOT HAPPENS IN.
 ROLES — From the attached video take ONLY the film stock, the grain structure, the way skin and fabric resolve, the focus behaviour and the highlight roll-off. DO NOT TAKE its light, its palette, its exposure, its composition or its framing, and TAKE NOTHING OF ITS AUDIO: not its dialogue, not its voices, not one line spoken in it. Every line heard in it belongs to the previous shot and MUST NEVER BE HEARD AGAIN HERE. From the first-frame image take the opening composition and the exact position, pose and prop state of everything in it; take nothing else from it — no border, no backdrop, no empty-room staging, no reference layout. From SAM, NORA, MILO, MEI and the place reference take identity, face, build, wardrobe, architecture and materials exactly as the reference gives them; take none of their pose, framing, lighting or staging.
 SHOT — The owner brings tea to a family of three she has known for years and, out of old habit, sets FOUR cups — freezes — and takes one back.
 CONTINUITY — ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: this clip opens on the INHERITED STATE line below exactly, everything in it already true and nothing replayed, and only then does the action begin. It must CONNECT NATURALLY, NOT IDENTICALLY.
@@ -42,10 +42,10 @@ AVOID — visible camera rigs, cartoonish colors, blurred focus, on-screen text,
 | **durée** | **10 s** · **son ON** |
 | **`@image1`** (start image) | LIEU-07 IMAGE 4 — L'AXE UNIQUE DE 5.2 |
 | **`@video1`** | le clip précédent |
-| **Éléments** | `@nora` · `@mei` · `@asha` · `@fatiha` · `@Restaurant` |
+| **Éléments** | `@nora` · `@mei` · `@asha` · `@fatiha` · `@restaurant` |
 
 ```
-MATERIALS — @video1 is the shot immediately before this one (5A). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @nora is NORA. @mei is MEI. @asha is ASHA. @fatiha is FATIHA. @Restaurant is THE PLACE THIS SHOT HAPPENS IN.
+MATERIALS — @video1 is the shot immediately before this one (5A). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @nora is NORA. @mei is MEI. @asha is ASHA. @fatiha is FATIHA. @restaurant is THE PLACE THIS SHOT HAPPENS IN.
 ROLES — From the attached video take the light level and direction, the grain, the skin rendering and the way the camera behaves. TAKE NO FRAMING FROM IT beyond the first instant, and TAKE NOTHING OF ITS AUDIO: not its dialogue, not its voices, not one line spoken in it. Every line heard in it belongs to the previous shot and MUST NEVER BE HEARD AGAIN HERE. From the first-frame image take the opening composition and the exact position, pose and prop state of everything in it; take nothing else from it — no border, no backdrop, no empty-room staging, no reference layout. From NORA, MEI, ASHA, FATIHA and the place reference take identity, face, build, wardrobe, architecture and materials exactly as the reference gives them; take none of their pose, framing, lighting or staging.
 SHOT — At the next table over, three women who have known each other for years are talking fast across each other about somebody everybody knows — not telling a story to anyone, just talking, cutting in, finishing each other's sentences.
 CONTINUITY — ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: this clip opens on the INHERITED STATE line below exactly, everything in it already true and nothing replayed, and only then does the action begin. It must CONNECT NATURALLY, NOT IDENTICALLY.
@@ -69,10 +69,10 @@ AVOID — visible camera rigs, cartoonish colors, blurred focus, on-screen text,
 | **durée** | **8 s** · **son ON** |
 | **`@image1`** (start image) | LE DERNIER FRAME DE 5B-1 — repli : LIEU-07 IMAGE 4 |
 | **`@video1`** | le clip précédent |
-| **Éléments** | `@nora` · `@mei` · `@asha` · `@fatiha` · `@Restaurant` |
+| **Éléments** | `@nora` · `@mei` · `@asha` · `@fatiha` · `@restaurant` |
 
 ```
-MATERIALS — @video1 is the shot immediately before this one (5B-1). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @nora is NORA. @mei is MEI. @asha is ASHA. @fatiha is FATIHA. @Restaurant is THE PLACE THIS SHOT HAPPENS IN.
+MATERIALS — @video1 is the shot immediately before this one (5B-1). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @nora is NORA. @mei is MEI. @asha is ASHA. @fatiha is FATIHA. @restaurant is THE PLACE THIS SHOT HAPPENS IN.
 ROLES — From the attached video take the light level and direction, the grain, the skin rendering and the way the camera behaves. TAKE NO FRAMING FROM IT beyond the first instant, and TAKE NOTHING OF ITS AUDIO: not its dialogue, not its voices, not one line spoken in it. Every line heard in it belongs to the previous shot and MUST NEVER BE HEARD AGAIN HERE. From the first-frame image take the opening composition and the exact position, pose and prop state of everything in it; take nothing else from it — no border, no backdrop, no empty-room staging, no reference layout. From NORA, MEI, ASHA, FATIHA and the place reference take identity, face, build, wardrobe, architecture and materials exactly as the reference gives them; take none of their pose, framing, lighting or staging.
 SHOT — The same three women at the same table, still talking across each other about the same man — and then they run out of it.
 CONTINUITY — ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: this clip opens on the INHERITED STATE line below exactly, everything in it already true and nothing replayed, and only then does the action begin. It must CONNECT NATURALLY, NOT IDENTICALLY.
@@ -96,10 +96,10 @@ AVOID — visible camera rigs, cartoonish colors, blurred focus, on-screen text,
 | **durée** | **6 s** · **son ON** |
 | **`@image1`** (start image) | — l'insert est décrit au prompt |
 | **`@video1`** | le clip précédent |
-| **Éléments** | `@sam` · `@Restaurant` |
+| **Éléments** | `@samafter` · `@restaurant` |
 
 ```
-MATERIALS — @video1 is the shot immediately before this one (5B-2). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @sam is SAM. @Restaurant is THE PLACE THIS SHOT HAPPENS IN.
+MATERIALS — @video1 is the shot immediately before this one (5B-2). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @samafter is SAM. @restaurant is THE PLACE THIS SHOT HAPPENS IN.
 ROLES — From the attached video take the light level and direction, the grain, the skin rendering and the way the camera behaves. TAKE NO FRAMING FROM IT beyond the first instant, and TAKE NOTHING OF ITS AUDIO: not its dialogue, not its voices, not one line spoken in it. Every line heard in it belongs to the previous shot and MUST NEVER BE HEARD AGAIN HERE. From the first-frame image take the opening composition and the exact position, pose and prop state of everything in it; take nothing else from it — no border, no backdrop, no empty-room staging, no reference layout. From SAM and the place reference take identity, face, build, wardrobe, architecture and materials exactly as the reference gives them; take none of their pose, framing, lighting or staging.
 SHOT — Two large workman's hands cut MILO's food, slowly and evenly, the way they have all evening.
 CONTINUITY — ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: this clip opens on the INHERITED STATE line below exactly, everything in it already true and nothing replayed, and only then does the action begin. It must CONNECT NATURALLY, NOT IDENTICALLY.
@@ -123,10 +123,10 @@ AVOID — a face, any face, a head, shoulders, a neck, a chin, eyes, hair, a pro
 | **durée** | **12 s** · **son ON** |
 | **`@image1`** (start image) | LIEU-07 IMAGE 2 |
 | **`@video1`** | le clip précédent |
-| **Éléments** | `@sam` · `@nora` · `@milo` · `@mei` · `@asha` · `@fatiha` · `@Restaurant` |
+| **Éléments** | `@samafter` · `@nora` · `@milo` · `@mei` · `@asha` · `@fatiha` · `@restaurant` |
 
 ```
-MATERIALS — @video1 is the shot immediately before this one (5C). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @sam is SAM. @nora is NORA. @milo is MILO. @mei is MEI. @asha is ASHA. @fatiha is FATIHA. @Restaurant is THE PLACE THIS SHOT HAPPENS IN.
+MATERIALS — @video1 is the shot immediately before this one (5C). @image1 IS THE FIRST FRAME OF THIS GENERATION. It is NOT the last frame of the attached video: this shot is taken from a different angle and its opening composition is the one @image1 gives. @samafter is SAM. @nora is NORA. @milo is MILO. @mei is MEI. @asha is ASHA. @fatiha is FATIHA. @restaurant is THE PLACE THIS SHOT HAPPENS IN.
 ROLES — From the attached video take the light level and direction, the grain, the skin rendering and the way the camera behaves. TAKE NO FRAMING FROM IT beyond the first instant, and TAKE NOTHING OF ITS AUDIO: not its dialogue, not its voices, not one line spoken in it. Every line heard in it belongs to the previous shot and MUST NEVER BE HEARD AGAIN HERE. From the first-frame image take the opening composition and the exact position, pose and prop state of everything in it; take nothing else from it — no border, no backdrop, no empty-room staging, no reference layout. From SAM, NORA, MILO, MEI, ASHA, FATIHA and the place reference take identity, face, build, wardrobe, architecture and materials exactly as the reference gives them; take none of their pose, framing, lighting or staging.
 SHOT — First, the family table, wide and silent: a heavy unshaven father cutting his son's food, eyes down, cutting, cutting — on screen, a busy father and nothing else.
 CONTINUITY — ALIGN THE BOUNDARY BEFORE ANYTHING NEW HAPPENS: this clip opens on the INHERITED STATE line below exactly, everything in it already true and nothing replayed, and only then does the action begin. It must CONNECT NATURALLY, NOT IDENTICALLY.
@@ -150,10 +150,10 @@ AVOID — visible camera rigs, cartoonish colors, blurred focus, on-screen text,
 | **durée** | **6 s** · **son ON** |
 | **`@image1`** (start image) | aucune — cadre décrit au prompt |
 | **`@video1`** | — aucune vidéo, tête de chaîne |
-| **Éléments** | `@nora` · `@Restaurant` |
+| **Éléments** | `@nora` · `@restaurant` |
 
 ```
-MATERIALS — @image1 IS THE FIRST FRAME OF THIS GENERATION. No previous clip is attached: this shot is the head of its chain and sets the light, the grain and the skin rendering the following shots match. @nora is NORA. @Restaurant is THE PLACE THIS SHOT HAPPENS IN.
+MATERIALS — @image1 IS THE FIRST FRAME OF THIS GENERATION. No previous clip is attached: this shot is the head of its chain and sets the light, the grain and the skin rendering the following shots match. @nora is NORA. @restaurant is THE PLACE THIS SHOT HAPPENS IN.
 ROLES — From the first-frame image take the opening composition and the exact position, pose and prop state of everything in it; take nothing else from it — no border, no backdrop, no empty-room staging, no reference layout. From NORA and the place reference take identity, face, build, wardrobe, architecture and materials exactly as the reference gives them; take none of their pose, framing, lighting or staging.
 SHOT — NORA alone in the frame at a restaurant table, her fork stopped in the air, the mouthful never taken.
 OPENING FRAME — Close on NORA, facing her, eye level, static, locked off, shallow depth of field, 85 mm. Frame contents: NORA centred at x=50%, chest-up, filling 72% of frame height, SEATED, three-quarter to camera; her fork STOPPED in the air at chin height in her right hand, a piece of food on it, forgotten; her lips slightly parted, not chewing.

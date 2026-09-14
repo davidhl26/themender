@@ -21,13 +21,13 @@
 | **durée** | **24 s** · **son ON** |
 | **`@image1`** | LIEU-01 **IMAGE 2** `abf2d210` — le premier frame |
 | **`@video1`** | — aucune. C'est la tête de chaîne du film. |
-| **Éléments** | `@sambefore` · `@maeva` · `@Kitchen-1` |
+| **Éléments** | `@sambefore` · `@maeva` · `@kitchen` |
 
 > Colle le texte, puis remonte aux **deux premières lignes** et **re-sélectionne chaque `@` dans le
 > sélecteur** : un `@` collé en texte brut ne se lie à rien.
 
 ```
-MATERIALS — @image1 IS THE FIRST FRAME OF THIS GENERATION. @sambefore is SAM. @maeva is MAEVE. @Kitchen-1 is THE KITCHEN. No video is attached: this is the head of the chain and it sets the light, the grain and the skin rendering every later shot will be matched to.
+MATERIALS — @image1 IS THE FIRST FRAME OF THIS GENERATION. @sambefore is SAM. @maeva is MAEVE. @kitchen is THE KITCHEN. No video is attached: this is the head of the chain and it sets the light, the grain and the skin rendering every later shot will be matched to.
 ROLES — From the first-frame image take the opening composition and the exact position, pose and prop state of everything in it; take nothing else from it, no border, no backdrop, no empty-room staging, no reference layout. From SAM, MAEVE and the kitchen reference take identity, face, build, wardrobe, architecture and materials exactly; take none of their pose, framing, lighting or staging.
 
 STYLE — Kodak Vision3 500T 5219 tungsten colour negative, printed flat: cool naturalistic colour, shadows slightly blue-green and holding texture, skin understated and never rosy, highlights restrained and never blown, a faint halation ring around the window, moderate fine grain. Not glossy, not digital. EDITING GRAMMAR: THERE IS NO EDITING — one single unbroken take, 24 seconds, real time, no cut, no dissolve, no speed ramp, no slow motion. The only change of framing is the one the camera performs on its own feet in stage 4. Anamorphic 40 mm f/2.8 throughout: the frame tightens because the camera walks, never because it zooms.
