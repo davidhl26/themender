@@ -1,6 +1,9 @@
 # G06 — 3B « La conversation muette »  ·  Seedance 2.5  ·  10 s
 
-> **Plan 3.2.** Un couloir d'hôpital, le jour. À l'extrême premier plan, flou : la nuque de Nora.
+> **Plan 3.2 — et, dans la VERSION COURTE du 14/09, TOUTE la séquence hôpital.** Le lendemain matin
+> du malaise (G04), un couloir d'hôpital, le jour ; Sam et Nora portent encore les vêtements du
+> restaurant. G05 (la tasse), G07 (le chevet) et G08 (la vitre) sont sautés : ce plan seul dit la
+> nouvelle. Un couloir d'hôpital, le jour. À l'extrême premier plan, flou : la nuque de Nora.
 > Dix mètres plus loin, écrasés par la longue focale, un médecin parle à son père d'une voix qui ne
 > nous parvient jamais. Le médecin s'arrête. La tête du père descend, lentement. La main du médecin
 > se pose sur son épaule — et reste. Une seule prise, cadre tenu.
@@ -11,7 +14,7 @@
 > jamais « rattraper au recadrage ». C'est le risque n°1 de la séquence, et il est silencieux.
 > ⚠ **Les lèvres du médecin** : à dix mètres le modèle sur-articule. Une bouche qu'on peut lire
 > est un sous-titre déguisé. Prendre le rush où les mouvements sont petits.
-> ⚠ **La chaîne se rompt ici** : G05 → G06 = pellicule seule, JAMAIS sa lumière. C'est là que la
+> ⚠ **La chaîne se rompt ici** : G04 → G06 = pellicule seule, JAMAIS sa lumière. C'est là que la
 > clarté se retire du film.
 
 ## Réglages
@@ -22,12 +25,12 @@
 | **format** | 21:9 · **1080p** · bitrate **high** |
 | **durée** | **10 s** · **son ON** |
 | **`@image1`** | LIEU-05 **IMAGE 2** — le couloir dans son axe, le premier cadre et le seul |
-| **`@video1`** | le clip de **G05** — pellicule et grain SEULEMENT, jamais sa lumière |
+| **`@video1`** | le clip de **G04** — le restaurant, la veille au soir : pellicule et grain SEULEMENT, jamais sa lumière (version courte : G05 sauté) |
 | **Éléments** | `@sambefore` · `@norabefore` · `@hospitalcorridor` |
 
 ```
 MATERIALS — @video1 is the previous shot of this film, in another place, attached for its film stock only. @image1 IS THE FIRST FRAME OF THIS GENERATION AND ITS ONLY FRAMING. @sambefore is SAM. @norabefore is NORA. @hospitalcorridor is THE CORRIDOR.
-ROLES — From @video1 take ONLY the film stock, the grain structure and the way skin and fabric resolve. DO NOT TAKE its light, its palette, its warmth, its exposure, its composition, its place or anything that was in its frame — that was a kitchen in a pale morning, this is a hospital corridor and the warmth of the film ends at this door — and TAKE NOTHING OF ITS AUDIO. From @image1 take the composition, the camera height, the lens compression and the exact position of everything in it, TO THE PIXEL, and hold it for the whole take; take nothing else from it, no border, no backdrop, no empty-corridor staging, no reference layout. From SAM, NORA and the corridor reference take identity, face, build, wardrobe, architecture and materials exactly; take none of their pose, framing, lighting or staging.
+ROLES — From @video1 take ONLY the film stock, the grain structure and the way skin and fabric resolve. DO NOT TAKE its light, its palette, its warmth, its exposure, its composition, its place or anything that was in its frame — that was a lantern-lit restaurant the evening before, this is a hospital corridor the morning after and the warmth of the film ends at this door — and TAKE NOTHING OF ITS AUDIO. From @image1 take the composition, the camera height, the lens compression and the exact position of everything in it, TO THE PIXEL, and hold it for the whole take; take nothing else from it, no border, no backdrop, no empty-corridor staging, no reference layout. From SAM, NORA and the corridor reference take identity, face, build, wardrobe, architecture and materials exactly; take none of their pose, framing, lighting or staging.
 DIALOGUE — THERE IS NONE, AND THIS NEEDS SAYING TWICE BECAUSE A MAN IS SEEN TALKING: THE DOCTOR'S LIPS MOVE AT TEN METRES AND HIS VOICE NEVER REACHES THE MICROPHONE — not a word, not a murmur, not a syllable under the corridor hum, and his lip movements are small and never readable as words. NOBODY SPEAKS AUDIBLY IN THIS GENERATION, no voice-over, and NO LANGUAGE IS SPOKEN OR HEARD AT ANY POINT. THERE ARE NO QUOTATION MARKS IN THIS PROMPT because nothing in it is said aloud: every word here, in capitals or not, is stage direction for the camera and the performers.
 
 STYLE — Kodak Vision3 500T 5219 tungsten colour negative, printed flat, and this is the first image of the film's cold: the same stock as the mornings, but here under fluorescent tubes, so the whole corridor reads pallid, cold and even, faintly green, drained, bloodless, no warmth anywhere; skin understated, never rosy; the shadows no deeper than a half-tone; the far window the one blown highlight allowed, a flat white rectangle; a faint halation at its edges and nowhere else; moderate fine grain. Not glossy, not digital. EDITING GRAMMAR: THERE IS NO EDITING — one single unbroken take, 10 seconds, real time, no cut, no dissolve, no speed ramp, no slow motion, and NO CAMERA MOVEMENT OF ANY KIND: the camera is held, operated, no longer following — the register the film keeps from this door onward. The framing and the focus split, foreground soft and mid-frame sharp, never change. Anamorphic 85 mm f/2 throughout: the corridor compressed flat, the two men pressed against the white window.

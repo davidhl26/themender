@@ -1,5 +1,10 @@
 # G31 — 10K « L'hôpital, enfin sonore »  ·  PAS DE GÉNÉRATION SÉPARÉE
 
+> ⚠ **VERSION COURTE (14/09 soir) : G08 est SAUTÉ.** Les 8 premières secondes de G08 (la plaque : Maeve
+> parle derrière la vitre) n'existeront pas. Deux issues : générer la plaque SEULE (8 s, mêmes
+> réglages que G08, cadre A seulement) quand les crédits le permettent, ou abandonner le replay et
+> jouer 10.10 sans lui. À trancher avant de lancer G31.
+
 > **Plan 10.10 = le même fichier que le plan 3.5.** La vitre de la chambre d'hôpital — Maeve prend
 > le visage de Sam dans ses deux mains et lui demande quelque chose — est générée **UNE SEULE FOIS**,
 > dans **G08** (les 8 premières secondes de G08 sont ce cadre, tenu fixe au pixel près, avec les
