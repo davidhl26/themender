@@ -1,12 +1,26 @@
 # AFFICHE — THE MENDER  ·  prompt image (GPT Image 2 · 4K · high · **2:3 portrait**)
 
 > Écrit le 14/09 au soir à la demande de David. **Ne pas lancer sans son accord.**
-> Prompt retenu : le dos du Mender, cheveux blancs, titre géant — Élément `@mender`. Variantes A/B dessous.
+> Prompt retenu v2 : le dos du Mender EN ROUGE, serré à l'épaule, cheveux blancs, la bibliothèque derrière — Éléments `@mender` + `@librarycorridor`. v1 et variantes A/B dessous.
 > Le titre est **le seul rouge** de l'affiche — comme dans le film, le rouge est réservé.
 > Remplacer `[NAME]` par le nom à créditer avant de lancer. GPT Image 2 rend bien le texte : garder
 > les mots EXACTEMENT comme écrits, et rien d'autre en lettres.
 
-## Prompt retenu (David, 14/09 soir) — LE DOS DU MENDER, cheveux blancs, titre géant
+## Prompt retenu v2 (David, 14/09 soir) — LE DOS DU MENDER EN ROUGE, serré à l'épaule, la bibliothèque derrière
+
+```
+A theatrical film poster, vertical 2:3, photographic and not illustrated: one frame of a real film, shot on Kodak Vision3 500T 5219 film stock, printed flat, moderate fine grain, deep clean blacks, no HDR, no digital gloss.
+THE IMAGE: THE MENDER SEEN FROM BEHIND, CLOSE, AT SHOULDER LEVEL — an over-the-shoulder framing with nobody in front of him: the back of his head and his two shoulders fill the lower two thirds of the frame, the camera 80 cm behind him at the height of his shoulders, slightly below his hair line so the shoulders read wide and heavy. HIS HEAD IS BARE — no hood up, no beanie, no hat — and HIS HAIR IS WHITE: thick, short, uncombed, pure white, every strand sharp, the nape showing grey grime on the skin below it. He wears the Mender's wardrobe exactly as @mender BUT IN RED: the torn parka is DEEP CRIMSON RED, worn, matte, faded at the seams, the stuffing showing pale at the left shoulder, the hood hanging down against his back in the same red; a coarse dark charcoal-grey wool scarf wound at the neck under the collar; the red fills the bottom of the poster edge to edge. He is not turning. His face is never seen, not even the line of a cheek.
+THE BACKGROUND: a school library, seen past his shoulders, softly out of focus — @librarycorridor: tall wooden shelving receding in depth down a central aisle, flat grey afternoon light from high windows, dust in the light, a reading table far down the aisle, nobody there. The depth of field is shallow: the white hair and the red shoulders sharp, the library a soft grey world behind them. No readable spine, no lettering on any book, no sign.
+COMPOSITION: the shoulders and the white head occupy the lower two thirds; THE UPPER THIRD OF THE POSTER IS THE TITLE, set against the soft grey of the library's upper shelves and windows.
+TYPOGRAPHY, rendered exactly and legibly, nothing else written anywhere: THE MENDER, VERY LARGE, filling the full width of the upper third in tall condensed capitals, letter-spaced, in OFF-WHITE BONE, matte, not glowing, sitting in the soft grey above his head; below the title, small, in the same off-white capitals: GIVE AND YOU SHALL RECEIVE; at the very bottom of the poster, over the red of the parka, a narrow classic credit block in tiny condensed off-white capitals reading only: A FILM BY [NAME]; nothing else — no laurels, no logos, no date, no other words, no watermark.
+RULES: the red of the parka is the only red in the image — no red book, no red sign, no red on the shelves. The man's face never visible, never turning, no profile, no ear-line of a cheek. The hair is white, never grey, never dark, never covered. Shallow focus: the library soft, the hair sharp. No lens flare, no glow, no second light. Original character, not resembling any real person or any celebrity. Photorealistic, film still, not a painting, not CGI, not a collage.
+```
+
+Références : `@mender` (garde-robe — le prompt la passe en rouge, capuche baissée, tête nue, cheveux blancs) et `@librarycorridor` (le fond).
+Le rouge = le Mender ; le titre est en blanc os pour ne pas se battre avec lui. Si David préfère le titre rouge, remplacer « OFF-WHITE BONE » par « DEEP CRIMSON RED » dans la ligne TYPOGRAPHY.
+
+## Prompt v1 — le dos du Mender sur la route, cheveux blancs, titre géant
 
 ```
 A theatrical film poster, vertical 2:3, photographic and not illustrated: one frame of a real film, shot on Kodak Vision3 500T 5219 film stock, printed flat, moderate fine grain, deep clean blacks, no HDR, no digital gloss.
@@ -48,5 +62,5 @@ RULES: no red anywhere except the title letters. The mouth and the nose never vi
 |---|---|
 | **modèle** | GPT Image 2 (texte fiable) — repli Nano Banana Pro si le visage de `@nora` dérive |
 | **format** | **2:3** · 4K · high |
-| **références** | `@mender` (prompt retenu) — `@samsdf` · `@nora` (variante A) — `@samsdf` seul (variante B) |
+| **références** | `@mender` + `@librarycorridor` (v2 retenu) — `@mender` (v1) — `@samsdf` · `@nora` (variante A) — `@samsdf` seul (variante B) |
 | **à vérifier** | le titre orthographié THE MENDER, aucun autre mot, le rouge uniquement dans les lettres, le visage jamais lisible, les bouts de doigts tachés d'encre |
