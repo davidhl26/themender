@@ -11,7 +11,7 @@
 > qui redescend · les yeux qui partent en blanc quand il regarde en l'air.
 > **Coupe au montage** : entrer à 0:01, sortir après que la ligne d'eau a traversé la joue — jamais
 > avant. Fondu au noir de 12 images vers le carton final.
-> ✅ **`@samsdf` = la fiche CAPUCHE + ÉCHARPE SUR LA BOUCHE du 14/09** (GPT Image 2 · 4K · référence `@samafter` · job `87baf143-a1aa-496f-8077-793847174644` ; supprimer `samsdf` et `samsdf-1`, créer la nouvelle sous le nom `samsdf`) : le visage est caché sous la capuche tirée loin devant, seuls la barbe, les lèvres et le menton sont visibles — comme dans tous les plans où il est le SDF. Ici l'écharpe est déjà enlevée (elle tombe dans G32a) : en vrac sur le banc à côté de lui. **Pour le démasquage (G28, G32), le visage vient de `@samafter`, chargé en plus.**
+> ✅ **`@samsdf` = la fiche CAPUCHE + ÉCHARPE SUR LA BOUCHE du 14/09** (GPT Image 2 · 4K · référence `@samafter` · job `87baf143-a1aa-496f-8077-793847174644` ; créée par David sous le nom `samsdf` le 14/09 au soir ; l'ancien `samsdf` à visage découvert et `samsdf-1` restent à supprimer sur le compte) : le visage est caché sous la capuche tirée loin devant, seuls la barbe, les lèvres et le menton sont visibles — comme dans tous les plans où il est le SDF. Ici l'écharpe est déjà enlevée (elle tombe dans G32a) : en vrac sur le banc à côté de lui. **Pour le démasquage (G28, G32), le visage vient de `@samafter`, chargé en plus.**
 
 ## Réglages
 
