@@ -11,7 +11,7 @@
 > qui redescend · les yeux qui partent en blanc quand il regarde en l'air.
 > **Coupe au montage** : entrer à 0:01, sortir après que la ligne d'eau a traversé la joue — jamais
 > avant. Fondu au noir de 12 images vers le carton final.
-> ✅ **`@samsdf` créé le 14/09** (GPT Image 2 · 4K · référence `@samafter` · job `6e4fb30e-eb6e-408f-937c-4d9e312dd29f`) — valider le visage et l'encre aux doigts à l'œil avant de lancer.
+> ✅ **`@samsdf-1` créé le 14/09, version CAPUCHE** (GPT Image 2 · 4K · référence `@samafter` · job `7696c5ab-6874-4168-8d58-c9cd3b7e86c4`) : le visage est caché sous la capuche tirée loin devant, seuls la barbe, les lèvres et le menton sont visibles — comme dans tous les plans où il est le SDF. La première version à visage découvert (job `6e4fb30e-eb6e-408f-937c-4d9e312dd29f`) est remplacée. **Pour le démasquage (G28, G32), le visage vient de `@samafter`, chargé en plus.**
 
 ## Réglages
 
@@ -22,11 +22,11 @@
 | **durée** | **10 s** · **son ON** |
 | **`@image1`** | — aucune : le cadre est décrit au prompt, la lumière vient du clip |
 | **`@video1`** | le clip de **G28** (le grand recul, jusqu'aux yeux) |
-| **Éléments** | `@samsdf` *(à créer)* · `@busshelter` |
+| **Éléments** | `@samsdf-1` (silhouette, barbe, vêtements, crasse) · `@samafter` (**son visage**, qui se lève dans la lumière) · `@busshelter` |
 
 ```
-MATERIALS — @video1 is the previous shot at this bus shelter, the same night, minutes earlier: take from it the light, the grain, the skin rendering and the man himself. No first-frame image is attached: the opening composition is written below. @samsdf is THE MAN ON THE BENCH. @busshelter is THE BUS SHELTER.
-ROLES — From @video1 take the light level and direction, the grain, the skin rendering, the state of the man's face — the wiped cheek, the wet hair — and the shelter exactly as it was; TAKE NO FRAMING FROM IT, this is a closer and straighter framing, and TAKE NOTHING OF ITS AUDIO: nothing was said in it and nothing is said here. From THE MAN and the shelter reference take identity, face, build, wardrobe, architecture and materials exactly; take none of their pose, framing, lighting or staging, no border, no backdrop, no three-panel layout, no grey studio ground.
+MATERIALS — @video1 is the previous shot at this bus shelter, the same night, minutes earlier: take from it the light, the grain, the skin rendering and the man himself. No first-frame image is attached: the opening composition is written below. @samsdf-1 is THE MAN ON THE BENCH — his bulk, his wardrobe, his matted beard, his dirt. @samafter is THE SAME MAN'S FACE, two years ago and clean: it is this face that lifts into the light and smiles. @busshelter is THE BUS SHELTER.
+ROLES — From @video1 take the light level and direction, the grain, the skin rendering, the state of the man's face — the wiped cheek, the wet hair — and the shelter exactly as it was; TAKE NO FRAMING FROM IT, this is a closer and straighter framing, and TAKE NOTHING OF ITS AUDIO: nothing was said in it and nothing is said here. From @samsdf-1 take build, wardrobe, beard and dirt exactly; from @samafter take THE FACE exactly — the same eyes, the same nose, the same jaw under the matted beard, one man and not two; from the shelter reference take architecture and materials exactly; take none of their pose, framing, lighting or staging, no border, no backdrop, no three-panel layout, no grey studio ground.
 DIALOGUE — THERE IS NONE. NOBODY SPEAKS IN THIS GENERATION, no word, no name, no whisper, no sob aloud, no breath shaped like speech, no voice-over, and NO LANGUAGE IS SPOKEN OR HEARD AT ANY POINT. THERE ARE NO QUOTATION MARKS IN THIS PROMPT because nothing in it is said aloud: every word here, in capitals or not, is stage direction for the camera and the performer.
 
 STYLE — Kodak Vision3 500T 5219 tungsten colour negative, printed flat, and this is the GREY WORLD of the film at its last image: deliberately underexposed, the shadows protected and holding texture and grain, never crushed, never lifted, no banding, no smeared low-light noise. The sodium reads as a dull cold orange on the skin, everything beyond the cone falls to grey-black; skin understated and never rosy, every crack and pore held; highlights restrained, a faint halation ring around the lamp's reflection in the glass and nowhere else; moderate fine grain that grows in the dark. Not glossy, not digital, not warm. EDITING GRAMMAR: THERE IS NO EDITING — one single unbroken take, 10 seconds, real time, no cut, no dissolve, no reframe, no push in, no change of lens or distance, no speed ramp, no slow motion. The camera is placed and it stays: locked off with the residual weight of a human hand, a drift of a millimetre and never more. Anamorphic 85 mm f/2 throughout.

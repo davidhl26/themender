@@ -1,4 +1,4 @@
-# G21 — 9A + 9B + 9C « L'abribus »  ·  Seedance 2.5  ·  30 s  ·  ✅ `@samsdf` créé le 14/09
+# G21 — 9A + 9B + 9C « L'abribus »  ·  Seedance 2.5  ·  30 s  ·  ✅ `@samsdf-1` créé le 14/09
 
 > **Les plans 9.1, 9.2 et 9.3 en une génération, avec DEUX coupes franches déclarées.** Un
 > abribus désert au bord d'une ville portuaire, la nuit, un seul cône de sodium dans le noir total.
@@ -19,10 +19,10 @@
 > poche à elle, ses mains à lui, et recule au plan taille — **sans jamais monter au-dessus de sa
 > lèvre supérieure**.
 >
-> ✅ **`@samsdf` créé le 14/09** (job `6e4fb30e-eb6e-408f-937c-4d9e312dd29f`, référence `@samafter`) — Sam en SDF : bonnet gris étiré, capuche par-dessus,
+> ✅ **`@samsdf-1` créé le 14/09, version CAPUCHE** (job `7696c5ab-6874-4168-8d58-c9cd3b7e86c4`, référence `@samafter` ; la version à visage découvert `6e4fb30e-eb6e-408f-937c-4d9e312dd29f` est remplacée) — Sam en SDF : bonnet gris étiré, capuche par-dessus,
 > SA barbe d'un mois salie et emmêlée — jamais une fausse barbe —, lèvres gercées, deux chemises de
 > flanelle ouvertes, parka olive déchirée sans fermeture, mitaines grises mitées, mains noires de
-> graisse, couvertures grises sur les genoux). Valider à l'œil : le visage de `@samafter` sous la barbe, l'encre aux bouts des doigts.
+> graisse, couvertures grises sur les genoux). Valider à l'œil : rien au-dessus de la lèvre supérieure dans la capuche, la barbe de `@samafter`, l'encre aux bouts des doigts.
 >
 > ⚠ **VERROU DES YEUX — absolu, deux mécanismes** : dans les valeurs serrées (cadre B) **le bord
 > haut du cadre passe sur sa lèvre supérieure et ne monte JAMAIS** — pas de nez, pas d'yeux, pas
@@ -59,10 +59,10 @@
 | **`@image1`** | LIEU-14 **IMAGE 2** — le large depuis le trottoir d'en face, l'abri à x=62 %, elle à gauche dans le noir : le premier cadre |
 | **`@image2`** | LIEU-14 **IMAGE 3** — ANGLE B, depuis le haut de la rue, **noir total** derrière : le cadre C tel quel (**jamais l'IMAGE 4**, qui éclaire la rue) |
 | **`@video1`** | le clip de **G20** — pellicule, peau, la parka et la poche droite ; rien de son lieu, rien de sa lumière, rien de son audio |
-| **Éléments** | `@nora` · `@samsdf` · `@busshelter` — le sandwich et la bague sont décrits, sans Élément |
+| **Éléments** | `@nora` · `@samsdf-1` · `@busshelter` — le sandwich et la bague sont décrits, sans Élément |
 
 ```
-MATERIALS — @video1 is the previous shot of this film, minutes earlier, on the bus. @image1 IS THE FIRST FRAME OF THIS GENERATION. @image2 is the composition of framing C exactly as it is, from up the road. @nora is NORA. @samsdf is THE VAGRANT. @busshelter is THE SHELTER.
+MATERIALS — @video1 is the previous shot of this film, minutes earlier, on the bus. @image1 IS THE FIRST FRAME OF THIS GENERATION. @image2 is the composition of framing C exactly as it is, from up the road. @nora is NORA. @samsdf-1 is THE VAGRANT. @busshelter is THE SHELTER.
 ROLES — From @video1 take the film stock, the grain structure, the underexposure, the way skin resolves, and NORA exactly as she left the bus — the navy parka with the crumpled packet in its right side pocket; take none of its place, none of its light, none of its composition, and TAKE NOTHING OF ITS AUDIO: not one sound in it. From @image1 take the opening composition and the exact position of everything in it; from @image2 take the composition of framing C and the exact position of everything in it, and the TOTAL BLACK up the road; take nothing else from either, no border, no backdrop, no empty-set staging, no reference layout. From NORA, THE VAGRANT and the shelter reference take identity, face, build, wardrobe, architecture and materials exactly — and from THE VAGRANT take everything BELOW THE UPPER LIP only, because nothing above it is ever seen; take none of their pose, framing, lighting or staging, no three-panel layout, no grey studio ground.
 DIALOGUE, VERBATIM AND CLOSED. THE SPOKEN LANGUAGE IS ENGLISH THROUGHOUT, neutral North American, and no other language is spoken or heard at any point. QUOTATION MARKS IN THIS PROMPT APPEAR ONLY AROUND THE THREE SPEECHES LISTED HERE: every other word in this prompt, in capitals or not, is stage direction for the camera and the performers AND IS NEVER SPOKEN ALOUD. No word is uttered on its own, no fragment, no syllable, no murmured half-word. THIS GENERATION CONTAINS EXACTLY THREE SPEECHES AND FOUR SENTENCES, ALL SPOKEN BY THE VAGRANT, IN THIS ORDER, WORD FOR WORD AS WRITTEN, IN ONE VOICE: low, rasped, cold-cracked, slowed, a third below a natural baritone, rusted, no processing, never warm, never pitiful. (1) head bowed, unhurried, the words dropped rather than offered: "Got anything to eat?" (2) around the food, quiet, half-swallowed, not a complaint and not a thank-you: "Most people say no." (3) flat, certain, unhurried, the arm held extended, a clear pause after the first two words, no emphasis on any word: "Straight ahead. When you see red, you're there." TRANSCRIBE THEM EXACTLY: no paraphrase, no rewording, no substitution, no improvised alternative, no fourth speech, not one word changed, added or dropped. NORA NEVER SPEAKS: not a word, not a thank-you, not a name, not a sound shaped like a word, in any framing; nobody else exists to speak; there is no voice-over.
 
