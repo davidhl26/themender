@@ -17,4 +17,4 @@
 > made them happy.* puis *Don't let her fade. Promise me.* — Sam ne dit rien, sa bouche s'ouvre sur
 > rien, il hoche deux fois.
 >
-> 🔴 Dépend de **`@maeveill`**, qui n'existe pas encore sur le compte.
+> ✅ `@maeveill` créé le 14/09 (job `56415cca-5183-4064-9ad7-3d94d93c7d13`)
