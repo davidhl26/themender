@@ -18,7 +18,7 @@
 > disparaissent et le plan-clé tombe. Plan B : caméra 20 cm plus près, axe 10 cm plus bas — jamais
 > une seconde source. **Refaire si** : visage lisible à 12 m · postiche · doigts rouges au lieu de
 > brun-noir · un rouge quelconque vu du ciel (feux arrière, feu tricolore, enseigne).
-> ✅ **`@samsdf` = la fiche CAPUCHE + ÉCHARPE SUR LA BOUCHE du 14/09** (GPT Image 2 · 4K · référence `@samafter` · job `4a7736f1-13a7-43d8-affc-8aad54d72794` ; supprimer `samsdf` et `samsdf-1`, créer la nouvelle sous le nom `samsdf`) : le visage est caché sous la capuche tirée loin devant, seuls la barbe, les lèvres et le menton sont visibles — comme dans tous les plans où il est le SDF. L'écharpe reste sur la bouche ici : les yeux sortent dans le sodium AU-DESSUS de la laine ; elle tombe dans G32a, le plan suivant. **Pour le démasquage (G28, G32), le visage vient de `@samafter`, chargé en plus.**
+> ✅ **`@samsdf` = la fiche CAPUCHE + ÉCHARPE SUR LA BOUCHE du 14/09** (GPT Image 2 · 4K · référence `@samafter` · job `87baf143-a1aa-496f-8077-793847174644` ; supprimer `samsdf` et `samsdf-1`, créer la nouvelle sous le nom `samsdf`) : le visage est caché sous la capuche tirée loin devant, seuls la barbe, les lèvres et le menton sont visibles — comme dans tous les plans où il est le SDF. L'écharpe reste sur la bouche ici : les yeux sortent dans le sodium AU-DESSUS de la laine ; elle tombe dans G32a, le plan suivant. **Pour le démasquage (G28, G32), le visage vient de `@samafter`, chargé en plus.**
 
 ## Réglages
 
