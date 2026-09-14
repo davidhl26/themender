@@ -49,7 +49,7 @@ coupe de G27 (dos → visage) est la seule de la fin, c'est l'écart déclaré d
 |---|---|---|---|---|---|---|
 | G01 | 1A+1B | `G01-1A-1B-les-toasts.md` | 30 s | 0 | tête (ta vidéo des toasts) | ✅ généré |
 | G02 | 1C+1D | `G02-1C-1D-les-enfants.md` | 24 s | 1 déclarée | G01 | ✅ généré |
-| G03 | 2A+2B | `G03-2A-2B-le-quai.md` — la caméra tourne autour de Maeve, du contre-jour au soleil dans le dos | 30 s | 0 | G02 (pellicule seule) | ✅ écrit |
+| G03 | 2A+2B | `G03-2A-2B-le-quai.md` — les gens du port en fond (`@portworkers`), `@sdfqai` au gobelet, Maeve donne, Nora regarde sans comprendre, UN chuchotement, fin en marche sans vitrine | 30 s | 0 | G02 (pellicule seule) | ✅ écrit |
 | G04 | 2C+2D | `G04-2C-2D-le-restaurant.md` — les quatre assiettes ‖ le dragon au thé | 24 s | 1 déclarée (l'ellipse) | G03 | ✅ écrit |
 | G05 | 3A | `G05-3A-la-tasse.md` — le seul ralenti, la caméra se relève avec le temps | 12 s | 0 | **G02** (la même cuisine, pas sa lumière) | ✅ écrit |
 | G06 | 3B | `G06-3B-la-conversation-muette.md` — cadre verrouillé au pixel, rejoué en G22 | 10 s | 0 | G05 **pellicule seule, jamais sa lumière** | ✅ écrit |
