@@ -47,12 +47,12 @@ coupe de G27 (dos → visage) est la seule de la fin, c'est l'écart déclaré d
 |---|---|---|---|---|---|---|
 | G01 | 1A+1B | `G01-1A-1B-les-toasts.md` | 30 s | 0 | tête (ta vidéo des toasts) | ✅ généré |
 | G02 | 1C+1D | `G02-1C-1D-les-enfants.md` | 24 s | 1 déclarée | G01 | ✅ généré |
-| G03 | 2A+2B | le quai, le gobelet, « Donne, et tu recevras » | 30 s | 0 | G02 (pellicule seule) | ⏳ |
-| G04 | 2C+2D | le restaurant : les quatre assiettes, le dragon au thé | 24 s | 0 | G03 | ⏳ |
-| G05 | 3A | la tasse — le seul ralenti | 10 s | 0 | G04 (pellicule seule) | ⏳ |
-| G06 | 3B | la conversation muette (cadre verrouillé, rejoué en G22) | 10 s | 0 | **aucune** — la clarté se retire ici | ⏳ |
-| G07 | 3C+3D | la chambre : « tu m'écrases », la bague | 20 s | 0 | G06 | ⏳ 🔴 |
-| G08 | 3E+3F | la vitre tenue fixe 8 s (= G31), puis la caméra quitte la vitre pour Nora | 20 s | 0 | G07 | ⏳ 🔴 |
+| G03 | 2A+2B | `G03-2A-2B-le-quai.md` — la caméra tourne autour de Maeve, du contre-jour au soleil dans le dos | 30 s | 0 | G02 (pellicule seule) | ✅ écrit |
+| G04 | 2C+2D | `G04-2C-2D-le-restaurant.md` — les quatre assiettes ‖ le dragon au thé | 24 s | 1 déclarée (l'ellipse) | G03 | ✅ écrit |
+| G05 | 3A | `G05-3A-la-tasse.md` — le seul ralenti, la caméra se relève avec le temps | 12 s | 0 | **G02** (la même cuisine, pas sa lumière) | ✅ écrit |
+| G06 | 3B | `G06-3B-la-conversation-muette.md` — cadre verrouillé au pixel, rejoué en G22 | 10 s | 0 | G05 **pellicule seule, jamais sa lumière** | ✅ écrit |
+| G07 | 3C+3D | `G07-3C-3D-tu-m-ecrases-la-bague.md` — Milo puis Nora au chevet, la caméra descend aux mains | 24 s | 0 | G06 | ✅ écrit 🔴 |
+| G08 | 3E+3F | `G08-3E-3F-la-vitre-puis-nora.md` — LA PLAQUE 8 s (= G31, répliques générées) ‖ Nora ‖ l'écharpe sort | 24 s | 1 déclarée (jours plus tard) | G07 | ✅ écrit 🔴 |
 
 ### ⬛ La traversée grise — S2
 
