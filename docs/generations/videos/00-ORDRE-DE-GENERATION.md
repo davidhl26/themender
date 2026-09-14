@@ -7,7 +7,6 @@
 > obligatoire. **Entre deux chaînes, il n'y a aucun lien** — tu peux les faire dans l'ordre que tu
 > veux, et **à deux personnes en parallèle**.
 >
-> 🎴 Les cartes à coller : **[`00-CARTES-A-COLLER.md`](00-CARTES-A-COLLER.md)**
 > 🔗 A = même décor · 🎞 B = nouveau décor · ⛓ C = même mouvement
 
 ---
@@ -60,7 +59,7 @@ Aucune des deux ne dépend de l'autre. Puis vous vous partagez S2 et S3.
 
 Les 7 chaînes sont indépendantes : **vous ne vous marchez jamais dessus.**
 
-## 👤 DAVID — la fin du film · 15 plans · **tout dans `VIDEO-SEQ-10.md`**
+## 👤 DAVID — la fin du film · 15 plans · **tout dans `PROMPT-SEQ-10.md`**
 
 | Chaîne | Plans, dans l'ordre |
 |---|---|
@@ -72,7 +71,7 @@ Les 7 chaînes sont indépendantes : **vous ne vous marchez jamais dessus.**
 **Pourquoi lui** : c'est tout ce qui peut rater. Le rouge, les braises, le visage de Nora,
 les yeux du père. Ça ne se délègue pas.
 
-## 👤 LE SECOND — l'ouverture · 14 plans · **`VIDEO-SEQ-01`, `-02`, `-03`**
+## 👤 LE SECOND — l'ouverture · 14 plans · **`PROMPT-SEQ-01`, `-02`, `-03`**
 
 | Chaîne | Plans, dans l'ordre |
 |---|---|
