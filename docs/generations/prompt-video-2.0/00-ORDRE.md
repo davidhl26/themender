@@ -29,16 +29,17 @@ Colonne « chaîne » : ce qu'on attache en `@video1`. **Valider chaque clip ava
 ### ⏩ Version courte (14/09 au soir — « accélère les plans, moins de générations »)
 
 Après le quai (G03), l'acte I se joue en DEUX générations au lieu de six : **G04** (le restaurant,
-caméra fixe : le rire, le plat, la réplique de Nora, le malaise de Maeve) → **G06** (le couloir,
-le lendemain matin : la conversation muette, la main sur l'épaule). **G05, G07 et G08 sont sautés.**
+caméra fixe : le rire, le plat, la réplique de Nora, le malaise de Maeve) → **G06** (l'hôpital en
+une génération de 30 s, quatre cadres fixes, trois coupes déclarées : le couloir ‖ la chambre et la
+bague ‖ la plaque ‖ l'écharpe sur la chaise). **G05 est sauté ; G07 et G08 sont absorbés dans G06.**
 Ce que ça change :
 - La maladie n'est plus annoncée par la tasse (G05) mais par la syncope au restaurant (G04).
-- Maeve n'est plus vue à l'hôpital : `@maeveill` ne sert plus qu'au replay de G31.
-- **G31 rejoue les 8 premières secondes de G08 (la plaque, ses deux répliques)** : sans G08, il
-  faut soit générer la plaque seule (8 s, cadre A de G08), soit abandonner le replay. À trancher.
-- L'écharpe rouge ne « sort » plus du film à la vitre (G08) : sa dernière image est le quai (G03).
-- G22 (le souvenir d'Anna) reste verrouillé au pixel sur le cadre de G06 — inchangé.
+- **La plaque rejouée par G31 = le cadre C de G06, de 0:16 à 0:24** (son gardé) ; au montage de 3.5
+  la piste chambre est coupée. Le master de G06 reste intact, jamais réencodé.
+- G22 (le souvenir d'Anna) reste verrouillé au pixel sur le cadre A de G06 — mêmes cotes.
+- Le rouge quitte le film au cadre D de G06 (l'écharpe prise sur la chaise), comme avant.
 - Chaîne : G04 → G06 en pellicule seule, jamais sa lumière (c'est là que la clarté se retire).
+- 9 images + 1 vidéo en référence : si l'interface refuse, retirer `@hospitalroom` puis `@image2`.
 
 
 ### 🟥 La fin du film — S4 + S5 + S6 + S7 · à générer en premier
@@ -67,9 +68,9 @@ coupe de G27 (dos → visage) est la seule de la fin, c'est l'écart déclaré d
 | G03 | 2A+2B | `G03-2A-2B-le-quai.md` — les gens du port en fond (`@portworkers`), `@sdfqai` au gobelet, Maeve donne, Nora regarde sans comprendre, UN chuchotement, fin en marche sans vitrine | 30 s | 0 | G02 (pellicule seule) | ✅ écrit |
 | G04 | 2C+2D | `G04-2C-2D-le-restaurant.md` — caméra fixe : le rire de Sam et Milo, le plat de Mei, « I love Daddy's stories », le malaise de Maeve (version courte du 14/09) | 20 s | 0 | G03 | ✅ écrit |
 | G05 | 3A | `G05-3A-la-tasse.md` — le seul ralenti, la caméra se relève avec le temps | 12 s | 0 | **G02** (la même cuisine, pas sa lumière) | ⏸ **SAUTÉ** (version courte : le malaise de G04 remplace la tasse) |
-| G06 | 3B | `G06-3B-la-conversation-muette.md` — cadre verrouillé au pixel, rejoué en G22 — **toute la séquence hôpital en version courte** (le lendemain matin, mêmes vêtements que le restaurant) | 10 s | 0 | **G04** pellicule seule, jamais sa lumière | ✅ écrit |
-| G07 | 3C+3D | `G07-3C-3D-tu-m-ecrases-la-bague.md` — Milo puis Nora au chevet, la caméra descend aux mains | 24 s | 0 | G06 | ⏸ **SAUTÉ** (version courte) |
-| G08 | 3E+3F | `G08-3E-3F-la-vitre-puis-nora.md` — LA PLAQUE 8 s (= G31, répliques générées) ‖ Nora ‖ l'écharpe sort | 24 s | 1 déclarée (jours plus tard) | G07 | ⏸ **SAUTÉ** (version courte — ⚠ G31 rejoue sa plaque : à générer seule ou à abandonner) |
+| G06 | 3B→3F | `G06-3B-3F-l-hopital-en-une-generation.md` — **TOUTE la séquence hôpital en une génération** : A le couloir (cadre au pixel, rejoué en G22) ‖ B la chambre, Milo, la bague ‖ C LA PLAQUE 8 s (0:16-0:24, rejouée en G31 avec le son) ‖ D l'écharpe sur la chaise, le rouge sort | 30 s | **3 déclarées** | **G04** pellicule seule, jamais sa lumière | ✅ écrit |
+| G07 | 3C+3D | `G07-3C-3D-tu-m-ecrases-la-bague.md` — Milo puis Nora au chevet, la caméra descend aux mains | 24 s | 0 | G06 | ⏸ **absorbé dans G06** (fichier conservé pour mémoire) |
+| G08 | 3E+3F | `G08-3E-3F-la-vitre-puis-nora.md` — LA PLAQUE 8 s (= G31, répliques générées) ‖ Nora ‖ l'écharpe sort | 24 s | 1 déclarée (jours plus tard) | G07 | ⏸ **absorbé dans G06** (la plaque = cadre C de G06, 0:16-0:24) |
 
 ### ⬛ La traversée grise — S2
 
