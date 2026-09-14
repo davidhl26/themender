@@ -19,7 +19,9 @@
 |---|---|
 | `@maeveill` | G07, G08 (→ G31) |
 | `@samsdf` | G21, G28, G32 |
-| `@annayoung` `@warddoctor` `@kolya` `@youngmother` `@russianhospitalward` | G22, G23, G24 |
+| `@annayoung` · `@kolya11` · `@warddoctor` · `@youngmotherhospital` · `@russianhospitalward` | G22 |
+| `@annayoung` | G23 |
+| `@annayoung` · `@youngmother` · `@kolya2` | G24 |
 
 ## Les 32 générations
 
@@ -76,9 +78,9 @@ coupe de G27 (dos → visage) est la seule de la fin, c'est l'écart déclaré d
 
 | # | plans | fichier | durée | coupes | chaîne | statut |
 |---|---|---|---|---|---|---|
-| G22 | 4E+4F+4G | l'hôpital côté Anna, le brancard, le rejeu | 26 s | 1 déclarée | tête | ⏳ 🔴 |
-| G23 | 4H | les trois coups, le feu | 8 s | 0 | G22 | ⏳ 🔴 |
-| G24 | 4I | la cour, le prénom | 10 s | 0 | G23 | ⏳ 🔴 |
+| G22 | 4E+4F+4G | `G22-4E-4F-4G-l-hopital-russe.md` — la chambre ‖ le cadre de G06 au pixel, la caméra avance, la glissade, le cri ‖ le brancard de profil ‖ la caméra couchée sur le matelas : le rejeu, la dérive, le plafond, le rail | 27 s | **3 déclarées** (ellipse, autre femme, rejeu) | tête (`@video1` = G06, composition seule) | ✅ écrit 🔴 5 Éléments |
+| G23 | 4H | `G23-4H-les-trois-coups-et-le-feu.md` — trois coups, le dos coupé aux épaules, la caméra suit au poêle, la flamme (⚠ archiver le son des coups : dernier plan du film) | 10 s | 0 | G22 | ✅ écrit 🔴 |
+| G24 | 4I | `G24-4I-la-cour-et-le-prenom.md` — le dos montre le porche, la caméra suit Anna au porche, la contourne jusqu'au visage, la main sur la bouche | 14 s | 0 | G23 | ✅ écrit 🔴 |
 
 ## Les ruptures — rappel
 
