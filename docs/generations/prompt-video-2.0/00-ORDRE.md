@@ -1,9 +1,9 @@
-# PROMPT VIDÉO 2.0 — les 32 générations, dans l'ordre
+# PROMPT VIDÉO 2.0 — les 33 générations, dans l'ordre
 
 > **Un décor = une prise, jusqu'à 30 s.** Là où l'ancien découpage coupait, c'est la caméra qui
 > marche. Une coupe ne survit que si elle est le sens de la scène, et elle est alors **déclarée**
 > (grammaire FRAMINGS). 30 s est un plafond, pas un remplissage : un plan seul dans son décor
-> garde sa durée. 64 prompts → 32 générations (2 déjà faites).
+> garde sa durée. 64 prompts → 33 générations (2 déjà faites).
 >
 > **Structure identique pour tous** (validée sur les vidéos 1 et 2) : MATERIALS → ROLES → DIALOGUE
 > verrouillé → STYLE → AUDIO DESIGN → CHARACTERS → LE LIEU → SCREEN DIRECTION → LIGHT → STAGE 1…n
@@ -16,12 +16,13 @@
 ## Éléments — tous sur le compte depuis le 14/09
 
 Les trois derniers ont été générés/créés le 14/09 (GPT Image 2 · 4K · high · 16:9, la fiche de base en référence) :
-`@samsdf` (fiche CAPUCHE + ÉCHARPE : visage caché, rien au-dessus de la lèvre, écharpe de laine gris anthracite au cou sous la barbe — job `e3242c44-de40-4c53-b4bd-8dc5cb5ebe10`, réf. `@samafter`). ⚠ Le compte porte encore `samsdf` (visage découvert, job `6e4fb30e-eb6e-408f-937c-4d9e312dd29f`) et `samsdf-1` (capuche sans écharpe, job `7696c5ab-6874-4168-8d58-c9cd3b7e86c4`) : **les supprimer, puis créer la nouvelle fiche sous le nom `samsdf`**. G28 et G32 chargent `@samafter` en plus pour le visage du démasquage ; l'écharpe est portée en G21 et G28, enlevée en G32 (sur le banc) · `@maeveill` (job `56415cca-5183-4064-9ad7-3d94d93c7d13`, réf. `@maeva`) ·
+`@samsdf` (fiche CAPUCHE + ÉCHARPE SUR LA BOUCHE : aucun visage entre la capuche et la laine — job `4a7736f1-13a7-43d8-affc-8aad54d72794`, réf. `@samafter`). ⚠ Le compte porte encore `samsdf` (visage découvert, job `6e4fb30e-eb6e-408f-937c-4d9e312dd29f`) et `samsdf-1` (capuche sans écharpe, job `7696c5ab-6874-4168-8d58-c9cd3b7e86c4`) : **les supprimer, puis créer la nouvelle fiche sous le nom `samsdf`** (la version intermédiaire écharpe-sous-la-barbe `e3242c44-de40-4c53-b4bd-8dc5cb5ebe10` n'a jamais été enregistrée). G28 et G32 chargent `@samafter` en plus pour le visage du démasquage ; l'écharpe couvre la bouche en G21 (baissée une fois pour manger) et en G28 ; **G32a**, nouveau plan, la lui fait enlever avec le bonnet ; en G32 elle est sur le banc · `@maeveill` (job `56415cca-5183-4064-9ad7-3d94d93c7d13`, réf. `@maeva`) ·
 `@russianhospitalward` (créé depuis LIEU-17 IMAGE 4, job `45171598-cf11-4165-8bfb-6c151b5ad13e`). **À valider à l'œil avant de lancer G07/G08 et G21** :
-rien au-dessus de la lèvre dans la capuche, l'écharpe sous la barbe et jamais sur la bouche, la barbe de `@samafter`, l'encre aux bouts des doigts ; le visage de `@maeva` amaigri, l'écharpe seul rouge.
+aucun visage entre la capuche et la laine, l'écharpe jusqu'à la racine du nez, les mèches de barbe qui dépassent, l'encre aux bouts des doigts ; le visage de `@maeva` amaigri, l'écharpe seul rouge.
 ⚠ Doublons sur le compte : `warddoctor` ×2, `youngmother` ×2 (même image — n'importe lequel).
+**Figurants du port** (14/09, huit Éléments personnage, même fond gris moyen, aucun rouge, aucune référence) : `@port-docker` · `@port-fisherman` · `@port-fishmonger` · `@port-netmender` · `@port-crane` · `@port-deckhand` · `@port-forklift` · `@port-foreman` — jobs et descriptions dans le pack (« Les gens du port »). **Aucun prompt 2.0 ne les charge encore** : à ajouter à la main dans le plan qui en a besoin (G03 le quai en premier candidat), en fond et à distance.
 
-## Les 32 générations
+## Les 33 générations
 
 Colonne « chaîne » : ce qu'on attache en `@video1`. **Valider chaque clip avant de générer le suivant.**
 
@@ -36,7 +37,8 @@ Colonne « chaîne » : ce qu'on attache en `@video1`. **Valider chaque clip ava
 | G29 | 10I | `G29-10I-sa-propre-maison.md` | 16 s | 3 déclarées | G28 (pellicule seule) | ✅ écrit |
 | G30 | 10J | `G30-10J-dehors.md` | 24 s | 4 déclarées | G29 (pellicule seule) | ✅ écrit |
 | G31 | 10K | `G31-10K-l-hopital-enfin-sonore.md` | — | — | **= les 8 premières secondes de G08**, piste chambre ouverte | ✅ (pas de génération) |
-| G32 | 10L | `G32-10L-il-leve-les-yeux-et-il-sourit.md` | 10 s | 0 | **G28**, pas G31 | ✅ écrit |
+| G32a | 10L-0 | `G32a-10L0-le-demasquage-l-echarpe-tombe.md` — sans capuche, il baisse l'écharpe, l'enlève, retire le bonnet : le visage entier dans le sodium, puis la tête redescend | 10 s | 0 | **G28** (`@image1` = sa dernière image) | ✅ écrit |
+| G32 | 10L | `G32-10L-il-leve-les-yeux-et-il-sourit.md` | 10 s | 0 | **G32a**, pas G31 | ✅ écrit |
 
 Décisions prises pour la prise unique : caisson lumineux de l'abribus **éteint** dans tout G28 ; la
 coupe de G27 (dos → visage) est la seule de la fin, c'est l'écart déclaré du script.
@@ -89,4 +91,4 @@ coupe de G27 (dos → visage) est la seule de la fin, c'est l'écart déclaré d
 | S2 ↔ S3 | ✂ deux chaînes parallèles |
 | G21 → G25 | ✂ LA rupture du film — le premier rouge plein cadre |
 | G26 → G27 | le noir de G26 se soude au noir d'ouverture de G27 |
-| G30 → G31 → G32 | ✂ des deux côtés de l'hôpital ; G32 se chaîne sur G28 |
+| G30 → G31 → G32a → G32 | ✂ des deux côtés de l'hôpital ; G32a se chaîne sur G28, G32 sur G32a |
