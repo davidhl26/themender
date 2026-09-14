@@ -19,7 +19,7 @@
 > une bague qui tombe dans une paume, des doigts qu'on referme, une bouche qui s'ouvre sur rien.
 > ⚠ **L'insert de la bague est obligatoire** (il arme 8.4 et 9.2) : si la bague n'est jamais nette
 > dans la paume, refaire.
-> 🔴 **`@maeveill` n'existe pas encore sur le compte** — à créer avant de lancer.
+> ✅ **`@maeveill` créé le 14/09** (GPT Image 2 · 4K · référence `@maeva` · job `56415cca-5183-4064-9ad7-3d94d93c7d13`) — valider le visage à l'œil avant de lancer.
 
 ## Réglages
 

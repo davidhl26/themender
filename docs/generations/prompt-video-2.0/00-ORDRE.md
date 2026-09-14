@@ -13,15 +13,13 @@
 > Après collage, remonter aux deux premières lignes et **re-sélectionner chaque `@`** dans le
 > sélecteur (un `@` collé en texte brut ne se lie à rien). Ne jamais écrire `@Video 1` avec un espace.
 
-## Ce que le compte n'a pas encore — à créer AVANT de lancer les générations marquées 🔴
+## Éléments — tous sur le compte depuis le 14/09
 
-| Élément | bloque |
-|---|---|
-| `@maeveill` | G07, G08 (→ G31) |
-| `@samsdf` | G21, G28, G32 |
-| `@annayoung` · `@kolya11` · `@warddoctor` · `@youngmotherhospital` · `@russianhospitalward` | G22 |
-| `@annayoung` | G23 |
-| `@annayoung` · `@youngmother` · `@kolya2` | G24 |
+Les trois derniers ont été générés/créés le 14/09 (GPT Image 2 · 4K · high · 16:9, la fiche de base en référence) :
+`@samsdf` (job `6e4fb30e-eb6e-408f-937c-4d9e312dd29f`, réf. `@samafter`) · `@maeveill` (job `56415cca-5183-4064-9ad7-3d94d93c7d13`, réf. `@maeva`) ·
+`@russianhospitalward` (créé depuis LIEU-17 IMAGE 4, job `45171598-cf11-4165-8bfb-6c151b5ad13e`). **À valider à l'œil avant de lancer G07/G08 et G21** :
+le visage de `@samafter` sous la barbe et l'encre aux bouts des doigts ; le visage de `@maeva` amaigri, l'écharpe seul rouge.
+⚠ Doublons sur le compte : `warddoctor` ×2, `youngmother` ×2 (même image — n'importe lequel).
 
 ## Les 32 générations
 
@@ -34,11 +32,11 @@ Colonne « chaîne » : ce qu'on attache en `@video1`. **Valider chaque clip ava
 | G25 | 10A | `G25-10A-la-maison-rouge.md` | 10 s | 0 | tête | ✅ écrit |
 | G26 | 10B+10C | `G26-10B-10C-des-ecritures-partout-puis-clic.md` | 24 s | 0 | G25 | ✅ écrit |
 | G27 | 10D+10E+10F-1 | `G27-10D-10E-10F1-le-noir-s-allume-son-visage.md` | 25 s | 1 déclarée | G26 | ✅ écrit |
-| G28 | 10F-2→10H | `G28-10F2-10F3-10F4-10H-le-grand-recul-jusqu-aux-yeux.md` | 27 s | 0 | G27 **en mouvement** (`@image1` = sa dernière image) | ✅ écrit 🔴 |
+| G28 | 10F-2→10H | `G28-10F2-10F3-10F4-10H-le-grand-recul-jusqu-aux-yeux.md` | 27 s | 0 | G27 **en mouvement** (`@image1` = sa dernière image) | ✅ écrit |
 | G29 | 10I | `G29-10I-sa-propre-maison.md` | 16 s | 3 déclarées | G28 (pellicule seule) | ✅ écrit |
 | G30 | 10J | `G30-10J-dehors.md` | 24 s | 4 déclarées | G29 (pellicule seule) | ✅ écrit |
-| G31 | 10K | `G31-10K-l-hopital-enfin-sonore.md` | — | — | **= les 8 premières secondes de G08**, piste chambre ouverte | ✅ (pas de génération) 🔴 |
-| G32 | 10L | `G32-10L-il-leve-les-yeux-et-il-sourit.md` | 10 s | 0 | **G28**, pas G31 | ✅ écrit 🔴 |
+| G31 | 10K | `G31-10K-l-hopital-enfin-sonore.md` | — | — | **= les 8 premières secondes de G08**, piste chambre ouverte | ✅ (pas de génération) |
+| G32 | 10L | `G32-10L-il-leve-les-yeux-et-il-sourit.md` | 10 s | 0 | **G28**, pas G31 | ✅ écrit |
 
 Décisions prises pour la prise unique : caisson lumineux de l'abribus **éteint** dans tout G28 ; la
 coupe de G27 (dos → visage) est la seule de la fin, c'est l'écart déclaré du script.
@@ -53,8 +51,8 @@ coupe de G27 (dos → visage) est la seule de la fin, c'est l'écart déclaré d
 | G04 | 2C+2D | `G04-2C-2D-le-restaurant.md` — les quatre assiettes ‖ le dragon au thé | 24 s | 1 déclarée (l'ellipse) | G03 | ✅ écrit |
 | G05 | 3A | `G05-3A-la-tasse.md` — le seul ralenti, la caméra se relève avec le temps | 12 s | 0 | **G02** (la même cuisine, pas sa lumière) | ✅ écrit |
 | G06 | 3B | `G06-3B-la-conversation-muette.md` — cadre verrouillé au pixel, rejoué en G22 | 10 s | 0 | G05 **pellicule seule, jamais sa lumière** | ✅ écrit |
-| G07 | 3C+3D | `G07-3C-3D-tu-m-ecrases-la-bague.md` — Milo puis Nora au chevet, la caméra descend aux mains | 24 s | 0 | G06 | ✅ écrit 🔴 |
-| G08 | 3E+3F | `G08-3E-3F-la-vitre-puis-nora.md` — LA PLAQUE 8 s (= G31, répliques générées) ‖ Nora ‖ l'écharpe sort | 24 s | 1 déclarée (jours plus tard) | G07 | ✅ écrit 🔴 |
+| G07 | 3C+3D | `G07-3C-3D-tu-m-ecrases-la-bague.md` — Milo puis Nora au chevet, la caméra descend aux mains | 24 s | 0 | G06 | ✅ écrit |
+| G08 | 3E+3F | `G08-3E-3F-la-vitre-puis-nora.md` — LA PLAQUE 8 s (= G31, répliques générées) ‖ Nora ‖ l'écharpe sort | 24 s | 1 déclarée (jours plus tard) | G07 | ✅ écrit |
 
 ### ⬛ La traversée grise — S2
 
@@ -72,15 +70,15 @@ coupe de G27 (dos → visage) est la seule de la fin, c'est l'écart déclaré d
 | G18 | 8A | `G18-8A-la-bibliotheque.md` — la caméra se lève sur l'axe du couloir, le dos écrit déjà en marche ‖ l'allée vide | 12 s | 1 déclarée | G17 | ✅ écrit |
 | G19 | 8B+8C+8D | `G19-8B-8C-8D-le-couloir-le-miroir-la-bague.md` — couloir (suivi jusqu'au coin) ‖ miroir (PLAQUE puis recul) ‖ bague (macro → poitrine) — repli 20 + 8 | 28 s | 2 déclarées (sauts de temps) | G18 | ✅ écrit |
 | G20 | 8E | `G20-8E-le-bus-de-nuit.md` — trois fois le même cadre (jump cuts voulus), la caméra recule aux portes | 12 s | 2 déclarées (même axe) | G19 | ✅ écrit |
-| G21 | 9A+9B+9C | `G21-9A-9B-9C-l-abribus.md` — elle traverse (suivi) ‖ les valeurs serrées voyagent sous la lèvre, 3 répliques ‖ le large du haut de la rue | 30 s | 2 déclarées | G20 | ✅ écrit 🔴 `@samsdf` |
+| G21 | 9A+9B+9C | `G21-9A-9B-9C-l-abribus.md` — elle traverse (suivi) ‖ les valeurs serrées voyagent sous la lèvre, 3 répliques ‖ le large du haut de la rue | 30 s | 2 déclarées | G20 | ✅ écrit |
 
 ### 🕯 Le souvenir lavé — S3 (parallèle à S2, jamais relié)
 
 | # | plans | fichier | durée | coupes | chaîne | statut |
 |---|---|---|---|---|---|---|
-| G22 | 4E+4F+4G | `G22-4E-4F-4G-l-hopital-russe.md` — la chambre ‖ le cadre de G06 au pixel, la caméra avance, la glissade, le cri ‖ le brancard de profil ‖ la caméra couchée sur le matelas : le rejeu, la dérive, le plafond, le rail | 27 s | **3 déclarées** (ellipse, autre femme, rejeu) | tête (`@video1` = G06, composition seule) | ✅ écrit 🔴 5 Éléments |
-| G23 | 4H | `G23-4H-les-trois-coups-et-le-feu.md` — trois coups, le dos coupé aux épaules, la caméra suit au poêle, la flamme (⚠ archiver le son des coups : dernier plan du film) | 10 s | 0 | G22 | ✅ écrit 🔴 |
-| G24 | 4I | `G24-4I-la-cour-et-le-prenom.md` — le dos montre le porche, la caméra suit Anna au porche, la contourne jusqu'au visage, la main sur la bouche | 14 s | 0 | G23 | ✅ écrit 🔴 |
+| G22 | 4E+4F+4G | `G22-4E-4F-4G-l-hopital-russe.md` — la chambre ‖ le cadre de G06 au pixel, la caméra avance, la glissade, le cri ‖ le brancard de profil ‖ la caméra couchée sur le matelas : le rejeu, la dérive, le plafond, le rail | 27 s | **3 déclarées** (ellipse, autre femme, rejeu) | tête (`@video1` = G06, composition seule) | ✅ écrit |
+| G23 | 4H | `G23-4H-les-trois-coups-et-le-feu.md` — trois coups, le dos coupé aux épaules, la caméra suit au poêle, la flamme (⚠ archiver le son des coups : dernier plan du film) | 10 s | 0 | G22 | ✅ écrit |
+| G24 | 4I | `G24-4I-la-cour-et-le-prenom.md` — le dos montre le porche, la caméra suit Anna au porche, la contourne jusqu'au visage, la main sur la bouche | 14 s | 0 | G23 | ✅ écrit |
 
 ## Les ruptures — rappel
 

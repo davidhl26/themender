@@ -1,4 +1,4 @@
-# G23 — 4H « Les trois coups, et le feu »  ·  Seedance 2.5  ·  10 s  ·  🔴 attend `@annayoung`
+# G23 — 4H « Les trois coups, et le feu »  ·  Seedance 2.5  ·  10 s  ·  ✅ Éléments sur le compte
 
 > **Les micro-plans 4.3h + 4.3i en une seule prise, zéro coupe.** Deux ans plus tard, la nuit,
 > dans la pièce unique d'Anna. **Trois coups** à la porte — le plat d'une main, pas un poing. Elle
@@ -12,7 +12,7 @@
 > la suit** quand elle quitte la porte pour le poêle, et descend de 150 cm à 70 cm ; dès que la
 > caméra a quitté la porte, le manteau est hors champ et n'y revient jamais. Zéro coupe.
 >
-> 🔴 **BLOQUANT** : `@annayoung` (voir G22). Existants : `@mender`, `@annakitchenpast`.
+> ✅ **Éléments sur le compte** : `@annayoung` (validé le 30/08), `@mender`, `@annakitchenpast`.
 >
 > ⚠ **LES TROIS COUPS SONT UN ACTIF DU FILM** : extraire le son de 0:00-0:00,8 et le conserver —
 > c'est **le même son que le tout dernier plan du film**. Les deux doivent être le même enregistrement.
@@ -39,7 +39,7 @@
 | **`@image1`** | LIEU-18 **IMAGE 2** — ANGLE A, la porte fermée depuis la pièce : le premier cadre |
 | **`@image2`** | LIEU-18 **IMAGE 4** — ANGLE B, le poêle de près : **la destination** du mouvement, pas un premier cadre, pas une coupe |
 | **`@video1`** | le clip de **G22** — le souvenir lavé : pellicule, grain, lumière drainée, la même femme deux ans plus tard ; rien de son lieu, rien de son audio |
-| **Éléments** | `@annayoung` 🔴 · `@mender` · `@annakitchenpast` |
+| **Éléments** | `@annayoung` · `@mender` · `@annakitchenpast` |
 
 ```
 MATERIALS — @video1 is the previous shot of this film, the same memory two years earlier. @image1 IS THE FIRST FRAME OF THIS GENERATION. @image2 is the composition the camera settles into at the stove — a destination, not a first frame, not a cut. @annayoung is ANNA. @mender is THE COAT, a garment on a back, cut at the shoulders, never a face. @annakitchenpast is THE ROOM.

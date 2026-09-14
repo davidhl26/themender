@@ -22,7 +22,7 @@
 > ⚠ **Nora n'ouvre JAMAIS le poing** : elle ne regardera la bague que deux ans plus tard (8.4).
 > ⚠ **Après 0:21,3, plus aucun rouge dans le film** jusqu'à la maison rouge : contrôler image par
 > image qu'aucun pictogramme, aucune LED, aucun liseré de chaise ne ramène du rouge.
-> 🔴 **`@maeveill` n'existe pas encore sur le compte** — à créer avant de lancer.
+> ✅ **`@maeveill` créé le 14/09** (GPT Image 2 · 4K · référence `@maeva` · job `56415cca-5183-4064-9ad7-3d94d93c7d13`) — valider le visage à l'œil avant de lancer.
 
 ## Réglages
 

@@ -18,7 +18,7 @@
 > disparaissent et le plan-clé tombe. Plan B : caméra 20 cm plus près, axe 10 cm plus bas — jamais
 > une seconde source. **Refaire si** : visage lisible à 12 m · postiche · doigts rouges au lieu de
 > brun-noir · un rouge quelconque vu du ciel (feux arrière, feu tricolore, enseigne).
-> 🔴 **`@samsdf` n'existe pas encore sur le compte** — à créer avant de lancer.
+> ✅ **`@samsdf` créé le 14/09** (GPT Image 2 · 4K · référence `@samafter` · job `6e4fb30e-eb6e-408f-937c-4d9e312dd29f`) — valider le visage et l'encre aux doigts à l'œil avant de lancer.
 
 ## Réglages
 

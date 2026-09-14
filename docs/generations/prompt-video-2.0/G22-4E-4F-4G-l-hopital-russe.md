@@ -1,4 +1,4 @@
-# G22 — 4E + 4F + 4G « L'hôpital russe : les deux femmes, le même couloir, la même seconde »  ·  Seedance 2.5  ·  27 s  ·  🔴 attend 5 Éléments
+# G22 — 4E + 4F + 4G « L'hôpital russe : les deux femmes, le même couloir, la même seconde »  ·  Seedance 2.5  ·  27 s  ·  ✅ Éléments sur le compte
 
 > **Les micro-plans 4.3a → 4.3g en une génération, avec TROIS coupes franches déclarées** — et
 > les trois sont des coupes écrites : une ellipse (elle a été renvoyée dans le couloir), un
@@ -21,13 +21,13 @@
 > seule prise** (la caméra avance) ; le rejeu, le plafond et le rail sont **une seule chevauchée**
 > (la caméra bascule et se déplace sur le brancard qui roule).
 >
-> 🔴 **BLOQUANT — Éléments manquants** (à créer sur le compte, noms proposés) : `@annayoung` (Anna à
+> ✅ **Éléments — tous sur le compte au 14/09** : `@annayoung` (Anna à
 > 48 ans, dos droit, foulard charbon repoussé sur les épaules, manteau trop grand) · `@kolya11`
 > (son fils, onze ans, malade depuis longtemps, sa version à elle du visage large) · `@warddoctor`
 > (ordinaire et fatigué, moustache grise, blouse bouillie gris-os, casquette de toile) ·
 > `@youngmotherhospital` (la femme enceinte de huit mois, visage banal, cheveux collés) ·
-> `@russianhospitalward` (la chambre de Kolya : lit de fer, chaise, haute fenêtre). Existants :
-> `@russianhospitalcorridor`.
+> `@russianhospitalward` (la chambre de Kolya : lit de fer, chaise, haute fenêtre — créé le 14/09 depuis LIEU-17 IMAGE 4, job `45171598-cf11-4165-8bfb-6c151b5ad13e`) ·
+> `@russianhospitalcorridor`. ⚠ `warddoctor` existe en double sur le compte (même image).
 >
 > ⚠ **LE RACCORD AU PIXEL (cadre B, 0:03-0:06,5)** : mêmes valeurs que G06 — 85 mm, hauteur d'œil
 > 160 cm sur l'axe, la nuque floue à **x=12 %, 55 % de hauteur**, le médecin à dix mètres à
@@ -60,7 +60,7 @@
 | **`@image2`** | LIEU-17 **IMAGE 2** — ANGLE A, le couloir depuis les portes doubles vers la fenêtre : **le cadre B tel quel**, verrouillé sur G06 |
 | **`@image3`** | LIEU-17 **IMAGE 3** — ANGLE B, le couloir vers les portes doubles : **le cadre D** au moment où la caméra se couche |
 | **`@video1`** | le clip de **G06** — **le cadre à reproduire au pixel** (composition seulement : rien de son décor, rien de ses gens, rien de son audio) |
-| **Éléments** | `@annayoung` 🔴 · `@kolya11` 🔴 · `@warddoctor` 🔴 · `@youngmotherhospital` 🔴 · `@russianhospitalward` 🔴 · `@russianhospitalcorridor` |
+| **Éléments** | `@annayoung` · `@kolya11` · `@warddoctor` · `@youngmotherhospital` · `@russianhospitalward` · `@russianhospitalcorridor` |
 
 ```
 MATERIALS — @video1 is an earlier shot of this film, in another hospital, in another world: it is loaded for ONE thing, the composition of its frame. @image1 is the reference of the room for framing A — a place, not a first frame. @image2 IS THE FIRST FRAME OF FRAMING B. @image3 is the composition framing D opens on when the camera lies down. @annayoung is ANNA. @kolya11 is KOLYA, her son. @warddoctor is THE DOCTOR. @youngmotherhospital is THE YOUNG MOTHER. @russianhospitalward is THE ROOM. @russianhospitalcorridor is THE CORRIDOR.

@@ -1,4 +1,4 @@
-# G24 — 4I « La cour, et le prénom »  ·  Seedance 2.5  ·  14 s  ·  🔴 attend 3 Éléments
+# G24 — 4I « La cour, et le prénom »  ·  Seedance 2.5  ·  14 s  ·  ✅ Éléments sur le compte
 
 > **Les micro-plans 4.3j + 4.3k + 4.3l en une seule prise, zéro coupe.** La même nuit, trois rues
 > plus loin, une cour entre des barres de béton, sous une lampe au mercure. Un dos dans le long
@@ -15,12 +15,12 @@
 > visage. Zéro coupe. La sortie du souvenir (fondu vers les hachures, queue de G10) se pose au
 > montage sur la dernière seconde.
 >
-> 🔴 **BLOQUANT — Éléments manquants** (noms proposés) : `@annayoung` (voir G22) · `@youngmother`
+> ✅ **Éléments — tous sur le compte au 14/09** : `@annayoung` (voir G22) · `@youngmother`
 > (la jeune mère de la cour, deux ans après l'hôpital — même visage banal, visage NE ressemblant
 > à Anna en rien) · `@kolya2` (le tout-petit, fils de la jeune mère — il ne doit ressembler à
 > `@kolya11` en AUCUN trait : cheveux sable fins contre châtain, ossature étroite contre large,
-> yeux noisette rapprochés contre petits yeux gris-bleu enfoncés). Existants : `@mender`,
-> `@russiancourtyard`.
+> yeux noisette rapprochés contre petits yeux gris-bleu enfoncés) · `@mender` · `@russiancourtyard`.
+> ⚠ `youngmother` existe en double sur le compte (même image — n'importe lequel).
 >
 > ⚠ **LE PETIT NE SE RETOURNE PAS, NE RÉAGIT À RIEN** — c'est le cœur de la scène : il ne sait pas
 > ce qu'il porte ; ce sont les deux femmes qui se disent le prénom au-dessus de sa tête. Un petit
@@ -51,7 +51,7 @@
 | **`@image1`** | LIEU-20 **IMAGE 2** — ANGLE A, le large de la cour, la lampe à gauche, le porche petit au fond : le premier cadre |
 | **`@image2`** | LIEU-20 **IMAGE 3** — le porche de près : **la valeur** où la caméra se pose derrière Anna, pas un premier cadre, pas une coupe |
 | **`@video1`** | le clip de **G23** — la même nuit, la pièce d'Anna : pellicule, grain, lumière drainée, la même femme, le même manteau ; rien de son lieu, rien de son audio |
-| **Éléments** | `@annayoung` 🔴 · `@mender` · `@youngmother` 🔴 · `@kolya2` 🔴 · `@russiancourtyard` |
+| **Éléments** | `@annayoung` · `@mender` · `@youngmother` · `@kolya2` · `@russiancourtyard` |
 
 ```
 MATERIALS — @video1 is the previous shot of this film, the same night, minutes earlier, indoors. @image1 IS THE FIRST FRAME OF THIS GENERATION. @image2 is the composition the camera settles into at the porch — a destination, not a first frame, not a cut. @annayoung is ANNA. @mender is THE COAT, a garment on a back, never a face. @youngmother is THE MOTHER. @kolya2 is THE SMALL ONE, her son. @russiancourtyard is THE COURTYARD.

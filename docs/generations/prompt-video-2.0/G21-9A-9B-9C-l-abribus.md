@@ -1,4 +1,4 @@
-# G21 — 9A + 9B + 9C « L'abribus »  ·  Seedance 2.5  ·  30 s  ·  🔴 attend `@samsdf`
+# G21 — 9A + 9B + 9C « L'abribus »  ·  Seedance 2.5  ·  30 s  ·  ✅ `@samsdf` créé le 14/09
 
 > **Les plans 9.1, 9.2 et 9.3 en une génération, avec DEUX coupes franches déclarées.** Un
 > abribus désert au bord d'une ville portuaire, la nuit, un seul cône de sodium dans le noir total.
@@ -19,10 +19,10 @@
 > poche à elle, ses mains à lui, et recule au plan taille — **sans jamais monter au-dessus de sa
 > lèvre supérieure**.
 >
-> 🔴 **BLOQUANT — Élément manquant** : `@samsdf` (Sam en SDF : bonnet gris étiré, capuche par-dessus,
+> ✅ **`@samsdf` créé le 14/09** (job `6e4fb30e-eb6e-408f-937c-4d9e312dd29f`, référence `@samafter`) — Sam en SDF : bonnet gris étiré, capuche par-dessus,
 > SA barbe d'un mois salie et emmêlée — jamais une fausse barbe —, lèvres gercées, deux chemises de
 > flanelle ouvertes, parka olive déchirée sans fermeture, mitaines grises mitées, mains noires de
-> graisse, couvertures grises sur les genoux). À créer sur le compte avant de lancer.
+> graisse, couvertures grises sur les genoux). Valider à l'œil : le visage de `@samafter` sous la barbe, l'encre aux bouts des doigts.
 >
 > ⚠ **VERROU DES YEUX — absolu, deux mécanismes** : dans les valeurs serrées (cadre B) **le bord
 > haut du cadre passe sur sa lèvre supérieure et ne monte JAMAIS** — pas de nez, pas d'yeux, pas
@@ -59,7 +59,7 @@
 | **`@image1`** | LIEU-14 **IMAGE 2** — le large depuis le trottoir d'en face, l'abri à x=62 %, elle à gauche dans le noir : le premier cadre |
 | **`@image2`** | LIEU-14 **IMAGE 3** — ANGLE B, depuis le haut de la rue, **noir total** derrière : le cadre C tel quel (**jamais l'IMAGE 4**, qui éclaire la rue) |
 | **`@video1`** | le clip de **G20** — pellicule, peau, la parka et la poche droite ; rien de son lieu, rien de sa lumière, rien de son audio |
-| **Éléments** | `@nora` · `@samsdf` 🔴 · `@busshelter` — le sandwich et la bague sont décrits, sans Élément |
+| **Éléments** | `@nora` · `@samsdf` · `@busshelter` — le sandwich et la bague sont décrits, sans Élément |
 
 ```
 MATERIALS — @video1 is the previous shot of this film, minutes earlier, on the bus. @image1 IS THE FIRST FRAME OF THIS GENERATION. @image2 is the composition of framing C exactly as it is, from up the road. @nora is NORA. @samsdf is THE VAGRANT. @busshelter is THE SHELTER.

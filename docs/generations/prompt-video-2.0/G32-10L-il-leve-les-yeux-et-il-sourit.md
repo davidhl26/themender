@@ -11,7 +11,7 @@
 > qui redescend · les yeux qui partent en blanc quand il regarde en l'air.
 > **Coupe au montage** : entrer à 0:01, sortir après que la ligne d'eau a traversé la joue — jamais
 > avant. Fondu au noir de 12 images vers le carton final.
-> 🔴 **`@samsdf` n'existe pas encore sur le compte** — à créer avant de lancer.
+> ✅ **`@samsdf` créé le 14/09** (GPT Image 2 · 4K · référence `@samafter` · job `6e4fb30e-eb6e-408f-937c-4d9e312dd29f`) — valider le visage et l'encre aux doigts à l'œil avant de lancer.
 
 ## Réglages
 
