@@ -16,9 +16,9 @@
 ## Éléments — tous sur le compte depuis le 14/09
 
 Les trois derniers ont été générés/créés le 14/09 (GPT Image 2 · 4K · high · 16:9, la fiche de base en référence) :
-`@samsdf-1` (**c'est ce nom-là qu'il faut sélectionner** : version capuche, visage caché — job `7696c5ab-6874-4168-8d58-c9cd3b7e86c4`, réf. `@samafter` ; l'ancienne fiche à visage découvert reste sur le compte sous le nom `samsdf` (job `6e4fb30e-eb6e-408f-937c-4d9e312dd29f`) : à supprimer dans l'interface pour ne pas la sélectionner par erreur ; G28 et G32 chargent `@samafter` en plus pour le visage du démasquage) · `@maeveill` (job `56415cca-5183-4064-9ad7-3d94d93c7d13`, réf. `@maeva`) ·
+`@samsdf` (fiche CAPUCHE + ÉCHARPE : visage caché, rien au-dessus de la lèvre, écharpe de laine gris anthracite au cou sous la barbe — job `e3242c44-de40-4c53-b4bd-8dc5cb5ebe10`, réf. `@samafter`). ⚠ Le compte porte encore `samsdf` (visage découvert, job `6e4fb30e-eb6e-408f-937c-4d9e312dd29f`) et `samsdf-1` (capuche sans écharpe, job `7696c5ab-6874-4168-8d58-c9cd3b7e86c4`) : **les supprimer, puis créer la nouvelle fiche sous le nom `samsdf`**. G28 et G32 chargent `@samafter` en plus pour le visage du démasquage ; l'écharpe est portée en G21 et G28, enlevée en G32 (sur le banc) · `@maeveill` (job `56415cca-5183-4064-9ad7-3d94d93c7d13`, réf. `@maeva`) ·
 `@russianhospitalward` (créé depuis LIEU-17 IMAGE 4, job `45171598-cf11-4165-8bfb-6c151b5ad13e`). **À valider à l'œil avant de lancer G07/G08 et G21** :
-rien au-dessus de la lèvre dans la capuche, la barbe de `@samafter`, l'encre aux bouts des doigts ; le visage de `@maeva` amaigri, l'écharpe seul rouge.
+rien au-dessus de la lèvre dans la capuche, l'écharpe sous la barbe et jamais sur la bouche, la barbe de `@samafter`, l'encre aux bouts des doigts ; le visage de `@maeva` amaigri, l'écharpe seul rouge.
 ⚠ Doublons sur le compte : `warddoctor` ×2, `youngmother` ×2 (même image — n'importe lequel).
 
 ## Les 32 générations
