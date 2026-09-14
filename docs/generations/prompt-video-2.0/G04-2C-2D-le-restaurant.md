@@ -25,7 +25,7 @@
 | **format** | 21:9 · **1080p** · bitrate **high** |
 | **durée** | **24 s** · **son ON** |
 | **`@image1`** | LIEU-07 **IMAGE 2** — la table sous la fenêtre depuis le fond de la salle : le premier cadre |
-| **`@video1`** | le clip de **G03** — le quai au crépuscule bleu, dehors (G03 ne montre plus de vitrine depuis le 14/09 : l'ellipse fait tout le travail) |
+| **`@video1`** | le clip de **G03** — le quai la nuit, dehors (G03 finit sur LIEU-02 IMAGE 4, la devanture ÉTEINTE au loin, personne n'y arrive : l'ellipse fait le travail) |
 | **Éléments** | `@sambefore` · `@maeva` · `@norabefore` · `@milobefore` · `@mei` · `@restaurant` |
 
 ```
