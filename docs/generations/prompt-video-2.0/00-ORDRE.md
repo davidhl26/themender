@@ -58,19 +58,19 @@ coupe de G27 (dos → visage) est la seule de la fin, c'est l'écart déclaré d
 
 | # | plans | fichier | durée | coupes | chaîne | statut |
 |---|---|---|---|---|---|---|
-| G09 | 4A | le cadre du père (sa dernière image = `@image1` de G29) | 10 s | 0 | tête | ⏳ |
-| G10 | 4B+4C | l'accueil, l'entrée dans le dessin, Kolya et la raison | 30 s | 0 | G09 | ⏳ |
-| G11 | 4D | He hears you, trente ans en une image | 15 s | 0 | G10 | ⏳ |
-| G12 | 5A+5B | les quatre tasses puis trois, jusqu'à « More tea? » | 30 s | 0 | G11 | ⏳ |
-| G13 | 5C+5D | le père qui coupe — la caméra descend sur ses mains | 18 s | 0 | G12 | ⏳ |
-| G14 | 6A | le forum | 12 s | 0 | G13 | ⏳ |
-| G15 | 6B | le cri | 12 s | 0 | G14 | ⏳ |
-| G16 | 6C | l'escalier | 8 s | 0 | G15 | ⏳ |
-| G17 | 7A+7B | les cinq attentes déçues | 24 s | **4 déclarées** | G16 | ⏳ |
-| G18 | 8A | la bibliothèque | 10 s | 0 | G17 | ⏳ |
-| G19 | 8B+8C+8D | couloir → miroir → bague, une prise à travers la maison (repli 20 + 8) | 28 s | 0 | G18 | ⏳ |
-| G20 | 8E | le bus de nuit | 12 s | 0 | G19 | ⏳ |
-| G21 | 9A+9B+9C | l'abribus : elle traverse, « Got anything to eat? », « quand tu verras du rouge » | 30 s | 0 | G20 | ⏳ 🔴 |
+| G09 | 4A | `G09-4A-le-cadre-du-pere.md` — le cadre du père, « Why? » (sa dernière image = `@image1` de G29) | 10 s | 0 | tête | ✅ écrit |
+| G10 | 4B+4C | `G10-4B-4C-anna-le-dessin-kolya.md` — l'accueil ‖ la caméra plonge dans le dessin (souvenir G22–G24 inséré en post à 0:16,5) et en ressort, Kolya et la raison | 30 s | 1 déclarée (le large → la table) | G09 | ✅ écrit |
+| G11 | 4D | `G11-4D-he-hears-you.md` — He hears you, la caméra suit Nora au montant, trente ans en une image | 16 s | 0 | G10 | ✅ écrit |
+| G12 | 5A+5B | `G12-5A-5B-les-quatre-tasses-puis-trois-la-table-des-femmes.md` — les quatre tasses puis trois, la caméra suit Mei à la table des femmes, jusqu'à « More tea? » | 30 s | 0 | G11 | ✅ écrit |
+| G13 | 5C+5D | `G13-5C-5D-les-mains-du-pere-le-trajet-du-regard.md` — les mains du père, la caméra se relève au large ‖ Nora serrée, le regard sur la chaise vide | 18 s | 1 déclarée (le contrechamp) | G12 | ✅ écrit |
+| G14 | 6A | `G14-6A-le-forum.md` — la caméra contourne la chaise jusqu'à LA PLAQUE (POST : la page) ‖ serré de face | 13 s | 1 déclarée | G09 (même chambre) | ✅ écrit |
+| G15 | 6B | `G15-6B-le-cri.md` — la caméra marche jusqu'au rail, « Why did my mother die? », rien ne répond | 13 s | 0 | G14 | ✅ écrit |
+| G16 | 6C | `G16-6C-l-escalier.md` — plan fixe, « You okay? » / « Nothing. I stepped on something. » (⚠ archiver le son : référence de voix pour G21) | 8 s | 0 | G14 | ✅ écrit |
+| G17 | 7A+7B | `G17-7A-7B-les-cinq-attentes-decues.md` — cinq jours, cinq cadres fixes ; la boîte aux lettres vit dans la même prise | 24 s | **4 déclarées** (sauts de jour) | G15 | ✅ écrit |
+| G18 | 8A | `G18-8A-la-bibliotheque.md` — la caméra se lève sur l'axe du couloir, le dos écrit déjà en marche ‖ l'allée vide | 12 s | 1 déclarée | G17 | ✅ écrit |
+| G19 | 8B+8C+8D | `G19-8B-8C-8D-le-couloir-le-miroir-la-bague.md` — couloir (suivi jusqu'au coin) ‖ miroir (PLAQUE puis recul) ‖ bague (macro → poitrine) — repli 20 + 8 | 28 s | 2 déclarées (sauts de temps) | G18 | ✅ écrit |
+| G20 | 8E | `G20-8E-le-bus-de-nuit.md` — trois fois le même cadre (jump cuts voulus), la caméra recule aux portes | 12 s | 2 déclarées (même axe) | G19 | ✅ écrit |
+| G21 | 9A+9B+9C | `G21-9A-9B-9C-l-abribus.md` — elle traverse (suivi) ‖ les valeurs serrées voyagent sous la lèvre, 3 répliques ‖ le large du haut de la rue | 30 s | 2 déclarées | G20 | ✅ écrit 🔴 `@samsdf` |
 
 ### 🕯 Le souvenir lavé — S3 (parallèle à S2, jamais relié)
 

@@ -56,7 +56,8 @@ def check(path):
         if ch in b:
             pb.append(f'guillemet typographique {ch!r} x{b.count(ch)}')
     # 3. non-ascii
-    bad = sorted({ch for ch in b if ord(ch) > 127 and ch != '—'})
+    # tolere : tiret cadratin, et les diacritiques des noms propres du dialogue (Mòyīrén)
+    bad = sorted({ch for ch in b if ord(ch) > 127 and ch not in '—òīé'})
     for ch in bad:
         pb.append(f'non-ASCII {ch!r} U+{ord(ch):04X} {unicodedata.name(ch, "?")} x{b.count(ch)}')
     # 4. age
